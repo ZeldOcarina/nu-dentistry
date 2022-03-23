@@ -1,26 +1,173 @@
 ---
 theme: wintergreen
-logo_dark: "https://via.placeholder.com/333x94/fff"
-logo_light: "https://via.placeholder.com/333x94/fff"
+logo_dark: "/uploads/logo-dark.svg"
+logo_light: "/uploads/client_logo_alt.svg"
 sticky_cta:
+  appointment: false
+  offer: false
+  phone: false
+
 blocks:
+- template: slider-2
+  block: slider-2
+  slides:
+  - "/uploads/nu-dentistry-houston-texas-exterior-1-cropped.jpg"
+  - "/uploads/nu-dentistry-houston-texas-signage-1-cropped.jpg"
+  - "/uploads/nu-dentistry-houston-texas-interior-1-cropped.jpg"
+  - "/uploads/nu-dentistry-houston-texas-interior-2-cropped.jpg"
+  background:
+    color: dark
+    image: ''
+    video: ''
+    overlay:
+      opacity: 0.1
+      color: ''
+  superheading: "NU DENTISTRY IN SPRING, TEXAS //"
+  heading: OUR LOCATIONS
+  text: 'SEE WHAT A VISIT TO OUR MODERN, STATE-OF-THE-ART DENTIST OFFICE IS LIKE!'
+  color: light
+  align: center
+- template: contact-2
+  block: contact-2
+  superheading: "BOOK NOW IN HOUSTON, TEXAS //"
+  heading: BOOK ONLINE
+  text: ''
+  color: light
+  align: center
+  background:
+    color: default
+    overlay:
+      opacity: '0.7'
+      color: "#000000"
+    image: "/uploads/bg-mesh.svg"
+    video: ''
+  hours:
+    heading: OFFICE HOURS
+    hours:
+    - Monday - Friday 9am - 6pm
+    - 'Saturday 9am - 3pm '
+    - Closed Sundays
+  appointment:
+    heading: Click to schedule or call now
+    appointment_button: true
+    button:
+      text: ''
+      url: ''
+      blank: false
+  address:
+    heading: LOCATION
+    address: |-
+      5706 San Felipe St Ste B-300
+      Houston, TX 77057
+- template: map-image
+  block: map-image
+  image: "/uploads/map.jpg"
+  link: https://goo.gl/maps/deGuc2HQxTgvU49XA
+- template: testimonials-2
+  block: testimonials-2
+  background:
+    color: dark
+    overlay:
+      opacity: 0.5
+      color: ''
+    image: ''
+    video: ''
+  color: light
+  testimonials:
+  - heading: The Best Dentist in Houston
+    copy: We have been looking for a family dentist for a long time, we have tried a bunch of places but nothing felt quite like home.  Not too long ago we stumbled upon Nu Dentistry and met Dr. Ali. Not only was he professional, kind, and gentle, but he always finds a way to fit us in when we need an appointment. He’s also pretty funny! I appreciate that he takes the time to explain what he’s doing, before he does it. That really puts me at ease.
+    author: Sandra Archuletta //
+    image: "/uploads/testimonial-1.png"
+  - heading: Part of the Family
+    copy: When I come in for an exam, Dr. Alrajab makes me feel like I’m a part of his family. I haven’t had a single cavity or filling done since I started coming here, which is a real change from my last hygienist.
+    author: Anthony Fernandez //
+    image: "/uploads/testimonial-2.png"
+  - heading: Anxiety Has Kept Me Away...
+    copy: I usually have such huge anxiety when I go to a dentist appointment, which means I always put off visits until the last minute to disastrous consequences. However, Dr. Loggins helped me with sedation, so the entire process was a breeze!
+    author: Johnathan Smitts //
+    image: "/uploads/testimonial-4.png"
+  - heading: Never Thought I'd Say It...
+    copy: I never thought I’d say it, but going to the dentist is actually fun now. I recently came in for a root canal, and I got to sit back and catch up on Stranger Things without any pain!
+    author: Alexandra Jansen //
+    image: "/uploads/testimonial-3.png"
+    
+  superheading: "Nu Dentistry in Spring, Texas //"
+  heading: PATIENT STORIES
+  text: HEAR DIRECTLY FROM OUR SATISFIED CUSTOMERS!
+- template: images-1
+  block: images-1
+  background:
+    color: default
+    overlay:
+      opacity: 0.5
+      color: ''
+    image: ''
+    video: ''
+  color: dark
+  columns: expand
+  gutter: small
+  superheading: 
+  heading: Our Professional Affiliations
+  text:
+  images:
+  - image: "/uploads/dental-accreditations-texas-dental-association.png"
+    url: https://www.tda.org/
+  - image: "/uploads/dental-accreditations-american-academy-of-periodontology.png"
+    url: https://www.perio.org/
+  - image: "/uploads/dental-accreditation-american-dental-association.png"
+    url: https://www.ada.org/
+  - image: "/uploads/dental-accreditations-greater-houston-dental-society.png"
+    url: https://www.ghds.org/
+  - image: "/uploads/dental-accreditations-greater-houston-society-of-periodontists.png"
+    url: https://www.facebook.com/GHSPerio/
+  - image: "/uploads/dental-accreditations-southwest-society-of-periodontists.png"
+    url: https://www.swsp.org/
+  - image: "/uploads/dental-accreditation-academy-of-general-dentistry.png"
+    url: https://www.agd.org/
+- template: images-1
+  block: images-1
+  background:
+    color: dark
+    overlay:
+      opacity: 0.5
+      color: ''
+    image: ''
+    video: ''
+  color: light
+  columns: '5'
+  gutter: small
+  superheading: "HOUSTON TEXAS PREMIER DENTISTRY //"
+  heading: Follow Us
+  text: WE ARE DEDICATED TO PROVIDING YOU WITH ONLY THE BEST QUALITY DENTAL CARE
+  images:
+  - image: "/uploads/insta-2.jpg"
+    url: ''
+  - image: "/uploads/insta-1.jpg"
+    url: ''
+  - image: "/uploads/insta-3.jpg"
+    url: ''
+  - image: "/uploads/insta-5.jpg"
+    url: ''
+  - image: "/uploads/insta-4.jpg"
+    url: ''
+    
 fonts:
   body: SFCompactDisplay
   heading: SFCompactDisplay
   navigation: SFCompactDisplay
 colors:
-  body: "#6E6C66"
-  heading: "#3B3831"
-  muted: "#aba89e"
+  body: "#64625D"
+  heading: "#534E43"
+  muted: "#8D8A7F"
 backgrounds:
-  primary: "#33B9C4"
-  secondary: "#FFCE04"
-  dark: "#151411"
-  muted: "#e3e2de"
-phone: 888-555-555-5556
+  primary: "#00c3ff"
+  secondary: "#00ffff"
+  dark: "#333333"
+  muted: "#8D8A7F"
+phone: "(832) 916-4144"
 appointments:
-  client_id: '0000000'
-  client_name: Client xyz
+  client_id: "4"
+  client_name: Bellflower Dental Group
   services:
   - Aesthetic Dentistry
   - Cavity Fillings
@@ -49,23 +196,24 @@ appointments:
   - Fast Braces
   - Wisdom Teeth
   hours:
-  - "[7, 14]"
+  - "[]"
   - "[7, 19]"
   - "[7, 19]"
   - "[7, 19]"
+  - "[12, 19]"
   - "[7, 19]"
-  - "[7, 19]"
-  - "[7, 16]"
+  - "[7, 17]"
 offer:
-  heading: Default offer heading
-  subheading: Default offer subheading
-  disclaimer: Lorem ipsum disclaimer
-site_title: Base
+  heading: FREE NEW PATIENT OFFER
+  subheading: "INCLUDES: CONSULT, EXAM, AND X-RAYS"
+  disclaimer: ''
+site_title: Bellflower Dental Group
 google_analytics: ''
 social:
-  facebook: "#"
-  linkedin: "#"
-  pinterest: "#"
-  twitter: "#"
-  yelp: "#"
-  youtube: "#"
+  facebook: https://www.facebook.com/nudentistry
+  linkedin:
+  pinterest:
+  twitter: https://twitter.com/dentistrynu
+  yelp: 
+  youtube: 
+  instagram: https://www.instagram.com/nudentistry

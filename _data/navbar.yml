@@ -1,155 +1,237 @@
 ---
 layout: dropbar
-sticky: false
+sticky: true
 color: light
-background: "#151411"
-menu_left:
-- text: Our Doctors
-  url: "/interior/"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- url: "/blocks/"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-  text: Our Practice
-- text: The Specialties
-  url: ''
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-  - text: dental implants
-    url: "#"
-    blank: false
-  - text: dental crowns
-    url: "#"
-    blank: false
-  - text: full reconstruction
-    url: "#"
-    blank: false
-  - text: metal-free fillings
-    url: "#"
-    blank: false
-  - text: dental inlays/onlays
-    url: "#"
-    blank: false
+background: "#000000"
+menu_left: []
 menu_center: []
 menu_right:
-- text: Our Services
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- text: Additional Resources
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- text: Our Services
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- text: Additional Resources
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-    
-menu_mobile:
 - text: Our Doctors
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-  text: Our Practice
-- text: The Specialties
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: porcelain veneers
-    url: "#"
+  - text: Dr. Ali Tameemi, DDS
+    url: "/houston-tx/our-doctors/dr-tameemi/"
     blank: false
-  - text: pro teeth whitening
-    url: "#"
+  - text: Dr. Samir Alrajab, DDS
+    url: "/houston-tx/our-doctors/dr-alrajab/"
     blank: false
-  - text: dental implants
-    url: "#"
+  - text: Dr. Alireza Hourfar
+    url: "/houston-tx/our-doctors/dr-hourfar/"
     blank: false
-  - text: dental crowns
-    url: "#"
+  - text: Dr. Kathleen Akers, DDS
+    url: "/houston-tx/our-doctors/dr-akers/"
     blank: false
-  - text: full reconstruction
-    url: "#"
+  - text: Dr. Erin Loggins, DDS
+    url: "/houston-tx/our-doctors/dr-loggins/"
     blank: false
-  - text: metal-free fillings
-    url: "#"
-    blank: false
-  - text: dental inlays/onlays
-    url: "#"
-    blank: false
-- url: "#"
-  style: button-primary
+  - text: Dr. Justine Tanjaya, DDS
+    url: "/houston-tx/our-doctors/dr-tanjaya/"
+    blank: false  
+
+- text: EMERGENCY DENTISTRY
+  url: ''
+  style: link
   blank: false
-  dropdown: []
-  text: Contact
+  dropdown:
+  - text: Dental Emergency
+    url: "/houston-tx/emergency-dentistry/emergency-dentistry/"
+    blank: false
+  - text: Tooth Extraction
+    url: "/houston-tx/emergency-dentistry/tooth-extraction/"
+    blank: false
+  - text: Gum Disease
+    url: "/houston-tx/emergency-dentistry/gingivitis/"
+    blank: false
+  - text: Root Canal
+    url: "/houston-tx/emergency-dentistry/root-canal/"
+    blank: false
+- text: GENERAL DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Cleaning & Exam
+    url: "/houston-tx/general-dentistry/dental-cleaning/"
+    blank: false
+  - text: Cavity Fillings
+    url: "/houston-tx/restorative-dentistry/cavity-fillings/"
+    blank: false
+- text: RESTORATIVE DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Implants
+    url: "/houston-tx/restorative-dentistry/dental-implants/"
+    blank: false
+  - text: Crown & Bridge
+    url: "/houston-tx/restorative-dentistry/tooth-crown/"
+    blank: false
+  - text: Dentures
+    url: "/houston-tx/restorative-dentistry/dentures/"
+    blank: false
+- text: COSMETIC DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Aesthetic Dentistry
+    url: "/houston-tx/cosmetic-dentistry/aesthetic-dentistry/"
+    blank: false
+  - text: Invisalign
+    url: "/houston-tx/cosmetic-dentistry/invisalign/"
+    blank: false
+  - text: Veneers
+    url: "/houston-tx/cosmetic-dentistry/porcelain-veneers/"
+    blank: false
+  - text: Pro Teeth Whitening
+    url: "/houston-tx/cosmetic-dentistry/pro-teeth-whitening/"
+    blank: false
+- text: SPECIALTY DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Sedation Dentistry
+    url: "/houston-tx/specialty-dentistry/sedation-dentistry/"
+    blank: false
+- text: ADDL RESOURCES
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Contact Us
+    url: "/new-patient-forms/#contact"
+    blank: false    
+  - text: New Patient Forms
+    url: "/new-patient-forms/"
+    blank: false
+  - text: Dental Insurance
+    url: "/dental-insurance/"
+    blank: false
+  - text: Financing
+    url: "/dental-financing/"
+    blank: false
+  - text: About
+    url: "/about-us/"
+    blank: false
+  - text: Our Dental Blog
+    url: "/dentistry-blog/"
+    blank: false
+menu_mobile:
+- text: Our Doctors
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Dr. Ali Tameemi, DDS
+    url: "/houston-tx/our-doctors/dr-tameemi/"
+    blank: false
+  - text: Dr. Samir Alrajab, DDS
+    url: "/houston-tx/our-doctors/dr-alrajab/"
+    blank: false
+  - text: Dr. Alireza Hourfar
+    url: "/houston-tx/our-doctors/dr-hourfar/"
+    blank: false
+  - text: Dr. Kathleen Akers, DDS
+    url: "/houston-tx/our-doctors/dr-akers/"
+    blank: false
+  - text: Dr. Erin Loggins, DDS
+    url: "/houston-tx/our-doctors/dr-loggins/"
+    blank: false
+  - text: Dr. Justine Tanjaya, DDS
+    url: "/houston-tx/our-doctors/dr-tanjaya/"
+    blank: false  
+
+- text: EMERGENCY DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Dental Emergency
+    url: "/houston-tx/emergency-dentistry/emergency-dentistry/"
+    blank: false
+  - text: Tooth Extraction
+    url: "/houston-tx/emergency-dentistry/tooth-extraction/"
+    blank: false
+  - text: Gum Disease
+    url: "/houston-tx/emergency-dentistry/gingivitis/"
+    blank: false
+  - text: Root Canal
+    url: "/houston-tx/emergency-dentistry/root-canal/"
+    blank: false
+- text: GENERAL DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Cleaning & Exam
+    url: "/houston-tx/general-dentistry/dental-cleaning/"
+    blank: false
+  - text: Cavity Fillings
+    url: "/houston-tx/restorative-dentistry/cavity-fillings/"
+    blank: false
+- text: RESTORATIVE DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Implants
+    url: "/houston-tx/restorative-dentistry/dental-implants/"
+    blank: false
+  - text: Crown & Bridge
+    url: "/houston-tx/restorative-dentistry/tooth-crown/"
+    blank: false
+  - text: Dentures
+    url: "/houston-tx/restorative-dentistry/dentures/"
+    blank: false
+- text: COSMETIC DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Aesthetic Dentistry
+    url: "/houston-tx/cosmetic-dentistry/aesthetic-dentistry/"
+    blank: false
+  - text: Invisalign
+    url: "/houston-tx/cosmetic-dentistry/invisalign/"
+    blank: false
+  - text: Veneers
+    url: "/houston-tx/cosmetic-dentistry/porcelain-veneers/"
+    blank: false
+  - text: Pro Teeth Whitening
+    url: "/houston-tx/cosmetic-dentistry/pro-teeth-whitening/"
+    blank: false
+- text: SPECIALTY DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Sedation Dentistry
+    url: "/houston-tx/specialty-dentistry/sedation-dentistry/"
+    blank: false
+- text: ADDL RESOURCES
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Contact Us
+    url: "/new-patient-forms/#contact"
+    blank: false    
+  - text: New Patient Forms
+    url: "/new-patient-forms/"
+    blank: false
+  - text: Dental Insurance
+    url: "/dental-insurance/"
+    blank: false
+  - text: Financing
+    url: "/dental-financing/"
+    blank: false
+  - text: About
+    url: "/about-us/"
+    blank: false
+  - text: Our Dental Blog
+    url: "/dentistry-blog/"
+    blank: false
