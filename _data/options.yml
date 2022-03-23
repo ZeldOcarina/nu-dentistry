@@ -167,7 +167,7 @@ backgrounds:
 phone: "(832) 916-4144"
 appointments:
   client_id: "4"
-  client_name: Bellflower Dental Group
+  client_name: Nu Dentistry
   services:
   - Aesthetic Dentistry
   - Cavity Fillings
@@ -207,7 +207,7 @@ offer:
   heading: FREE NEW PATIENT OFFER
   subheading: "INCLUDES: CONSULT, EXAM, AND X-RAYS"
   disclaimer: ''
-site_title: Bellflower Dental Group
+site_title: Nu Dentistry
 google_analytics: ''
 social:
   facebook: https://www.facebook.com/nudentistry
