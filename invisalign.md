@@ -7,7 +7,7 @@ header:
     background_color: "#E2E2E2"
     overlay: color
     overlay_opacity: 0.4
-    background_image: "/uploads/aesthetic-dentistry-nu-dentistry-houston-tx-hero.jpg"
+    background_image: "/uploads/invisalign-teeth-straightening-nu-dentistry-houston-tx-hero.jpg"
     background_video_file: ""
     background_slider: []
     gradient: ""
@@ -16,26 +16,26 @@ header:
   vertical_align: bottom
   color: light
   col_one:
-    heading: Aesthetic Dentistry 
+    heading: Invisalign 
     text: 
   col_two:
     heading: ""
     text: ""
   page_navigation:
-    - text: TOOTH BONDING
+    - text: ALIGNERS VS. BRACES
       id: "2"
     - text: FREQUENTLY ASKED QUESTIONS
-      id: "6"
-    - text: DENTAL VENEERS
-      id: "3"
-    - text: INVISALIGN ALIGNERS
-      id: "4"      
-title: Aesthetic Dentistry
-seo_title: "Aesthetic Dentistry"
+      id: "5"
+    - text: THE NU DENTISTRY DIFFERENCE
+      id: "4"
+    - text: INVISALIGN MAINTENANCE
+      id: "3"      
+title: Invisalign
+seo_title: "Invisalign"
 permalink: "/houston-tx/cosmetic-dentistry/invisalign/"
-description: "Never hide your smile again with our beautiful cosmetic dentistry in Houston, TX. With a wide array of services and amenities, we are the cosmetic dentist yo..."
+description: "We’re the Invisalign Houston, TX dental office to trust with your smile. Our Invisalign-certified dentists make crowded, crooked teeth no problem. See result..."
 keywords:
-  cosmetic dentistry, cosmetic dentistry houston, cosmetic dentist, teeth whitening, veneers, lumineers, invisalign, smile makeover, crown, braces, dental impl...
+  Invisalign, Invisalign Houston, braces, veneers, Invisalign cost, retainer, cosmetic dentistry, clear braces, straight teeth, Invisalign before and after, cl...
 sticky_cta: false
 offer:
   heading: 
@@ -56,14 +56,18 @@ blocks:
     align: left
     columns: "1"
     superheading: 
-    heading: SMILE MAKEOVERS COSMETIC DENTISTRY HOUSTON, TX
-    text: NU DENTISTRY IS THE DENTAL OFFICE YOU SHOULD TRUST WITH YOUR TEETH
+    heading: STUNNING SMILES WITH INVISALIGN IN HOUSTON, TX
+    text: NU DENTISTRY MAKES STRAIGHTENING YOUR TEETH PAINLESS!
     content: 
-      Imagine a smile that you love and aren't trying to hide! Our celebrated cosmetic dental team is the secret to your Hollywood smile in Houston! We'll provide you with a transformative treatment plan that gives you the incredible results you want at a price that doesn't break the bank.
+      If you have overcrowded, gapped, or crooked teeth, Invisalign© may be a great choice for you! Nu Dentistry is a certified Invisalign provider and can work with you to create your beautiful smile!
 
-      Cosmetic dentistry focuses on the improvement of dental aesthetics, remodeling the appearance of your teeth, gums, or bite to exactly how you want it. We offer an incredible selection of procedures, including tooth bonding, veneers, teeth whitening, crown lengthening, and Invisalign, that can help you achieve the results you'd like. Our dedicated dentists will help you to realize your smile dreams while taking your overall smile appearance, including positioning, shape, sizing, and alignment into account.
+      While many believe that braces are only for teens, Invisalign is the treatment for everyone. Available for tweens, teens, and adults, it is an excellent cosmetic dentistry option for people who want straight teeth but don't like the look of traditional braces.
 
-      Boost your self-esteem and better your health with a smile makeover! We offer the best cosmetic dentistry, bringing you a smile that lasts a lifetime. Let our team inspire you to create the smile of your dreams. What are you waiting for? Call us today for your bright, bold, new smile!
+      Invisalign has been the top choice in alternatives to traditional orthodontic treatments for a good reason. These clear aligners are virtually invisible, removing the issue of aesthetics when it comes to teeth alignment.
+
+      Instead of using bulky metal brackets and wires, Invisalign's clear aligner trays are custom designed to meet your desired smile goals discreetly. New trays are used approximately every two weeks to move your teeth to their desired position successfully.
+
+      Give us a call today at (832) 916-4144 to set up your Invisalign consultation.
     lists: []
   - template: text-1
     block: text-1
@@ -79,12 +83,10 @@ blocks:
     align: left
     columns: "2"
     superheading: 
-    heading: REPAIR AND RESTORE WITH TOOTH BONDING
-    text: TRUST US TO MAKE YOUR WORN AND CHIPPED TEETH RETURN TO THEIR NATURAL STATE
+    heading: INVISALIGN VS. BRACES
+    text: HOW DO YOU DECIDE WHICH IS RIGHT FOR YOU?
     content: |-
-      For less drastic changes than veneers or crowns, we can also fix your smile with the help of tooth bonding. With this quick, cost-efficient procedure, we use composite resin to repair decayed, chipped, fractured, and even discolored teeth. Tooth bonding is an extremely versatile cosmetic dentistry option. It can be used to lengthen short teeth, close unwanted gaps, and change a tooth's shape. The same resin is also used for tooth-colored fillings.
-
-      There's no end to the possibilities when you put your trust in us. Tooth bonding is the fast, hassle-free solution to perfecting your teeth. The process is completely noninvasive, meaning you won't need any anesthetic. Our skilled dentists can trim and shape your smile to exactly how you want it. Within half an hour to an hour, you can restore your teeth to their natural beauty. Ready to book your appointment? Call our office at (832) 916-4144 for your consultation.
+      Clear aligners and braces serve the same purpose and address the same problems: crowded or crooked teeth, overjet, over and underbite, and even incorrectly aligned jaws. However, their different approaches are about more than just aesthetics. Traditional braces, which use materials like metal, porcelain, and plastic, are composed of brackets, wiring, and elastic bands that stand out front and center on your teeth. Since they're cemented to your teeth throughout the process, wearers have to be careful about their diets and oral hygiene habits. Otherwise, they risk damaging their braces. Clear aligners, however, are easily removable, making eating and caring for your teeth a breeze in comparison. With traditional orthodontics, patients often find it more challenging to keep up with their dental hygiene, considering it a hassle. Poor oral hygiene often leads to cavities and other dental issues, which can be complicated to treat when maneuvering around their braces. A major benefit to clear aligners is their ability to be removed. Invisalign is at its most effective when it's worn at least 22 hours every day. You can remove them, so you don't have to be self-conscious about your smile at special outings or while eating with friends and family. However, the more you leave your trays off, the more slowly your treatment will progress.
 
     lists: []
   - template: text-1
@@ -99,35 +101,22 @@ blocks:
     heading_tag: H2
     color: light
     align: left
-    columns: "3"
+    columns: "1"
     superheading: 
-    heading: BRING OUT THE NEW YOU WITH VENEERS
-    text: YOUR COSMETIC DENTIST WILL HELP YOU FALL IN LOVE WITH YOUR SMILE
+    heading: CARING FOR YOUR INVISALIGN
+    text: KEEPING YOUR ALIGNERS CLEAN MAKES FOR BETTER TEETH
     content: |-
-      Do you know precisely what your smile should look like, but your teeth never listen? We can help you bring your vision to life with veneers! Veneers are thin, 0.5mm thick porcelain or ceramic tooth facades which layer over your existing teeth to make them look impeccable. They're highly versatile, able to correct chipped, crooked, worn down, stained, unshapely, and uneven teeth. With proper dental upkeep and eating habits, yours can last 10 to 15 years. We're artists when it comes to your new teeth. Whether you're looking to improve one or a dozen teeth, we're experts at color matching your veneers. From dazzling, Hollywood-white, or a more charming, natural shade, our cosmetic dentists will listen to what you need to stand out and stand confident with your upgraded smile. We want your veneers to not only look like your real teeth but feel like them too. To keep your veneers from feeling bulky or noticeable in your mouth, the process will involve shaving your existing teeth down so that your cosmetic treatment fits like a glove.
-    lists: []
-  - template: text-1
-    block: text-1
-    background:
-      color: dark
-      overlay:
-        opacity: 0.5
-        color: ""
-      image: ""
-      video: ""
-    heading_tag: H2
-    color: light
-    align: left
-    columns: "3"
-    superheading: 
-    heading: PERFECT YOUR SMILE WITH INVISALIGN
-    text: WE ALIGN EVERYTHING FOR YOU EFFORTLESSLY, SO YOU’RE ALWAYS SATISFIED
-    content: |-
-      Are you tired of crooked and misaligned teeth but don't want to deal with the look and restrictions of traditional braces? Then it's time you look into Invisalign, our first choice for clear aligners. Invisalign removes the aesthetic concerns of braces without losing the effectiveness. It corrects crooked and crowded teeth, gaps, over and underbites, improperly aligned jaws, and angled teeth known as overjet just as well as its metal counterpart without any of the frustrating brackets, wiring, and elastics. A series of clear plastic trays custom fit to your mouth is created. These trays align your teeth more gradually than traditional braces, easing the strain of your shifting teeth. Patients exchange for their next, tighter Invisalign tray every one or two weeks and start seeing results in a matter of weeks. Depending on the unique factors of your case, you can leave our office with an impeccable smile in as little as six months. A fantastic advantage with clear aligners is that they only need to be worn 22 hours a day.
+      To take care of your teeth, you also need to take care of your equipment. After all, no jockey enters a horse race without tending to their prized stallion—not if they want to cross the finish line in first place—and the same is true for your clear aligners. They need proper upkeep and maintenance to ensure your path to perfect teeth is quick and straightforward.
 
-      You can remove them for meals and cleaning, meaning you don't have to adjust your lifestyle to get the results you want. Popcorn, apples, and bubblegum are no problem with Invisalign! Whether you're a child, a teen, or an adult, you deserve a smile you can't stop showing off. Here at Nu Dentistry, our dentists are eager to make your transition to flawless teeth go without a hitch. Call (832) 916-4144 to schedule your consultation appointment.
-    lists: []
+      Clean your Invisalign at least once a day. We recommend you do this in the morning to both set a routine for yourself and to make sure you maintain healthy oral hygiene habits. There are a few different methods for cleaning your aligners:
 
+      - **Rinse with water.** Every time you remove your Invisalign, make sure you rinse them with cold water, never hot. Rinsing stops saliva and plaque from building up.
+      - **Antibacterial soap.** Gently wash your aligners with soap and water, preferably using a toothbrush. Do not use toothpaste as it can scratch the plastic.
+      - **Retainer or denture cleaner.** Mix either a drop or tablet in water, and let your Invisalign soak for 15-20 minutes. Be sure to clear any food or plaque with a toothbrush before soaking.
+      - **Cleaning crystals.** Similar to cleaners, you can soak your aligners using approved cleaning crystals mixed with water. Let them sit for 15 minutes before rinsing and returning them to your mouth.
+
+      Each time you take out your clear aligners, don't leave them out to collect bacteria and germs. Put them in your aligner case until you're ready to wear them again. We also recommend that you brush and floss before putting your Invisalign back in to keep both your teeth and your aligners in peak condition.
+    lists: []
   - template: cta-1
     block: cta-1
     color: light
@@ -140,16 +129,16 @@ blocks:
         color: "#000000"
         opacity: "0.8"
     overlay_size: center
-    heading: "REST EASY KNOWING WE’RE IN YOUR CORNER"
+    heading: "SIT BACK AND RELAX WITH US"
     text: 
-    superheading: "NEVER STRESS WHEN IT COMES TO SECURING YOUR MILLION DOLLAR SMILE"
+    superheading: "WE CARE ABOUT YOUR HAPPINESS, FROM YOUR FIRST VISIT AND BEYOND"
     button:
       text: Request an appointment
       url: ""
       blank: false
     image: "/uploads/tooth-heart-lightBlue.svg"
     content:
-      If you're nervous about your cosmetic dentistry procedure, don't be! Our team of seasoned dentists know what it takes to give you a natural smile you can be proud of. We're always happy to answer your questions, and we're more than prepared to explain the whole process to you. We want to make sure you are informed, ready, and eager to move forward to your perfect smile.
+      Just like your clear aligners, we're gentle with your teeth. Here at Nu Dentistry, we understand that your time with us is about more than just the treatment. It's about you. Our Invisalign-trained dentists and orthodontists stop at nothing to ensure you're always comfortable and excited about your next steps.
     appointment_button: true
     section: ""
     
@@ -164,33 +153,33 @@ blocks:
       video: ""
     color: light
     faqs:
-      - heading: CAN A GENERAL DENTIST DO COSMETIC DENTISTRY?
+      - heading: HOW LONG DO YOU HAVE TO WEAR INVISALIGN?
         content:
-          A general dentist and a cosmetic dentist have the same base education. They often perform many of the same procedures, including cosmetic dentistry. General dentists are just as qualified as specialists, and have often completed additional training to treat your smile with the same level of care.
-      - heading: CAN YOU REALLY GET NEW TEETH IN ONE DAY?
+          In many cases, Invisalign works faster than traditional braces. The complexity of your specific dental situation can greatly determine your treatment length, but the average time is 12 to 18 months. However, some patients have been able to correct their teeth alignment in as little as 6 months.
+      - heading: IS INVISALIGN AS GOOD AS BRACES?
         content:
-          Some cosmetic dentistry options can take weeks from your first consultation. However, others, such as teeth whitening and bonding, can take as little time as a single visit.
-      - heading: DO VENEERS RUIN YOUR TEETH?
+          Invisalign holds its mettle against braces, though they each have their advantages over the other. For Invisalign, the invisible braces not only straighten your teeth but are also much more comfortable to wear without needing to change your lifestyle. However, there are some cases for which Invisalign is not appropriate and traditional braces must be used.
+      - heading: WHAT HAPPENS IF I DON'T WEAR MY INVISALIGN FOR 22 HOURS A DAY?
         content:
-          While there may be the saying 'beauty is pain,' that's not at all true when it comes to veneers. Not only do they not ruin your teeth, but porcelain veneers are long-lasting, stain-resistant, and harder to damage than your regular teeth!
-      - heading: DOES BONDING LOOK NATURAL?
+          When you remove them, rinse them in cold water before cleaning them with antibacterial soap. Do not use hot water or toothpaste when washing as these can damage your aligners. As an alternative, you can also soak them in retainer cleaner for 15-20 minutes. Once clean, rinse your aligners and pop them back in your mouth, good as new.
+      - heading: CAN CLEAR ALIGNERS FIX OVERBITE?
         content:
-          Our dentists match the shade of the composite resin used to the shade of your tooth. Your teeth will look as good as new after your tooth bonding. The resin used blends smoothly with your existing enamel to make it hard for even your dentist to see it.     
-      - heading: CAN YOU GET VENEERS WITHOUT SHAVING YOUR TEETH?
+          Absolutely! Clear aligners shift teeth to their proper placement, both sideways and upwards. While correcting your overbite, they also have the advantage of moving the gums with your teeth, meaning you won’t have to worry about losing the proportions of your smile.     
+      - heading: HOW SHOULD I CLEAN MY CLEAR ALIGNERS?
         content:
-          Most porcelain and resin veneers require shaving your teeth down. However, there are certain types of veneers, such as Lumineers, that are thin enough to fit over your teeth without any preparation. If you're ready for your own no-prep veneers, contact our office for a consultation.
-      - heading: WHAT IS THE BEST COLOR FOR VENEERS?
+          When you remove them, rinse them in cold water before cleaning them with antibacterial soap. Do not use hot water or toothpaste when washing as these can damage your aligners. As an alternative, you can also soak them in retainer cleaner for 15-20 minutes. Once clean, rinse your aligners and pop them back in your mouth, good as new.
+      - heading: HOW MUCH DOES INVISALIGN COST?
         content:
-          When it comes to choosing the color for your veneers, we always make sure that your teeth look as natural as possible. We color match seamlessly and discuss your options so that you're always happy with your bright, new smile.
-      - heading: IS GUM CONTOURING PAINFUL?
+          Invisalign and other clear braces often have a similar cost to that of traditional braces. Price is determined by the length of the treatment needed. Nu Dentistry is determined to make sure you receive the treatment you deserve in a manner you can afford. We're prepared to work with you to find a payment plan that is comfortable for you.
+      - heading: IS EARLY ORTHODONTIC TREATMENT NECESSARY?
         content:
-          Removing excess gum tissue or restoring a receding gum line can be done comfortably. Our safe anesthetic and sedation options guarantee that the entire contouring process will be painless. Nu Dentistry is dedicated to your full comfort, and we're prepared to help you if any of the process makes you nervous.
-      - heading: WHAT ARE DENTAL IMPLANTS?
+          If your orthodontist says that your child needs braces, then you should listen. Early detection and treatment before your child's adult teeth fully come in can prevent future problems and save you time and money.
+      - heading: DO CLEAR ALIGNERS REALLY WORK?
         content:
-          A dental implant is an artificial tooth—root, crown, and all—that is surgically attached to your jaw to replace a missing tooth and prevent the jawbone from deteriorating. It consists of a metal post called an implant, a porcelain crown to act as the tooth, and an abutment to connect the two.
-      - heading: Thank you! Your form has been submitted!
+          Yes! Clear aligners have been helping people straighten their teeth since 1997. Over 3 million dental patients across 2 decades have proven that they not only look good but are super effective. You'll be amazed by your Invisalign before and after!
+      - heading: ARE THERE OTHER OPTIONS FOR STRAIGHTENING MY TEETH BESIDES BRACES?
         content:
-          In-office teeth whitening is actually the most effective way to brighten your teeth. Here at Nu Dentistry, we use the Beyond whitening system, both in the dental chair and with our custom take-home trays. This system whitens brighter and lasts longer than over the counter strips, and the process itself is quicker!
+          We understand that not everyone wants to wait to enjoy straight teeth. For those patients, we offer veneers. This cosmetic dentistry service involves bonding a thin porcelain veneer to your existing tooth to change its appearance to exactly how you want it. Veneers can not only straighten crooked teeth but whiten and lengthen them too.
           
     superheading: ""
     heading: Frequently Asked Questions
