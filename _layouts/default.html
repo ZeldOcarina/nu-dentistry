@@ -10,7 +10,7 @@
   
     {% include header.html %}
 
-    {% if page.layout == 'blocks' %}
+    {% if page.layout == 'blocks' or page.layout == 'blog' or page.layout == 'post' %}
       {{ content }}
     {% else %}
       <div class="uk-section{% if page.section %} uk-section-{{ page.section }}{% endif %}">
