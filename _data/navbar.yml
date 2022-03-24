@@ -103,7 +103,7 @@ menu_right:
   blank: false
   dropdown:
   - text: Contact Us
-    url: "/new-patient-forms/#contact"
+    url: "#contact"
     blank: false    
   - text: New Patient Forms
     url: "/new-patient-forms/"
@@ -218,7 +218,7 @@ menu_mobile:
   blank: false
   dropdown:
   - text: Contact Us
-    url: "/new-patient-forms/#contact"
+    url: "#contact"
     blank: false    
   - text: New Patient Forms
     url: "/new-patient-forms/"
