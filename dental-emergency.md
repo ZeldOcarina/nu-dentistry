@@ -68,14 +68,14 @@ blocks:
   - template: text-1
     block: text-1
     background:
-      color: dark
+      color: default
       overlay:
         opacity: 0.5
         color: ""
       image: ""
       video: ""
     heading_tag: H1
-    color: light
+    color: dark
     align: left
     columns: "1"
     superheading: 
@@ -94,28 +94,6 @@ blocks:
       - **Excessive bleeding gums.** A little bit of blood after flossing or a dental exam is typical. It can be a sign of gingivitis or early **periodontal disease**. However, if the gums won't stop bleeding, this may indicate a severe injury or advanced gum disease.
 
     lists: []
-  - template: text-1
-    block: text-1
-    background:
-      color: dark
-      overlay:
-        opacity: 0.5
-        color: ""
-      image: ""
-      video: ""
-    heading_tag: H2
-    color: light
-    align: left
-    columns: "2"
-    superheading: 
-    heading: DO I NEED A TOOTH EXTRACTION?
-    text: WE MAKE SURE YOU’RE ALWAYS PREPARED, EVEN WITH SERIOUS PROCEDURES.
-    content: |-
-      At Nu Dentistry, we do our best to save your teeth, but that's not always possible. Sometimes a tooth has decayed too much or fractured too severely for repairs like fillings, root canals, and frequent deep cleanings to be an option. Other times, extra or crowded teeth block emerging teeth from coming out without ruining the alignment of your arch. During cases like these, the best option to protect the teeth and bone around it is to have the tooth extracted. There are two kinds of extractions: a simple extraction and a surgical extraction. Simple extractions are for teeth visible above the gum line, and they can be done by loosening the tooth with an elevator tool and removing it with forceps.
-
-      Surgical extractions are done on teeth either broken beneath or un-emerged from the gums. This type requires an incision into the gums to entirely remove the submerged tooth. While this procedure may seem scary at first, our dentists make sure that your operation is virtually painless. We offer multiple anesthetic and sedation options, guaranteeing that you're always comfortable during your treatment. We offer many services, such as implants, dentures, and bridges, that can help fill the gap and restore your missing tooth. We want to make sure you're always happy with your smile.
-    lists: []
-
   - template: cta-1
     block: cta-1
     color: light
@@ -140,6 +118,30 @@ blocks:
       When you need emergency dental services, you deserve a team who stays calm under pressure and is unrelenting in giving you the best service possible. We're Nu Dentistry, and we're fully committed to your comfort even when times are tough. We understand that you might be nervous about your treatment, but we're here to put your fears at rest. Everything in our private patient suites is designed to put you at ease, from luxury entertainment to sedation options available upon request. Our dentists go above and beyond to achieve your complete dental satisfaction, no matter your needs.
     appointment_button: true
     section: ""
+
+  - template: text-1
+    block: text-1
+    background:
+      color: dark
+      overlay:
+        opacity: 0.5
+        color: ""
+      image: ""
+      video: ""
+    heading_tag: H2
+    color: light
+    align: left
+    columns: "2"
+    superheading: 
+    heading: DO I NEED A TOOTH EXTRACTION?
+    text: WE MAKE SURE YOU’RE ALWAYS PREPARED, EVEN WITH SERIOUS PROCEDURES.
+    content: |-
+      At Nu Dentistry, we do our best to save your teeth, but that's not always possible. Sometimes a tooth has decayed too much or fractured too severely for repairs like fillings, root canals, and frequent deep cleanings to be an option. Other times, extra or crowded teeth block emerging teeth from coming out without ruining the alignment of your arch. During cases like these, the best option to protect the teeth and bone around it is to have the tooth extracted. There are two kinds of extractions: a simple extraction and a surgical extraction. Simple extractions are for teeth visible above the gum line, and they can be done by loosening the tooth with an elevator tool and removing it with forceps.
+
+      Surgical extractions are done on teeth either broken beneath or un-emerged from the gums. This type requires an incision into the gums to entirely remove the submerged tooth. While this procedure may seem scary at first, our dentists make sure that your operation is virtually painless. We offer multiple anesthetic and sedation options, guaranteeing that you're always comfortable during your treatment. We offer many services, such as implants, dentures, and bridges, that can help fill the gap and restore your missing tooth. We want to make sure you're always happy with your smile.
+    lists: []
+
+
     
   - template: faq-2
     block: faq-2

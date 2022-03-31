@@ -32,8 +32,8 @@ offer:
   subheading: ""
   disclaimer: ""
 blocks:
-  - template: cards-2
-    block: cards-2
+  - template: pingpong-2
+    block: pingpong-2
     background:
       color: dark
       overlay:
@@ -48,57 +48,57 @@ blocks:
     text: AT NU DENTISTRY, WE ARE DEDICATED TO PROVIDING YOU WITH ONLY THE BEST QUALITY DENTAL CARE WITH YOUR NEEDS IN MIND
     cards:
       - heading: "EMERGENCY "
-        text:
+        copy:
           Don’t wait when you’re in pain! We offer fast, dedicated emergency dental services to help you with your urgent care.
         image: "/uploads/nu-dentistry-featured-services-emergency.jpg"
         overlay:
-          color: "#33B9C4"
+          color: ""
           opacity: 0.7
         button:
           text: Learn More
           url: "/houston-tx/specialty-dentistry/sedation-dentistry/"
       - heading: IMPLANTS
-        text: "When you’re missing a tooth, we help fill the gap. Check out our dental implant options to restore your smile to its natural beauty and function."
+        copy: "When you’re missing a tooth, we help fill the gap. Check out our dental implant options to restore your smile to its natural beauty and function."
         image: "/uploads/nu-dentistry-featured-services-invisalign.jpg"
         overlay:
-          color: "#FFCE04"
+          color: ""
           opacity: 0.55
         button:
           text: Learn More
           url: "/houston-tx/restorative-dentistry/dental-implants/"
       - heading: COSMETIC
-        text:
+        copy:
           Get your picture-perfect smile with cosmetic dentistry! Our dentists are ready to help you achieve your smile goals with amazing services including teeth whitening, straightening, bonding, and veneers.
         image: "/uploads/nu-dentistry-featured-services-cosmetic.jpg"
         overlay:
-          color: "#6E6C66"
+          color: ""
           opacity: 0.7
         button:
           text: Learn More
           url: "/houston-tx/cosmetic-dentistry/aesthetic-dentistry/"
       - heading: INVISALIGN
-        text: "Do you have crowded or crooked teeth? Straighten them quickly and efficiently with Invisalign, the #1 clear aligner."
+        copy: "Do you have crowded or crooked teeth? Straighten them quickly and efficiently with Invisalign, the #1 clear aligner."
         image: "/uploads/nu-dentistry-featured-services-implants-2.jpg"
         overlay:
-          color: "#33B9C4"
+          color: ""
           opacity: 0.7
         button:
           text: Learn More
           url: "/houston-tx/cosmetic-dentistry/invisalign/"
       - heading: SLEEP DENTISTRY
-        text: "Is anxiety keeping you from getting the dental help you need? No worries! We offer an array of safe sedation options that make your visits relaxing and easy."
+        copy: "Is anxiety keeping you from getting the dental help you need? No worries! We offer an array of safe sedation options that make your visits relaxing and easy."
         image: "/uploads/nu-dentistry-featured-services-sleep-dentistry.jpg"
         overlay:
-          color: "#FFCE04"
+          color: ""
           opacity: 0.55
         button:
           text: Learn More
           url: "/houston-tx/specialty-dentistry/sedation-dentistry/"
       - heading: DENTAL VENEERS
-        text: "When it comes to crooked, short, or stained teeth, the Nu Dentistry team brings you a million dollar smile with dental veneers tailored to you."
+        copy: "When it comes to crooked, short, or stained teeth, the Nu Dentistry team brings you a million dollar smile with dental veneers tailored to you."
         image: "/uploads/nu-dentistry-featured-services-veneers.jpg"
         overlay:
-          color: "#6E6C66"
+          color: ""
           opacity: 0.7
         button:
           text: Learn More

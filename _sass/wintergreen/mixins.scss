@@ -223,6 +223,7 @@
   @media (min-width: $breakpoint-medium) {
     .uk-width-pingpong-2-content {
       width: 45%;
+      min-height: 500px;
     }
     .uk-pingpong-2 .uk-text-content {
       margin-top: 40px !important;
