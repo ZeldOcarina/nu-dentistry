@@ -37,14 +37,14 @@ blocks:
   - template: text-1
     block: text-1
     background:
-      color: dark
+      color: default
       overlay:
         opacity: 0.5
         color: ""
       image: ""
       video: ""
     heading_tag: H1
-    color: light
+    color: dark
     align: left
     columns: "1"
     superheading: 
