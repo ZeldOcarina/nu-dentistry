@@ -6,11 +6,23 @@ sticky_cta:
   appointment: false
   offer: false
   phone: false
-
 blocks:
 - template: slider-2
   block: slider-2
   slides:
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-03.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-01.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-05.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-02.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-12.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-07.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-06.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-10.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-08.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-11.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-09.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-13.jpg"
+  - "/uploads/nu-dentistry-spring-cosmetic-dentist-houston-vot-04.jpg"
   - "/uploads/nu-dentistry-houston-texas-exterior-1-cropped.jpg"
   - "/uploads/nu-dentistry-houston-texas-signage-1-cropped.jpg"
   - "/uploads/nu-dentistry-houston-texas-interior-1-cropped.jpg"
@@ -22,14 +34,14 @@ blocks:
     overlay:
       opacity: 0.1
       color: ''
-  superheading: "NU DENTISTRY IN SPRING, TEXAS //"
+  superheading: NU DENTISTRY IN SPRING, TEXAS //
   heading: OUR LOCATIONS
-  text: 'SEE WHAT A VISIT TO OUR MODERN, STATE-OF-THE-ART DENTIST OFFICE IS LIKE!'
+  text: SEE WHAT A VISIT TO OUR MODERN, STATE-OF-THE-ART DENTIST OFFICE IS LIKE!
   color: light
   align: center
 - template: contact-2
   block: contact-2
-  superheading: "BOOK NOW IN HOUSTON, TEXAS //"
+  superheading: BOOK NOW IN HOUSTON, TEXAS //
   heading: BOOK ONLINE
   text: ''
   color: light
@@ -75,23 +87,33 @@ blocks:
   color: light
   testimonials:
   - heading: The Best Dentist in Houston
-    copy: We have been looking for a family dentist for a long time, we have tried a bunch of places but nothing felt quite like home.  Not too long ago we stumbled upon Nu Dentistry and met Dr. Ali. Not only was he professional, kind, and gentle, but he always finds a way to fit us in when we need an appointment. He’s also pretty funny! I appreciate that he takes the time to explain what he’s doing, before he does it. That really puts me at ease.
+    copy: We have been looking for a family dentist for a long time, we have tried
+      a bunch of places but nothing felt quite like home.  Not too long ago we stumbled
+      upon Nu Dentistry and met Dr. Ali. Not only was he professional, kind, and gentle,
+      but he always finds a way to fit us in when we need an appointment. He’s also
+      pretty funny! I appreciate that he takes the time to explain what he’s doing,
+      before he does it. That really puts me at ease.
     author: Sandra Archuletta //
     image: "/uploads/testimonial-1.png"
   - heading: Part of the Family
-    copy: When I come in for an exam, Dr. Alrajab makes me feel like I’m a part of his family. I haven’t had a single cavity or filling done since I started coming here, which is a real change from my last hygienist.
+    copy: When I come in for an exam, Dr. Alrajab makes me feel like I’m a part of
+      his family. I haven’t had a single cavity or filling done since I started coming
+      here, which is a real change from my last hygienist.
     author: Anthony Fernandez //
     image: "/uploads/testimonial-2.png"
   - heading: Anxiety Has Kept Me Away...
-    copy: I usually have such huge anxiety when I go to a dentist appointment, which means I always put off visits until the last minute to disastrous consequences. However, Dr. Loggins helped me with sedation, so the entire process was a breeze!
+    copy: I usually have such huge anxiety when I go to a dentist appointment, which
+      means I always put off visits until the last minute to disastrous consequences.
+      However, Dr. Loggins helped me with sedation, so the entire process was a breeze!
     author: Johnathan Smitts //
     image: "/uploads/testimonial-4.png"
   - heading: Never Thought I'd Say It...
-    copy: I never thought I’d say it, but going to the dentist is actually fun now. I recently came in for a root canal, and I got to sit back and catch up on Stranger Things without any pain!
+    copy: I never thought I’d say it, but going to the dentist is actually fun now.
+      I recently came in for a root canal, and I got to sit back and catch up on Stranger
+      Things without any pain!
     author: Alexandra Jansen //
     image: "/uploads/testimonial-3.png"
-    
-  superheading: "Nu Dentistry in Spring, Texas //"
+  superheading: Nu Dentistry in Spring, Texas //
   heading: PATIENT STORIES
   text: HEAR DIRECTLY FROM OUR SATISFIED CUSTOMERS!
 - template: images-1
@@ -106,9 +128,9 @@ blocks:
   color: dark
   columns: expand
   gutter: small
-  superheading: 
+  superheading: ''
   heading: Our Professional Affiliations
-  text:
+  text: ''
   images:
   - image: "/uploads/dental-accreditations-texas-dental-association.png"
     url: https://www.tda.org/
@@ -136,7 +158,7 @@ blocks:
   color: light
   columns: '5'
   gutter: small
-  superheading: "HOUSTON TEXAS PREMIER DENTISTRY //"
+  superheading: HOUSTON TEXAS PREMIER DENTISTRY //
   heading: Follow Us
   text: WE ARE DEDICATED TO PROVIDING YOU WITH ONLY THE BEST QUALITY DENTAL CARE
   images:
@@ -150,7 +172,6 @@ blocks:
     url: ''
   - image: "/uploads/insta-4.jpg"
     url: ''
-    
 fonts:
   body: SFCompactDisplay
   heading: SFCompactDisplay
@@ -205,15 +226,15 @@ appointments:
   - "[7, 17]"
 offer:
   heading: FREE NEW PATIENT OFFER
-  subheading: "INCLUDES: CONSULT, EXAM, AND X-RAYS"
+  subheading: 'INCLUDES: CONSULT, EXAM, AND X-RAYS'
   disclaimer: ''
 site_title: Nu Dentistry
 google_analytics: ''
 social:
   facebook: https://www.facebook.com/nudentistry
-  linkedin:
-  pinterest:
+  linkedin: ''
+  pinterest: ''
   twitter: https://twitter.com/dentistrynu
-  yelp: 
-  youtube: 
+  yelp: ''
+  youtube: ''
   instagram: https://www.instagram.com/nudentistry
