@@ -90,7 +90,7 @@ blocks:
     * **Dislodged or loose tooth.** Loose teeth in adults are a sign of either tooth injury or infection.
     * **Tooth abscess.** When a tooth infection becomes bad enough, the tooth swells and develops a pocket of pus known as an abscess. They're very serious and can spread to other areas of your jaw, head, and neck if left untreated.
     * **Decay and cavities.** If you're in extreme pain and know you have tooth decay or a cavity, please call our office so we can halt or treat any possible infections.
-    * **Excessive bleeding gums.** A little bit of blood after flossing or a dental exam is typical. It can be a sign of gingivitis or early <a href='/houston-tx/emergency-dentistry/gingivitis/' title='Click to jump to our gum disease page'>periodontal disease</a>. However, if the gums won't stop bleeding, this may indicate a severe injury or advanced gum disease.
+    * **Excessive bleeding gums.** A little bit of blood after flossing or a dental exam is typical. It can be a sign of gingivitis or early <a href='/houston-tx/emergency-dentistry/gingivitis/' target='_blank' class='paragraph-link'>periodontal disease</a>. However, if the gums won't stop bleeding, this may indicate a severe injury or advanced gum disease.
   lists: []
 - template: text-1
   block: text-1
