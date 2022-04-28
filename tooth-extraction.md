@@ -94,14 +94,15 @@ blocks:
   image: ''
   cards:
   - heading: DENTAL IMPLANTS
-    copy: '**Dental implants** are a great option! They consist of 3 main parts: an
-      implant, a crown, and an abutment. The implant is a metal post that is surgically
-      attached and fused to the jawbone, acting as an artificial root for the replacement
-      tooth. The crown is what we think of as the "tooth" portion. It feels and functions
-      like a normal tooth, but is often made of sturdy porcelain. The abutment is
-      the connector between the implant and crown, keeping the whole piece together
-      like glue. Implants are a bit costly, but they last a long time, are easy to
-      maintain and clean and preserve the bone in your jaw.'
+    copy: '<a href=''/houston-tx/restorative-dentistry/dental-implants/'' target=''_blank''
+      class=''paragraph-link''>**Dental implants**</a> are a great option! They consist
+      of 3 main parts: an implant, a crown, and an abutment. The implant is a metal
+      post that is surgically attached and fused to the jawbone, acting as an artificial
+      root for the replacement tooth. The crown is what we think of as the "tooth"
+      portion. It feels and functions like a normal tooth, but is often made of sturdy
+      porcelain. The abutment is the connector between the implant and crown, keeping
+      the whole piece together like glue. Implants are a bit costly, but they last
+      a long time, are easy to maintain and clean and preserve the bone in your jaw.'
     image: "/uploads/nu-dentistry-houston-tx-tooth-extraction-replacement-implant.jpg"
     overlay:
       color: ''
