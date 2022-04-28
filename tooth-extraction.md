@@ -93,7 +93,7 @@ blocks:
     These are the most common tooth replacement options:
   image: ''
   cards:
-  - heading: DENTAL IMPLANTS
+  - heading: DENTAL IMPLANT
     copy: '<a href=''/houston-tx/restorative-dentistry/dental-implants/'' target=''_blank''
       class=''paragraph-link''>**Dental implants**</a> are a great option! They consist
       of 3 main parts: an implant, a crown, and an abutment. The implant is a metal
