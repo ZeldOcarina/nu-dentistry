@@ -246,10 +246,11 @@ blocks:
     content: While not always necessary for everyone, impacted wisdom tooth extraction
       can be extremely crucial in a patient's dental development and overall health.
       If wisdom teeth are unable to fully emerge, you can't properly clean or maintain
-      them. Tooth decay and gum disease are often quick to follow. In some instances,
-      this can lead to cysts and tumor development. At Nu Dentistry, we only recommend
-      that at-risk teeth be removed, and we take great care to ensure you always retain
-      your healthiest smile possible.
+      them. Tooth decay and <a href='/houston-tx/emergency-dentistry/gingivitis/'
+      target='_blank' class='paragraph-link'>gum disease</a> are often quick to follow.
+      In some instances, this can lead to cysts and tumor development. At Nu Dentistry,
+      we only recommend that at-risk teeth be removed, and we take great care to ensure
+      you always retain your healthiest smile possible.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
