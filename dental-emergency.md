@@ -166,11 +166,10 @@ blocks:
   - heading: HOW DO DENTISTS TREAT GINGIVITIS?
     content: Gingivitis occurs when plaque and tartar build-up around and under the
       gums, causing infection. Depending on the severity, treatment will include a
-      regular <a href='/houston-tx/general-dentistry/dental-cleaning/' title='Click
-      to jump to our cleaning & exam page'>dental cleaning</a> or deep cleaning. A
-      deep cleaning involves scaling teeth clean both above and below the gumline,
-      respectively, of hardened build-up. Periodontal disease must be treated with
-      deep cleaning.
+      regular <a href='/houston-tx/general-dentistry/dental-cleaning/' target='_blank'
+      class='paragraph-link'>dental cleaning</a> or deep cleaning. A deep cleaning
+      involves scaling teeth clean both above and below the gumline, respectively,
+      of hardened build-up. Periodontal disease must be treated with deep cleaning.
   - heading: ARE YOU SEDATED FOR A ROOT CANAL?
     content: While only local anesthesia is necessary when performing a root canal,
       you can opt for <a href='/houston-tx/specialty-dentistry/sedation-dentistry/'
