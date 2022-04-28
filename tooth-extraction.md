@@ -214,7 +214,8 @@ blocks:
       a tooth from your mouth. Extractions may be needed for many reasons. Your tooth
       is damaged beyond repair. The tooth is unable to emerge from your gums. Or the
       tooth may be impacted, and its emerging will disrupt your teeth's alignment,
-      requiring costly and time-consuming dental work to **straighten your teeth**.
+      requiring costly and time-consuming dental work to <a href='/houston-tx/cosmetic-dentistry/invisalign/'
+      target='_blank' class='paragraph-link'>straighten your teeth</a>.
   - heading: WHEN SHOULD A TOOTH BE REMOVED?
     content: A tooth should be removed only when it poses a threat to the health of
       the rest of your mouth. Nu Dentistry is dedicated to saving and restoring as
