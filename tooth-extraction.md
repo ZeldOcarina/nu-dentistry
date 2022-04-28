@@ -61,7 +61,7 @@ blocks:
   heading: PAINLESS TOOTH EXTRACTION IN HOUSTON IS POSSIBLE!
   text: NU DENTISTRY MAKES YOUR EMERGENCY TOOTH REMOVAL A BREEZE.
   content: |-
-    When you have severe tooth pain, it can be a real dental emergency—and Nu Dentistry is here to help you through them all, including teeth extraction. While it may sound scary, our friendly, gentle dentists make sure you’re always relaxed in our office. There are 2 main types of tooth removal procedures:
+    When you have severe tooth pain, it can be a real <a href='/houston-tx/emergency-dentistry/emergency-dentistry/' target='_blank' class='paragraph-link'>dental emergency</a>—and Nu Dentistry is here to help you through them all, including teeth extraction. While it may sound scary, our friendly, gentle dentists make sure you’re always relaxed in our office. There are 2 main types of tooth removal procedures:
 
     **Simple extraction.** A simple extraction is used to remove teeth that are visible. Once local anesthetic has properly numbed the area, your dentist will use a tool called an elevator to loosen your tooth and forceps to fully remove it from your gum.
 
