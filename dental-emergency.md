@@ -174,10 +174,10 @@ blocks:
   - heading: ARE YOU SEDATED FOR A ROOT CANAL?
     content: While only local anesthesia is necessary when performing a root canal,
       you can opt for <a href='/houston-tx/specialty-dentistry/sedation-dentistry/'
-      title='Click to jump to our sleep dentistry page'>sedation</a> with the procedure
-      on request. Our fully trained dentists can sedate you during the procedure,
-      either with oral conscious sedation or IV sedation. For anxious patients, this
-      can soothe nervousness and give the best possible treatment experience.
+      target='_blank' class='paragraph-link'>sedation</a> with the procedure on request.
+      Our fully trained dentists can sedate you during the procedure, either with
+      oral conscious sedation or IV sedation. For anxious patients, this can soothe
+      nervousness and give the best possible treatment experience.
   - heading: SHOULD I SAVE MY TOOTH OR PULL IT?
     content: We always do our best to save our patients' teeth because natural teeth
       are stronger and keep their neighbors from shifting. Keeping those teeth will
