@@ -160,14 +160,14 @@ blocks:
 
     Reasons why wisdom teeth may need to be extracted:
 
-    - **Tooth direction.** Sometimes a wisdom tooth will emerge sideways or tilted from the gum.
-    - **Impaction.** Wisdom teeth that are unable to fully emerge from the gum can lead to infection or tooth decay. In worst-case scenarios, they can cause severe gum disease, cysts, and tumors.
-    - **Crowded and crooked teeth.** An incoming wisdom tooth can seriously damage nearby teeth and disrupt the alignment of your arch. This crowding can lead to the need for braces or other costly procedures that could otherwise have been avoided.
-    - **Too little space.** If there's not enough room for a wisdom tooth to erupt, it can lead to partial eruption as well as infection and decay.
-    - **Pain.** Toothaches and pain are never a good sign, and depending on your specific case can lead to multiple immediate and future problems.
-    - **Orthodontic problems.** For teens and adults with braces or clear aligners like Invisalign, incoming wisdom teeth can be a nightmare. They run the risk of losing those patients all of their hard-earned straightening progress, setting them back to square one—or worse.
+    * **Tooth direction.** Sometimes a wisdom tooth will emerge sideways or tilted from the gum.
+    * **Impaction.** Wisdom teeth that are unable to fully emerge from the gum can lead to infection or tooth decay. In worst-case scenarios, they can cause severe gum disease, cysts, and tumors.
+    * **Crowded and crooked teeth.** An incoming wisdom tooth can seriously damage nearby teeth and disrupt the alignment of your arch. This crowding can lead to the need for braces or other costly procedures that could otherwise have been avoided.
+    * **Too little space.** If there's not enough room for a wisdom tooth to erupt, it can lead to partial eruption as well as infection and decay.
+    * **Pain.** Toothaches and pain are never a good sign, and depending on your specific case can lead to multiple immediate and future problems.
+    * **Orthodontic problems.** For teens and adults with braces or clear aligners like Invisalign, incoming wisdom teeth can be a nightmare. They run the risk of losing those patients all of their hard-earned straightening progress, setting them back to square one—or worse.
 
-    If you have any questions or concerns about a possible wisdom tooth removal for you or your child, call our office at (832) 916-4144 to set up a consultation.
+    If you have any questions or concerns about a possible wisdom tooth removal for you or your child, call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to set up a consultation.
   lists: []
 - template: cta-1
   block: cta-1
