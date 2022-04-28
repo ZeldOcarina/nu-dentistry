@@ -81,7 +81,7 @@ blocks:
   heading: WHAT IS A DENTAL EMERGENCY?
   text: NU DENTISTRY MAKES SURE YOU NEVER PUT OFF A NECESSARY PROCEDURE.
   content: |-
-    It can be hard to tell sometimes whether something is truly an 'emergency.' Do you need immediate treatment, or can it wait until you schedule an appointment? If you experience any of these symptoms, please call our office at (832) 916-4144:
+    It can be hard to tell sometimes whether something is truly an 'emergency.' Do you need immediate treatment, or can it wait until you schedule an appointment? If you experience any of these symptoms, please call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a>:
 
     * **Oral sensitivity.** Although minor sensitivity can be addressed at a regular appointment, a sudden onset of severe sensitivity may indicate infection.
     * **Severe tooth, gum, or jaw pain.** Acute pain can indicate multiple dental issues. Toothaches are a sign of infection, especially when accompanied by a fever, earache, or pressure.
