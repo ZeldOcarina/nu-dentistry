@@ -168,8 +168,9 @@ blocks:
     content: A root canal's price depends on several factors, including the severity
       of the cavity, the location of the tooth, and the number of roots to be cleared
       and filled. If a crown is needed, the additional costs may vary depending on
-      the materials used, such as porcelain, ceramic, or metal. We offer many financial
-      options that can be discussed during your consultation.
+      the materials used, such as porcelain, ceramic, or metal. We offer many <a href='/dental-financing/'
+      target='_blank' class='paragraph-link'>financial options</a> that can be discussed
+      during your consultation.
   - heading: DO I NEED A CROWN AFTER A ROOT CANAL?
     content: Not all root canals require a crown, but they do need to be reinforced.
       Your tooth will be weaker following treatment, so your dentist or endodontist
