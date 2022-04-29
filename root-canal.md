@@ -82,17 +82,17 @@ blocks:
   heading: DO I NEED A ROOT CANAL?
   text: A TIMELY ROOT CANAL IN HOUSTON, TX COULD SAVE YOUR TOOTH
   content: |-
-    When it comes to saving a tooth, time is always crucial. Being able to recognize warning signs early can be the deciding factor on whether your tooth's damage is too extensive for a root canal to be done. When it comes to **dental emergencies**, we always want to ensure you receive the treatment that best preserves your dental health.
+    When it comes to saving a tooth, time is always crucial. Being able to recognize warning signs early can be the deciding factor on whether your tooth's damage is too extensive for a root canal to be done. When it comes to <a href='/houston-tx/emergency-dentistry/emergency-dentistry/' target='_blank' class='paragraph-link'>dental emergencies</a>, we always want to ensure you receive the treatment that best preserves your dental health.
 
     Some symptoms and signs that you might need a root canal include:
 
-    - **Loose tooth.** When the root of a tooth becomes infected, it can kill the nerve and weaken the surrounding enamel, causing it to lose its stability.
-    - **Swollen gums.** The infection of the tooth may lead to contamination of the surrounding gums. The swelling might come and go, or your gums may have a white pimple on it, known as an abscess. Abscesses sometimes ooze pus.
-    - **Chipped or cracked tooth.** When a tooth chips or cracks, it can damage the nerve and leave the root exposed to potential bacteria and infection.
-    - **Dark tooth discoloration.** A tooth may become grey or blackened when the underlying roots and nerves are damaged.
-    - **Persistent tooth pain.** A deeply infected tooth and its surrounding neighbors and bone may hurt all the time or reoccur in waves. While this may not always be the fault of a root canal infection, you should always see your dentist if you have constant toothaches or pain.
-    - **Temperature sensitivity.** A root canal infection can make enjoying hot and cold food and drinks painful. The discomfort can either be a sharp, severe pain or a persistent, dull ache.
-    - Please note that this is not a comprehensive list, and sometimes there are no symptoms present. It's important to speak with your dentist to diagnose whether you need a root canal. If you believe you may need a root canal, call our office at (832) 916-4144 to schedule a consultation.
+    * **Loose tooth.** When the root of a tooth becomes infected, it can kill the nerve and weaken the surrounding enamel, causing it to lose its stability.
+    * **Swollen gums.** The infection of the tooth may lead to contamination of the surrounding gums. The swelling might come and go, or your gums may have a white pimple on it, known as an abscess. Abscesses sometimes ooze pus.
+    * **Chipped or cracked tooth.** When a tooth chips or cracks, it can damage the nerve and leave the root exposed to potential bacteria and infection.
+    * **Dark tooth discoloration.** A tooth may become grey or blackened when the underlying roots and nerves are damaged.
+    * **Persistent tooth pain.** A deeply infected tooth and its surrounding neighbors and bone may hurt all the time or reoccur in waves. While this may not always be the fault of a root canal infection, you should always see your dentist if you have constant toothaches or pain.
+    * **Temperature sensitivity.** A root canal infection can make enjoying hot and cold food and drinks painful. The discomfort can either be a sharp, severe pain or a persistent, dull ache.
+    * Please note that this is not a comprehensive list, and sometimes there are no symptoms present. It's important to speak with your dentist to diagnose whether you need a root canal. If you believe you may need a root canal, call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to schedule a consultation.
   lists: []
 - template: text-1
   block: text-1
