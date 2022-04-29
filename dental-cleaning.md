@@ -233,7 +233,7 @@ blocks:
   heading: WHAT IF I NEED FURTHER DENTAL TREATMENT?
   text: WE MAKE YOUR NEXT STEPS SIMPLE
   content: |-
-    If your hygienist or dentist finds something, such as a tooth cavity or decay, during your dental exam, there’s no need to worry. At Nu Dentistry, we understand that it can be scary or nerve-wracking to need restorative treatment done, but we make everything easy and stress-free when it comes to your next appointment.
+    If your hygienist or dentist finds something, such as a <a href='/houston-tx/restorative-dentistry/cavity-fillings/' target='_blank' class='paragraph-link'>tooth cavity or decay</a>, during your dental exam, there’s no need to worry. At Nu Dentistry, we understand that it can be scary or nerve-wracking to need restorative treatment done, but we make everything easy and stress-free when it comes to your next appointment.
 
     Our friendly, professional dentists will go over all of your treatment options with you and come up with the least invasive and most affordable option to keep you at optimum oral health. We’ll work with you and your insurance provider to make sure that you’re never breaking the bank to take care of yourself.
 
