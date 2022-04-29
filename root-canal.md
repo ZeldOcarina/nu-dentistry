@@ -159,8 +159,9 @@ blocks:
   color: light
   faqs:
   - heading: DO ROOT CANALS HURT?
-    content: Thanks to modern technology, anesthesia, and sedation methods your procedure
-      can be relatively painless. Your tooth and the surrounding area will be completely
+    content: Thanks to modern technology, anesthesia, and <a href='/houston-tx/specialty-dentistry/sedation-dentistry/'
+      target='_blank' class='paragraph-link'>sedation methods</a> your procedure can
+      be relatively painless. Your tooth and the surrounding area will be completely
       numb throughout your treatment. At Nu Dentistry, we pride ourselves on keeping
       our patients comfortable and relaxed, even during intensive procedures.
   - heading: HOW MUCH DOES A ROOT CANAL COST?
