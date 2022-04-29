@@ -162,7 +162,7 @@ blocks:
   align: center
   columns: '3'
   gutter: small
-  superheading: "// Oral Hygiene, Bellflower, Ca"
+  superheading: "// Oral Hygiene, Houston, TX"
   heading: 6 DAILY ORAL HYGIENE TIPS FOR A HEALTHY SMILE!
   text: YOUR ORAL HYGIENE IS IMPORTANT TO YOUR WHOLE BODY HEALTH
   cards:
