@@ -228,8 +228,9 @@ blocks:
   - heading: IS IT PAINFUL TO GET A DEEP CLEANING AT THE DENTIST?
     content: Not at all! Using a local anesthetic, your periodontist will make sure
       that your teeth and gums are fully numb throughout your deep cleaning. If you’re
-      at all nervous about your treatment, our office also offers a selection of sedation
-      options to soothe your dental anxiety.
+      at all nervous about your treatment, our office also offers a selection of <a
+      href='/houston-tx/specialty-dentistry/sedation-dentistry/' target='_blank' class='paragraph-link'>sedation
+      options</a> to soothe your dental anxiety.
   - heading: CAN PERIODONTAL DISEASE KILL YOU?
     content: While you can’t die directly from periodontal disease, there is a significant
       link between gum disease and other serious health problems. At its worst, bacteria
