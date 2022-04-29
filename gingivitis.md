@@ -172,7 +172,7 @@ blocks:
 
     **Pocket Reduction Procedure.** A deep cleaning can clear up the bacteria and plaque that have formed, but it can’t stop more from burrowing their way under your gum line. Gum pockets can be so deep that keeping them clean becomes increasingly difficult or seemingly impossible. If this is the case, your periodontist may recommend you receive a pocket reduction. This treatment involves removing the infected tissue and allows the gums to try reattaching themselves to the teeth.
 
-    Do you need to schedule an appointment with a periodontist? Call our office at (832) 916-4144.
+    Do you need to schedule an appointment with a periodontist? Call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a>.
   lists: []
 - template: cta-1
   block: cta-1
