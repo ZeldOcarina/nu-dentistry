@@ -92,7 +92,8 @@ blocks:
     * **Dark tooth discoloration.** A tooth may become grey or blackened when the underlying roots and nerves are damaged.
     * **Persistent tooth pain.** A deeply infected tooth and its surrounding neighbors and bone may hurt all the time or reoccur in waves. While this may not always be the fault of a root canal infection, you should always see your dentist if you have constant toothaches or pain.
     * **Temperature sensitivity.** A root canal infection can make enjoying hot and cold food and drinks painful. The discomfort can either be a sharp, severe pain or a persistent, dull ache.
-    * Please note that this is not a comprehensive list, and sometimes there are no symptoms present. It's important to speak with your dentist to diagnose whether you need a root canal. If you believe you may need a root canal, call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to schedule a consultation.
+
+    Please note that this is not a comprehensive list, and sometimes there are no symptoms present. It's important to speak with your dentist to diagnose whether you need a root canal. If you believe you may need a root canal, call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to schedule a consultation.
   lists: []
 - template: text-1
   block: text-1
