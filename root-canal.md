@@ -116,7 +116,7 @@ blocks:
 
     Your endodontist will remove the infected pulp and clean the tooth before sealing with a temporary filling. Once the tooth has healed, your tooth will be permanently filled and sealed. While the outer enamel will remain untouched, your original tooth will be vulnerable and weak without its pulp. In many cases, the endodontist will surround your original tooth with a crown to protect it from being vulnerable and weak. Post root canal sensitivity is common but will usually subside within a short period of time.
 
-    You will be given instructions for proper care after your appointments.Also, regular dental hygiene and dental visits are imperative to extend the length of your root canal treatment and overall dental health. A root canal is often the last defense in preserving a tooth. If the decay is too severe for a root canal procedure to be done, your dentist may suggest that the tooth be removed to prevent further infection or complications. Let us get you out of pain. Give us a call today.
+    You will be given instructions for proper care after your appointments.Also, regular dental hygiene and dental visits are imperative to extend the length of your root canal treatment and overall dental health. A root canal is often the last defense in preserving a tooth. If the decay is too severe for a root canal procedure to be done, your dentist may suggest that the <a href='/houston-tx/emergency-dentistry/tooth-extraction/' target='_blank' class='paragraph-link'>tooth be removed</a> to prevent further infection or complications. Let us get you out of pain. Give us a call today.
   lists: []
 - template: cta-1
   block: cta-1
