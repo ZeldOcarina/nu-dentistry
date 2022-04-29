@@ -135,8 +135,9 @@ blocks:
     copy: In the last and most severe form of periodontitis, a patient’s gums, bones,
       and connective tissue are not only damaged but destroyed. Teeth shift or further
       loosen, and they can eventually fall out if aggressive treatment is not immediately
-      given. Even if the teeth haven’t fallen out, your dentist may **remove them**
-      to save you a lot of pain and time in the future.
+      given. Even if the teeth haven’t fallen out, your dentist may <a href='/houston-tx/emergency-dentistry/tooth-extraction/'
+      target='_blank' class='paragraph-link'>remove them</a> to save you a lot of
+      pain and time in the future.
     image: "/uploads/nu-dentistry-houston-tx-gum-disease-4.jpg"
     overlay:
       color: ''
