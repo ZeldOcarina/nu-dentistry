@@ -166,7 +166,7 @@ blocks:
 
     **At-home dental care.** The number one way to fight periodontal disease, especially in the earliest stage, is to establish a good, healthy oral hygiene routine. Flossing once and brushing your teeth at least twice a day are critical to clearing your teeth of plaque and bacteria and keeping them from building up again. You may also want to look into a toothbrush that works well for you, mainly because having the right brushing technique can change the effectiveness of your strokes.
 
-    **Deep cleaning.** A procedure also called scaling and root planing. This procedure goes a bit deeper than your standard cleaning by scraping away the plaque buildup beneath the gums and smooths the teeth to prevent bacteria from forming again later. This treatment can be performed for your whole mouth or any of the four quadrants (upper right, upper left, lower right, lower left.)
+    **Deep cleaning.** A procedure also called scaling and root planing. This procedure goes a bit deeper than your <a href='/houston-tx/general-dentistry/dental-cleaning/' target='_blank' class='paragraph-link'>standard cleaning</a> by scraping away the plaque buildup beneath the gums and smooths the teeth to prevent bacteria from forming again later. This treatment can be performed for your whole mouth or any of the four quadrants (upper right, upper left, lower right, lower left.)
 
     **Bone and tissue grafting.** In the worst stages, gum disease can cause gums and bones to deteriorate. When this happens, your dentist may need to perform a graft to replace and repair what’s missing. Grafting helps keep teeth secured and supported in your mouth and can be the deciding factor between you and loose or fallen teeth.
 
