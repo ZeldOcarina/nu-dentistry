@@ -164,7 +164,7 @@ blocks:
   gutter: small
   superheading: "// Oral Hygiene, Bellflower, Ca"
   heading: 6 DAILY ORAL HYGIENE TIPS FOR A HEALTHY SMILE!
-  text: Your oral hygiene is important to your whole body health
+  text: YOUR ORAL HYGIENE IS IMPORTANT TO YOUR WHOLE BODY HEALTH.
   cards:
   - heading: GO ELECTRIC
     copy: The use of an electric toothbrush is one of the best ways to ensure that
