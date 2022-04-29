@@ -123,11 +123,11 @@ blocks:
     text: |-
       Your dental hygienist keeps your smile happy and healthy by clearing plaque and tartar buildup. This process focuses on:
 
-      - Tartar and stain removal
-      - Tooth scaling
-      - Tooth polishing
-      - Gum disease prevention
-      - Cavity prevention
+      * <a href='/houston-tx/cosmetic-dentistry/pro-teeth-whitening/' target='_blank' class='paragraph-link'>Tartar and stain removal</a>
+      * Tooth scaling
+      * Tooth polishing
+      * Gum disease prevention
+      * Cavity prevention
     image: https://via.placeholder.com/800
     overlay:
       opacity: 0.5
