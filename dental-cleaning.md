@@ -58,7 +58,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: SUPER SMOOTH DENTAL CLEANING IN HOUSTON, TEXAS
-  text: TRUST THE TEAM THAT’S DEDICATED TO YOUR ORAL HEALTH.
+  text: TRUST THE TEAM THAT’S DEDICATED TO YOUR ORAL HEALTH
   content: |-
     Maintaining healthy teeth and gums is essential to both your smile and your overall health, but here at Nu Dentistry, we know it’s almost impossible to do it alone. That’s why we recommend you visit our office for general dental cleanings and exams every 3, 4, or 6 months, depending on your dental history.
 
@@ -85,7 +85,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: WHAT IS A DEEP CLEANING?
-  text: WE ENSURE YOUR SMILE STAYS INTACT WITH DEEP CLEANINGS.
+  text: WE ENSURE YOUR SMILE STAYS INTACT WITH DEEP CLEANINGS
   content: |-
     When performing your general cleaning, your hygienist might decide that you may need a deep cleaning as well. A deep cleaning is a treatment that, just like with your general cleaning, will clear your teeth of hardened plaque and tartar, only it’ll go a little deeper—into your gums and down to the bottom of your roots. There’s no surgery or invasive treatment involved. Completing your treatment may take several visits. We want to be as thorough as possible, making sure that your gums are fully free from plaque buildup. But you may be wondering, is it really as important as your dentist says? The answer is, YES!
 
@@ -105,7 +105,7 @@ blocks:
   superheading: ''
   heading: WHAT TO EXPECT DURING MY DENTAL HYGIENE APPOINTMENT
   text: WE TAKE OUT THE UNCERTAINTY TO ENSURE YOU’RE ALWAYS COMFORTABLE DURING YOUR
-    APPOINTMENT.
+    APPOINTMENT
   cards:
   - heading: COMPLETE EXAM
     text: |-
@@ -164,7 +164,7 @@ blocks:
   gutter: small
   superheading: "// Oral Hygiene, Bellflower, Ca"
   heading: 6 DAILY ORAL HYGIENE TIPS FOR A HEALTHY SMILE!
-  text: YOUR ORAL HYGIENE IS IMPORTANT TO YOUR WHOLE BODY HEALTH.
+  text: YOUR ORAL HYGIENE IS IMPORTANT TO YOUR WHOLE BODY HEALTH
   cards:
   - heading: GO ELECTRIC
     copy: The use of an electric toothbrush is one of the best ways to ensure that
@@ -253,7 +253,7 @@ blocks:
   overlay_size: center
   heading: JOIN THE NU DENTISTRY FAMILY!
   text: 
-  superheading: WE'RE DEDICATED TO YOUR COMPLETE DENTAL HAPPINESS.
+  superheading: WE'RE DEDICATED TO YOUR COMPLETE DENTAL HAPPINESS
   button:
     text: Request an appointment
     url: ''
