@@ -158,7 +158,9 @@ blocks:
     content: Depending on the materials used, the amount of prep work needed, and
       your level of dental insurance coverage, the cost of your crown can vary. If
       you’re concerned about the costs of your upcoming crown, you can call our office
-      at (832) 916-4144 to discuss your financial options.
+      at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to
+      discuss your <a href='/dental-financing/' target='_blank' class='paragraph-link'>financial
+      options</a>.
   - heading: HOW LONG DO CROWNS LAST?
     content: On average, porcelain crowns are sturdy and can last around 15 years.
       However, their longevity mostly depends on you and your oral hygiene. Patients
