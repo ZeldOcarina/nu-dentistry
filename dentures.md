@@ -129,12 +129,13 @@ blocks:
       text: Learn More
       url: ''
   - heading: IMPLANT-SUPPORTED
-    copy: Patients who want a more stabilized bite and speech can choose to have implant-supported
-      dentures. Implants are metal posts or screws anchored and fused to your jawbone
-      through surgery. They’re connected to your dentures by a piece called an abutment.
-      While the implants are not removable, your replacement teeth are, making them
-      just as easy to maintain and clean as other dentures. A denture with implants
-      is also extremely natural-looking and long-lasting.
+    copy: Patients who want a more stabilized bite and speech can choose to have <a
+      href='/houston-tx/restorative-dentistry/dental-implants/' target='_blank' class='paragraph-link'>implant-supported
+      dentures</a>. Implants are metal posts or screws anchored and fused to your
+      jawbone through surgery. They’re connected to your dentures by a piece called
+      an abutment. While the implants are not removable, your replacement teeth are,
+      making them just as easy to maintain and clean as other dentures. A denture
+      with implants is also extremely natural-looking and long-lasting.
     image: "/uploads/buena-park-restorative-dentistry-implants-denture-implants.jpg"
     overlay:
       color: ''
