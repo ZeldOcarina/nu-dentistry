@@ -209,8 +209,9 @@ blocks:
       for a regular smile whitening session. They also follow up with good dental
       hygiene and habits that preserve the brightness of their teeth as long as possible,
       such as staying away from soda and wine when they can. Some celebrities get
-      veneers instead if they also want to change the look and shape of their teeth
-      as well.
+      <a href='/houston-tx/cosmetic-dentistry/porcelain-veneers/' target='_blank'
+      class='paragraph-link'>veneers</a> instead if they also want to change the look
+      and shape of their teeth as well.
   - heading: WHAT IS THE DIFFERENCE BETWEEN LASER TEETH WHITENING AND BLEACHING?
     content: Laser teeth whitening can be done in the dentist's office, and a single
       treatment only takes 15-60 minutes. Within a single session, you'll start to
