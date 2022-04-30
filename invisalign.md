@@ -80,7 +80,7 @@ blocks:
   align: left
   columns: '2'
   superheading: 
-  heading: INVISALIGN VS. BRACES
+  heading: INVISALIGN VS BRACES
   text: HOW DO YOU DECIDE WHICH IS RIGHT FOR YOU?
   content: 'Clear aligners and braces serve the same purpose and address the same
     problems: crowded or crooked teeth, overjet, over and underbite, and even incorrectly
@@ -92,13 +92,14 @@ blocks:
     risk damaging their braces. Clear aligners, however, are easily removable, making
     eating and caring for your teeth a breeze in comparison. With traditional orthodontics,
     patients often find it more challenging to keep up with their dental hygiene,
-    considering it a hassle. Poor oral hygiene often leads to cavities and other dental
-    issues, which can be complicated to treat when maneuvering around their braces.
-    A major benefit to clear aligners is their ability to be removed. Invisalign is
-    at its most effective when it''s worn at least 22 hours every day. You can remove
-    them, so you don''t have to be self-conscious about your smile at special outings
-    or while eating with friends and family. However, the more you leave your trays
-    off, the more slowly your treatment will progress.'
+    considering it a hassle. Poor oral hygiene often leads to <a href=''/houston-tx/restorative-dentistry/cavity-fillings/''
+    target=''_blank'' class=''paragraph-link''>cavities</a> and other dental issues,
+    which can be complicated to treat when maneuvering around their braces. A major
+    benefit to clear aligners is their ability to be removed. Invisalign is at its
+    most effective when it''s worn at least 22 hours every day. You can remove them,
+    so you don''t have to be self-conscious about your smile at special outings or
+    while eating with friends and family. However, the more you leave your trays off,
+    the more slowly your treatment will progress.'
   lists: []
 - template: text-1
   block: text-1
