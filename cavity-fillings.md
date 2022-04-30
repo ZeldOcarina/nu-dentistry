@@ -88,7 +88,7 @@ blocks:
   content: |-
     Getting a cavity isn’t the end of the world, and we can treat yours quickly and efficiently. Using top-of-the-line equipment and devices, we will numb the area around your tooth and remove any decay painlessly. Your tooth will be sanitized to prepare it for filling. We will then fill the cleaned area with either composite resin or porcelain to renew your tooth to its natural state.
 
-    Our dentists take the time to ensure that the shape of your filling fits precisely with your bite. We always want to make sure that your tooth looks and feels just as it did when it was at full health. At NuDentistry, our detailed dentists make sure that the color of your dental fillings always matches perfectly with the rest of your teeth.
+    Our dentists take the time to ensure that the shape of your filling fits precisely with your bite. We always want to make sure that your tooth looks and feels just as it did when it was at full health. At Nu Dentistry, our detailed dentists make sure that the color of your dental fillings always matches perfectly with the rest of your teeth.
 
     We offer tooth-colored composite and porcelain fillings that blend in with your natural tooth, leaving you with a flawless smile! For those who want more of an aesthetic pop with their fillings, we also offer alternative material options, including gold and other metals. If you wish to discuss options for your upcoming procedure with your dentist, contact our office today.
   lists: []
@@ -107,9 +107,9 @@ blocks:
   heading: PAIN-FREE FILLINGS AND RESTORATIONS
   text: LEAVE THE STRESS BEHIND DURING YOUR FILLING WITH SEDATION DENTISTRY!
   copy: |-
-    At Nu Dentistry, we're well-aware that patients can be nervous about their upcoming filling, especially if they've had bad experiences in the past with less than stellar dentists. That's why we commit ourselves so completely to our patients' full comfort. If you're interested in using one of these options for your upcoming treatment, call us today at (832) 916-4144.
+    At Nu Dentistry, we're well-aware that patients can be nervous about their upcoming filling, especially if they've had bad experiences in the past with less than stellar dentists. That's why we commit ourselves so completely to our patients' full comfort. If you're interested in using one of these options for your upcoming treatment, call us today at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a>.
 
-    While our office offers local anesthesia for all restorations to numb the tooth and surrounding area thoroughly, we also have several **[sedation options](/houston-tx/specialty-dentistry/sedation-dentistry/)** available upon request:
+    While our office offers local anesthesia for all restorations to numb the tooth and surrounding area thoroughly, we also have several <a href='/houston-tx/specialty-dentistry/sedation-dentistry/' target='_blank' class='paragraph-link'>sedation options</a> available upon request:
   image: ''
   cards:
   - heading: NITROUS OXIDE
