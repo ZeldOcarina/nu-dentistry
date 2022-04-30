@@ -156,7 +156,7 @@ blocks:
 
     Oral sedation allows you to stay awake and puts your mind at ease throughout your procedures. For patients who prefer it, we can use IV sedation to keep you asleep throughout your procedures. Your time with us will be over before you know it! Our sedation dentists can help you decide which method is right for your needs.
 
-    Save yourself time and discomfort by having most of your procedures finished in a single appointment! With sedation dentistry, we can make your time in our office as efficient as possible without putting a strain on your daily life. If you're ready to schedule your treatments, call our office at **(832) 916-4144** today!
+    Save yourself time and discomfort by having most of your procedures finished in a single appointment! With sedation dentistry, we can make your time in our office as efficient as possible without putting a strain on your daily life. If you're ready to schedule your treatments, call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> today!
   lists: []
 - template: cta-1
   block: cta-1
