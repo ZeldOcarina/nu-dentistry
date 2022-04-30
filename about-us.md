@@ -106,12 +106,14 @@ blocks:
     that a trip to the dentist can seem daunting, so we stop at nothing to ensure
     your total comfort and satisfaction. For those patients with dental anxiety or
     who want to complete multiple procedures in a single visit, we also have available
-    upon request several safe and relaxing sedation options. From laughing gas and
-    oral sedation to both conscious and unconscious IV sedation, our dentists are
-    fully prepared to help you stay calm and comfortable, both in body and mind, throughout
-    your visit. Do you have any other questions about the amazing technologies we
-    have in our Houston office? Don't hesitate to give us a call at (832) 916-4144!
-    We're eager to share with you everything we've put together for your benefit.
+    upon request several safe and relaxing <a href='/houston-tx/specialty-dentistry/sedation-dentistry/'
+    target='_blank' class='paragraph-link'>sedation options</a>. From laughing gas
+    and oral sedation to both conscious and unconscious IV sedation, our dentists
+    are fully prepared to help you stay calm and comfortable, both in body and mind,
+    throughout your visit. Do you have any other questions about the amazing technologies
+    we have in our Houston office? Don't hesitate to give us a call at <a href='tel:+8329164144'
+    title='Click to Call Us'>(832) 916-4144</a>! We're eager to share with you everything
+    we've put together for your benefit.
   lists: []
 - template: cta-1
   block: cta-1
