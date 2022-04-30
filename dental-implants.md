@@ -129,9 +129,10 @@ blocks:
       opacity: 0.5
       color: ''
   - heading: BONE GRAFT
-    text: YWhen left alone too long, a tooth extraction or gum disease can deteriorate
-      the jawbone, not leaving enough bone to hold an implant. A bone graft is needed
-      to strengthen the jaw with new bone before the post or screw can be placed.
+    text: YWhen left alone too long, a tooth extraction or <a href='/houston-tx/emergency-dentistry/gingivitis/'
+      target='_blank' class='paragraph-link'>gum disease</a> can deteriorate the jawbone,
+      not leaving enough bone to hold an implant. A bone graft is needed to strengthen
+      the jaw with new bone before the post or screw can be placed.
     image: "/uploads/infographic-large-2.png"
     overlay:
       opacity: 0.5
