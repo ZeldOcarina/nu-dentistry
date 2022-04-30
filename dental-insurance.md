@@ -198,10 +198,11 @@ blocks:
       must consider several factors. What do you expect each member of your family
       will need? If you know that your child will need braces or that someone in your
       family will need to replace a missing tooth, make sure that you find dental
-      insurance that covers implants, orthodontic treatment, or any other expected
-      dental treatments. When looking at costs, you may be tempted to look solely
-      at premium prices. However, you should consider all costs—deductibles, maximum
-      annual limits, and out of pocket expenses.
+      insurance that covers implants, <a href='/houston-tx/cosmetic-dentistry/invisalign/'
+      target='_blank' class='paragraph-link'>orthodontic treatment</a>, or any other
+      expected dental treatments. When looking at costs, you may be tempted to look
+      solely at premium prices. However, you should consider all costs—deductibles,
+      maximum annual limits, and out of pocket expenses.
   - heading: WHY IS PPO INSURANCE BETTER THAN HMO INSURANCE?
     content: PPO insurance often has higher premiums than Health Maintenance Organization
       (HMO) plans. However, there’s more to choosing your plan than how much is dental
