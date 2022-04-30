@@ -62,7 +62,7 @@ blocks:
   text: AT NU DENTISTRY, YOU DON’T HAVE TO WORRY ABOUT THE COST OF YOUR DENTAL PROCEDURES
     ANY LONGER.
   content: |-
-    One of patients’ biggest fears, when they step into their dentist’s office, isn’t their upcoming cavity filling, tooth extraction, or implant surgery—it’s how they’re going to pay for it. Even with a good dental insurance plan, there’s no guarantee that everything will be fully covered. So, what’s there for you to do when you need immediate treatment? At Nu Dentistry, we offer multiple dental financing options to ensure that you never have to put off your necessary visits again!
+    One of patients’ biggest fears, when they step into their dentist’s office, isn’t their upcoming <a href='/houston-tx/restorative-dentistry/cavity-fillings/' target='_blank' class='paragraph-link'>cavity filling</a>, tooth extraction, or implant surgery—it’s how they’re going to pay for it. Even with a good <a href='/dental-insurance/' target='_blank' class='paragraph-link'>dental insurance plan</a>, there’s no guarantee that everything will be fully covered. So, what’s there for you to do when you need immediate treatment? At Nu Dentistry, we offer multiple dental financing options to ensure that you never have to put off your necessary visits again!
 
     Our dedicated dentists do everything we can to make sure that your treatments are always affordable, from approved insurance providers and Care Credit to our in-house financing programs. We’re fully prepared to work with you, discussing your choices and opportunities so you can make the right economic decision for your wallet.
 
