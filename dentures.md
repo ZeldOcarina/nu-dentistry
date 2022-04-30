@@ -224,9 +224,9 @@ blocks:
       will be made (partial, full, implant-supported)? What materials will be used
       (acrylic, cast metal, flexible plastic)? Will there be immediate dentures prepared
       following extraction? If you’re at all concerned about your replacement teeth
-      costs, contact our office to discuss your financial options. We want to make
-      sure that our patients always receive the dentures they deserve in a manner
-      they can afford.
+      costs, contact our office to discuss your <a href='/dental-financing/' target='_blank'
+      class='paragraph-link'>financial options</a>. We want to make sure that our
+      patients always receive the dentures they deserve in a manner they can afford.
   - heading: DO IMMEDIATE DENTURES LOOK NATURAL?
     content: Immediate dentures are prepared through molds of your teeth prior to
       extraction, so they’re just as natural-looking as regular dentures. Our dentists
