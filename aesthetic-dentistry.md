@@ -104,18 +104,19 @@ blocks:
   heading: BRING OUT THE NEW YOU WITH VENEERS
   text: YOUR COSMETIC DENTIST WILL HELP YOU FALL IN LOVE WITH YOUR SMILE
   content: Do you know precisely what your smile should look like, but your teeth
-    never listen? We can help you bring your vision to life with veneers! Veneers
-    are thin, 0.5mm thick porcelain or ceramic tooth facades which layer over your
-    existing teeth to make them look impeccable. They're highly versatile, able to
-    correct chipped, crooked, worn down, stained, unshapely, and uneven teeth. With
-    proper dental upkeep and eating habits, yours can last 10 to 15 years. We're artists
-    when it comes to your new teeth. Whether you're looking to improve one or a dozen
-    teeth, we're experts at color matching your veneers. From dazzling, Hollywood-white,
-    or a more charming, natural shade, our cosmetic dentists will listen to what you
-    need to stand out and stand confident with your upgraded smile. We want your veneers
-    to not only look like your real teeth but feel like them too. To keep your veneers
-    from feeling bulky or noticeable in your mouth, the process will involve shaving
-    your existing teeth down so that your cosmetic treatment fits like a glove.
+    never listen? We can help you bring your vision to life with <a href='/houston-tx/cosmetic-dentistry/porcelain-veneers/'
+    target='_blank' class='paragraph-link'>veneers</a>! Veneers are thin, 0.5mm thick
+    porcelain or ceramic tooth facades which layer over your existing teeth to make
+    them look impeccable. They're highly versatile, able to correct chipped, crooked,
+    worn down, stained, unshapely, and uneven teeth. With proper dental upkeep and
+    eating habits, yours can last 10 to 15 years. We're artists when it comes to your
+    new teeth. Whether you're looking to improve one or a dozen teeth, we're experts
+    at color matching your veneers. From dazzling, Hollywood-white, or a more charming,
+    natural shade, our cosmetic dentists will listen to what you need to stand out
+    and stand confident with your upgraded smile. We want your veneers to not only
+    look like your real teeth but feel like them too. To keep your veneers from feeling
+    bulky or noticeable in your mouth, the process will involve shaving your existing
+    teeth down so that your cosmetic treatment fits like a glove.
   lists: []
 - template: text-1
   block: text-1
