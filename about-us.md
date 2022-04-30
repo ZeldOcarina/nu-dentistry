@@ -50,14 +50,29 @@ blocks:
   superheading: 
   heading: AFFORDABLE LUXURY DENTAL OFFICE IN HOUSTON, TX
   text: WE’RE DEDICATED TO PROVIDING YOU WITH THE BEST DENTAL EXPERIENCE, EVERY TIME.
-  content: |-
-    At Nu Dentistry, we're prepared to give you a dental experience unlike any you've ever had. From the moment you walk through our front doors, our kind and caring staff greet you with a smile and streamline the check-in process. You'll never have to wait more than a handful of minutes before seeing your dentist. Here you will find a fun and relaxed office that was designed with you in mind. Our goal is to create a warm and inviting atmosphere to help you enjoy your visits throughout your journey to a beautiful new smile.
-
-    Each of our individual patient suites is entirely private, with etched glass doors that keep your discussions with your dentist safely between the two of you. We also furnish each room with two television screens ready to stream Netflix, Hulu, YouTube, and other available platforms. They're stationed one in front of you and one mounted above you on the ceiling so that you can always watch whether you're sitting upright or lying back during your procedure. We also offer wireless Bluetooth headphones to help you fully emerge yourself
-
-    in your favorite TV shows and movies, even mid-treatment. Our state-of-the-art technology ensures that you'll receive optimum results as well. We are proud to use the latest technology such as iTero, digital impressions, and all digital x-rays in our very own office. We try to keep everything as in-house as we can, including our dental implant surgeries, <a href='/houston-tx/cosmetic-dentistry/aesthetic-dentistry/' target='_blank' class='paragraph-link'>cosmetic dentistry options</a>, and even our patient payment programs, so that everything is easily accessible and convenient for you.
-
-    Are you ready to schedule an appointment at our incredible, modern office? Connect with our dental team at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to book your next visit today!
+  content: "At Nu Dentistry, we're prepared to give you a dental experience unlike
+    any you've ever had. From the moment you walk through our front doors, our kind
+    and caring staff greet you with a smile and streamline the check-in process. You'll
+    never have to wait more than a handful of minutes before seeing your dentist.
+    Here you will find a fun and relaxed office that was designed with you in mind.
+    Our goal is to create a warm and inviting atmosphere to help you enjoy your visits
+    throughout your journey to a beautiful new smile.\n\nEach of our individual patient
+    suites is entirely private, with etched glass doors that keep your discussions
+    with your dentist safely between the two of you. We also furnish each room with
+    two television screens ready to stream Netflix, Hulu, YouTube, and other available
+    platforms. They're stationed one in front of you and one mounted above you on
+    the ceiling so that you can always watch whether you're sitting upright or lying
+    back during your procedure. \n\nWe also offer wireless Bluetooth headphones to
+    help you fully emerge yourself in your favorite TV shows and movies, even mid-treatment.
+    Our state-of-the-art technology ensures that you'll receive optimum results as
+    well. We are proud to use the latest technology such as iTero, digital impressions,
+    and all digital x-rays in our very own office. We try to keep everything as in-house
+    as we can, including our dental implant surgeries, <a href='/houston-tx/cosmetic-dentistry/aesthetic-dentistry/'
+    target='_blank' class='paragraph-link'>cosmetic dentistry options</a>, and even
+    our patient payment programs, so that everything is easily accessible and convenient
+    for you.\n\nAre you ready to schedule an appointment at our incredible, modern
+    office? Connect with our dental team at <a href='tel:+8329164144' title='Click
+    to Call Us'>(832) 916-4144</a> to book your next visit today!"
   lists: []
 - template: text-1
   block: text-1
