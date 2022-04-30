@@ -121,8 +121,9 @@ blocks:
     they have doesn’t cover the total cost. Our Houston office is flexible because
     we believe that everyone should have access to amazing dental care, no matter
     their financial situation. If you have any questions or concerns about our payment
-    programs, don’t hesitate to contact us at (832) 916-4144. We’re always happy to
-    discuss your financial options and make things that little bit easier for you.
+    programs, don’t hesitate to contact us at <a href='tel:+8329164144' title='Click
+    to Call Us'>(832) 916-4144</a>. We’re always happy to discuss your financial options
+    and make things that little bit easier for you.
   lists: []
 - template: cta-1
   block: cta-1
