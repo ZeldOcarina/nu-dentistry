@@ -173,9 +173,9 @@ blocks:
       unique terms, down payment options, and interest for each of our services. Our
       dentists are experts at what we do and know how to break down each part of the
       treatment process, meaning we know exactly how to shift things in your favor.
-      For example, if you’re having trouble with your dental implant financing, you
-      can work with your periodontist to put together a payment plan that works for
-      everyone!
+      For example, if you’re having trouble with your <a href='/houston-tx/restorative-dentistry/dental-implants/'
+      target='_blank' class='paragraph-link'>dental implant</a> financing, you can
+      work with your periodontist to put together a payment plan that works for everyone!
   - heading: 'WHICH IS BETTER: DENTAL INSURANCE OR DENTAL DISCOUNT PLAN?'
     content: While your dental insurance can cover quite a bit of your dental bill
       each year, dental discounts aren’t something to scoff at either. While no one
