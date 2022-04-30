@@ -122,11 +122,12 @@ blocks:
   - heading: IV SEDATION
     copy: 'Patients with extreme dental fear or anxiety often select this option.
       IV Sedation is also an excellent option for those who would like multiple procedures
-      performed in a single day, such as multiple extractions, implants, or root canals.
-      It is given intravenously to offer a maximum level of relaxation. There are
-      two levels of IV sedation: "twilight" and "deep" sedation. Twilight sedation
-      leaves patients awake, though somewhat loopy, and likely to fall asleep. Deep
-      sedation is a form of unconscious sedation.'
+      performed in a single day, such as multiple extractions, implants, or <a href=''/houston-tx/emergency-dentistry/root-canal/''
+      target=''_blank'' class=''paragraph-link''>root canals</a>. It is given intravenously
+      to offer a maximum level of relaxation. There are two levels of IV sedation:
+      "twilight" and "deep" sedation. Twilight sedation leaves patients awake, though
+      somewhat loopy, and likely to fall asleep. Deep sedation is a form of unconscious
+      sedation.'
     image: "/uploads/nu-dentistry-houston-tx-cavity-filling-3.jpg"
     overlay:
       color: ''
