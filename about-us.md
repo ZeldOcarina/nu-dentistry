@@ -49,7 +49,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: AFFORDABLE LUXURY DENTAL OFFICE IN HOUSTON, TX
-  text: WE’RE DEDICATED TO PROVIDING YOU WITH THE BEST DENTAL EXPERIENCE, EVERY TIME.
+  text: WE’RE DEDICATED TO PROVIDING YOU WITH THE BEST DENTAL EXPERIENCE, EVERY TIME
   content: "At Nu Dentistry, we're prepared to give you a dental experience unlike
     any you've ever had. From the moment you walk through our front doors, our kind
     and caring staff greet you with a smile and streamline the check-in process. You'll
@@ -89,7 +89,7 @@ blocks:
   columns: '2'
   superheading: 
   heading: OUR TOP-OF-THE-LINE TECHNOLOGIES
-  text: AT NU DENTISTRY, STRESS-FREE DENTAL CARE IS POSSIBLE WITH US.
+  text: AT NU DENTISTRY, STRESS-FREE DENTAL CARE IS POSSIBLE WITH US
   content: Our modern Houston dental office is designed with our patients' total comfort
     in mind. We're not content with just satisfactory dental care—we make sure that
     we're unmatched in our field. Nu Dentistry is equipped with the latest and greatest
