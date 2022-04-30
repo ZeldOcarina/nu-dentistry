@@ -117,9 +117,8 @@ blocks:
   color: light
   align: left
   superheading: ''
-  heading: WHAT IS THE DENTAL IMPLANT PROCESS?
-  text: DURING THE TOOTH IMPLANT PROCESS, WE WANT YOUR JOURNEY TO NEW TEETH TO BE
-    A NO-BRAINER
+  heading: WHAT IS THE TOOTH IMPLANT PROCESS?
+  text: DURING THE IMPLANT PROCESS, WE WANT YOUR JOURNEY TO NEW TEETH TO BE A NO-BRAINER
   cards:
   - heading: CONSULTATION
     text: Our dentists will thoroughly examine your mouth and discuss your options
