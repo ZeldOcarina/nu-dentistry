@@ -178,12 +178,14 @@ blocks:
       you want to spend time trying to find another amazing dentist you trust, you
       should make sure that your dentist supports and accepts your plan.
   - heading: WHAT DO I DO IF I DON’T HAVE DENTAL INSURANCE?
-    content: If you don’t have dental insurance, we also have alternative financing
-      options that can help ease the stress of paying for your dental treatments.
-      Some of your choices include CareCredit financing, in-house financing programs,
-      and our discount dental plans on certain services. If you have any questions
-      about these options, don’t hesitate to contact us at (832) 916-4144, and we’ll
-      happily help you find the option(s) that work best for you.
+    content: If you don’t have dental insurance, we also have <a href='/dental-financing/'
+      target='_blank' class='paragraph-link'>alternative financing options</a> that
+      can help ease the stress of paying for your dental treatments. Some of your
+      choices include CareCredit financing, in-house financing programs, and our discount
+      dental plans on certain services. If you have any questions about these options,
+      don’t hesitate to contact us at <a href='tel:+8329164144' title='Click to Call
+      Us'>(832) 916-4144</a>, and we’ll happily help you find the option that work
+      best for you.
   - heading: WHAT IF MY EMPLOYER DOES NOT OFFER DENTAL INSURANCE?
     content: If your employer doesn’t offer dental insurance, you don’t have to resign
       yourself to uncovered dental procedures. You can purchase your own plan through
