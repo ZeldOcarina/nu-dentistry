@@ -287,8 +287,9 @@ blocks:
       can also make bone grafting surgery unnecessary since they need less supporting
       bone.
   - heading: HOW PAINFUL IS A DENTAL IMPLANT?
-    content: Implants are relatively painless! Our wide array of anesthesia and sedation
-      options thoroughly numb the area. Our dentists ensure you are never uncomfortable
+    content: Implants are relatively painless! Our wide array of anesthesia and <a
+      href='/houston-tx/specialty-dentistry/sedation-dentistry/' target='_blank' class='paragraph-link'>sedation
+      options</a> thoroughly numb the area. Our dentists ensure you are never uncomfortable
       or nervous during any part of the procedure.
   superheading: ''
   heading: Frequently Asked Questions
