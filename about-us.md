@@ -129,7 +129,7 @@ blocks:
   overlay_size: center
   heading: WE’RE THE DENTAL TEAM WHO’S ALWAYS ON YOUR SIDE
   text: 
-  superheading: NO ONE KNOWS HOW TO TAKE CARE OF YOUR BEAUTIFUL SMILE QUITE LIKE US.
+  superheading: NO ONE KNOWS HOW TO TAKE CARE OF YOUR BEAUTIFUL SMILE QUITE LIKE US
   button:
     text: Request an appointment
     url: ''
