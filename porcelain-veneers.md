@@ -195,8 +195,10 @@ blocks:
       dentist: by incredible dental hygiene or through cosmetic dentistry. Brushing
       your teeth and making regular cleaning appointments can only do so much, however.
       Cosmetic dentistry, which includes not only veneers but teeth whitening, bonding,
-      and Invisalign, does more than keep your teeth beautifully healthy. These cosmetic
-      services can change the look of your smile so that it’s precisely what you want.'
+      and <a href=''/houston-tx/cosmetic-dentistry/invisalign/'' target=''_blank''
+      class=''paragraph-link''>Invisalign</a>, does more than keep your teeth beautifully
+      healthy. These cosmetic services can change the look of your smile so that it’s
+      precisely what you want.'
   - heading: ARE VENEERS PERMANENT?
     content: Unfortunately, veneers are not a permanent solution to your smile. However,
       with excellent dental care and regular cleaning appointments with your dentist,
