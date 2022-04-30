@@ -58,8 +58,8 @@ blocks:
   align: left
   columns: '1'
   superheading: 
-  heading: PAINLESS TOOTH EXTRACTION IN HOUSTON IS POSSIBLE!
-  text: NU DENTISTRY MAKES YOUR EMERGENCY TOOTH REMOVAL A BREEZE.
+  heading: PAINLESS TOOTH EXTRACTION IN HOUSTON IS POSSIBLE
+  text: NU DENTISTRY MAKES YOUR EMERGENCY TOOTH REMOVAL A BREEZE
   content: |-
     When you have severe tooth pain, it can be a real <a href='/houston-tx/emergency-dentistry/emergency-dentistry/' target='_blank' class='paragraph-link'>dental emergency</a>—and Nu Dentistry is here to help you through them all, including teeth extraction. While it may sound scary, our friendly, gentle dentists make sure you’re always relaxed in our office. There are 2 main types of tooth removal procedures:
 
@@ -86,7 +86,7 @@ blocks:
   align: left
   superheading: HOUSTON TEXAS PREMIER DENTISTRY //
   heading: TOOTH REPLACEMENT OPTIONS
-  text: LET US HELP YOU PRESERVE YOUR SMILE AFTER YOUR EXTRACTION.
+  text: LET US HELP YOU PRESERVE YOUR SMILE AFTER YOUR EXTRACTION
   copy: |-
     After your tooth has been fully extracted, it's crucial to choose the replacement that works best for you. Leaving a missing tooth alone for too long can lead to serious complications to your dental health and shorten the longevity of your smile.
 
@@ -154,7 +154,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: WISDOM TOOTH REMOVAL
-  text: WE PUT YOUR LONG-TERM DENTAL HEALTH FIRST.
+  text: WE PUT YOUR LONG-TERM DENTAL HEALTH FIRST
   content: |-
     Wisdom teeth extractions might seem drastic and terrifying to patients, but they are exceedingly common. In fact, over 10 million Americans have successfully had their wisdom teeth removed at some point in their lives. Not all wisdom teeth need to be extracted. However, studies have shown that up to 85% of all teens and adults need at least one wisdom tooth removed.
 
@@ -183,7 +183,7 @@ blocks:
   overlay_size: center
   heading: DENTISTRY MADE FUN
   text: 
-  superheading: OUR DENTISTS GIVE YOU AN EXPERIENCE LIKE NO OTHER.
+  superheading: OUR DENTISTS GIVE YOU AN EXPERIENCE LIKE NO OTHER
   button:
     text: Request an appointment
     url: ''
