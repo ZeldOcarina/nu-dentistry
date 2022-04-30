@@ -202,9 +202,10 @@ blocks:
     content: Sedation dentistry is the use of medications, administered orally, by
       gas, or through IV to relax patients and remove discomfort during treatment.
       It is often used for people with acute dental anxiety and during intensive procedures,
-      such as tooth extractions and implants. All of our sedation dentists are trained
-      to use sedation safely. We always check your history to ensure that sedation
-      is the right choice for you before moving forward.
+      such as <a href='/houston-tx/emergency-dentistry/tooth-extraction/' target='_blank'
+      class='paragraph-link'>tooth extractions</a> and implants. All of our sedation
+      dentists are trained to use sedation safely. We always check your history to
+      ensure that sedation is the right choice for you before moving forward.
   - heading: HOW MUCH DOES SEDATION DENTISTRY COST?
     content: The cost of sedation is dependent upon several factors, including which
       type will be used and for how long. IV sedation, for example, is priced at an
