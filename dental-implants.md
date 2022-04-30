@@ -211,9 +211,9 @@ blocks:
       color: "#000000"
       opacity: '0.8'
   overlay_size: center
-  heading: STAY HAPPY, EVEN IN THE DENTIST’S CHAIR!
+  heading: STAY HAPPY, EVEN IN THE DENTIST’S CHAIR
   text: 
-  superheading: WE'RE DEDICATED TO YOUR COMPLETE DENTAL HAPPINESS.
+  superheading: WE'RE DEDICATED TO YOUR COMPLETE DENTAL HAPPINESS
   button:
     text: Request an appointment
     url: ''
