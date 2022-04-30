@@ -248,10 +248,21 @@ blocks:
   superheading: ''
   heading: STRESS-FREE DENTAL CARE IN HOUSTON, TX
   text: SEEING THE DENTIST HAS NEVER BEEN MORE ENJOYABLE
-  content: |-
-    Our top-of-the-line facility is fitted not only with the latest technologies for our staff, but for you, too. Each suite is private, allowing you to take full advantage of the amazing amenities inside. Whether you’re in for a routine cleaning or are having a major procedure done, have an enjoyable time with us as you watch Netflix, Hulu, or YouTube on one of the room’s two televisions.
-    Our Bluetooth headphones leave your watching uninterrupted and the noise of your procedure a thing of the past. We believe that the dentist's office should never be a scary place, and we do our best to make even the most involved treatment as anxiety- and discomfort-free as we can. Even when first injecting anesthesia, we employ a range of techniques and devices, such as Dentapen and DentalVibe,
-    that minimize the discomfort you may feel. For patients who are nervous about their visits, know that we take great care to make you fully comfortable and at ease. Our dentists are highly-trained in a range of anesthesia and sedation methods, so you always stay safe and relaxed during your procedures. If you have any questions or concerns, we’re always happy to answer them.
+  content: "Our top-of-the-line facility is fitted not only with the latest technologies
+    for our staff, but for you, too. Each suite is private, allowing you to take full
+    advantage of the amazing amenities inside. Whether you’re in for a routine cleaning
+    or are having a major procedure done, have an enjoyable time with us as you watch
+    Netflix, Hulu, or YouTube on one of the room’s two televisions.\n\n Our Bluetooth
+    headphones leave your watching uninterrupted and the noise of your procedure a
+    thing of the past. We believe that the dentist's office should never be a scary
+    place, and we do our best to make even the most involved treatment as anxiety-
+    and discomfort-free as we can. Even when first injecting anesthesia, we employ
+    a range of techniques and devices, such as Dentapen and DentalVibe, that minimize
+    the discomfort you may feel. \n\nFor patients who are nervous about their visits,
+    know that we take great care to make you fully comfortable and at ease. Our dentists
+    are highly-trained in a range of anesthesia and sedation methods, so you always
+    stay safe and relaxed during your procedures. If you have any questions or concerns,
+    we’re always happy to answer them."
   lists: []
 - template: cta-1
   block: cta-1
