@@ -246,11 +246,11 @@ blocks:
       An implant with a titanium post and porcelain crown can last 25 years or more
       if a patient eats well, regularly brushes and flosses their teeth, and regularly
       attends dental cleanings.
-  - heading: IS BONE GRAFTING NECESSARY AFTER TOOTH EXTRACTION?
-    content: Bone grafting may be necessary if a patient waits too long between their
-      extraction and implant surgeries. Within the first year, without further treatment,
-      the patient can lose enough bone that there is not enough left for a post to
-      be implanted in the jaw.
+  - heading: DO DENTAL IMPLANTS LOOK LIKE REAL TEETH?
+    content: Our dentists are experts when it comes to this procedure, and we make
+      sure that your implants look just as natural as your real teeth. We take your
+      new teeth’s color, shape, and size into account so that no one can pick them
+      out in a lineup.
   - heading: WHO IS A GOOD CANDIDATE FOR DENTAL IMPLANTS?
     content: Patients in good dental and overall health are prime candidates for dental
       implants, running the smallest risk of possible complications. If you have existing
@@ -262,11 +262,11 @@ blocks:
       new teeth can vary. However, we want to ensure you always receive affordable
       dental implants. We'll work with you and your insurance, if you have it, to
       develop a payment plan and method that works best for you.
-  - heading: DO DENTAL IMPLANTS LOOK LIKE REAL TEETH?
-    content: Our dentists are experts when it comes to this procedure, and we make
-      sure that your implants look just as natural as your real teeth. We take your
-      new teeth’s color, shape, and size into account so that no one can pick them
-      out in a lineup.
+  - heading: IS BONE GRAFTING NECESSARY AFTER TOOTH EXTRACTION?
+    content: Bone grafting may be necessary if a patient waits too long between their
+      extraction and implant surgeries. Within the first year, without further treatment,
+      the patient can lose enough bone that there is not enough left for a post to
+      be implanted in the jaw.
   - heading: WHAT IS THE DIFFERENCE BETWEEN AN IMPLANT AND A BRIDGE?
     content: While having the same purpose, implants and bridges have a significant
       difference. A dental bridge replaces a missing tooth by cementing the replacement
