@@ -166,11 +166,11 @@ blocks:
   content: |-
     Just like Rome, tooth decay isn't built in a day. It takes time for plaque and bacteria to build up on your tooth and begin to wear away at the enamel. These are the five stages of tooth decay:
 
-    - **White spots.** White spots can appear on your tooth as plaque builds up and starts wearing away the enamel. At this point, the decay is only a pre-cavity and can be reversed with proper treatment and maintenance, as directed by your dentist.
-    - **Enamel decay.** Once plaque begins working at your enamel, it doesn't stop. The tooth's inner enamel begins to break, even as the outside appears to remain intact. At this stage, the cavity has progressed too far for anything but a dental filling to fix.
-    - **Dentin decay.** After breaking through the enamel, the decay reaches your tooth's dentin. Dentin is the layer between the outer enamel and the inner pulp. You may experience pain at this stage of the cavity, which will only worsen as the cavity progresses.
-    - **Dental pulp infection.** When the decay reaches your dental pulp, pus begins to fill the tooth and eat away at the tooth's blood vessels and nerves. At this stage, the decay is too far for a filling to fix, and a root canal is necessary.
-    - **Abscess formation.** An abscess is a pocket of pus, either on the tooth or leaking into the nearby gum. You may experience swelling and acute pain. If the abscess bursts, it can cause serious health problems and should be treated immediately.
+    * **White spots.** White spots can appear on your tooth as plaque builds up and starts wearing away the enamel. At this point, the decay is only a pre-cavity and can be reversed with proper treatment and maintenance, as directed by your dentist.
+    * **Enamel decay.** Once plaque begins working at your enamel, it doesn't stop. The tooth's inner enamel begins to break, even as the outside appears to remain intact. At this stage, the cavity has progressed too far for anything but a dental filling to fix.
+    * **Dentin decay.** After breaking through the enamel, the decay reaches your tooth's dentin. Dentin is the layer between the outer enamel and the inner pulp. You may experience pain at this stage of the cavity, which will only worsen as the cavity progresses.
+    * **Dental pulp infection.** When the decay reaches your dental pulp, pus begins to fill the tooth and eat away at the tooth's blood vessels and nerves. At this stage, the decay is too far for a filling to fix, and a <a href='/houston-tx/emergency-dentistry/root-canal/' target='_blank' class='paragraph-link'>root canal</a> is necessary.
+    * **Abscess formation.** An abscess is a pocket of pus, either on the tooth or leaking into the nearby gum. You may experience swelling and acute pain. If the abscess bursts, it can cause serious health problems and should be treated immediately.
   lists: []
 - template: cta-1
   block: cta-1
