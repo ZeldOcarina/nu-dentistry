@@ -171,7 +171,8 @@ blocks:
       cosmetic treatments like Invisalign, whitening, and veneers, crowns and root
       canals, tooth extractions, dental implants, dentures, and sedation dentistry.
       If you have any inquiries about our full list of procedures, call our office
-      today at (832) 916-4144 to speak to one of our expert staff.
+      today at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a>
+      to speak to one of our expert staff.
   - heading: DO YOU TAKE WALK-IN APPOINTMENTS?
     content: We pride ourselves on our ability to make sure no one spends more than
       5 minutes in our waiting room, walk-ins included. Nu Dentistry follows a philosophy
