@@ -86,25 +86,26 @@ blocks:
   align: left
   columns: '3'
   superheading: 
-  heading: DENTAL BONDING VS. VENEERS
+  heading: DENTAL BONDING VS VENEERS
   text: WE WANT YOU TO PERFECT YOUR SMILE ON YOUR TERMS
   content: 'There are many ways that you can get the smile makeover you always wanted.
     At Nu Dentistry, we want to make sure that you always go into your dental decisions
-    well-informed and excited. When it comes to quick, tooth transforming cosmetic
-    dentistry, you have to decide which is better: dental bonding or veneers? Dental
-    bonding uses a composite, tooth-colored resin that is applied directly to your
-    tooth and molded to fit your specific needs. It can still address the same problems
-    as veneers: chipped or cracked teeth, gaps between teeth, short teeth, misalignment,
-    and tooth shape. Dentists also use bonding resin as a natural-looking alternative
-    to amalgam fillings. There is no preparation needed for bonding, and your entire
-    treatment can be completed in a single office visit. In as little as 30 minutes
-    to an hour, you can have your new smile at a lower price. However, dental veneers
-    can outlast bonding by years. Veneers, particularly porcelain ones, are made of
-    much sturdier material, resisting stains and damage that bonding can’t. They also
-    cover the entire tooth, allowing for more drastic cosmetic changes to be possible.
-    If you’re looking for a quick, easy smile transformation, call us now at (832)
-    916-4144 to make an appointment. Our team can help you decide which option is
-    the right choice for you.'
+    well-informed and excited. When it comes to quick, tooth transforming <a href=''/houston-tx/cosmetic-dentistry/aesthetic-dentistry/''
+    target=''_blank'' class=''paragraph-link''>cosmetic dentistry</a>, you have to
+    decide which is better: dental bonding or veneers? Dental bonding uses a composite,
+    tooth-colored resin that is applied directly to your tooth and molded to fit your
+    specific needs. It can still address the same problems as veneers: chipped or
+    cracked teeth, gaps between teeth, short teeth, misalignment, and tooth shape.
+    Dentists also use bonding resin as a natural-looking alternative to amalgam fillings.
+    There is no preparation needed for bonding, and your entire treatment can be completed
+    in a single office visit. In as little as 30 minutes to an hour, you can have
+    your new smile at a lower price. However, dental veneers can outlast bonding by
+    years. Veneers, particularly porcelain ones, are made of much sturdier material,
+    resisting stains and damage that bonding can’t. They also cover the entire tooth,
+    allowing for more drastic cosmetic changes to be possible. If you’re looking for
+    a quick, easy smile transformation, call us now at <a href=''tel:+8329164144''
+    title=''Click to Call Us''>(832) 916-4144</a> to make an appointment. Our team
+    can help you decide which option is the right choice for you.'
   lists: []
 - template: text-1
   block: text-1
