@@ -212,10 +212,11 @@ blocks:
       before and after!
   - heading: ARE THERE OTHER OPTIONS FOR STRAIGHTENING MY TEETH BESIDES BRACES?
     content: We understand that not everyone wants to wait to enjoy straight teeth.
-      For those patients, we offer veneers. This cosmetic dentistry service involves
-      bonding a thin porcelain veneer to your existing tooth to change its appearance
-      to exactly how you want it. Veneers can not only straighten crooked teeth but
-      whiten and lengthen them too.
+      For those patients, we offer <a href='/houston-tx/cosmetic-dentistry/porcelain-veneers/'
+      target='_blank' class='paragraph-link'>veneers</a>. This cosmetic dentistry
+      service involves bonding a thin porcelain veneer to your existing tooth to change
+      its appearance to exactly how you want it. Veneers can not only straighten crooked
+      teeth but whiten and lengthen them too.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
