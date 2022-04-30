@@ -157,15 +157,16 @@ blocks:
   align: left
   columns: '2'
   superheading: 
-  heading: PARTIAL DENTURES VS. DENTAL BRIDGES
+  heading: PARTIAL DENTURES VS DENTAL BRIDGES
   text: HOW TO DECIDE WHICH CHOICE IS BEST FOR YOU
   content: When replacing only a single or few missing teeth in one area of your mouth,
     it can be hard to decide which replacement option to choose. Partial dentures
-    or dental bridges are both good choices, but which one is better? Dental bridges
-    are false teeth that are permanently attached to your mouth. The two teeth on
-    either side of your gap are filed down to fit a crown while your artificial teeth
-    are connected between them as a single piece. While often made of porcelain to
-    blend in with your natural teeth, bridges can also be made of gold or other metals.
+    or <a href='/houston-tx/restorative-dentistry/tooth-crown/' target='_blank' class='paragraph-link'>dental
+    bridges</a> are both good choices, but which one is better? Dental bridges are
+    false teeth that are permanently attached to your mouth. The two teeth on either
+    side of your gap are filed down to fit a crown while your artificial teeth are
+    connected between them as a single piece. While often made of porcelain to blend
+    in with your natural teeth, bridges can also be made of gold or other metals.
     Because your replacement teeth are solidly secured to the rest of your mouth,
     bridges offer a more stabilized bite than dentures. However, they also place stress
     on the supporting teeth, meaning good dental hygiene habits and care are needed
