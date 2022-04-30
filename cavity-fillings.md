@@ -67,7 +67,7 @@ blocks:
 
     Tooth decay symptoms include: toothache and pain; sensitivity to temperature and sweets; tooth staining or discoloration; or holes in your tooth. Even if you’re not experiencing cavity pain, you shouldn’t put off your treatment for too long. Waiting until the discomfort can’t be ignored means that the cavity may have progressed past needing a simple tooth filling and require more intensive and expensive care.
 
-    If you think you may have a cavity, call our office at <a href='/dental-financing/' target='_blank' class='paragraph-link'>TEXT</a> to book a consultation.
+    If you think you may have a cavity, call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to book a consultation.
   lists: []
 - template: text-1
   block: text-1
