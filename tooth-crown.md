@@ -104,7 +104,7 @@ blocks:
   align: left
   columns: '1'
   superheading: 
-  heading: DENTAL BRIDGE VS. IMPLANT
+  heading: DENTAL BRIDGE VS IMPLANT
   text: WEIGHING THE PROS AND CONS OF YOUR NEW TEETH
   content: |-
     Dental bridges aren’t the only solution for replacing missing teeth. There’s also <a href='/houston-tx/restorative-dentistry/dental-implants/' target='_blank' class='paragraph-link'>dental implants</a>. What’s the difference and which one is better for your needs? Implants are a 3-part artificial tooth made of a metal post (or implant) screwed into the jawbone, a crown to act as the natural-looking tooth, and an abutment to attach the two. Implants don’t need any additional work done on neighboring teeth like a bridge does, but a bone graft may be required if the jaw isn’t strong enough to support the post.
