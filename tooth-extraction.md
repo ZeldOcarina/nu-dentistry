@@ -95,7 +95,7 @@ blocks:
   cards:
   - heading: DENTAL IMPLANT
     copy: '<a href=''/houston-tx/restorative-dentistry/dental-implants/'' target=''_blank''
-      class=''paragraph-link''>**Dental implants**</a> are a great option! They consist
+      class=''paragraph-link''>Dental implants</a> are a great option! They consist
       of 3 main parts: an implant, a crown, and an abutment. The implant is a metal
       post that is surgically attached and fused to the jawbone, acting as an artificial
       root for the replacement tooth. The crown is what we think of as the "tooth"
