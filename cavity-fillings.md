@@ -59,7 +59,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: AFFORDABLY TREAT YOUR CAVITIES IN HOUSTON
-  text: DON’T LEAVE OFF YOUR TOOTH PAIN - GET TREATMENT TODAY!
+  text: DON’T LEAVE OFF YOUR TOOTH PAIN - GET TREATMENT TODAY
   content: |-
     It is likely that you will encounter at least one cavity during your lifetime if you haven’t already. Even with the best oral hygiene habits, the need for a cavity filling can appear.
 
@@ -84,7 +84,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: TOOTH DECAY TREATMENT
-  text: LET US HELP YOU RESTORE YOUR SMILE TO PERFECT HEALTH!
+  text: LET US HELP YOU RESTORE YOUR SMILE TO PERFECT HEALTH
   content: |-
     Getting a cavity isn’t the end of the world, and we can treat yours quickly and efficiently. Using top-of-the-line equipment and devices, we will numb the area around your tooth and remove any decay painlessly. Your tooth will be sanitized to prepare it for filling. We will then fill the cleaned area with either composite resin or porcelain to renew your tooth to its natural state.
 
@@ -105,7 +105,7 @@ blocks:
   align: left
   superheading: HOUSTON TEXAS PREMIER DENTISTRY //
   heading: PAIN-FREE FILLINGS AND RESTORATIONS
-  text: LEAVE THE STRESS BEHIND DURING YOUR FILLING WITH SEDATION DENTISTRY!
+  text: LEAVE THE STRESS BEHIND DURING YOUR FILLING WITH SEDATION DENTISTRY
   copy: |-
     At Nu Dentistry, we're well-aware that patients can be nervous about their upcoming filling, especially if they've had bad experiences in the past with less than stellar dentists. That's why we commit ourselves so completely to our patients' full comfort. If you're interested in using one of these options for your upcoming treatment, call us today at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a>.
 
@@ -162,7 +162,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: TOOTH DECAY STAGES
-  text: NEVER WAIT TO GET DENTAL HELP!
+  text: NEVER WAIT TO GET DENTAL HELP
   content: |-
     Just like Rome, tooth decay isn't built in a day. It takes time for plaque and bacteria to build up on your tooth and begin to wear away at the enamel. These are the five stages of tooth decay:
 
@@ -186,7 +186,7 @@ blocks:
   overlay_size: center
   heading: DENTISTS WHO ARE HERE FOR YOU
   text: 
-  superheading: OUR DENTISTS ARE ALWAYS WILLING TO ACCOMMODATE YOUR NEEDS WITH A SMILE.
+  superheading: OUR DENTISTS ARE ALWAYS WILLING TO ACCOMMODATE YOUR NEEDS WITH A SMILE
   button:
     text: Request an appointment
     url: ''
