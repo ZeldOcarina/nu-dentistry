@@ -58,7 +58,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: STUNNING SMILES WITH INVISALIGN IN HOUSTON, TX
-  text: NU DENTISTRY MAKES STRAIGHTENING YOUR TEETH PAINLESS!
+  text: NU DENTISTRY MAKES STRAIGHTENING YOUR TEETH PAINLESS
   content: |-
     If you have overcrowded, gapped, or crooked teeth, Invisalign© may be a great choice for you! Nu Dentistry is a certified Invisalign provider and can work with you to create your beautiful smile!
     While many believe that braces are only for teens, Invisalign is the treatment for everyone. Available for tweens, teens, and adults, it is an excellent <a href='/houston-tx/cosmetic-dentistry/aesthetic-dentistry/' target='_blank' class='paragraph-link'>cosmetic dentistry option</a> for people who want straight teeth but don't like the look of traditional braces.
