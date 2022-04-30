@@ -58,7 +58,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: QUICK AND EASY EMERGENCY DENTISTRY IN HOUSTON, TX
-  text: WE MAKE SURE WE’RE HERE WHEN YOU NEED US.
+  text: WE MAKE SURE WE’RE HERE WHEN YOU NEED US
   content: |-
     Despite our best efforts and oral hygiene habits, dental emergencies can still happen when we least expect it. Teeth can become injured in an accident or from biting on hard objects. Fillings, crowns, or other devices might break or fall out. Teeth can become severely infected and put you at risk for serious health problems. If you're suffering from a dental injury or pain, give Nu Dentistry a call! Dental emergencies can be scary and painful, but we're here to alleviate both your pain and your anxiety. We offer efficient, first-rate dental service, putting your mind at ease every step of the way.
     As with many emergencies, time is of the essence. Some dental pain is severe and requires speedy medical attention to prevent further complications. We'll schedule your appointment right away, even on Saturday. We believe that you shouldn't have to wait for toothache relief. At Nu Dentistry, we make sure that our patients receive their emergency dental care within minutes of arriving, even with short or little notice.
@@ -79,7 +79,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: WHAT IS A DENTAL EMERGENCY?
-  text: NU DENTISTRY MAKES SURE YOU NEVER PUT OFF A NECESSARY PROCEDURE.
+  text: NU DENTISTRY MAKES SURE YOU NEVER PUT OFF A NECESSARY PROCEDURE
   content: |-
     It can be hard to tell sometimes whether something is truly an 'emergency.' Do you need immediate treatment, or can it wait until you schedule an appointment? If you experience any of these symptoms, please call our office at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a>:
 
@@ -107,7 +107,7 @@ blocks:
   columns: '2'
   superheading: 
   heading: DO I NEED A TOOTH EXTRACTION?
-  text: WE MAKE SURE YOU’RE ALWAYS PREPARED, EVEN WITH SERIOUS PROCEDURES.
+  text: WE MAKE SURE YOU’RE ALWAYS PREPARED, EVEN WITH SERIOUS PROCEDURES
   content: |-
     At Nu Dentistry, we do our best to save your teeth, but that's not always possible. Sometimes a tooth has decayed too much or fractured too severely for repairs like fillings, root canals, and frequent deep cleanings to be an option. Other times, extra or crowded teeth block emerging teeth from coming out without ruining the alignment of your arch. During cases like these, the best option to protect the teeth and bone around it is to have the tooth extracted. There are two kinds of extractions: a simple extraction and a surgical extraction. Simple extractions are for teeth visible above the gum line, and they can be done by loosening the tooth with an elevator tool and removing it with forceps.
 
@@ -127,7 +127,7 @@ blocks:
   overlay_size: center
   heading: WE’RE ALWAYS HERE FOR YOU
   text: 
-  superheading: PAINFUL PROBLEMS DON’T HAVE TO MEAN PAINFUL SOLUTIONS.
+  superheading: PAINFUL PROBLEMS DON’T HAVE TO MEAN PAINFUL SOLUTIONS
   button:
     text: Request an appointment
     url: ''
