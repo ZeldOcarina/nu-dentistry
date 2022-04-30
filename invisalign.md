@@ -198,8 +198,9 @@ blocks:
     content: Invisalign and other clear braces often have a similar cost to that of
       traditional braces. Price is determined by the length of the treatment needed.
       Nu Dentistry is determined to make sure you receive the treatment you deserve
-      in a manner you can afford. We're prepared to work with you to find a payment
-      plan that is comfortable for you.
+      in a manner you can afford. We're prepared to work with you to find a <a href='/dental-financing/'
+      target='_blank' class='paragraph-link'>payment plan</a> that is comfortable
+      for you.
   - heading: IS EARLY ORTHODONTIC TREATMENT NECESSARY?
     content: If your orthodontist says that your child needs braces, then you should
       listen. Early detection and treatment before your child's adult teeth fully
