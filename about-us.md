@@ -181,12 +181,13 @@ blocks:
       the attention and care they need immediately.
   - heading: HOW OFTEN SHOULD YOU GO TO THE DENTIST?
     content: You should be scheduling your next appointments at least every 6 months
-      for your general cleaning and exam. This is the perfect amount of time for our
-      expert dentists to clean your teeth of any acid, bacteria, or plaque buildup
-      that wants to weaken and damage them. For some patients with a history of extensive
-      dental work, however, your hygienist or dentist may recommend that you come
-      in to see us every 3 or 4 months. This preventative care ensures that your smile
-      stays happy and healthy more successfully.
+      for your general <a href='/houston-tx/general-dentistry/dental-cleaning/' target='_blank'
+      class='paragraph-link'>cleaning and exam</a>. This is the perfect amount of
+      time for our expert dentists to clean your teeth of any acid, bacteria, or plaque
+      buildup that wants to weaken and damage them. For some patients with a history
+      of extensive dental work, however, your hygienist or dentist may recommend that
+      you come in to see us every 3 or 4 months. This preventative care ensures that
+      your smile stays happy and healthy more successfully.
   - heading: DOES YOUR DENTAL OFFICE ACCEPT PPO INSURANCE?
     content: Yes, our office accepts all PPO insurance. We want to give our patients
       the chance to get the best treatment and level of coverage possible without
