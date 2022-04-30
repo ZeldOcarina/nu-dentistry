@@ -192,13 +192,13 @@ blocks:
   heading: THE BENEFITS OF DENTAL IMPLANTS
   text: COUNT ON US TO MAKE SURE YOU ARE DELIGHTED WITH YOUR NEW TEETH
   content: |-
-    Dental implants, bridges, and dentures all solve the same problem: replacing a missing tooth. However, implants and implant-supported appliances have some of their own unique benefits. One significant advantage of an implant over a bridge is that the surrounding teeth don't need to be altered to close the gap. Additionally, implants are easier to clean and function more normally than other alternatives. Here are some other fantastic implant perks:
+    Dental implants, bridges, and <a href='/houston-tx/restorative-dentistry/dentures/' target='_blank' class='paragraph-link'>dentures</a> all solve the same problem: replacing a missing tooth. However, implants and implant-supported appliances have some of their own unique benefits. One significant advantage of an implant over a bridge is that the surrounding teeth don't need to be altered to close the gap. Additionally, implants are easier to clean and function more normally than other alternatives. Here are some other fantastic implant perks:
 
-    - **Stabilized denture.** Permanent dentures fixed by implants don't shift in your mouth, even while eating.
-    - **Confident speech.** With reliable, strong teeth, you'll have no trouble speaking clearly.
-    - **Comfort.** Dental implants can not only look but feel just like regular teeth.
-    - **Fewer dietary restrictions.** Add steak, apples, and corn-on-the-cob to your diet, if you'd like!
-    - **Avoid jawbone loss or facial sagging.** Implants can retain and grow your jawbone, keeping your mouth in prime health!
+    * **Stabilized denture.** Permanent dentures fixed by implants don't shift in your mouth, even while eating.
+    * **Confident speech.** With reliable, strong teeth, you'll have no trouble speaking clearly.
+    * **Comfort.** Dental implants can not only look but feel just like regular teeth.
+    * **Fewer dietary restrictions.** Add steak, apples, and corn-on-the-cob to your diet, if you'd like!
+    * **Avoid jawbone loss or facial sagging.** Implants can retain and grow your jawbone, keeping your mouth in prime health!
   lists: []
 - template: cta-1
   block: cta-1
