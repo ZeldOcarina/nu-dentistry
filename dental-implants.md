@@ -275,11 +275,6 @@ blocks:
       jaw, requiring surgery. While bridges need neighboring teeth to be effective,
       implants do not. It is also possible to receive full-mouth dental implants,
       such as with All-on-4 dental implants.
-  - heading: ARE DENTAL IMPLANTS REMOVABLE OR DO THEY STAY IN YOUR MOUTH?
-    content: Implants are directly attached to your jawbone, meaning they are not
-      removable. However, there are implant-supported appliances such as dentures,
-      which can be taken out. Our dentists will discuss with you the advantages of
-      each so you can decide which is right for you.
   - heading: WHAT ARE MINI DENTAL IMPLANTS?
     content: Mini dental implants use much smaller posts than traditional implants.
       Their size allows for shorter healing times. In some circumstances, the size
@@ -290,6 +285,11 @@ blocks:
       href='/houston-tx/specialty-dentistry/sedation-dentistry/' target='_blank' class='paragraph-link'>sedation
       options</a> thoroughly numb the area. Our dentists ensure you are never uncomfortable
       or nervous during any part of the procedure.
+  - heading: ARE DENTAL IMPLANTS REMOVABLE OR DO THEY STAY IN YOUR MOUTH?
+    content: Implants are directly attached to your jawbone, meaning they are not
+      removable. However, there are implant-supported appliances such as dentures,
+      which can be taken out. Our dentists will discuss with you the advantages of
+      each so you can decide which is right for you.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
