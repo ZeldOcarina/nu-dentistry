@@ -69,7 +69,7 @@ blocks:
   overlay_size: center
   heading: IMMEDIATE, COMPREHENSIVE CARE
   text: 
-  superheading: TRUST OUR TOP DENTAL TEAM TO GET THE JOB DONE RIGHT.
+  superheading: TRUST OUR TOP DENTAL TEAM TO GET THE JOB DONE RIGHT
   button:
     text: Request an appointment
     url: ''
