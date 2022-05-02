@@ -233,12 +233,6 @@ blocks:
       extraction, so they’re just as natural-looking as regular dentures. Our dentists
       want to ensure you’re always comfortable with your smile, so we take great care
       that your false teeth fit and look better than your real ones have in years.
-  - heading: CAN I GET MY TEETH PULLED AND DENTURES ON THE SAME DAY?
-    content: Yes. After your teeth are pulled, your denture dentist can set you up
-      with immediate dentures that will act as temporary replacements while your permanent
-      dentures are being made. To have your immediate dentures prepared in time, you
-      may have to schedule an appointment before your extraction so that a mold of
-      your mouth can be done.
   - heading: CAN YOU SLEEP IN DENTURES?
     content: While you may want to, we highly recommend that you don’t wear your dentures
       at night. Taking out your false teeth while sleeping gives your gums time to
@@ -255,6 +249,12 @@ blocks:
       replace only a select few teeth, complete dentures are full teeth replacements
       for your entire arch or mouth. Millions of Americans use full dentures to improve
       their lives, and you can too.
+  - heading: CAN I GET MY TEETH PULLED AND DENTURES ON THE SAME DAY?
+    content: Yes. After your teeth are pulled, your denture dentist can set you up
+      with immediate dentures that will act as temporary replacements while your permanent
+      dentures are being made. To have your immediate dentures prepared in time, you
+      may have to schedule an appointment before your extraction so that a mold of
+      your mouth can be done.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
