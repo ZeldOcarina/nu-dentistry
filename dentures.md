@@ -28,7 +28,7 @@ header:
     id: "5"
   - text: OUR DENTAL TEAM
     id: "4"
-  - text: PARTIALS VS. BRIDGES
+  - text: PARTIALS VS BRIDGES
     id: "3"
 title: Dentures
 seo_title: Dentures
