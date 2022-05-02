@@ -26,7 +26,7 @@ header:
     id: "2"
   - text: FREQUENTLY ASKED QUESTIONS
     id: "5"
-  - text: BRIDGES VS. IMPLANTS
+  - text: BRIDGES VS IMPLANTS
     id: "3"
   - text: OUR ATMOSPHERE
     id: "4"
