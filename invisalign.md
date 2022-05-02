@@ -57,7 +57,7 @@ blocks:
   align: left
   columns: '1'
   superheading: 
-  heading: STUNNING SMILES WITH INVISALIGN IN HOUSTON, TX
+  heading: STUNNING SMILES WITH INVISALIGN IN HOUSTON
   text: NU DENTISTRY MAKES STRAIGHTENING YOUR TEETH PAINLESS
   content: |-
     If you have overcrowded, gapped, or crooked teeth, Invisalign© may be a great choice for you! Nu Dentistry is a certified Invisalign provider and can work with you to create your beautiful smile!
