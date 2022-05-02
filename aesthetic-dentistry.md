@@ -215,7 +215,7 @@ blocks:
       surgically attached to your jaw to replace a missing tooth and prevent the jawbone
       from deteriorating. It consists of a metal post called an implant, a porcelain
       crown to act as the tooth, and an abutment to connect the two.
-  - heading: Thank you! Your form has been submitted!
+  - heading: Does in-office teeth whitening work?
     content: In-office teeth whitening is actually the most effective way to brighten
       your teeth. Here at Nu Dentistry, we use the Beyond whitening system, both in
       the dental chair and with our custom take-home trays. This system whitens brighter
