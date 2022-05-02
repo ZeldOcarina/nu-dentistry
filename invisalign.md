@@ -183,6 +183,13 @@ blocks:
       can damage your aligners. As an alternative, you can also soak them in retainer
       cleaner for 15-20 minutes. Once clean, rinse your aligners and pop them back
       in your mouth, good as new.
+  - heading: ARE THERE OTHER OPTIONS FOR STRAIGHTENING MY TEETH BESIDES BRACES?
+    content: We understand that not everyone wants to wait to enjoy straight teeth.
+      For those patients, we offer <a href='/houston-tx/cosmetic-dentistry/porcelain-veneers/'
+      target='_blank' class='paragraph-link'>veneers</a>. This cosmetic dentistry
+      service involves bonding a thin porcelain veneer to your existing tooth to change
+      its appearance to exactly how you want it. Veneers can not only straighten crooked
+      teeth but whiten and lengthen them too.
   - heading: CAN CLEAR ALIGNERS FIX OVERBITE?
     content: Absolutely! Clear aligners shift teeth to their proper placement, both
       sideways and upwards. While correcting your overbite, they also have the advantage
@@ -210,13 +217,6 @@ blocks:
       1997. Over 3 million dental patients across 2 decades have proven that they
       not only look good but are super effective. You'll be amazed by your Invisalign
       before and after!
-  - heading: ARE THERE OTHER OPTIONS FOR STRAIGHTENING MY TEETH BESIDES BRACES?
-    content: We understand that not everyone wants to wait to enjoy straight teeth.
-      For those patients, we offer <a href='/houston-tx/cosmetic-dentistry/porcelain-veneers/'
-      target='_blank' class='paragraph-link'>veneers</a>. This cosmetic dentistry
-      service involves bonding a thin porcelain veneer to your existing tooth to change
-      its appearance to exactly how you want it. Veneers can not only straighten crooked
-      teeth but whiten and lengthen them too.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
