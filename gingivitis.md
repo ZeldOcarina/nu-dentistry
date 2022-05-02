@@ -81,7 +81,7 @@ blocks:
     video: ''
   color: dark
   align: left
-  superheading: SPRING TEXAS PREMIER DENTISTRY //
+  superheading: HOUSTON TEXAS PREMIER DENTISTRY //
   heading: GUM DISEASE STAGES
   text: NU DENTISTRY WANTS YOU TO BE ABLE TO IDENTIFY YOUR GUM DISEASE AS SOON AS
     IT DEVELOPS
