@@ -145,7 +145,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: FOODS TO AVOID TO MAINTAIN YOUR BRIGHTNESS
-  text: WE WANT YOU TO GET THE BEST RESULTS AND MAKE THEM LAST AS LONG AS POSSIBLE!
+  text: WE WANT YOU TO GET THE BEST RESULTS AND MAKE THEM LAST AS LONG AS POSSIBLE
   content: |-
     Did you just get your teeth whitened, and you want to show them off to the world? Great! Your teeth are looking younger than they have in more than a decade, and you should be proud of them. However, teeth whitening isn't a permanent solution, and the stains you had didn't come from nowhere. You have to be careful about what you eat. Eating or drinking foods that stain your teeth can reduce the longevity of your smile whitening, and leave you with results that last you months rather than years. Here are some food and drinks you should avoid:
 
