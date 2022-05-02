@@ -58,7 +58,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: MAKE YOUR SMILE SHINE WITH TEETH WHITENING IN HOUSTON
-  text: GET A CELEBRITY-WHITE SMILE IN A SINGLE VISIT!
+  text: GET A CELEBRITY-WHITE SMILE IN A SINGLE VISIT
   content: |-
     Coffee, tea, and wine are tempting… but they also stain your teeth. Here at Nu Dentistry, we know the best methods to regain your bright white smile with our in-house professional teeth whitening system! More advanced than over the counter treatments, our teeth whitening systems bring you longer-lasting and brighter results in less time!
 
