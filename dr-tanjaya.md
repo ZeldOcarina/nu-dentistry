@@ -69,7 +69,7 @@ blocks:
   overlay_size: center
   heading: ACHIEVE YOUR BEAUTIFUL SMILE WITH DR. TANJAYA
   text: 
-  superheading: STREAMLINE THE ORTHODONTIC PROCESS TO YOUR BEST SMILE.
+  superheading: STREAMLINE THE ORTHODONTIC PROCESS TO YOUR BEST SMILE
   button:
     text: Request an appointment
     url: ''
