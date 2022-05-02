@@ -59,7 +59,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: STAY ANXIETY-FREE WITH SEDATION DENTISTRY IN HOUSTON
-  text: NEVER MISS A DENTIST APPOINTMENT AGAIN BECAUSE OF DENTAL ANXIETY!
+  text: NEVER MISS A DENTIST APPOINTMENT AGAIN BECAUSE OF DENTAL ANXIETY
   content: |-
     Poor hygiene habits and poor diets are the most common culprits for cavities and decay. However, there is a secret villain causing toothaches and oral problems around the world: dental phobia. Fear of the dentist has led too many patients to avoid their <a href='/houston-tx/general-dentistry/dental-cleaning/' target='_blank' class='paragraph-link'>dental cleanings and exams</a> — a big and costly mistake. Avoiding the dentist can lead to dental problems that otherwise would have been easily treatable. However, our dentists are here to help you conquer your fear and make visits to our office simple and painless.
 
@@ -80,7 +80,7 @@ blocks:
   align: left
   superheading: HOUSTON TEXAS PREMIER DENTISTRY //
   heading: SEDATION DENTISTRY OPTIONS
-  text: MAKE YOUR NEXT VISIT TO OUR OFFICE A BREEZE!
+  text: MAKE YOUR NEXT VISIT TO OUR OFFICE A BREEZE
   copy: 'Sedation makes it possible for fearful patients to not only go to the dentist
     but to undergo any procedures they may have otherwise put off. No matter what
     type of treatment you need, sedation dentistry can help alleviate your excessive
@@ -150,7 +150,7 @@ blocks:
   columns: '1'
   superheading: 
   heading: SAME-DAY DENTAL PROCEDURES
-  text: WE MAKE SURE YOU NEVER HAVE TO WAIT TO GET THE TREATMENT YOU NEED.
+  text: WE MAKE SURE YOU NEVER HAVE TO WAIT TO GET THE TREATMENT YOU NEED
   content: |-
     Major dental procedures can take a lot of time to complete. When multiple treatments are needed, it can take way too much time to get them done separately. However, sedation dentistry allows you to comfortably get a brand new smile in a single visit with same-day dental procedures.
 
