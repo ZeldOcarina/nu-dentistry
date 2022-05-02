@@ -237,7 +237,7 @@ blocks:
 
     Our friendly, professional dentists will go over all of your treatment options with you and come up with the least invasive and most affordable option to keep you at optimum oral health. We’ll work with you and your insurance provider to make sure that you’re never breaking the bank to take care of yourself.
 
-    You don’t have to worry about finding another office or referral because we pride ourselves on our ability to meet all your dental needs quickly and efficiently. From fillings and crowns to extractions and implants, we consider ourselves your one-stop-shop for all things dentistry. Click here to schedule an appointment with our office today!
+    You don’t have to worry about finding another office or referral because we pride ourselves on our ability to meet all your dental needs quickly and efficiently. From fillings and crowns to extractions and implants, we consider ourselves your one-stop-shop for all things dentistry. Call us at <a href='tel:+8329164144' title='Click to Call Us'>(832) 916-4144</a> to schedule an appointment with our office today!
   lists: []
 - template: cta-1
   block: cta-1
