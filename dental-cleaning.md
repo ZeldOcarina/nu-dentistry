@@ -301,17 +301,17 @@ blocks:
       of diseases like diabetes and rheumatoid arthritis first start in your mouth,
       but bad oral hygiene has been linked to causing heart disease, strokes, pneumonia,
       and complications during pregnancy.
-  - heading: ARE THERE ANY OTHER ALTERNATIVE SERVICES I CAN ASK FOR DURING MY CLEANING?
-    content: Our office always wants to make sure your visits are as convenient and
-      productive as possible. As part of your cleaning, you can request optional services
-      such as laser cleanings or teeth whitening to further protect and improve your
-      smile.
   - heading: DOES DENTAL CLEANING LOOSEN TEETH?
     content: No. Even with a deep cleaning, you can rest assured that your teeth will
       stay safely rooted to your mouth. It only cleans your teeth of plaque and tartar
       below the gum line. However, periodontal disease, which deep cleanings help
       prevent, can cause tooth decay that’s severe enough to loosen your teeth or,
       worse, fall out!
+  - heading: ARE THERE ANY OTHER ALTERNATIVE SERVICES I CAN ASK FOR DURING MY CLEANING?
+    content: Our office always wants to make sure your visits are as convenient and
+      productive as possible. As part of your cleaning, you can request optional services
+      such as laser cleanings or teeth whitening to further protect and improve your
+      smile.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
