@@ -26,7 +26,7 @@ header:
     id: "3"
   - text: FREQUENTLY ASKED QUESTIONS
     id: "5"
-  - text: DENTAL BONDING VS. VENEERS
+  - text: DENTAL BONDING VS VENEERS
     id: "2"
   - text: OFFICE LUXURIES
     id: "5"
