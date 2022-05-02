@@ -49,7 +49,7 @@ blocks:
   columns: '3'
   superheading: ''
   heading: MEET DR. ALI TAMEEMI, DDS
-  text: YOUR PASSIONATE DENTIST IN SPRING, TX
+  text: YOUR PASSIONATE DENTIST IN HOUSTON, TX
   content: |-
     Dr. Ali Tameemi, DDS understands what it takes to be a great dentist. Dr. Tameemi graduated with a Bachelor of Dental Surgery. After graduation, he did a residency at a VA hospital in Northern California, and he later earned his DDS from the University of Texas Health Science Center at San Antonio School of Dentistry.
     Dr. Tameemi is a licensed dentist in the state of Texas and is a member of the American Dental Association, Academy of General Dentistry, Texas Dental Association, and the Houston Dental Society. Believing that dental health is an important service needed by everyone, Dr. Tameemi has helped give back to his communities by volunteering his dental expertise to SAMM Dental Clinic in San Antonio and to healthcare for the homeless right here in Houston.
