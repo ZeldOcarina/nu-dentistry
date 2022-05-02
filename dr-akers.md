@@ -69,7 +69,7 @@ blocks:
   overlay_size: center
   heading: STRESS-FREE DENTISTRY IS HERE!
   text: 
-  superheading: YOUR BEST DENTAL EXPERIENCE IS RIGHT AROUND THE CORNER.
+  superheading: YOUR BEST DENTAL EXPERIENCE IS RIGHT AROUND THE CORNER
   button:
     text: Request an appointment
     url: ''
