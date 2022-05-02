@@ -58,9 +58,9 @@ blocks:
   align: left
   columns: '1'
   superheading: 
-  heading: STRESS-FREE AND AFFORDABLE DENTAL FINANCING IN HOUSTON, TX
+  heading: STRESS-FREE AND AFFORDABLE DENTAL FINANCING IN HOUSTON
   text: AT NU DENTISTRY, YOU DON’T HAVE TO WORRY ABOUT THE COST OF YOUR DENTAL PROCEDURES
-    ANY LONGER.
+    ANY LONGER
   content: |-
     One of patients’ biggest fears, when they step into their dentist’s office, isn’t their upcoming <a href='/houston-tx/restorative-dentistry/cavity-fillings/' target='_blank' class='paragraph-link'>cavity filling</a>, tooth extraction, or implant surgery—it’s how they’re going to pay for it. Even with a good <a href='/dental-insurance/' target='_blank' class='paragraph-link'>dental insurance plan</a>, there’s no guarantee that everything will be fully covered. So, what’s there for you to do when you need immediate treatment? At Nu Dentistry, we offer multiple dental financing options to ensure that you never have to put off your necessary visits again!
 
@@ -84,7 +84,7 @@ blocks:
   superheading: 
   heading: CARE CREDIT DENTAL FINANCING
   text: WHEN DENTAL INSURANCE JUST ISN’T ENOUGH, PAYING FOR THE TREATMENTS YOU NEED
-    CAN BE MADE SIMPLE WITH A CARE CREDIT CARD.
+    CAN BE MADE SIMPLE WITH A CARE CREDIT CARD
   content: |-
     Care Credit allows you to cover the full amount of your dental visit on their service credit card. You then make payments in manageable monthly installments. There’s no expiration date on your Care Credit account, so you can continue to get the treatments you need without the added stress of waiting for approval again.
 
@@ -107,7 +107,7 @@ blocks:
   columns: '2'
   superheading: 
   heading: OUR IN-HOUSE DENTAL FINANCING OPTIONS
-  text: TAKING THE STRESS OUT OF HOW TO PAY FOR THE TREATMENT YOU NEED.
+  text: TAKING THE STRESS OUT OF HOW TO PAY FOR THE TREATMENT YOU NEED
   content: At Nu Dentistry, we understand that financing dental work can be stressful,
     regardless of whether you have dental insurance. That’s why our team is fully
     prepared to put together a program that’s right for you. As health providers dedicated
@@ -140,7 +140,7 @@ blocks:
   heading: RELAX AND LET US HANDLE THE HARD PART
   text: 
   superheading: OUR OFFICE MAKES SURE YOU HAVE NOTHING TO WORRY ABOUT WHEN IT COMES
-    TO YOUR DENTAL FINANCING IN HOUSTON.
+    TO YOUR DENTAL FINANCING IN HOUSTON
   button:
     text: Request an appointment
     url: ''
