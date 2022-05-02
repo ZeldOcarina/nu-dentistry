@@ -59,7 +59,7 @@ blocks:
   superheading: 
   heading: AFFORDABLE TREATMENTS WITH YOUR DENTAL INSURANCE IN HOUSTON, TX
   text: AT NU DENTISTRY, WE WANT TO MAKE SURE YOUR NECESSARY DENTAL TREATMENTS NEVER
-    BREAK THE BANK.
+    BREAK THE BANK
   content: |-
     Whether you need a <a href='/houston-tx/general-dentistry/dental-cleaning/' target='_blank' class='paragraph-link'>dental cleaning and exam</a>, root canal, or other procedure done, we always want you to feel secure and stress-free in our office. That’s why we do our best to work with all PPO dental insurance providers to guarantee you a level of coverage that makes getting the dental care you need nothing to worry about.
 
@@ -83,7 +83,7 @@ blocks:
   superheading: 
   heading: PPO DENTAL INSURANCE
   text: WE ACCEPT ALL PPO INSURANCE PLANS TO ENSURE YOU RECEIVE THE HIGHEST LEVEL
-    OF FLEXIBILITY AND CHOICE IN YOUR DENTAL TREATMENTS.
+    OF FLEXIBILITY AND CHOICE IN YOUR DENTAL TREATMENTS
   content: |-
     Here at Nu Dentistry, we accept all Preferred Provider Organization (PPO) dental insurance plans. PPO insurance gives you a wide selection of treatments and dental offices like us to choose from without having to worry about primary care providers, referrals to specialists, or dental emergencies during vacations and travel. Popular providers of dental PPO insurance include Cigna, United Healthcare, Ameritas, Humana, and Delta Dental Insurance. There are standard costs and levels of coverage with each plan.
 
@@ -105,7 +105,7 @@ blocks:
   superheading: 
   heading: TREATMENTS COVERED BY INSURANCE
   text: WHEN SCHEDULING A TREATMENT, YOU'LL WANT TO KNOW WHAT IS AND ISN'T COVERED
-    BY YOUR INSURANCE PROVIDER.
+    BY YOUR INSURANCE PROVIDER
   content: |-
     When you come in for your dental procedures, whether or not they're an emergency, it's important that you have an idea of what kind of coverage you have. Dental PPOs typically cover more services and at a lower deductible. However, even with a PPO plan, most services are not fully covered, and some are not covered at all.
 
@@ -140,7 +140,7 @@ blocks:
   heading: TOTAL STRESS-FREE DENTISTRY
   text: 
   superheading: WE DO EVERYTHING WE CAN TO MAKE SURE THAT YOU CAN AFFORD THE DENTAL
-    CARE YOU NEED.
+    CARE YOU NEED
   button:
     text: Request an appointment
     url: ''
@@ -177,6 +177,16 @@ blocks:
       dental network of your favorite dentists is also a huge deciding factor. Unless
       you want to spend time trying to find another amazing dentist you trust, you
       should make sure that your dentist supports and accepts your plan.
+  - heading: WHAT SHOULD I LOOK FOR WHEN GETTING DENTAL INSURANCE?
+    content: When looking for a great and affordable dental insurance provider, you
+      must consider several factors. What do you expect each member of your family
+      will need? If you know that your child will need braces or that someone in your
+      family will need to replace a missing tooth, make sure that you find dental
+      insurance that covers implants, <a href='/houston-tx/cosmetic-dentistry/invisalign/'
+      target='_blank' class='paragraph-link'>orthodontic treatment</a>, or any other
+      expected dental treatments. When looking at costs, you may be tempted to look
+      solely at premium prices. However, you should consider all costs—deductibles,
+      maximum annual limits, and out of pocket expenses.
   - heading: WHAT DO I DO IF I DON’T HAVE DENTAL INSURANCE?
     content: If you don’t have dental insurance, we also have <a href='/dental-financing/'
       target='_blank' class='paragraph-link'>alternative financing options</a> that
@@ -193,16 +203,6 @@ blocks:
       affordable dental insurance plan that fully meets your individual needs. Options
       include dental implant insurance, dental insurance for seniors, and even full
       coverage dental insurance.
-  - heading: WHAT SHOULD I LOOK FOR WHEN GETTING DENTAL INSURANCE?
-    content: When looking for a great and affordable dental insurance provider, you
-      must consider several factors. What do you expect each member of your family
-      will need? If you know that your child will need braces or that someone in your
-      family will need to replace a missing tooth, make sure that you find dental
-      insurance that covers implants, <a href='/houston-tx/cosmetic-dentistry/invisalign/'
-      target='_blank' class='paragraph-link'>orthodontic treatment</a>, or any other
-      expected dental treatments. When looking at costs, you may be tempted to look
-      solely at premium prices. However, you should consider all costs—deductibles,
-      maximum annual limits, and out of pocket expenses.
   - heading: WHY IS PPO INSURANCE BETTER THAN HMO INSURANCE?
     content: PPO insurance often has higher premiums than Health Maintenance Organization
       (HMO) plans. However, there’s more to choosing your plan than how much is dental
