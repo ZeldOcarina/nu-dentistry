@@ -22,7 +22,7 @@ header:
     heading: ''
     text: ''
   page_navigation:
-  - text: ALIGNERS VS. BRACES
+  - text: ALIGNERS VS BRACES
     id: "2"
   - text: FREQUENTLY ASKED QUESTIONS
     id: "5"
