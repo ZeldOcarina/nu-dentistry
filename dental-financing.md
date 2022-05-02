@@ -152,8 +152,9 @@ blocks:
     dentist care and poor dental hygiene. From being a dentist that takes Care Credit
     to offering our own in-house financing, our staff work with you to make everything
     easier. If you have any questions or concerns about how it all works, don’t hesitate
-    to reach out to us at (832) 916-4144! Our dentists are super friendly and we’re
-    always happy to give you the answers you need.
+    to reach out to us at <a href='tel:+8329164144' title='Click to Call Us'>(832)
+    916-4144</a>! Our dentists are super friendly and we’re always happy to give you
+    the answers you need.
   appointment_button: true
   section: ''
 - template: faq-2
