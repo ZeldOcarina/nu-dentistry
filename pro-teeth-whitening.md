@@ -219,6 +219,12 @@ blocks:
       Bleaching can be done at home with fitted trays and are great for people with
       more sensitive teeth. They take more applications to finish your treatment,
       but they're also much more cost-efficient than laser whitening.
+  - heading: HOW MANY DAYS AFTER TEETH WHITENING CAN I DRINK COFFEE?
+    content: After your in-house whitening, we recommend that you stay away from coffee
+      and other dark, staining foods for at least 48 hours. Your teeth will be porous
+      in the following days, meaning that they are especially vulnerable to staining.
+      After this time, we recommend that you enjoy your coffee in moderation—it stained
+      your teeth before, and it can do so again.
   - heading: How can I whiten my teeth quickly?
     content: The fastest way to whiten your teeth is to visit your dentist for an
       in-house whitening session. The whitening can be done after your routine dental
@@ -229,12 +235,6 @@ blocks:
       as if you went to a teeth whitening dentist. Their effects are more gradual,
       sometimes taking days or weeks for a visible difference. They also won't whiten
       your smile as much as professional systems.
-  - heading: HOW MANY DAYS AFTER TEETH WHITENING CAN I DRINK COFFEE?
-    content: After your in-house whitening, we recommend that you stay away from coffee
-      and other dark, staining foods for at least 48 hours. Your teeth will be porous
-      in the following days, meaning that they are especially vulnerable to staining.
-      After this time, we recommend that you enjoy your coffee in moderation—it stained
-      your teeth before, and it can do so again.
   superheading: ''
   heading: Frequently Asked Questions
   text: 
