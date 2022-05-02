@@ -178,13 +178,6 @@ blocks:
       For example, if you’re having trouble with your <a href='/houston-tx/restorative-dentistry/dental-implants/'
       target='_blank' class='paragraph-link'>dental implant</a> financing, you can
       work with your periodontist to put together a payment plan that works for everyone!
-  - heading: 'WHICH IS BETTER: DENTAL INSURANCE OR DENTAL DISCOUNT PLAN?'
-    content: While your dental insurance can cover quite a bit of your dental bill
-      each year, dental discounts aren’t something to scoff at either. While no one
-      is paying for your treatment but you, the amount of money you can save from
-      discounts can be well over the amount you pay for your premium with an insurance
-      provider. This is especially true if you end up needing multiple treatments
-      done throughout the year.
   - heading: WHAT CREDIT SCORE DO I NEED TO GET APPROVED FOR CARE CREDIT?
     content: You’re much more likely to be approved for Care Credit if you have a
       credit score of 623 or higher. However, it’s not impossible to get their dental
@@ -194,6 +187,13 @@ blocks:
     content: Not all dentists let you pay in installments, but at Nu Dentistry, we’re
       dedicated to ensuring our dental financing for patients is affordable. Talk
       to your treatment coordinator about spreading out the cost of your treatment.
+  - heading: 'WHICH IS BETTER: DENTAL INSURANCE OR DENTAL DISCOUNT PLAN?'
+    content: While your dental insurance can cover quite a bit of your dental bill
+      each year, dental discounts aren’t something to scoff at either. While no one
+      is paying for your treatment but you, the amount of money you can save from
+      discounts can be well over the amount you pay for your premium with an insurance
+      provider. This is especially true if you end up needing multiple treatments
+      done throughout the year.
   - heading: CAN I GET DENTAL FINANCE WITH BAD CREDIT?
     content: Getting the financial help you need with bad credit depends on the dental
       financing options you’re looking at. Insurance providers tend to love patients
