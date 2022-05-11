@@ -1,93 +1,100 @@
 ---
-title: Foods To Avoid If You Don’t Want A Cracked Or Chipped Tooth In Houston, Tx
+title: 'Tooth Replacement In Houston, Tx: What  Are My Options?'
 
 ---
-Have you ever enjoyed a snack or meal and then suddenly heard a worrying crack? You may have just fractured or chipped your tooth. As strong as dental enamel is, it’s not invincible. With the right food and the wrong pressure, you can potentially put your teeth’s health at risk by cracking or breaking them. While it’s often easy to see how far chips extend, the same isn’t true for dental cracks. Even hairline cracks that are hard to notice can run deep into your tooth and cause unseen harm.
+[Tooth extraction](https://www.healthline.com/health/tooth-extraction) is one of the most prevalent dental procedures performed in dentist offices across the U.S. More than 178 million adults aged 30 and over are missing at least one tooth, not including wisdom teeth. When our patients need to have one or more of their teeth pulled, a popular question we get asked is, “Does a missing tooth need to be replaced?” The short answer is yes.
 
-Some snacks, like sticky and chewy treats, might not hurt your tooth as directly. The sugars in them can lead to cavities and decay in need of a filling, but the real problem lies in your existing dental work. Since these foods cling tightly to your teeth, they can loosen existing cavity fillings and crowns, potentially pulling them free.
+Leaving an empty gap in your smile does more than affect its aesthetics; it directly impacts its health, too. Once a tooth is pulled, the underlying bone quickly starts shrinking in a process called bone resorption. The alveolar jaw bone relies on the pressure provided by your tooth’s root when chewing and biting down to keep it healthy and intact. With the tooth gone, this stimulation disappears, and the jawbone no longer tries to maintain itself.
 
-You can’t plan for a dental emergency like these, but you can do your best to keep them from happening in the first place. One way you can prevent damaging your teeth and previous dental work is staying away from foods we consider part of the “do not chomp” list:
+As bone loss worsens, you will need a dental prosthetic to minimize or prevent the resulting damage. Otherwise, leaving your missing teeth gaps empty can lead to several issues that put the rest of your smile’s health at risk:
 
-* Popcorn
-* Ice cubes
-* Nuts
-* Caramel candies
-* Dried fruits
-* Bones
-* Hard candies
-* Frozen candy bars
+* Facial sagging
+* Nearby teeth becoming loose
+* Shifting teeth and new gaps between teeth
+* Change in fit and shape of your bite
+* Further tooth loss
+* Tooth decay and cavities
 
-## Popcorn
+Can bone loss in the jaw be reversed? You can turn back the clock some with a dental bone graft, which replaces missing bone with tissues taken either from elsewhere in your jaw or a donor. This doesn’t stop the resorption process entirely, and it will eventually return. The only way to prevent bone loss entirely is with a dental implant, which acts like a wholly artificial tooth.
 
-Popped popcorn is notorious for getting trapped between teeth and under gums. While this can be annoying, it’s not dangerous to your smile. It’s the unpopped kernels that you want to look out for. No matter how well you cook your bag of popcorn, there will always be at least a few stragglers that don’t manage to pop and find themselves in your handful while watching a movie or TV show. Biting into one can damage the tooth’s enamel, often causing cracks or small chips. Sometimes, enough force can fracture part of your tooth off or break existing dental work, like a cavity filling or dental veneer.
+Let’s take a look at the specifics of your tooth replacement options:
 
-Even if you don’t accidentally bite down on them and crack or chip your teeth, popcorn can still cause other problems for your smile. Kernels can sometimes become wedged between the teeth and gums, becoming difficult to remove even with dental floss. In some cases, they may even lead to dental abscesses!
+## Dental Bridge
 
-## Ice Cubes
+[Dental bridges](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) are a great, affordable way to replace one or more missing teeth in a row simultaneously. This dental prosthetic anchors your false teeth using two crowns connected to them on either side. These crowns are cemented to the neighboring teeth on opposite ends of your tooth gap, allowing your false teeth to rest comfortably in the space in-between. With good care, a dental bridge can last an average of 10 to 15 years.
 
-For many people, ice cubes are just a quick way to cool down their drinks or use as a makeshift cold compress if they get hurt. However, some people have a habit of crunching down on them while having a drink. Ice is harder than dental enamel, even when crushed, and your teeth won’t appreciate you eating them. It’s a similar experience to biting down on a rock, which our dentists don’t recommend either.
+If you’re missing a front tooth, you also have multiple other options than a traditional bridge. Cantilever bridges anchor themselves using a single crown rather than two. Maryland bridges forego crowns entirely and instead secure themselves via porcelain or metal wings extending from the false tooth. Both alternative bridges require less or even no tooth preparation, saving patients money and time in the dental chair. However, they’re not as strong or durable as a standard bridge, which is why they’re only used on front teeth that don’t experience the full force of your bite like molars.
 
-## Almonds
+#### How Much Do Dental Bridges Cost?
 
-Almonds may make for a healthy snack, but they can come with their own set of dental problems. These tough nuts to crack are known to cause teeth to crack and chip and teeth sensitivity. In extreme cases, snacking on almonds can even lead to [jaw joint disorders](https://www.mouthhealthy.org/en/az-topics/t/tmj), making it difficult to eat, swallow, speak, or open your mouth.
+With bridges, there’s no one treatment cost. Just as everyone’s smile is unique, their specific prosthetic needs change to reflect it. When calculating a patient’s dental bridge cost, prosthodontists consider several factors:
 
-## Caramel Candies and Dried Fruits
+* Type of bridge
+* Number of false teeth
+* Materials used
+* Complexity and amount of tooth prep
+* Cost of tooth extraction
+* Dental insurance
 
-Incredibly sticky foods like caramel candies and dried fruits are bad for your teeth for several reasons. One of the most well-known ones is that they stick so thoroughly to the tooth’s surface that they can speed up the tooth decay process and cause cavities. Less prominent but even more serious is that these chewy foods can pull loose dental work free from your mouth if you’re not careful!
+## Removable Dentures
 
-## Bones
+If you need to restore multiple teeth, even if they’re not lined up neatly next to each other, [removable dentures](https://www.nudentistry.com/houston-tx/restorative-dentistry/dentures/) are a better option. Dentures are the most flexible to patients’ needs, allowing our prosthodontists to take on any level of tooth loss with ease. On average, dentures have a lifespan of 5 to 7 years. There are two types of removable dentures:
 
-When eating ribs, chicken wings, and other boned foods, be careful when chowing down. Like other strong, hardy foods, they can risk you chipping or cracking your teeth if you accidentally bite down on them. Even small bits of bone that might appear in certain foods, like fish, salads with meat, and soup, can sneak their way into your mouthful and do plenty of damage despite their size.
+**Partial Dentures.** Partial dentures can replace anything less than a full arch of teeth. They use a gum-pink base that rests against the backs of your teeth to keep them solidly in place. We can add clasps that better secure your false teeth to the real ones acting as their anchor for extra stability.
 
-## Hard Candy
+**Complete Dentures.** If you’re missing an entire arch or smile of missing teeth, your dentist will need to prepare a complete denture instead. Without any remaining teeth to support them, they rely on your jaw’s natural, unique shape. With a well-fitting prosthetic, these false teeth can stay steady without slipping or falling out, even while eating or speaking.
 
-As tasty as hard candies can be, they can be bad for your teeth if you’re not careful. This isn’t just about the sugar leading to tooth decay and cavities, either. Hard candies are, well, hard. They’re meant to be sucked on for lasting flavor, not bitten down on immediately. After all, jawbreakers didn’t earn their name for no reason. Consistently chewing hard candies like lemon drops, Jolly Ranchers, and lollipops can eventually show themselves in your smile.
+#### What Do Dentures Cost?
 
-## Frozen Candy Bars
+Like bridges, dentures aren’t one-size-fits-all. You may need multiple prosthetics prepared. You may only need three or four teeth replaced rather than an entire smile. Perhaps your tooth extraction appointment was months beforehand. Taking everything into account, your false teeth cost will vary depending on:
 
-If you thought chocolates and candy bars were safe, you’re only half right. Soft chocolates aren’t likely to cause any imminent damage except tooth decay if you’re not careful with your dental hygiene routine. However, many people stow candy bars in the freezer for hot summer days when they’ll be a refreshing break from the sweltering heat. Like other hard foods, frozen candy bars run the risk of damaging your teeth if you don’t let them thaw.
+* Type of denture
+* Number of false teeth
+* Materials used
+* Cost of immediate dentures
+* Cost of tooth extraction
+* Dental insurance
 
-## Is A Broken Tooth An Emergency?
+## Dental Implants
 
-Not all fractures and breaks are made equal. For some people, their chipped or cracked tooth isn’t serious, and they can wait to fix the damage. However, there are cases when you need to see one of our [emergency dentists](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) for immediate broken tooth repair. Please make an urgent appointment with our Houston dental team if you experience any of the following issues:
+Compared to both bridges and dentures, [dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are considered the best teeth replacement option available. They are embedded directly into the jaw to allow a periodontist to replace a tooth entirely, root and all. By replacing the original tooth’s root, they can provide the same amount of force and stimulation. This unique advantage makes implants the only dental prosthetic that can completely prevent post-extraction bone loss. Teeth implants are composed of three parts:
 
-* Tooth pain and toothaches
-* Excessive bleeding
-* Sharp tooth fragments
-* Loose teeth
+* **Tooth Implant:** a titanium post or screw surgically inserted in your jaw, acting as the new tooth’s root
+* **Abutment:** the piece connecting the implant and crown and keeping the entire false tooth together securely
+* **Dental Crown:** the final part completing the implant and giving it the look and function of a real tooth
 
-Cracked teeth are especially dangerous. What happens if you leave a cracked tooth untreated? Even if they don’t cause any broken tooth pain or swelling, they can still leave your tooth especially vulnerable to infection. Tooth decay and cavities don’t need to work their way past the hardy surface enamel protecting the softer layers below. Instead, they can immediately start attacking the sensitive tissues without you knowing until it’s much too late.
+Although a traditional tooth implant restores a single tooth, implants can be modified to work with both bridges and dentures. The standard dental crown is replaced by a bridge or denture, anchoring them with greater stability. Additionally, these implant-supported prosthetics have greater longevity than their counterparts because the jaw stays healthier over time.
 
-How long can a tooth infection go untreated? Some cavities and dental infections can take months to become serious. Others can have a much more sped-up timeline, especially with fractures leaving an easy backdoor straight to the tooth’s center.
+#### Am I Too Old For Implants?
 
-## Fixing A Broken Tooth
+To be a candidate for teeth implants, both your smile and general health must be in great shape. As such, many patients worry that there’s an age cutoff. Whether you’re 32 or 82 years old, you can still enjoy all that implants have to offer as long as your periodontist believes your treatment will succeed. Dental implants have a success rate of 90 to 95%, so you can rest easy knowing your treatment will be smooth sailing you get the go-ahead.
 
-There are several options for cracked and chipped tooth repair, depending on the damage’s extent. For example, cracks and chips that don’t make it past the enamel only need simple cosmetic procedures to fix them. However, more severe damage may need emergency tooth repair procedures like crowns and root canals. These treatments work to keep teeth healthy, and they may even help save your tooth’s life.
+During your initial consultation, our periodontist will check that you meet the following critical criteria. You must:
 
-#### Cosmetic Dentistry
+* Have a healthy mouth, particularly the periodontal system of jawbone, gums, and connective tissues
+* Be in good overall health
+* Have sufficient jawbone to support the implant
+* Be willing to wait 6 to 8 months for your finished tooth
 
-[Cosmetic treatments](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) like dental bonding or dental veneers allow a dentist to restore and remake the tooth’s surface, using composite resin with bonding or a porcelain tooth facade with veneers. In addition to fixing minor cracks and chips, they can help with several other aesthetic issues:
+Patients who smoke, drink, or have uncontrolled diabetes can be approved for implant surgery, but they have a higher risk of failure. These conditions can affect the mouth’s ability to heal. The implant process relies on your jaw and gums healing across months and several surgeries. Slowed healing can prevent your implant from securing itself firmly or lead to other complications, like infections.
 
-* Teeth stains
-* Gaps between teeth
-* Misshapen teeth
-* Minor crookedness
-* Uneven teeth
-* Dental wear and tear
+If you don’t have enough jawbone, don’t worry. A periodontist can replace the missing material with an additional bone graft surgery. This procedure transplants new tissue, often taken from the back of the jaw, and places it where the bone is too thin. Over four to six months, this new bone fuses with the old, and this stimulation causes more natural bone to form and reinforce the jaw. Once the jaw is fully healed, you can safely start the dental implant process.
 
-#### Dental Crown
+#### How Much Do Dental Implants Cost?
 
-More extensive and severe tooth damage covering most or all of a tooth’s surface may require a dental crown. Crowns are common with broken teeth that are missing a large part of the original tooth. During this procedure, the damaged and decayed tooth parts are removed before the crown is placed to restore the tooth to its old shape, look, and function.
+Implants require more time, precision, and specialized care to place them, and this is reflected in the treatment’s price. Implants are usually more costly than their alternatives. Still, their unmatched longevity and health benefits make them an incredibly worthwhile investment. Like other prosthetics, a patient’s dental implant cost depends on several variables:
 
-Can a crown last a lifetime? A dental crown’s lifespan depends on the type of crown. Which one you get depends on the tooth’s location and your preference:
+* Type of dental implant
+* Number of visits
+* Cost of titanium implant
+* Cost of abutment
+* Cost of dental crown
+* If bone grafting is required
+* Cost of tooth extraction
+* Whether dental sedation is used
 
-* All-Porcelain: entirely natural-looking and durable enough to last 20 years with good care
-* Porcelain-Fused-To-Metal (PFM): have a metal base beneath their porcelain exterior to withstand greater force and pressure than all-porcelain ones and last up to 25 years
-* Base Metal: often relegated to back teeth due to their unnatural appearance but are incredibly sturdy and last 30 years
-* Gold: most durable and wears down at the same rate as enamel, making it capable of lasting 50 years to a lifetime
+However, unlike bridges and dentures, teeth implants are often not covered under dental insurance plans. Several full coverage plans do include them, but many only include part of the dental crown’s cost, not the abutment’s or titanium implant’s.
 
-#### Root Canal
+No matter what, Nu Dentistry is dedicated to ensuring our patients never have to worry about their dental work breaking the bank. Along with accepting all PPO dental insurance, our Houston dental office offers multiple alternative financing options to make managing your payments easy. With CareCredit Dental and our in-house membership program, our caring team helps guarantee that you can get affordable dentures, bridges, and dental implants.
 
-If a fracture, break, or tooth infection reaches the tooth’s centermost dental pulp, you’ll need a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/). Root canals go deep into the tooth, often taking out pulp down to the root when the damage is severe enough. They’re also helpful when a dental abscess forms at the tooth’s base and needs to be drained. After clearing the tooth, it will be filled and sealed with a tooth filling or crown.
-
-When can a tooth not be saved? There may be no salvation for your tooth if too much has broken off or the dental pulp is badly injured or decayed enough that the tooth dies. At this point, your tooth may become numb without the tooth’s nerves in the pulp telling the brain that something’s wrong. In some cases, an immediate root canal can still bring a tooth back from the brink. However, for most, a dentist’s only choice is to extract it.
+Are you excited to finally fill in the gaps in your smile and restore it to its old self? The Nu Dentistry team is here to help! You can reach us at (832) 916-4144 to schedule a prosthodontic consultation with us today.
