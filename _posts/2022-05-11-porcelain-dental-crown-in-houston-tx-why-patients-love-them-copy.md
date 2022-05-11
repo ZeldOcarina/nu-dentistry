@@ -1,81 +1,77 @@
 ---
-title: How To Strengthen Your Tooth Enamel In Houston, Tx
+title: Do You Need To Replace Amalgam Fillings In Houston, Tx?
 
 ---
-Most people think that their bones are the hardest parts of the body. However, the strongest thing in the human body is your teeth’s enamel. Enamel is the outermost layer of the tooth, meant to protect the softer and more vulnerable dentin and pulp layers underneath. It consists of 96% minerals, such as phosphate and calcium, that make this tooth layer durable and resistant to dental problems like impacts, dental trauma, decay, and erosion. In a sense, you can think of enamel as the shield or armor keeping your inner tooth safe and healthy.
+It’s almost inevitable that at some point or another that you will need a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). Nearly everyone gets at least one cavity in their lifetime, with patients as young as 2 and as old as 92 needing to see our dentists for treatment. Depending on the severity, your dentist may recommend a filling when a tooth is:
 
-However, as hardy as it is, tooth enamel isn’t invincible. While it may be the most mineralized substance in your body, it can still be worn down and damaged over time as it loses its minerals. What causes tooth enamel to weaken? From improper brushing to an unlucky draw in the genetic lottery, teeth enamel can become demineralized for several reasons:
+* Decayed to the point that there is a physical hole in the tooth
+* Chipped, cracked, or fractured
+* Damage from tooth grinding
 
-**Poor oral hygiene.** Brushing and flossing your teeth irregularly or using the wrong techniques can cause dental plaque and bacteria to build up. The acids in plaque and bacteria slowly strip away enamel’s calcium and other minerals. Once the tooth is weak enough, they erode the enamel and begin attacking the inner tooth, causing a [cavity](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/).
+Since their invention in the early 19th century, dentists have traditionally used silver dental amalgam for restoring a tooth against decay with a cavity filling. However, as dentistry has come further along in the following centuries, there are now several alternative materials that we can use instead. The most popular of these new materials is composite resin. Recently, the dental world has almost entirely abandoned amalgam for this tooth-colored upstart.
 
-**Genetics.** You don’t just inherit your good looks, humor, and wealth from your parents. Weakened enamel can also run in the family. Diseases like enamel hypoplasia and demineralization can be passed on genetically, leading to more frequent tooth decay and other dental issues.
+## Why Is Composite Better Than Amalgam?
 
-**Unhealthy food.** Sugary junk foods and fizzy drinks are the worst things for your teeth that you can eat. Sugar is excellent at attracting oral bacteria and helping plaque accumulate on your teeth faster. And carbonated drinks and sodas are great at gradually breaking down your enamel, even if you have good brushing and flossing habits.
+Amalgam fillings are made of about 50% liquid mercury, with other metals like tin, copper, and silver making up the other half. This material used to be the cavity filling of choice due to its longevity, strength, and resistance to wear and tear. They were also often used for larger cavities, which require greater strength to reinforce the tooth against future tooth decay, cracks, chips, and dental damage.
 
-**Too much fluoride.** Fluoride strengthens the teeth, so it’s recommended even from a young age to keep smiles healthier. However, moderation is key. Excessive fluoride when teeth are still developing can lead to fluorosis. What is dental fluorosis? It makes the enamel highly porous, weakening it. You can often spot it by the faint white streaks it leaves on enamel.
+However, their high mercury content has put these fillings under scrutiny among both dentists and patients out of safety concerns. Amalgam can release trace amounts of mercury vapor that can be breathed in and absorbed into the lungs. While dangerous in high amounts, this vapor is relatively harmless in the small doses that these fillings release. Still, [the FDA warns](https://www.fda.gov/medical-devices/dental-devices/dental-amalgam-fillings) there is a greater risk among pregnant and nursing women, children under 6, and people with existing neurological diseases or impaired kidney function.
 
-Can you rebuild tooth enamel? Unfortunately, no. Once it’s been lost, you can’t naturally regenerate your tooth’s enamel. However, you can still restore some of the lost minerals to help strengthen the tooth. Weakened enamel can be restored or remineralized to some extent, such as with minor wear and tear and early tooth decay before cavities form. However, with more extensive damage, you can’t regenerate or rebuild the lost and destroyed tissues. You will most likely need a restorative treatment such as a dental filling or [crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) to repair your tooth to its old shape.
+Beyond the health concerns, amalgam fillings have largely fallen out of fashion for several other reasons:
 
-Although you cannot rebuild enamel, you can still keep these problems at bay and strengthen your teeth. There are certain lifestyles and habits that you can adapt to reinforce your tooth enamel and keep your smile healthier:
+* Silver fillings do not look natural and can be easily seen
+* The filling can gradually discolor the surrounding tooth an unnatural, unhealthy-looking gray
+* The metal can expand and contract over time with heat and cold, eventually causing the tooth to crack
+* Dental amalgam requires more of the original tooth to be removed to fit the cavity filling
+* Some patients are sensitive or allergic to mercury and other metals used in amalgam fillings
 
-## Watch Your Diet
+In recent years, dentists across the country have switched almost entirely to composite and other metal-free alternatives. Composite fillings use a liquid resin made from plastic and ceramic compounds. Once they are applied to the tooth and molded into the best and healthiest shape, the resin is hardened with a curing light to seal the tooth fully. These fillings are the most popular not just because they avoid using the same controversial materials. They can also look just like the surrounding tooth. Composite can come in many shades, so a dentist can choose the one that perfectly matches the natural tooth.
 
-Your diet plays a large part in your enamel’s health. Healthy eating can keep your teeth from weakening and help bolster the enamel’s defenses against tooth decay and other dental problems.
+Previously, these tooth-colored fillings were mainly used for front teeth, while amalgam was placed on back teeth. At Nu Dentistry, we only use composite fillings so that our patients can enjoy a natural-looking, healthy smile. Composite has improved drastically in strength over the years, with greater strength and durability. Nowadays, these fillings can safely take on even the increased bite pressure that back teeth and molars face daily.
 
-#### Cut Down Sugars and Sodas
+Here’s a quick look at the pros of composite fillings:
 
-As discussed, sugars, junk foods, and carbonated drinks are among the most common causes of weak teeth. You need to limit sugary food and fizzy drinks because their acids weaken enamel and problems like tooth decay. For this same reason, you should also avoid having citrus fruit and fruit juices like lemonade, oranges, and grapefruits due to their high acidity.
+* Aesthetically pleasing
+* Entirely metal-free
+* No health and safety concerns
+* Bond to the tooth’s surface for greater support and stability
+* Adequate strength, no matter the tooth’s location
+* Requires less tooth preparation than amalgam
+* No contraction or expansion of the filling over time
+* Easy to replace
+* Hardens quickly for a quick procedure
 
-#### Calcium-Rich Foods
+## When Should Amalgam Fillings Be Replaced?
 
-Demineralization strips enamel of its calcium. Eating calcium-rich food such as dairy products, leafy greens, and beans can help reverse the damage done by sugary foods and strengthen the enamel.
+While you can often choose to have our dentists replace your amalgam fillings with composite ones, sometimes life makes that decision for you. As great as you may take care of them, even the best dental fillings don’t last forever. Eventually, they will need to be replaced as they gradually break down over time. How long do fillings last? Typically, amalgam fillings last about 15 years before patients need to replace them. Composite fillings last between 8 and 12 years on average. Leaving your old and worn-out fillings is a recipe for disaster as it leaves the inner tooth exposed and vulnerable to dental decay and further damage.
 
-#### Vitamin D
+These are some of the most common warning signs to look out for if your tooth filling has been compromised:
 
-Getting your daily amount of [vitamin D](https://www.verywellhealth.com/does-vitamin-d-influence-your-dental-health-4144768) can help, too. Vitamin D helps your bones and tooth enamel absorb calcium. (It also helps your teeth’s inner dentin layer protect and repair itself against bacteria and decay. You can easily get vitamin D through sun exposure, foods like salmon and other fatty fish, and supplements.
+**Missing Filling** One of the most obvious signs to see your dentist is if your filling fell out. With a missing filling, it’s critical to get it replaced as soon as possible. The inner tooth below is left exposed and vulnerable to cavities, decay, and further injury.
 
-## Practice Great Dental Hygiene Habits
+**Crack In Your Filling** Over time, constant pressure from eating and biting can cause dental fillings to crack. While some cracks can be visible, others may be small or thin enough only to be seen with an X-ray. However, no matter their size, these cracks should be re-filled quickly as they can become infected.
 
-Keeping your teeth clean of plaque and bacteria is key to preventing your smile from weakening and falling prey to tooth decay and other dental problems. This requires maintaining excellent oral hygiene. Most people think of dental hygiene as brushing their teeth twice each day and flossing daily. However, there’s more to a healthy, clean smile than this:
+**Toothache** If your already-filled tooth starts hurting again, it’s probably time to get your cavity filling replaced. Toothaches are a common sign that the filling has been compromised, and tooth decay has started attacking your sensitive inner tooth. If left untreated, the decay will spread and continue to worsen until you need something more extensive than a simple filling, like a dental crown or [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/).
 
-#### Use the Right Techniques.
+**Sensitivity** The filling needs replacement when the tooth gets sensitive to hot and cold. Sensitivity in filled teeth is often a sign that the filling or the tooth around it has a crack. (Please note that it’s normal to experience some measure of sensitivity days or even weeks after first having a filling performed.)
 
-_How_ you brush and floss your teeth is just as crucial as _how often_. Brush in gentle, circular motions rather than straight up-and-down, left-to-right strokes. This allows the bristles to better reach plaque at and below the gum line. You should also brush for about 2 minutes to give your smile a thorough scrub. When flossing, use C-motions to catch any food or debris stuck under the gums.
+**Tooth Injury** Sometimes, it’s not the filling that’s the problem but the tooth itself. If the tooth breaks due to injury or trauma, your current filling won’t work. A new dental filling is needed to repair and reinforce the tooth.
 
-#### Never Brush Too Much
+It is not always easy to self-assess when your filling needs a replacement. The best way to know for yourself is to visit your dentist for an examination.
 
-Wait, go back and read that again. While you should brush your teeth regularly, you shouldn’t brush more often than two or three times a day. Over-brushing can scratch and damage the tooth’s surface. If you have coffee or other acidic drinks, you should also wait at least 30 minutes before brushing your teeth. As the acid weakens the tooth, immediately brushing can further harm your enamel.
+## How Many Times Can A Filling Be Replaced?
 
-#### Switch To An Electric Toothbrush
+The exact number of times a dentist can replace your dental filling depends on how much of your base tooth remains. During the filling procedure, the decayed and injured portions of the tooth are removed before the hole is filled with composite resin. If that hole becomes too large, the tooth is too weak to stay strong and protected against future damage. Sometimes, a tooth has multiple fillings, meaning even more of the original tissues are missing. In these cases, your dentist may eventually recommend a more extensive restorative treatment, like a [porcelain dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/), to reinforce the whole tooth.
 
-If you’re still using a manual toothbrush, we recommend replacing it with an electric one instead. Electric toothbrushes can remove much more plaque—some studies say over 100% more. With rotating and vibrating bristles, they automatically help you use the correct brushing motions and techniques. Some electric toothbrushes also come with features like a built-in timer or pressure sensor to ensure you take better care of your teeth.
+## How Are Fillings Replaced?
 
-#### Regularly Get Dental Cleanings
+When replacing an amalgam filling with a composite one, the procedure is similar to the initial filling. It will just take a bit longer as we will first need to take out the old tooth filling before preparing and placing your new one.
 
-Even if you do all of the above, plaque and bacteria can still gradually build up on your teeth over time. Seeing a dental hygienist at least once every six months for a [dental cleaning](https://www.nudentistry.com/houston-tx/general-dentistry/dental-cleaning/) helps you keep your teeth squeaky clean and helps prevent demineralization and tooth decay. Patients who already have a history of frequent dental problems may need to come in more frequently to ensure their dental health stays in check.
+* First, we numb your tooth with a local sedative so that the entire process is painless.
+* Next, the old filling is removed via a dental drill.
+* Once the cavity is cleaned off the old residue, it is prepared again to fit in the new one. With teeth that have developed new infections and cavities, this may require removing more of the tooth.
+* The composite resin is placed before being hardened with a special light. This is done in layers.
+* After the tooth is filled, we will shape the composite filling until it fits your bite perfectly, making adjustments where needed.
 
-## Use Fluoride Products
+How long does a filling take? Most fillings don’t need more than an hour to finish, including the time necessary for the local anesthetic to kick in. However, the exact time depends on the size of the dental filling needed. Small fillings might require as little as 20 to 30 minutes to complete, while larger or multiple fillings may need quite a bit longer.
 
-As dentists, fluoride is one of our best friends. It has been known as nature’s cavity fighter and enamel strengthener for ages, remineralizing teeth and keeping smiles in better shape. It also makes your teeth more resistant to bacteria and tooth decay. Luckily, it’s incredibly easy and convenient to get access to it. You can add more fluoride to your smile with:
-
-* Community water
-* Fluoridated bottled water
-* Fluoride toothpaste
-* Fluoride mouthwash
-* Fluoride treatments and sealants at the dentist
-
-However, while fluoride is incredible, we’ve already discussed that too much isn’t great for your enamel. As long as you take any products as instructed, your smile will be perfectly safe and healthy with a good layer of fluoride for your teeth to absorb. Children should especially use fluoride treatment and toothpastes. Their teeth are not immune to decay and cavities. Are baby teeth more prone to cavities? Unfortunately, baby teeth are naturally weaker than adult ones, making it easier and faster for cavities to develop. Be sure to follow your children’s dentist’s instructions on how to use them.
-
-* For children under age 2, put only a smear of remineralizing toothpaste on their toothbrushes. Afterward, tilt their head over a sink or washcloth and let the toothpaste dribble out of their mouth.
-* Kids between 3 and 6 years old can use a pea-sized amount of fluoride toothpaste. Make sure to keep a close eye on their brushing to ensure they don’t swallow any.
-* Children should **not** use mouthwashes, fluoride or not, until they are at least age 6. This ensures they do not accidentally swallow any.
-
-## Signs of Weak Tooth Enamel
-
-To prevent enamel from extensive damage, you need to look out for sure signs and symptoms that indicate a weakened tooth:
-
-* **Tooth discoloration:** Healthy enamel is a healthy, solid white. Enamel that has been demineralized by tooth decay can develop white spots. These spots will gradually darken as the decay worsens.
-* **Tooth sensitivity:** Thinner tooth enamel can also increase sensitivity to hot, cold, and sweet foods. This sensitivity is often a symptom of a cavity, so it’s best to see a dentist for an exam if you consistently feel twinges and pain from your teeth.
-* **Surface roughness:** Normally, our teeth feel smooth on our tongues. However, early stages of enamel loss can cause them to feel rough, especially around the tooth’s edges.
-
-If you experience any of these problems, it’s time to start strengthening your enamel or even see one of our dentists.
+Do you need to replace your current silver fillings with metal-free composite? Feel free to give our dental office a call at (NUMBER) today to schedule an appointment with our dentists.
