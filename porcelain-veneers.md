@@ -176,25 +176,24 @@ blocks:
       a bit more since they require preparing your teeth, and they can last 2 to 3
       times longer. However, regardless of which kind you get, most veneers are not
       covered by insurance.
-  - heading: DO VENEERS RUIN YOUR TEETH?
-    content: No, porcelain veneers do not ruin your teeth. They actually have advantages
-      over your natural enamel. Just like porcelain crowns do, veneers protect your
-      teeth from further tooth decay and damage. Veneers are made of much sterner
-      stuff than enamel, and they’re more resistant to stains.
-  - heading: HOW LONG DO PORCELAIN VENEERS LAST?
-    content: Porcelain veneers are amazing for their durability. With proper care
-      and dental hygiene habits, they can last you 10 to 15 years before needing replacement.
-      To ensure you get the most out of your veneers, be sure to brush and floss regularly,
-      avoid grinding your teeth, and stay away from staining foods and drinks.
   - heading: HOW DO YOU GET A BEAUTIFUL SMILE AT THE DENTIST?
     content: 'There are two main ways you can get the smile of your dreams at the
       dentist: by incredible dental hygiene or through cosmetic dentistry. Brushing
       your teeth and making regular cleaning appointments can only do so much, however.
       Cosmetic dentistry, which includes not only veneers but teeth whitening, bonding,
-      and <a href=''/houston-tx/cosmetic-dentistry/invisalign/'' target=''_blank''
-      class=''paragraph-link''>Invisalign</a>, does more than keep your teeth beautifully
-      healthy. These cosmetic services can change the look of your smile so that it’s
-      precisely what you want.'
+      and [Invisalign](http://50.18.194.110:40030/houston-tx/cosmetic-dentistry/invisalign/),
+      does more than keep your teeth beautifully healthy. These cosmetic services
+      can change the look of your smile so that it’s precisely what you want.'
+  - heading: HOW LONG DO PORCELAIN VENEERS LAST?
+    content: Porcelain veneers are amazing for their durability. With proper care
+      and dental hygiene habits, they can last you 10 to 15 years before needing replacement.
+      To ensure you get the most out of your veneers, be sure to brush and floss regularly,
+      avoid grinding your teeth, and stay away from staining foods and drinks.
+  - heading: DO VENEERS RUIN YOUR TEETH?
+    content: No, porcelain veneers do not ruin your teeth. They actually have advantages
+      over your natural enamel. Just like porcelain crowns do, veneers protect your
+      teeth from further tooth decay and damage. Veneers are made of much sterner
+      stuff than enamel, and they’re more resistant to stains.
   - heading: ARE VENEERS PERMANENT?
     content: Unfortunately, veneers are not a permanent solution to your smile. However,
       with excellent dental care and regular cleaning appointments with your dentist,
@@ -203,7 +202,7 @@ blocks:
       slightly to fit your veneers. As such, we recommend that you receive replacement
       veneers in order to maintain your beautiful, healthy smile.
   - heading: DO VENEERS CHANGE YOUR FACE?
-    content: Porcelain veneers can change your face. At Nu Dentistry, your cosmetic
+    content: Porcelain veneers can change your face. At NuDentistry, your cosmetic
       dentist will make sure that your new teeth not only fit perfectly for you now
       but will highlight the best features of your face. Depending on your needs,
       your veneers can widen your smile, emphasize your cheekbones, and even make
@@ -220,7 +219,7 @@ blocks:
     content: There are certain no-preparation veneers, like Lumineers, that do not
       require trimming your teeth down to fit them. They are thin enough that they
       can fit right over your teeth as-is without feeling bulky or uncomfortable.
-  - heading: Can I get veneers on just my two front teeth?
+  - heading: CAN I GET VENEERS ON JUST MY TWO FRONT TEETH?
     content: Absolutely! Veneers are meant to perfect your teeth only as you want
       them to. We treat each tooth individually, shaping and designing them so that
       you receive your best look. We can prepare anywhere between a single to 6 or
