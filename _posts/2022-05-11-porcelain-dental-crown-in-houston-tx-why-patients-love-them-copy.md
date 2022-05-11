@@ -1,59 +1,63 @@
 ---
-title: The Ins And Outs Of Your Tooth Filling In Houston, Tx
+title: 'Tooth Filling In Houston, Tx: Frequently Asked Questions'
 
 ---
-Toothaches, cracked and chipped teeth, and discolored tooth spots can all point to one thing: you may need a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). Fillings are used to treat and rebuild a tooth after cavities and dental injuries. They are most commonly used to treat dental decay as dental plaque and bacteria can quickly cause small holes and pits in the tooth’s surface that need filling. Nearly everyone will develop at least one cavity in their lifetime, with many people having between 4 and 10 in their lifetime, on average. Prompt filling treatment can stop the infection from advancing further and reinforce the tooth against further tooth damage.
+Cavities are one of the most common health problems faced around the world. It’s almost guaranteed that you will develop at least one at some point in your life. The average American will have anywhere between four and ten cavities in their lifetime. Current studies show that at least 1 in 4 adults in the U.S. currently have untreated tooth decay. As universal as cavities are, it’s essential to know what is happening with your smile and how you can fix it.
 
-Cavities don’t appear on their own. They take time to develop and often come with warning signs to let you know that your tooth’s health is in danger. The first tooth decay symptoms include white spots on the tooth’s surface as the enamel is demineralized and weakened by dental plaque. During the white spots phase, tooth decay doesn’t yet need a dental filling. Instead, brushing, flossing, and fluoride products can help reverse the damage. However, once decay creates a hole in the tooth, the damage becomes permanent. You’ll need to see a dentist for a professional dental filling.
+At Nu Dentistry, many of our patients have questions about cavities and [dental fillings](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). Let’s go over some of the most frequently asked ones our dentists get:
 
-What does a decayed tooth look like? Your dentist may recommend a tooth filling if you experience the following cavity-stage symptoms:
+## What Is A Cavity?
 
-* Sharp and persistent toothache
+A dental cavity is often used synonymously with tooth decay, but there is a distinction. Tooth decay is a dental disease caused by plaque and bacteria weakening and eroding your tooth. It first starts with demineralizing the tooth’s enamel surface, typically appearing as white spots. Without minerals like calcium to boost the tooth’s defenses, dental decay can begin breaking down the enamel and eventually make its way throughout the entire tooth.
+
+Cavities are the physical pits in a tooth’s surface that are eventually caused by dental decay once it starts wearing down the enamel. Once a cavity develops, the damage to your tooth becomes permanent. It can also be quite painful as the decay in these later stages destroys the inner tooth’s more sensitive parts, such as the dentin and dental pulp layers. Toothaches are especially common once the cavity reaches the centermost pulp layer since this is where the tooth’s blood vessels and nerves are.
+
+## What Does A Cavity Look Like?
+
+Tooth decay symptoms can range depending on the severity. As already mentioned, first-stage dental decay is only visible by the white, chalky patches it leaves on the tooth’s surface from demineralization. Once a cavity forms, it can be spotted by the physical hole or chip it creates in the enamel. Additionally, the white spots on the teeth can gradually darken, turning brown, gray, or even black. With dental X-rays, cavities appear as darker spots and shadows on the teeth.
+
+However, a tooth cavity isn’t just noticed by the visible evidence it leaves behind. There are several other common warning signs to keep an eye out for:
+
+* Persistent toothache, which may come and go
 * Cavity pain when eating
-* Lousy breath that doesn’t go away
-* White tooth spots growing darker
-* Visible pit in the tooth
+* Halitosis (frequent bad breath)
+* Sharp tooth sensitivity to hot and cold
+* Lingering sensitivity to sweets
 
-## The Dental Filling Process
+If all tooth pain suddenly disappears and doesn’t return, it can be signify that your cavity has killed the tooth. If this happens, you shouldn’t wait to see our dentists for immediate attention. Fast, responsive treatment can save your tooth and prevent otherwise necessary tooth extraction.
 
-Before we begin treatment, our dentists will need to conduct a thorough oral examination to identify the extent of your offending tooth’s decay. With an accurate understanding of your dental cavity, we can plan and choose the best treatment. Standard dental fillings are performed when dental decay only reaches the first two layers of the tooth: the enamel and the dentin. Cavities at the last and deepest layer, the pulp, will instead need a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/). Root canals can be sealed with a filling, but a dental crown is used more often than not.
+## Can I Brush Away a Cavity?
 
-With fillings, our dentists will first apply a local anesthetic to the tooth and gums, ensuring you’ll remain relaxed and pain-free throughout the procedure. When you’re numbed, we’ll then begin removing the infected parts of the tooth. Once the decay is completely gone, the dentist will move on with filling the dental cavity. At our clinic, we use tooth-colored composite resin. Composite is applied in thin layers. Each layer is cured using UV light exposure. This hardens the filling and fully seals the inner tooth against future decay and oral bacteria.
+You can reverse pre-cavity tooth decay with fluoride treatment and great brushing and flossing. However, dental cavities aren’t so easily fixable. The missing enamel won’t heal or reappear on its own, and the tooth will instead need professional tooth decay treatment. A dentist will remove the infected parts of the tooth before filling in the hole left behind. With small dental cavities, this is usually a dental filling. However, later tooth decay stages will require more extensive treatment than a simple filling, such as a [dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) or root canal.
 
-Once the tooth is properly built up, we can start shaping the composite to match your old bite’s original fit and feel. When we’re done, your tooth will look and work like it had pre-cavity. Is it normal to feel a filling? Yes. Even after shaping your filling, it may feel rough against your tongue over the next few days. However, it will quickly wear and smooth down. It will look and feel exactly like your tooth’s enamel. If you still noticeably feel your dental work after a week, please get in touch with our office to schedule an appointment. Your dentist will remove the excess composite and reshape the filling so that it fits as it should.
+## What Will Happen If a Cavity Is Left Untreated?
 
-If you have any questions or concerns about your dental filling procedure, we urge you to talk to us beforehand. Our friendly dental professionals want you to feel entirely confident and secure with your upcoming treatment. We will ensure that all your questions are answered and your procedure happens in a comfortable and pleasant environment.
+Untreated dental cavities can wreak havoc on both your oral and overall health. They will stop at nothing to gradually destroy the tooth’s enamel, dentin, and pulp layers. Tooth decay will continue moving its way down the tooth’s roots until the entire tooth is infected. This infection can eventually spill out of the tooth’s tip into the surrounding gum tissues to create a pocket of pus called a tooth abscess. At this late stage, only a root canal can save your tooth.
 
-## What Do Dentists Use To Fill Cavities?
+Without immediate treatment, the tooth will die, even as oral bacteria spread to the jawbone and nearby soft tissues and teeth. The bacteria can also find their way to the bloodstream, where they travel throughout the body. Patients with a history of frequent and severe cavities have an increased risk of heart problems, stroke, pneumonia, rheumatoid arthritis, diabetes, and pregnancy complications.
 
-Traditionally, dentists used silver amalgam for dental fillings. However, silver amalgam has been largely abandoned by most dental offices for three main reasons:
+## How Is a Filling Done?
 
-1. It isn’t invisible like composite resin. Its metallic silver-gray appearance makes fillings easy to notice, ruining your teeth’s appearance.
-2. Amalgam fillings are half made of liquid mercury, which many patients are understandably concerned about for their health.
-3. Amalgam continuously expands and contracts when exposed to heat and cold. Since the tooth doesn’t expand and contract with the filling, the tooth can eventually crack and break over time.
+The dental filling procedure is straightforward and generally completed in a single 30 to 60-minute visit. First, our dentist will perform a complete dental examination to understand the cavity’s full extent. Then we will begin removing the infected parts of the tooth with the help of a dental drill. This process is painless. We will apply a local anesthetic beforehand, so your tooth will be numb as we work. Patients can also request dental sedation like [nitrous oxide](https://www.ada.org/en/member-center/oral-health-topics/nitrous-oxide), which provides more all-encompassing comfort and peace of mind throughout your procedure.
 
-At Nu Dentistry, our dentists only use [dental composite bonding](https://www.mouthhealthy.org/en/az-topics/c/composite-fillings) in our filling procedures. Composite fillings are made of biocompatible resins that are durable and, more importantly, can be color-matched to be impossible to tell apart from natural enamel. Composite is metal-free and uses safe materials, so there are no dental or general health concerns. Moreover, dental composites require less enamel to be removed to fit them. It also can better replicate your old tooth’s structure and anatomy for a more natural fit and feel.
+Once the decay is gone, we will clean and dry the tooth before filling it with composite resin. The composite used is color-matched to the rest of your tooth, so your restored tooth will look entirely natural. Composite fillings rebuild the lost parts of the tooth in layers. After each layer, the dental composite is exposed to UV light and hardened. With your tooth filled, we will then reshape and polish it to match its original look and bite.
 
-How long do fillings last? Composite fillings typically last five to seven years. However, with good care and dental hygiene, your dental filling can stay in great shape for more than a decade.
+## How Many Years Do Fillings Last?
 
-## Do All Cavities Need Fillings?
+Composite dental fillings have a typical lifespan of about 5 to 10 years. Their longevity depends on your daily habits and how well you maintain your oral hygiene. By brushing your teeth twice a day with fluoride toothpaste and flossing daily, you can keep your fillings in better shape. You should also do your best to avoid sugary foods and drinks like candies, chocolates, and colas. They can also contribute to further tooth decay and filling damage. Additionally, please be cautious not to bite down on hard objects, which can crack or break a filling if you’re not careful.
 
-The short answer is NO. Before a cavity forms, you can reverse early tooth decay with the help of fluoride treatment and some healthy brushing and flossing habits. No professional dental work is needed. Once a dental cavity appears, it will require a filling. However, without treatment, cavities won’t stop once they begin. They’ll eventually outgrow what tooth fillings can fix. Your dentist may instead recommend an inlay or onlay, which can repair more extensive surface-level damage on back teeth.
+## Why Can I Feel My Filling With My Tongue?
 
-In some cases, even inlays and onlays won’t fully restore a tooth’s functionality once the decay extends far or deep enough. A dentist may need to perform a [dental crown procedure](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) instead. During this procedure, the decay will be removed similarly to a dental filling. Once the tooth is cavity-free, the enamel is trimmed and reshaped to fit the crown. A temporary crown or filling is typically needed while a more permanent crown is being made. This temporary filling or crown will last the two or three weeks required for the permanent crown to be ready.
+At first, your dental filling may feel a little rough against your tongue. However, the composite will smooth out over the next few days, and you will soon adjust to it. If you can still detect the filling after a week, there may be extra composite filling used. This isn’t a health risk, but it can be too obvious or uncomfortable for some patients. Please don’t hesitate to contact our dental office and schedule an appointment. Our dentists can then reshape the filling to its intended size and shape for a more seamless experience.
 
-Dental decay that reaches the tooth’s central dental pulp will need a root canal. Root canals can include clearing out an entire tooth’s root, depending on the level of decay and damage. The hollowed-out tooth will need to be sealed and reinforced with a filling or dental crown. Crowns are usually the go-to restoration. They are more durable and can better protect your tooth, which will be more brittle and injury-prone after the root canal.
+## Does Going to the Dentist Prevent Cavities?
 
-## How Much Does A Cavity Filling Cost?
+YES! Regular dental cleanings every six months can be crucial for preventing cavities and reversing early tooth decay. That’s why these appointments are considered preventive dentistry. Even with excellent brushing and flossing, dental plaque, tartar, and bacteria can still gradually collect on your teeth over months and years. Cleaning appointments scrape the tooth clean, stopping any buildup from eventually turning into tooth decay and cavities. In some cases, your dentist may recommend fluoride treatment to remineralize your teeth against existing early decay, restoring the tooth to its old self.
 
-Typically, the type of dental filling material can affect your treatment’s cost. However, at Nu Dentistry, we only perform composite fillings to ensure your smile looks and feels its best. Your cavity filling may range in price due to these factors:
+Dental exams are also essential for finding decay and other dental health problems and treating them as promptly as possible. The earlier your cavities are found, the better. As previously stated, cavities will only get worse without professional treatment. Earlier detection can often mean less extensive treatments, like small fillings rather than crowns and [root canals](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/).
 
-* Number of teeth requiring tooth decay treatment
-* Location of tooth needing filling
-* Size of the cavity
-* Whether a temporary tooth filling is needed
-* Your dental insurance plan
+## How Much Should A Filling Cost?
 
-Most dental insurance providers consider dental fillings a “basic” treatment, so they will cover most of the cost. Depending on your specific plan, your insurance will usually provide 70 to 80% of your cavity filling cost. If you don’t have dental insurance or need help covering the rest of your treatment, our dental office also offers alternative financing options. This includes in-house financing options to ensure our patients always have access to affordable dental care.
+Your cavity filling cost depends on several factors, including the number of teeth, the cavity’s size and location on the tooth, the type of tooth, and the materials used. Depending on the cavity’s severity, you may need additional visits and treatments to restore your tooth. These will also add to your treatment’s cost. However, dental insurance can significantly cut the price of your dental filling. Many plans typically cover about 80%, though some may provide as much as the total cost. If you have any questions about your plan’s coverage, our dentists are here to help.
 
-If you’re experiencing cavity pain, don’t wait until it’s too late to get a dental filling! Please call our dental office at (832) 916-4144 today to schedule an appointment with our skilled emergency team.
+Do you have a dental cavity? Please don’t wait until it’s too late to have yours seen by our expert Houston dentists! Reach out to us today at (832) 916-4144 to schedule an appointment with our team.
