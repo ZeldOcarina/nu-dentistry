@@ -1,96 +1,93 @@
 ---
-title: 'Canker Sore In Houston, Tx: Is It A Dental Emergency?'
+title: Foods To Avoid If You Don’t Want A Cracked Or Chipped Tooth In Houston, Tx
 
 ---
-From oral cancer lesions, canker sores, and cold sores, mouth sores are an incredibly common problem we see here at Nu Dentistry. Depending on the type and their symptoms, they can even be a dental emergency. Looking at canker sores alone, 1 in 5 of our patients is likely to have one at some point. They generally appear between the ages of 10 and 20 years old, but anyone can develop a canker sore.
+Have you ever enjoyed a snack or meal and then suddenly heard a worrying crack? You may have just fractured or chipped your tooth. As strong as dental enamel is, it’s not invincible. With the right food and the wrong pressure, you can potentially put your teeth’s health at risk by cracking or breaking them. While it’s often easy to see how far chips extend, the same isn’t true for dental cracks. Even hairline cracks that are hard to notice can run deep into your tooth and cause unseen harm.
 
-What is a canker sore? A canker sore, or mouth ulcer, is a small lesion that can appear on your inner mouth’s soft areas, like the cheeks, lips, tongue, and base of the gums. What first starts as a small bump in the mouth can later grow into a white, gray, or yellow patch, which can be surrounded by a border of red, inflamed tissue. Canker sores are not contagious, but they can be very painful, causing a burning or tingling feeling in your mouth.
+Some snacks, like sticky and chewy treats, might not hurt your tooth as directly. The sugars in them can lead to cavities and decay in need of a filling, but the real problem lies in your existing dental work. Since these foods cling tightly to your teeth, they can loosen existing cavity fillings and crowns, potentially pulling them free.
 
-## What Causes Canker Sores?
+You can’t plan for a dental emergency like these, but you can do your best to keep them from happening in the first place. One way you can prevent damaging your teeth and previous dental work is staying away from foods we consider part of the “do not chomp” list:
 
-Unlike with other mouth sores, we don’t know the exact cause of canker sores. However, it’s believed that certain conditions may put you at a higher risk for developing canker sores:
+* Popcorn
+* Ice cubes
+* Nuts
+* Caramel candies
+* Dried fruits
+* Bones
+* Hard candies
+* Frozen candy bars
 
-* Stress
-* Small cuts and injuries to the mouth
-* Allergies to certain oral bacteria
-* Sensitivity or allergic reaction to sodium lauryl sulfate in toothpastes and mouthwashes
-* Sensitivity to citrus, acidic, and spicy foods
-* Weakened immune systems, such as with HIV and AIDS
-* Diets low in vitamin B12, zinc, and iron
-* Hormonal changes during menstruation
-* Celiac and Crohn’s disease
-* Family history of canker sores
+## Popcorn
 
-Women are also twice as likely to develop canker sores than men, especially during their teen and adolescent years. This is because hormonal changes during a woman’s menstrual cycle can affect how the mouth reacts to certain oral bacterias. Women on their period are also more likely to experience bleeding gums, swollen salivary glands, and [gingivitis](https://www.nudentistry.com/houston-tx/emergency-dentistry/gingivitis/).
+Popped popcorn is notorious for getting trapped between teeth and under gums. While this can be annoying, it’s not dangerous to your smile. It’s the unpopped kernels that you want to look out for. No matter how well you cook your bag of popcorn, there will always be at least a few stragglers that don’t manage to pop and find themselves in your handful while watching a movie or TV show. Biting into one can damage the tooth’s enamel, often causing cracks or small chips. Sometimes, enough force can fracture part of your tooth off or break existing dental work, like a cavity filling or dental veneer.
 
-In most cases, mouth ulcers are not a dental emergency. They clear up on their own, even without a canker sore treatment. However, you may need to have your lesion looked at by your Houston dentist, depending on how long the sore lasts and any other accompanying symptoms.
+Even if you don’t accidentally bite down on them and crack or chip your teeth, popcorn can still cause other problems for your smile. Kernels can sometimes become wedged between the teeth and gums, becoming difficult to remove even with dental floss. In some cases, they may even lead to dental abscesses!
 
-## How Long Do Canker Sores Last?
+## Ice Cubes
 
-The timespan of your canker sore depends on which type of ulcer it is. There are three kinds of canker sores, depending on the severity: minor, major, and herpetiform. Minor canker sores are often small and ovular, usually lasting no more than two weeks. Major sores, which occur less frequently than smaller ones, go much deeper into the mouth’s soft tissues. They usually require more time to heal, sometimes up to six weeks. When they do heal, however, they can leave their mark with permanent scarring.
+For many people, ice cubes are just a quick way to cool down their drinks or use as a makeshift cold compress if they get hurt. However, some people have a habit of crunching down on them while having a drink. Ice is harder than dental enamel, even when crushed, and your teeth won’t appreciate you eating them. It’s a similar experience to biting down on a rock, which our dentists don’t recommend either.
 
-Herpetiform canker sores are the least common type, appearing as a cluster of anywhere between 10 and 100 sores. As each sore is usually very small, they often heal in a week or two without scarring. However, these sores can sometimes merge into a single lesion. If this happens, please see your Houston dentist.
+## Almonds
 
-You should see one of our dentists at Nu Dentistry if you experience any of these unusual canker sore symptoms:
+Almonds may make for a healthy snack, but they can come with their own set of dental problems. These tough nuts to crack are known to cause teeth to crack and chip and teeth sensitivity. In extreme cases, snacking on almonds can even lead to [jaw joint disorders](https://www.mouthhealthy.org/en/az-topics/t/tmj), making it difficult to eat, swallow, speak, or open your mouth.
 
-* Mouth ulcers larger than normal
-* Additional ulcers appearing before older ones clear up
-* Ulcers lasting more than two weeks
-* Lesions extending to the outer lip
-* Difficulty eating and drinking
-* Excruciating pain
-* High fever
-* Swollen lymph nodes
-* Multiple sores
-* Rash
+## Caramel Candies and Dried Fruits
 
-If your sores appear multiple times in a single year, please see us for an examination. In these cases, it can help to understand if any underlying causes are triggering your recurring problem.
+Incredibly sticky foods like caramel candies and dried fruits are bad for your teeth for several reasons. One of the most well-known ones is that they stick so thoroughly to the tooth’s surface that they can speed up the tooth decay process and cause cavities. Less prominent but even more serious is that these chewy foods can pull loose dental work free from your mouth if you’re not careful!
 
-## Canker Sore vs Cold Sore
+## Bones
 
-Canker sores and cold sores are often confused with one another, but they are not the same. [Cold sores](https://www.healthline.com/health/herpes-labialis) are little blisters that appear on the outer lip and often itch, burn, and leak fluid when broken. They can also appear inside the mouth, like a canker sore, occasionally developing on the gums, tongue, and roof of the mouth. Cold sores usually disappear on their own within 7 to 10 days. Unfortunately, there is no permanent cure for cold sores. Once the infection has been contracted, it can reappear later if triggered. These triggers can include:
+When eating ribs, chicken wings, and other boned foods, be careful when chowing down. Like other strong, hardy foods, they can risk you chipping or cracking your teeth if you accidentally bite down on them. Even small bits of bone that might appear in certain foods, like fish, salads with meat, and soup, can sneak their way into your mouthful and do plenty of damage despite their size.
 
-* Stress
-* Cold, flu, and high fever
-* Too much sun exposure
-* Hormonal changes during menstruation and pregnancy
-* Small cuts and injuries to the mouth
-* Facial surgery
+## Hard Candy
 
-Unlike canker sores, cold sores are highly contagious. Although it is caused by herpes simplex virus, this oral herpes doesn’t have to be transmitted sexually like most people expect. It is most often acquired from coming into contact with saliva during childhood or teenhood. This can be from sharing a water bottle, borrowing a parent’s chapstick, or kissing someone with a cold sore. Even touching a cold sore can carry the virus. Patients with an active cold sore should frequently wash their hands and keep from touching their faces until the ulcers have fully scabbed over.
+As tasty as hard candies can be, they can be bad for your teeth if you’re not careful. This isn’t just about the sugar leading to tooth decay and cavities, either. Hard candies are, well, hard. They’re meant to be sucked on for lasting flavor, not bitten down on immediately. After all, jawbreakers didn’t earn their name for no reason. Consistently chewing hard candies like lemon drops, Jolly Ranchers, and lollipops can eventually show themselves in your smile.
 
-## How To Get Rid Of Canker Sores
+## Frozen Candy Bars
 
-Most canker sores clear up on their own within a few weeks. However, the time between can be excruciating, especially if they last for longer than expected. So how do you heal a canker sore fast? To help quicken your canker sore relief, you can try a couple of these at-home treatments:
+If you thought chocolates and candy bars were safe, you’re only half right. Soft chocolates aren’t likely to cause any imminent damage except tooth decay if you’re not careful with your dental hygiene routine. However, many people stow candy bars in the freezer for hot summer days when they’ll be a refreshing break from the sweltering heat. Like other hard foods, frozen candy bars run the risk of damaging your teeth if you don’t let them thaw.
 
-#### Salt and Baking Soda Mouth Rinses
+## Is A Broken Tooth An Emergency?
 
-A common canker sore remedy is rinsing your mouth with a baking soda or saltwater solution. We recommend using one teaspoon of baking soda or salt for every half cup of warm water and gargling for 15 to 30 seconds. Salt helps dry out sores while baking soda can help with relieving inflammation.
+Not all fractures and breaks are made equal. For some people, their chipped or cracked tooth isn’t serious, and they can wait to fix the damage. However, there are cases when you need to see one of our [emergency dentists](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) for immediate broken tooth repair. Please make an urgent appointment with our Houston dental team if you experience any of the following issues:
 
-#### Chamomile Tea and Honey
+* Tooth pain and toothaches
+* Excessive bleeding
+* Sharp tooth fragments
+* Loose teeth
 
-Honey and chamomile are well-known for their antibacterial and anti-inflammation properties. While you can use either of them separately, we recommend drinking them together to get the best of both worlds. This can alleviate canker sore pain and reduce their size and redness. It can also help prevent another infection, especially with an open sore. Once you’re done with your drink, you can then use the chamomile tea bags as a makeshift compress. We recommend doing this three to four times a day.
+Cracked teeth are especially dangerous. What happens if you leave a cracked tooth untreated? Even if they don’t cause any broken tooth pain or swelling, they can still leave your tooth especially vulnerable to infection. Tooth decay and cavities don’t need to work their way past the hardy surface enamel protecting the softer layers below. Instead, they can immediately start attacking the sensitive tissues without you knowing until it’s much too late.
 
-#### Aloe Vera
+How long can a tooth infection go untreated? Some cavities and dental infections can take months to become serious. Others can have a much more sped-up timeline, especially with fractures leaving an easy backdoor straight to the tooth’s center.
 
-Aloe is a standard solution for reducing pain and soothing inflammation and irritation. When applying it as a topical ointment, make sure to use natural aloe gel rather than the green kind you usually use for sunburns or acne.
+## Fixing A Broken Tooth
 
-#### Vitamin B Supplements
+There are several options for cracked and chipped tooth repair, depending on the damage’s extent. For example, cracks and chips that don’t make it past the enamel only need simple cosmetic procedures to fix them. However, more severe damage may need emergency tooth repair procedures like crowns and root canals. These treatments work to keep teeth healthy, and they may even help save your tooth’s life.
 
-As vitamin B-12 deficiency can cause canker sores, taking vitamin B supplements can heal and even prevent them. Some studies have shown that taking B-12 can lead to fewer outbreaks and sores and make those that do appear less painful. Some health professionals also believe that several other B vitamins can aid with canker sore recovery.
+#### Cosmetic Dentistry
 
-If you find your mouth ulcer is unusually large, lasts more than a few weeks, or causes other health issues, you will need to come into our Houston dental office. At this point, the sore is a dental emergency in need of professional care.
+[Cosmetic treatments](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) like dental bonding or dental veneers allow a dentist to restore and remake the tooth’s surface, using composite resin with bonding or a porcelain tooth facade with veneers. In addition to fixing minor cracks and chips, they can help with several other aesthetic issues:
 
-## Preventing Canker Sores
+* Teeth stains
+* Gaps between teeth
+* Misshapen teeth
+* Minor crookedness
+* Uneven teeth
+* Dental wear and tear
 
-Like cold sores, patients who develop canker sores once can get them again. While we can’t stop them from reappearing 100%, there are some easy things you can do to help prevent them from returning:
+#### Dental Crown
 
-**Practice excellent dental hygiene.** Oral bacteria can play a large role in mouth ulcers’ appearance. Taking care to eliminate as much bacteria as possible will make it harder for them to develop. Plus, you’ll see your number of cavities drop and prevent the first signs of gingivitis from appearing. Besides brushing and flossing your teeth regularly, you should also visit our hygienist for a routine [dental cleaning](https://www.nudentistry.com/houston-tx/general-dentistry/dental-cleaning/) every six months.
+More extensive and severe tooth damage covering most or all of a tooth’s surface may require a dental crown. Crowns are common with broken teeth that are missing a large part of the original tooth. During this procedure, the damaged and decayed tooth parts are removed before the crown is placed to restore the tooth to its old shape, look, and function.
 
-**Eat the right foods.** Foods that are highly acidic, citric, or spicy—lemons, oranges, tomatoes, strawberries, pineapples, etc.—have been linked to causing mouth ulcers. Eating few of these fruits and veggies, as well as other troublesome foods like chocolate and coffee.
+Can a crown last a lifetime? A dental crown’s lifespan depends on the type of crown. Which one you get depends on the tooth’s location and your preference:
 
-**Reduce your daily stress.** Stress can be a significant trigger for canker sores, even causing more sores to appear when patients already have one. If you know that this is one of your risk factors, try simple activities that you know can lower your stress levels, such as yoga or meditating.
+* All-Porcelain: entirely natural-looking and durable enough to last 20 years with good care
+* Porcelain-Fused-To-Metal (PFM): have a metal base beneath their porcelain exterior to withstand greater force and pressure than all-porcelain ones and last up to 25 years
+* Base Metal: often relegated to back teeth due to their unnatural appearance but are incredibly sturdy and last 30 years
+* Gold: most durable and wears down at the same rate as enamel, making it capable of lasting 50 years to a lifetime
 
-**Take zinc lozenges.** Zinc helps boost our bodies’ immune systems, allowing us to better fight off bacterial infections and diseases. When the immune system is weak, it can be more challenging for our mouths to keep ulcers from forming.
+#### Root Canal
 
-**Keep your mouth safe from injury.** Dental trauma isn’t just cracks, chips, and breaks in your teeth. Rubbing, irritation, and cuts from dental appliances such as bracket braces can leave your mouth vulnerable to oral bacteria. Using dental wax to cover up these rough areas keeps your inner cheeks and lips better protected against developing sores.
+If a fracture, break, or tooth infection reaches the tooth’s centermost dental pulp, you’ll need a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/). Root canals go deep into the tooth, often taking out pulp down to the root when the damage is severe enough. They’re also helpful when a dental abscess forms at the tooth’s base and needs to be drained. After clearing the tooth, it will be filled and sealed with a tooth filling or crown.
+
+When can a tooth not be saved? There may be no salvation for your tooth if too much has broken off or the dental pulp is badly injured or decayed enough that the tooth dies. At this point, your tooth may become numb without the tooth’s nerves in the pulp telling the brain that something’s wrong. In some cases, an immediate root canal can still bring a tooth back from the brink. However, for most, a dentist’s only choice is to extract it.
