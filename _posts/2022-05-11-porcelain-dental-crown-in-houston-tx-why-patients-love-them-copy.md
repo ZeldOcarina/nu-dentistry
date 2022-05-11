@@ -1,76 +1,56 @@
 ---
-title: What Happens If You Don't Treat Your Cavity In Houston, Tx?
+title: 'Temporary Tooth Filling In Houston, Tx: Why Do I Need One?'
 
 ---
-When a cavity strikes, you shouldn’t wait to have it looked at by a dentist. While you might not notice at first, tooth decay and infection will continue to grow and make their way deeper through your tooth. Eventually, this can put your tooth’s life, and even your own health, at risk if you’re not careful. As most of the cavities don’t cause pain in the beginning, it can be hard to realize that a problem exists. To detect early tooth decay, regular dental appointments can be of great help. However, you should also keep your eyes peeled for the warning signs yourself.
+When dental cavities first appear, our dentists typically recommend a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) to repair the damage and protect the tooth against future problems. Fillings are also often used when teeth are cracked or chipped deeper than dental bonding or veneers can repair. With a composite cavity filling, the fixed tooth will look just as natural and whole as it did before. However, as effective as dental fillings are, they are limited and can’t fix every cavity or broken tooth. More extensive dental damage may require a dental crown or root canal instead.
 
-## What Does a Cavity Look Like?
+Most cases for a root canal and crown require two visits until the tooth is fully restored and reinforced. During the first appointment, a dentist will remove all of the dental decay and injured dental tissues. We’ll then take scans and impressions of your tooth, which can be used to prepare the crown. It typically takes about two or three weeks for the crown to be made and ready for placement. In the meantime, your tooth will need a temporary restoration to keep your tooth protected against food, bacteria, cavities, and damage.
 
-The signs and symptoms of dental cavities may vary, depending upon their extent and location. In some cases, early-stage tooth decay may not show any symptoms. However, more often than not, tooth decay is often visible even before a cavity forms. When decay weakens the enamel, white spots or blotches typically appear on the tooth’s surface. As the decay worsens as a tooth cavity develops, those enamel spots will gradually start to darken. Cavities can also show themselves with physical pits in the tooth’s surface, which will gradually widen and deepen if left untreated.
+Sometimes, this restoration is a temporary tooth crown, often made of either low-cost metal or plastic. However, other times, a dentist may instead use a temporary filling. Temporary fillings are not as strong or durable as temporary crowns, so you should be more cautious around what you eat. Otherwise, you could risk breaking your filling or causing it to fall out, which will require an emergency visit to our Houston office.
 
-Cavity symptoms can also be much less visible (but no less noticeable), with many patients often experiencing:
+Along with capping crowns and root canals between visits, temporary fillings can also act as emergency restorations when cavity pain is acute and we don’t have enough time for a more permanent solution. Placing a temporary filling can be much faster than a permanent one, allowing our [emergency dentists](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) to focus on toothache relief. In some cases, your dentist may use temporary fillings as a stopgap measure when they need to treat your cavity across multiple visits. After all of the dental decay has been removed and your permanent filling is ready, we’ll replace the temporary filling.
 
-* Terrible and persistent toothache, which can come and go
-* Tooth pain when biting down
-* Sharp tooth sensitivity to hot and cold
-* Lingering sensitivity to sweets
-* Chronic bad breath (halitosis)
+Temporary fillings are also often used as a type of medicated dental filling if your tooth is particularly sensitive. The tooth’s nerve can sometimes be irritated or inflamed after the decayed tissues are removed, but the temporary filling helps to calm it while the tooth heals. Once your dentist is sure the pain has subsided and no further cavity treatment is required, we can place your permanent filling in a follow-up appointment.
 
-At its worst, a cavity can cause a tooth to go entirely numb. While a toothache disappearing may seem like a huge relief, it’s no such thing. This is a warning sign that your tooth is on the brink of death or may have already [died](https://www.medicalnewstoday.com/articles/319062).
+## Composition of a Temporary Filling
 
-## What Are The Stages of Tooth Decay?
+With a standard dental filling, your dentist will use white composite resin, which is molded into the proper shape of your tooth before it is hardened with a special UV curing light. Composite is designed to match the exact color of your tooth, so it blends in with the rest of your smile without anyone else noticing, including yourself. Traditionally, fillings used to be made of silver amalgam. However, concerns over their mercury content as well as their unnatural appearance have largely led them to fade out of use entirely.
 
-A cavity doesn’t suddenly appear on its own and without warning. They instead build up and worsen throughout several tooth decay stages. Once a dental cavity first appears, it won’t disappear without professional treatment. Leaving a relatively small and painless tooth cavity alone will allow it to grow and cause further decay and dental problems. Eventually, this can lead to your tooth’s death, even as the infection continues to make its way through the rest of your smile.
+But what about a temporary tooth filling? What are the different filling materials? Temporary fillings aren’t designed to last forever or even longer than a few months, so they are made of materials that are softer and easier to remove. Depending on the material, some fillings will harden once they mix with your saliva. Some of the most popular temporary filling materials include:
 
-Here are the stages your tooth will go through if the decay isn’t seen by our dentists:
+* Glass ionomer (most common)
+* Zinc phosphate cement
+* zinc oxide eugenol
+* Cavit
+* Intermediate restorative materials
 
-**Demineralization:** When excessive plaque and oral bacteria first build up on the tooth, the acids in them start to weaken the enamel by stripping it of crucial minerals like calcium. This leads to white enamel spot formation and the tooth to become more brittle. During this early stage, tooth decay can be reversed with good brushing and flossing habits and fluoride treatment.
+These materials won’t be the same seamless white of composite bonding, so they won’t match the shade of your teeth. This makes it easier for your dentist to identify the filling in the follow-up appointment to replace the filling with a more permanent solution.
 
-**Enamel Decay:** Once the enamel is weak enough, decay starts to wear away at the tooth’s surface. The small holes the decay creates are cavities. At this stage, most people do not feel any pain or sensitivity since only the hardy enamel is involved. However, great dental hygiene habits won’t be enough to fix the damage anymore. The tooth will need a [cavity filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) to restore it to its old self.
+## The Temporary Filling Process
 
-**Dentin Decay:** If the cavity isn’t treated at the enamel stage, it will continue to deepen until it breaks through the enamel entirely and moves into the tooth’s middle dentin layer. The dentin is softer and more sensitive than the enamel, so you may feel some minor tooth sensitivity to hot, cold, and sweet foods.
+Getting a temporary filling is usually faster than getting a permanent filling. How long does a filling take? In many cases, it can be done in less than 30 or 40 minutes, depending on the severity of your cavity or tooth damage. First, your dentist will use a local anesthetic to numb your tooth and the surrounding gums. Patients with dental anxiety can also request dental sedation, such as nitrous oxide, to keep them relaxed mentally and physically throughout their treatment. Once you’re numbed and comfortable, we can begin working on the tooth itself.
 
-**Destruction of the Pulp:** After the dentin layer comes the dental pulp. The pulp is the most sensitive part of the tooth because it contains the nerves and blood vessels, extending down the tooth’s roots to the tip. You will likely experience a painful and persistent toothache at this late stage. As more of the dental pulp is infected, the more your tooth’s health is at risk. If enough is destroyed, the tooth can die. Once the pulp becomes infected, your dentist will need to perform a root canal.
+We will remove the decayed and injured parts of your tooth with the help of a drill. If your temporary filling is sealing your tooth for a dental crown or root canal, our dentists may need to remove a significant part of the tooth. With [root canals](https://www.aae.org/patients/root-canal-treatment/what-is-a-root-canal/) in particular, an entire tooth’s root or canal may need clearing. We will perform a quick scan to examine your tooth and ensure none of the cavity or tooth damage remains. The filling material is then mixed and spread to all corners of the tooth, filling up the hole to the brim. Finally, the material is molded and smoothed into shape.
 
-**Tooth Abscess Formation:** When cavities extend to the pulp, it can cause the pulp to become inflamed and eventually create a dental abscess at the tooth’s tip. Abscesses are painful pockets of pus and infection which will need to be safely drained with a root canal. In some cases, the tooth will instead need to be removed. If left untreated, the abscess can rupture, causing the infection to spread throughout the mouth or even the rest of the body. At its worst, a ruptured abscess can be life-threatening.
+#### Is It Normal to Feel a Filling?
 
-## Treating Your Cavity
+Yes. Unlike with permanent fillings, your temporary one may be rough because it isn’t made with smooth composite or porcelain. Additionally, the outermost layer of your temporary filling may wear down over the next few weeks. As long as you’re careful, the filling will still remain in good condition until your next appointment. Your temporary filling also likely won’t match your tooth’s color exactly like composite fillings or even a porcelain crown would. However, it doesn’t need to be. It only needs to look and fit well enough to last the few weeks needed for your permanent restoration to be prepared.
 
-The sooner you see a dentist for your cavity, the better chance we have of fixing your tooth with more conservative and less extensive treatment. Do all cavities need to be filled? Yes. Once a cavity appears, it will need to be seen by a dentist to remove the decay and fill the damage left behind. However, this doesn’t always require a tooth filling. Depending on the extent of the damage to your tooth, you may instead need a [dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) or root canal. In worst-case scenarios, however, there may be no saving your tooth, and it will need tooth extraction instead.
+#### How Are Fillings Replaced?
 
-Depending on your cavity’s severity, your dentist may need to perform one of these treatments:
+Removing your temporary filling to replace it with a [crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) isn’t difficult. Your dentist may use a periodontal dental probe or power-driven dental burs to scrape out the temporary filling material and remove it. In general, this removal process is relatively quick, simple, and painless. Depending on your tooth’s needs, such as with dental crowns and root canals, your dentist may need to reshape your tooth before fitting your final restoration.
 
-#### Cavity Filling
+## Can A Temporary Filling Last For Years?
 
-A cavity filling is needed once a cavity first appears. A dentist will use a drill to precisely remove the infected parts of the tooth before filling the hole left behind with composite resin. The liquid resin is shaped to the of your old tooth before being hardened with a curing light and polished. Traditionally, dentists would use silver dental amalgam for fillings, but aesthetic and health concerns have led to them being largely left in the past. Composite fillings are designed to match the exact shade of your tooth. With good care, they typically last about five to seven years.
+The answer is in the name. Temporary fillings are only meant to be stopgap measures put in place until your permanent restoration is ready. The materials used are less durable than even a standard composite filling, and the bonding used to hold the filling in place isn’t as strong. In general, temporary fillings are designed to last only the few weeks needed to create your crown. However, they can often last as long as a couple of months as long as you are careful with your temporary filling.
 
-#### Dental Crown
+Eating the wrong snack can potentially crack or pull out your filling as the filling itself starts to break down on its own. Your dentist may recommend avoiding eating on the side of your filling for a few hours or days. We also suggest eating and chewing slowly as this can better ensure you don’t bite down hard on the filled tooth. After this period, you should still be cautious of what you eat, being sure to stay away from:
 
-Dental crowns are required once the decay covers an extensive part of your tooth. Crowns are sturdier than fillings and can take much more bite force and pressure since they encompass the entire tooth’s surface and are made of more durable materials. The dental crown procedure is similar to fillings. The decay is removed, and the crown is placed to restore the tooth to its old shape and function. However, crowns also require tooth reshaping to fit them, and a temporary crown or filling will be needed during the two or three weeks your permanent crown is prepared.
+* Hard foods: hard candy, ice, nuts
+* Sticky foods: gum, taffy, caramel
 
-Some of the most common types of crowns are porcelain, porcelain-fused-to-metal, base metals, and gold. Porcelain-type crowns last an average 10 to 15 years but can stay in great shape for as long as 25 years. Base metal crowns often last around 30 years. Gold crowns are the longest-lasting, having a lifespan of around 50 years or even a lifetime with good care.
+You should still brush and floss your teeth, but be sure to maintain your dental hygiene with care to avoid harming the filling. When flossing, don’t pull up like you normally wouldn but instead carefully pull the floss out sideways to prevent catching it on the temporary filling. Additionally, try to keep your tongue from rubbing against the temporary filling as much as possible. Otherwise, the filling may wear away faster and dissolve.
 
-#### Root Canal
+## What To Do When a Temporary Filling Falls Out
 
-Once the tooth infection reaches the centermost dental pulp, a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/) becomes necessary. Since the pulp is more sensitive than any other part of the tooth, a specialist called an endodontist is often needed to painlessly and precisely remove the decayed tissues. During this procedure, an endodontist will remove the infected tissues, which may require clearing out an entire tooth canal or draining a dental abscess. In many cases, a root canal can prevent a dental worst-case scenario: tooth extraction.
-
-Once all of the decay is gone, the inner tooth is cleaned before being filled with a rubber-like material called gutta-percha. Then, the hollow tooth is reinforced and sealed with a dental crown or filling. Crowns are the best option as they are the strongest and most durable, protecting your tooth against further infection and damage for decades rather than years.
-
-## Can Dental Problems Cause Health Issues?
-
-With later tooth decay stages, infection doesn’t stay confined to the mouth, especially if a tooth abscess bursts. Once the bacteria reaches the bloodstream, it can make its mark on the rest of your body. In some cases, it can be life-threatening. Symptoms of tooth infection spreading to the body include:
-
-* Headaches and dizziness
-* Fatigue
-* Fever, sweats, and chills
-* Facial swelling, which can make it difficult to open your mouth
-* Swelling of the cheeks and neck
-* Nausea, vomiting, and diarrhea
-* Difficulty breathing
-* Rapid heartbeat
-* Dehydration
-* Confusion
-
-Not all cases are quite this severe. However, a history of severe tooth infections can do a number on your general health. Poor dental health has been linked to heart disease, stroke, pneumonia, rheumatoid arthritis, diabetes, and even complications during pregnancy.
-
-Do you need to see one of our dentists at Nu Dentistry for immediate tooth cavity treatment? Please don’t hesitate to call our Houston dental office right away at (832) 916-4144 to schedule an appointment with us.
+Even as careful as you may be with your filling, it will eventually fall out without a follow-up appointment to replace it with a more permanent solution. If your temporary tooth filling comes out or breaks, don’t panic. While not a dental emergency, please contact our dentist office and schedule a visit with us as soon as possible to avoid any further damage to your vulnerable tooth. From there, we can examine your tooth’s health and prepare the best plan to move forward.
