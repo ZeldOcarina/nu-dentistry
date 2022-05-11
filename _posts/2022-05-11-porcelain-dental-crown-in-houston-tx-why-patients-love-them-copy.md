@@ -1,67 +1,68 @@
 ---
-title: The Many Ways A Dentist Uses A Dental Crown In Houston, Tx
+title: Can You Save Your Knocked-out Missing Teeth In Houston, Tx?
 
 ---
-Dental crowns are one of the most varied restorative treatments in a dentist’s arsenal. They are widely used for a wide variety of purposes. What is a [dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/)? A dental crown is a cap usually made of porcelain, metal, or a combination of both that covers a damaged tooth and returns it to its old self. Crowns are meant to feel and behave exactly as your tooth naturally would. Unlike fillings, inlays, and onlays, which are limited to specific areas of your tooth, crowns encompass your whole tooth to take on a wider area and more extensive damage. Porcelain crowns also benefit from looking like a natural tooth, making it a popular option for front teeth.
+Sports injuries, falls, and dental accidents—all of these can knock out a tooth if you’re unlucky. As worrying and scary as it may be to lose your tooth this way, you haven’t lost your chance to save it for good. There is still a small window in which an [emergency dentist](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) can salvage it.
 
-Your dentist may recommend getting a dental crown when they are:
+## Can A Knocked-Out Tooth Be Saved?
 
-## Treating Tooth Decay
+When making your way to visit your emergency, you need to be careful with how you treat your missing tooth. If you want the best chance of preserving your smile, you must do the following:
 
-Minor cavities are often limited to small, shallow areas of the tooth, requiring only a standard dental filling to repair the damage. However, tooth decay covering a large or deep portion of the teeth needs more extensive treatment to remove the decay and keep the tooth safe from further cavities. Dental crowns are particularly common with root canals, which are required once decay reaches a tooth’s central dental pulp.
+**See your dentist as soon as possible.** If you can make it to our dental practice within 5 minutes, you have an excellent chance of saving your tooth. This likelihood goes down between 5 and 60 minutes, but there’s still a high chance of success as long as the tooth is handled correctly.
 
-[Root canals](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/) require hollowing a tooth of its infected central pulp tissues. Tooth decay at this stage often extends deep enough into the tooth that a dentist must clear an entire tooth canal or root. Without the pulp, a tooth becomes porous and brittle, losing its integrity and strength. The tooth will be filled with a rubbery material called gutta-percha to help minimize this. However, this isn’t enough to protect the tooth from further tooth decay or even the usual pressure and force from your daily biting and chewing. Using a dental crown reinforces the tooth, restoring the strength it needs to stay safe and protected. It also safeguards the rest of the sensitive inner tooth by sealing your intact tooth roots and canals.
+**Pick up the tooth by the crown only.** Don’t touch the tooth’s roots at all. If you need to clean the tooth, do not rub any dirt off but instead put the tooth under running water for no more than 10 seconds. If there are any tissue fragments still stuck to the tooth, don’t try to remove them.
 
-## Repairing a Cracked or Broken Tooth
+**Place the knocked-out tooth in its original socket.** This gives you the best chance of preventing permanent tooth loss. Once it’s back where it had been, place a clean cloth or handkerchief over the tooth and gently bite down to hold it in place. Do not try forcing the tooth if it won’t fit easily.
 
-Dental crowns are also recommended to restore a severely broken tooth. Like tooth decay, when chips, fractures, and breaks cover a wide or deep part of a tooth, only crowns can reliably restore your tooth to its old self. “Do I really need a crown?” In many cases, patients only need a porcelain veneer or tooth filling to repair surface-level damage. However, with more extensive injuries covering up a large part of the tooth, dental crowns are the only way to fully restore the tooth to its old self. Anything less would hurt the tooth’s integrity and leave it vulnerable to further cavities and trauma, or they wouldn’t wholly address the problem.
+**Keep the tooth moist at all times.** If you can’t place it in the socket, either put it between your cheek and gums or keep it submerged in a small glass of milk until you can make it to our office. Do not use water or any other liquids to preserve the tooth as they are not good for your tooth’s roots.
 
-## Replacing Missing Teeth
+**With baby teeth, do NOT try putting them back in their old positions.** Primary teeth are usually not reimplanted since they have a natural replacement that will come in eventually. Trying to put the tooth back in its socket can potentially damage the adult tooth waiting submerged below the gums. You should still find the knocked-out tooth to be sure your little one can’t accidentally swallow any fragments or pieces.
 
-Dental crowns aren’t just used to repair broken and damaged teeth. They are commonly needed for help with missing teeth too. Crowns are a crucial part of some of the most popular tooth replacement options: dental bridges and tooth implants.
+You should also give our office a call while you’re on your way. We don’t want to dawdle in seeing you right away, so a quick heads up gives us the time to ensure we have a patient suite ready for your immediate treatment.
 
-**Dental Bridge**
+## How An Emergency Dentist Saves Your Tooth
 
-A tooth bridge replaces a missing tooth using two dental crowns bookending a false tooth called a pontic bonded. The crowns are attached to the natural teeth on opposite sides of your tooth gap, so the pontic can quickly and easily fill this space. Like with regular crowns, these abutment teeth are reshaped to fit them. Bridges can be used to replace multiple missing teeth in a row as long as the crowns are securely bonded to their anchoring abutment teeth.
+When you come in for emergency dental care, your dentist will first check whether you’ve placed your missing tooth back in the socket. If the knocked-out tooth isn’t a clean break, your dentist may need to clean the site and remove any tooth or bone fragments left in the socket. Once we’ve placed the tooth back in the socket and ensured it’s in the correct position, our dentists will splint the tooth, usually with either wire or composite. This will hold it in place until the tooth is healed and once again secured in the jaw.
 
-**Dental Implants**
+How long does it take for a knocked-out tooth to heal? This recovery period varies from person to person, depending on their tooth and jaw’s condition. If the jawbone is uninjured and the only thing that must heal is the tooth, patients can often have their smiles right as rain in three or four weeks. Most extensive damage will take more time, and many of these more complex cases require about six to eight weeks to heal.
 
-[Dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) don’t rely on adjacent teeth when restoring your tooth. They instead create their own anchor through titanium screws that take the place of the original tooth root. By embedding the implant screw into the jawbone and letting the two fuse, a dental crown can later be placed on top, remaining fixed and permanent without issue. With the crown in place, a dentist can restore your tooth’s full function and aesthetics.
+## What To Do About A Broken Tooth
 
-#### Which Is Better: Bridge or Implant?
+An impact to the face doesn’t always knock out a whole tooth. Sometimes it only causes cracks, chips, or breaks. However, even if they only fracture or chip, broken teeth can still be a significant problem needing immediate dental care. You should see your dentist as soon as possible if there is excessive bleeding, tooth pain, sudden tooth numbness, or loose teeth. What should you do when your broken tooth is an emergency?
 
-Dental implants are widely considered the best tooth replacement option. After a tooth is removed, the mouth starts rapidly changing. The jaw bone that had supported the tooth begins to recede, neighboring teeth start moving out of alignment, and your face starts to sag. Your remaining teeth may even become loose enough to fall out in severe cases. A tooth bridge holds adjacent teeth in place and minimizes the effects of this post-extraction bone loss. It helps keep adjacent teeth from shifting or loosening. However, it doesn’t completely stop and prevent this jawbone loss in the first place as implants do.
+* If there is bleeding, rinse your mouth with warm water to clean the wound. You may also need to gently press a clean gauze pad over it to stem the blood flow as best you can.
+* With tooth pieces that have broken off, place them in wet gauze and take them with you to the dentist.
+* If possible, place dental wax over any sharp edges to prevent cutting your tongue or the rest of your mouth.
+* Do not prod, poke, or pull at any loose teeth.
 
-A tooth implant is designed to replace your old tooth, root and all. This fools your smile into believing the old tooth is still there, and it keeps your jawbone fully intact to support it. This simple change allows for these advantages:
+Sometimes, a cracked and chipped tooth is cosmetic and doesn’t extend farther than the enamel surface. Unless there is excessive bleeding or sharp edges that can cut your gums and tongue, you don’t need to see an emergency dentist. In most of these cases, some quick composite bonding or veneers can repair the damage quickly. However, with more serious dental emergencies, you will most likely need a dental filling, crown, or root canal treatment to restore your tooth to its old self.
 
-* No facial sagging over time
-* Fewer cavities and tooth loss
-* Dental implants last longer, if not a lifetime
-* Stabler bite
-* Even more natural-looking tooth
+When can a broken tooth not be saved? While it’s always a dentist’s top priority to preserve our patients’ natural smiles, it’s not always possible. If a fracture or break extends below the gum line, your dentist might not be able to preserve the tooth. In these extreme cases, we will need to have it extracted. Once removed, you will need to find an appropriate replacement.
 
-However, implants also require multiple visits and time for healing in-between. This can take between 6 months to a year to complete. It’s also more costly than bridges.
+## Tooth Replacement Options
 
-## Temporary vs Permanent Crowns
+Is it OK not to replace a missing tooth? Unless it’s a baby tooth, you should always replace a knocked-out or extracted tooth. Your jaw and the rest of your smile directly rely on your tooth to keep them healthy and intact. With tooth loss, the jaw bone no longer has the stimulation provided by the tooth’s roots, and [it starts to shrink](https://www.colgate.com/en-us/oral-health/mouth-and-teeth-anatomy/bone-resorption-why-it-happens-and-what-to-do-next). It’s estimated that a quarter to half of the original jaw bone can disappear within the first year.
 
-What is the difference between a temporary and permanent crown? Tooth crown work is usually done in two dentist visits. During the first, your dentist will directly address any health problems your tooth has (tooth decay, fractures, breaks, etc.) and prepare your tooth to fit your crown. This preparation involves reshaping the base enamel so that the crown can neatly slip on and be secured. However, crowns can’t be created and installed on the same day—not if you want your dental work to match your smile exactly and last for years or decades.
+Without a false tooth to fill in the space left behind, this can create lasting issues affecting your appearance, quality of life, and dental health. When left unchecked and unfilled, this deepening socket pulls neighboring teeth into its orbit as they gradually lose their anchoring and shift out of their correct positions. As teeth move out of place, this leads to:
 
-To craft a tooth crown that perfectly recreates your original tooth, your dentist will need to send impressions and molds taken of your mouth to a lab. This takes time, usually a couple of weeks. With porcelain crowns especially, we must take the size, shape, bite, color, and all the nooks and crannies into account. In the meantime, you will still need a placeholder crown to keep your tooth protected while your final, permanent crown is being prepared. This is where a [temporary crown](https://www.healthline.com/health/how-to-care-for-a-temporary-crown) comes in.
+* New gaps between teeth
+* Change in your bite’s shape and fit
+* Difficulty or pain when eating
+* Development of a lisp and other speech problems
+* Facial sagging
+* Lips becoming wrinkly and sinking into themselves
+* Teeth becoming loose and falling out
 
-As their names suggest, temporary crowns are only meant to last for the few weeks it takes for your permanent crown to be made. They are usually made of metal or acrylic, which are low-cost and get the job done while you need them. Then, once the final crown is ready, you’ll come in for your second visit, where we’ll use it to replace your temporary crown.
+Not all replacement teeth can stop this bone loss. However, they are necessary to keep the teeth surrounding the empty gap where they are. At Nu Dentistry, our dentists restore patients’ missing teeth with dental implants, bridges, and partial dentures.
 
-## Does My Dental Crown Require Special Care?
+#### Dental Implants
 
-Once your dental crown is in place, you won’t need to add any new steps or instructions to your oral hygiene routine. However, you should still be diligent with your home care, such as brushing your teeth twice a day, flossing daily, and sticking to a healthy diet. Your natural enamel is no longer out on display and vulnerable to the effects of dental plaque and bacteria. However, your crowned tooth will still need the proper maintenance to stay strong and healthy and prevent future problems.
+[Dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are widely considered the best teeth replacement option. They are the only ones that recreate your whole tooth, including the root. Dental implants are composed of three parts: an implant, an abutment, and a dental crown. The implant is a titanium screw surgically inserted in the jaw, acting as the false tooth’s anchor and artificial root. As it fuses with the natural bone, it stimulates the jaw and prevents bone loss. The crown is the “visible tooth” part of the implant, restoring your original tooth’s look, feel, and function. The abutment connects the titanium implant and crown. Altogether, implants are the only way to keep your jaw at its healthiest and most intact.
 
-Two exceptions do require some extra TLC: bridges and implant-supported prosthetics. When replacing multiple teeth with these fixed appliances, you’ll need to make some adjustments to your flossing techniques. Since the crowns are connected to false teeth, you can’t simply floss between them to clear everything trapped between them and the gums. You will need to thread your floss beneath your false teeth to reach and clear food, plaque, and debris there. While this takes a bit more time, it can be relatively easy with a floss threader.
+#### Dental Bridge
 
-## How Much Does A Crown Cost?
+A dental bridge is an affordable, long-lasting way to restore between one and four missing teeth in a row. This prosthetic works by securing the dental crowns connected on either end of your false tooth to the remaining teeth bookending your tooth gap. Your new teeth can then rest in the space between to complete your smile. If you’ve knocked out a front tooth, your dentist may instead recommend other alternative options, like cantilever and Maryland bridges. Cantilever bridges use a single crown to hold them in place rather than two. Maryland bridges forego dental crowns entirely to connect themselves to neighboring teeth using small metal and porcelain wings extending from the false tooth.
 
-Patients’ dental crown cost will obviously change if the crown is part of a larger treatment, such as a root canal, dental bridge, or implant. However, the base crown’s price also depends on several factors:
+#### Partial Denture
 
-* Type of crown used
-* Location
-* If dental sedation is used
-
-In general, metal crowns are the most affordable, but they’re not easy to hide. All-porcelain crowns are on the opposite end of the spectrum as a completely metal-free option that looks entirely natural. Porcelain-fused metal crowns sit in a happy medium between the two, giving our patients a balance of affordability and aesthetics. Crowns are also covered by dental insurance, which can provide a significant amount of your treatment cost, depending on your specific plan.
+Partial dentures allow a dentist to replace any amount of teeth less than an entire arch as long as there are still enough remaining teeth to support it. For some people, this may be as few as one or two teeth. This prosthesis fits your fake tooth or teeth in place by resting its base against the back of the neighboring teeth. It can also be better secured with wire clasps that gook onto those support teeth.
