@@ -1,56 +1,61 @@
 ---
-title: 'Temporary Tooth Filling In Houston, Tx: Why Do I Need One?'
+title: The 3 Best Materials For A Dental Crowns In Houston, Tx
 
 ---
-When dental cavities first appear, our dentists typically recommend a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) to repair the damage and protect the tooth against future problems. Fillings are also often used when teeth are cracked or chipped deeper than dental bonding or veneers can repair. With a composite cavity filling, the fixed tooth will look just as natural and whole as it did before. However, as effective as dental fillings are, they are limited and can’t fix every cavity or broken tooth. More extensive dental damage may require a dental crown or root canal instead.
+Tooth decay, teeth grinding, dental accidents, and unhealthy eating habits can all weaken your smile and leave it vulnerable to cavities, fractures, and breaks. While a simple dental filling can usually fix minor dental damage, more significant decay and breaks may require a [dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/). What is a dental crown? Dental crowns are full-tooth restorations that repair a tooth against severe cavities, dental impacts, and injuries. They’re also often used when replacing missing teeth, either bookending a dental bridge or capping a dental implant.
 
-Most cases for a root canal and crown require two visits until the tooth is fully restored and reinforced. During the first appointment, a dentist will remove all of the dental decay and injured dental tissues. We’ll then take scans and impressions of your tooth, which can be used to prepare the crown. It typically takes about two or three weeks for the crown to be made and ready for placement. In the meantime, your tooth will need a temporary restoration to keep your tooth protected against food, bacteria, cavities, and damage.
+During this procedure, the tooth’s outer enamel and any decayed or damaged tissues are removed to make room for the crown. With a good tooth crown in place, it can help protect your tooth against further damage, keeping your smile whole and intact for years and even decades. How well it does this depends on your lifestyle and habits and the type of dental crown you choose. Some of the most common materials used in permanent crowns include:
 
-Sometimes, this restoration is a temporary tooth crown, often made of either low-cost metal or plastic. However, other times, a dentist may instead use a temporary filling. Temporary fillings are not as strong or durable as temporary crowns, so you should be more cautious around what you eat. Otherwise, you could risk breaking your filling or causing it to fall out, which will require an emergency visit to our Houston office.
+* Base metals
+* Resin
+* All-porcelain
+* Porcelain-fused-to-metal
+* Ceramic
+* Gold
+* Zirconia
 
-Along with capping crowns and root canals between visits, temporary fillings can also act as emergency restorations when cavity pain is acute and we don’t have enough time for a more permanent solution. Placing a temporary filling can be much faster than a permanent one, allowing our [emergency dentists](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) to focus on toothache relief. In some cases, your dentist may use temporary fillings as a stopgap measure when they need to treat your cavity across multiple visits. After all of the dental decay has been removed and your permanent filling is ready, we’ll replace the temporary filling.
+There’s no such thing as the “best dental crown.” Everyone has their individual smile and dental needs. When deciding the best dental crown material for you, you must take several factors into account and answer these questions: What type of tooth are you restoring? How long do crowns last? How much do they cost? How strong and durable are they? How natural do they look? And most importantly, which of these factors are truly important to you?
 
-Temporary fillings are also often used as a type of medicated dental filling if your tooth is particularly sensitive. The tooth’s nerve can sometimes be irritated or inflamed after the decayed tissues are removed, but the temporary filling helps to calm it while the tooth heals. Once your dentist is sure the pain has subsided and no further cavity treatment is required, we can place your permanent filling in a follow-up appointment.
+Still, while there may not be an uncontested #1 dental crown, some are better than others in general. The top 3 dental crowns are gold, all-porcelain, and porcelain-fused-to-metal.
 
-## Composition of a Temporary Filling
+## Gold Crowns
 
-With a standard dental filling, your dentist will use white composite resin, which is molded into the proper shape of your tooth before it is hardened with a special UV curing light. Composite is designed to match the exact color of your tooth, so it blends in with the rest of your smile without anyone else noticing, including yourself. Traditionally, fillings used to be made of silver amalgam. However, concerns over their mercury content as well as their unnatural appearance have largely led them to fade out of use entirely.
+It may surprise you that one of the most reliable crowns is a gold dental crown. Many crowns are made of a mix of several metals, including palladium, nickel, and chromium. However, gold crowns are the best of the best when it comes to metal crowns. Gold has been a staple in restorative dentistry for [more than 4,000 years](https://www.colgate.com/en-us/oral-health/bridges-and-crowns/gold-tooth-crown-facts-and-history), and there’s a reason it has lasted so long. These days, gold crowns are combined with several other metals to help increase their strength and reduce overall cost.
 
-But what about a temporary tooth filling? What are the different filling materials? Temporary fillings aren’t designed to last forever or even longer than a few months, so they are made of materials that are softer and easier to remove. Depending on the material, some fillings will harden once they mix with your saliva. Some of the most popular temporary filling materials include:
+Gold crowns’ noticeable appearance makes them easy to spot, so they are generally reserved for out-of-sight back teeth. However, metal crowns are the least likely to crack, chip, or break, whether from daily eating and chewing to impacts and accidents. This also makes them great for molars, which must survive the full force of your bite every day. Gold crowns also require less tooth reshaping to fit them.
 
-* Glass ionomer (most common)
-* Zinc phosphate cement
-* zinc oxide eugenol
-* Cavit
-* Intermediate restorative materials
+Gold is one of the longest-lasting crown materials. How long do gold crowns last? They can easily last several decades, with some patients keeping theirs in excellent condition for as many as 50 years to a lifetime. Unlike other types of metal crowns, gold wears down at the same rate that natural enamel would. They do little to no harm to the teeth they bite against, which can sometimes be an issue with particularly strong materials.
 
-These materials won’t be the same seamless white of composite bonding, so they won’t match the shade of your teeth. This makes it easier for your dentist to identify the filling in the follow-up appointment to replace the filling with a more permanent solution.
+## All-Porcelain Crowns
 
-## The Temporary Filling Process
+Another popular dental crown material is porcelain, which mixes aesthetics and durability. All-porcelain crowns can be designed to blend in with your natural smile, making them one of the best choices for front teeth. This is a significant advantage over metal crowns. Unlike even other tooth-colored crowns, all-porcelain crowns allow for the most realistic match to natural teeth. Our dentists can take the most [cosmetic](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) approach with all-porcelain, even taking into account how enamel is semi-transparent.
 
-Getting a temporary filling is usually faster than getting a permanent filling. How long does a filling take? In many cases, it can be done in less than 30 or 40 minutes, depending on the severity of your cavity or tooth damage. First, your dentist will use a local anesthetic to numb your tooth and the surrounding gums. Patients with dental anxiety can also request dental sedation, such as nitrous oxide, to keep them relaxed mentally and physically throughout their treatment. Once you’re numbed and comfortable, we can begin working on the tooth itself.
+Do porcelain crowns stain? While they may be partially translucent, all-porcelain crowns are highly stain-resistant. Coffee, red wine, chocolates, and berries might make a mark on natural tooth enamel, but all-porcelain crowns are incredible at keeping their same appearance. Additionally, since no metal is involved, all-porcelain crowns are great for patients with metal allergies.
 
-We will remove the decayed and injured parts of your tooth with the help of a drill. If your temporary filling is sealing your tooth for a dental crown or root canal, our dentists may need to remove a significant part of the tooth. With [root canals](https://www.aae.org/patients/root-canal-treatment/what-is-a-root-canal/) in particular, an entire tooth’s root or canal may need clearing. We will perform a quick scan to examine your tooth and ensure none of the cavity or tooth damage remains. The filling material is then mixed and spread to all corners of the tooth, filling up the hole to the brim. Finally, the material is molded and smoothed into shape.
+However, all-porcelain crowns have some drawbacks. While they are quite sturdy and can withstand the full force of your bite, they can potentially crack or chip under enough pressure, unlike gold and other metal crowns. For this reason, they’re not the best option for patients with a bad habit of grinding and clenching their teeth at night, especially with back teeth. In these cases, we may recommend metal or gold crowns instead. All-porcelain crowns are also more expensive, even above gold and porcelain-fused-to-metal crowns.
 
-#### Is It Normal to Feel a Filling?
+## Porcelain-Fused-To-Metal Crowns
 
-Yes. Unlike with permanent fillings, your temporary one may be rough because it isn’t made with smooth composite or porcelain. Additionally, the outermost layer of your temporary filling may wear down over the next few weeks. As long as you’re careful, the filling will still remain in good condition until your next appointment. Your temporary filling also likely won’t match your tooth’s color exactly like composite fillings or even a porcelain crown would. However, it doesn’t need to be. It only needs to look and fit well enough to last the few weeks needed for your permanent restoration to be prepared.
+Like all-porcelain, porcelain-fused-to-metal (PFM) crowns are designed to match its neighboring teeth and blend in with your natural smile. With PFM, a metal base below the porcelain helps further reinforce and stabilize the crown. This sturdy foundation gives patients the perfect compromise between metal and all-porcelain crowns. While a thin ring of metal is left exposed at the crown’s base, this is usually covered by the gums unless there is gum recession, like with periodontal disease.
 
-#### How Are Fillings Replaced?
+How long do porcelain crowns last? On average, porcelain crowns last between 5 and 15 years. With good care, some patients can have theirs last up to 20 or 25 years. A porcelain dental crown’s exact lifespan depends on your dental hygiene, lifestyle habits (teeth grinding, diet, etc.), and the problem tooth’s location. While modern-day porcelain crowns can withstand the full force of your bite easily, they are more likely to crack or chip under stress for molars rather than front teeth.
 
-Removing your temporary filling to replace it with a [crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) isn’t difficult. Your dentist may use a periodontal dental probe or power-driven dental burs to scrape out the temporary filling material and remove it. In general, this removal process is relatively quick, simple, and painless. Depending on your tooth’s needs, such as with dental crowns and root canals, your dentist may need to reshape your tooth before fitting your final restoration.
+## Permanent vs Temporary Crowns
 
-## Can A Temporary Filling Last For Years?
+While lesser restorative treatments like a [tooth filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) can be completed in a single visit, the same usually isn’t true with dental crowns. The dental crown procedure typically takes two visits to finish, whether you choose gold, porcelain, or other material. Your dentist will need to prepare a temporary crown to last until a more permanent one is made. Once the permanent crown is ready, we can replace your temporary crown with it.
 
-The answer is in the name. Temporary fillings are only meant to be stopgap measures put in place until your permanent restoration is ready. The materials used are less durable than even a standard composite filling, and the bonding used to hold the filling in place isn’t as strong. In general, temporary fillings are designed to last only the few weeks needed to create your crown. However, they can often last as long as a couple of months as long as you are careful with your temporary filling.
+#### Temporary Crown
 
-Eating the wrong snack can potentially crack or pull out your filling as the filling itself starts to break down on its own. Your dentist may recommend avoiding eating on the side of your filling for a few hours or days. We also suggest eating and chewing slowly as this can better ensure you don’t bite down hard on the filled tooth. After this period, you should still be cautious of what you eat, being sure to stay away from:
+Since temporary crowns aren’t needed to last for years and decades like permanent ones, the materials used don’t need to be as strong or durable. Most temporary crowns are made from either acrylic-based materials or stainless steel, making them very affordable. Your temporary crown is placed during your first visit after the decay is removed and the tooth is reshaped to fit it. You only need an interim crown that can stay bonded to your tooth for a few weeks at most, so we use a relatively weak temporary cement.
 
-* Hard foods: hard candy, ice, nuts
-* Sticky foods: gum, taffy, caramel
+After our dentists have your permanent crown prepared, you’ll come in for a second appointment for us to replace your temporary one with it. In the meantime, you’ll need to be relatively careful with the foods you eat and be cautious of any nighttime teeth grinding you may have. You don’t want to accidentally pop off your temporary crown before your permanent one is ready.
 
-You should still brush and floss your teeth, but be sure to maintain your dental hygiene with care to avoid harming the filling. When flossing, don’t pull up like you normally wouldn but instead carefully pull the floss out sideways to prevent catching it on the temporary filling. Additionally, try to keep your tongue from rubbing against the temporary filling as much as possible. Otherwise, the filling may wear away faster and dissolve.
+#### Permanent Crown
 
-## What To Do When a Temporary Filling Falls Out
+As already mentioned, permanent crowns are the final crowns that replace your temporary ones. They are made of the better and sturdier porcelain, metal, gold, and more that allow your dental crown to last years and even decades. It usually takes a week or two for them to be made. Once they’re ready to be placed, our dentists will use a stronger bonding cement to ensure the cap on your tooth is secure and won’t go anywhere. We’ll also make any necessary adjustments so that your crown’s bite is just as seamless and natural as the original enamel. Depending on the materials used, your permanent crown can stay in excellent condition for anywhere between five years to a lifetime.
 
-Even as careful as you may be with your filling, it will eventually fall out without a follow-up appointment to replace it with a more permanent solution. If your temporary tooth filling comes out or breaks, don’t panic. While not a dental emergency, please contact our dentist office and schedule a visit with us as soon as possible to avoid any further damage to your vulnerable tooth. From there, we can examine your tooth’s health and prepare the best plan to move forward.
+## How Much Does A Crown Cost?
+
+Generally, your dental crown cost will depend on several factors: the type of crown, the complexity of your tooth’s damage, and whether dental sedation is used. Some patients may also need their crown as the final part of another dental procedure, such as a root canal, dental bridge, or dental implants. All-porcelain crowns’ natural, metal-free look makes them a bit more costly per tooth, while metal crowns are the most affordable. Porcelain-fused metal crowns land in the middle, giving you a blend of both affordability and aesthetics.
+
+Dental crowns are usually covered by dental insurance, including when they’re part of a dental bridge. However, dental implants are not part of most plans, but some full-coverage plans will provide part of the cost of the implant’s crown. At Nu Dentistry, we also have several financing options, both in-house and out, to help make the rest of your dental crown cost affordable. If you have any questions or concerns, feel free to give our office a call.
