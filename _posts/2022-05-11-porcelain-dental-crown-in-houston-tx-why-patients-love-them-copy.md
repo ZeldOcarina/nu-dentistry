@@ -1,68 +1,80 @@
 ---
-title: Can You Save Your Knocked-out Missing Teeth In Houston, Tx?
+title: 'Post-Treatment Care: What To Do After A Root Canal In Houston, Tx'
 
 ---
-Sports injuries, falls, and dental accidents—all of these can knock out a tooth if you’re unlucky. As worrying and scary as it may be to lose your tooth this way, you haven’t lost your chance to save it for good. There is still a small window in which an [emergency dentist](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) can salvage it.
+Your dentist may recommend a root canal if you have a painful cavity or a severely fractured or broken tooth. As dentists, we understand that root canals can sound intimidating on the surface. However, with a talented and experienced endodontic team on your side, the entire process is smooth, painless, and nothing to worry about.
 
-## Can A Knocked-Out Tooth Be Saved?
+## What Is A Root Canal?
 
-When making your way to visit your emergency, you need to be careful with how you treat your missing tooth. If you want the best chance of preserving your smile, you must do the following:
+Also known as endodontic therapy, a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/) is a dental procedure that becomes necessary once tooth decay, chips, and breaks reach the tooth’s central dental pulp. The pulp is the tooth’s heart keeping everything alive. In it are the vital blood vessels and nerves, so once this layer is reached, it often reveals itself as a persistent and even excruciating toothache.
 
-**See your dentist as soon as possible.** If you can make it to our dental practice within 5 minutes, you have an excellent chance of saving your tooth. This likelihood goes down between 5 and 60 minutes, but there’s still a high chance of success as long as the tooth is handled correctly.
+A standard dental filling or crown only deals with the tooth layers above the pulp, the enamel and the dentin. Since these parts of the tooth are much less sensitive and vital for your tooth’s life, they don’t require as much specialized care. However, a root canal procedure is often done by an endodontist, a dental specialist with years of experience performing expert root canals and keeping the dental pulp healthy. They ensure that only the damaged and decayed tissues are painstakingly removed, and they are skilled in guaranteeing there’s no follow-up irritation or complications. Once the damaged tissues have been removed, the tooth is reinforced with either a filling or crown.
 
-**Pick up the tooth by the crown only.** Don’t touch the tooth’s roots at all. If you need to clean the tooth, do not rub any dirt off but instead put the tooth under running water for no more than 10 seconds. If there are any tissue fragments still stuck to the tooth, don’t try to remove them.
+Some people may find that their injured tooth doesn’t hurt at all, even when they know that there is extensive damage. “Do I need a root canal if there is no pain?” they ask. Yes. While toothaches and dental pain are your tooth’s system to warn you of danger, this system only works if the tooth has enough healthy pulp left to sound the alarm. If too much of the nerve has been damaged, the tooth can suddenly go numb. It’s at this point that the tooth is in danger of dying. Your only option for saving the tooth is for an emergency root canal.
 
-**Place the knocked-out tooth in its original socket.** This gives you the best chance of preventing permanent tooth loss. Once it’s back where it had been, place a clean cloth or handkerchief over the tooth and gently bite down to hold it in place. Do not try forcing the tooth if it won’t fit easily.
+Root canals are often a dentist’s last defense against cavities and dental damage, and they can prevent the need for a tooth extraction. Avoiding tooth removal and preserving your smile whenever possible is always a dentist’s goal. As great as some replacement teeth options can be, like bridges and implants, your grin will always be healthiest with natural teeth.
 
-**Keep the tooth moist at all times.** If you can’t place it in the socket, either put it between your cheek and gums or keep it submerged in a small glass of milk until you can make it to our office. Do not use water or any other liquids to preserve the tooth as they are not good for your tooth’s roots.
+#### How Long Does A Root Canal Take?
 
-**With baby teeth, do NOT try putting them back in their old positions.** Primary teeth are usually not reimplanted since they have a natural replacement that will come in eventually. Trying to put the tooth back in its socket can potentially damage the adult tooth waiting submerged below the gums. You should still find the knocked-out tooth to be sure your little one can’t accidentally swallow any fragments or pieces.
+Your treatment timeline depends on the severity of your tooth decay or dental trauma. If your toothache has appeared and the damage extends only to the pulp’s edges, you might require a single 30 to 60-minute appointment. Single visits are often expected with front teeth, too, since these teeth aren’t as complex as molars and have only a single root. In these cases, only a dental filling is needed to restore and reinforce the tooth.
 
-You should also give our office a call while you’re on your way. We don’t want to dawdle in seeing you right away, so a quick heads up gives us the time to ensure we have a patient suite ready for your immediate treatment.
+More complex teeth and dental infections can take a single 90-minute visit. Still, more often, your endodontist will need two appointments to complete your root canal. Two visits are required if you need a dental crown. During the first visit, your tooth is sealed with a temporary crown prepared that day in the office. Once your final, permanent crown has been crafted, you’ll come in for your second visit to remove the remaining dental decay and seal your tooth for good.
 
-## How An Emergency Dentist Saves Your Tooth
+## Root Canal After Care: Do’s and Don’ts
 
-When you come in for emergency dental care, your dentist will first check whether you’ve placed your missing tooth back in the socket. If the knocked-out tooth isn’t a clean break, your dentist may need to clean the site and remove any tooth or bone fragments left in the socket. Once we’ve placed the tooth back in the socket and ensured it’s in the correct position, our dentists will splint the tooth, usually with either wire or composite. This will hold it in place until the tooth is healed and once again secured in the jaw.
+In most cases, it only takes a handful of days for your mouth to recover after a root canal. During this time, you should follow your dentist’s aftercare instructions to the letter to ensure your mouth heals quickly. Otherwise, complications such as infection can slow down the healing process by a couple of weeks. To prevent any bumps in the road for your recovery, please keep these do’s and don’ts in mind:
 
-How long does it take for a knocked-out tooth to heal? This recovery period varies from person to person, depending on their tooth and jaw’s condition. If the jawbone is uninjured and the only thing that must heal is the tooth, patients can often have their smiles right as rain in three or four weeks. Most extensive damage will take more time, and many of these more complex cases require about six to eight weeks to heal.
+#### DO
 
-## What To Do About A Broken Tooth
+* Take any medications as prescribed to help with any post root canal pain and discomfort
+* Have a friend or family member drive you home if you’ve been given moderate [dental sedation](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/)
+* Eat softer foods and liquids for the first day or two—scrambled eggs, smoothies, pasta, soups, hummus, etc.
+* Use an ice pack or cold compress to reduce swelling that may occur in the first day or two
+* Brush and floss your teeth normally to keep your smile healthy, but ensure that you’re gentle enough not to aggravate your healing tooth
+* Immediately call your dentist if any complications arise
 
-An impact to the face doesn’t always knock out a whole tooth. Sometimes it only causes cracks, chips, or breaks. However, even if they only fracture or chip, broken teeth can still be a significant problem needing immediate dental care. You should see your dentist as soon as possible if there is excessive bleeding, tooth pain, sudden tooth numbness, or loose teeth. What should you do when your broken tooth is an emergency?
+#### DON’T
 
-* If there is bleeding, rinse your mouth with warm water to clean the wound. You may also need to gently press a clean gauze pad over it to stem the blood flow as best you can.
-* With tooth pieces that have broken off, place them in wet gauze and take them with you to the dentist.
-* If possible, place dental wax over any sharp edges to prevent cutting your tongue or the rest of your mouth.
-* Do not prod, poke, or pull at any loose teeth.
+* Eat on the root canal side of your mouth
+* Have hot or cold foods and drinks until the local anesthetic wears off
+* Eat sticky, hard, chewy, or crunchy foods, especially if you only have your temporary crown in place
+* Drive for 24 hours if you use either oral or IV sedation
+* Miss your follow-up appointments, especially when replacing a temporary crown with a permanent one
 
-Sometimes, a cracked and chipped tooth is cosmetic and doesn’t extend farther than the enamel surface. Unless there is excessive bleeding or sharp edges that can cut your gums and tongue, you don’t need to see an emergency dentist. In most of these cases, some quick composite bonding or veneers can repair the damage quickly. However, with more serious dental emergencies, you will most likely need a dental filling, crown, or root canal treatment to restore your tooth to its old self.
+## Frequently Asked Questions
 
-When can a broken tooth not be saved? While it’s always a dentist’s top priority to preserve our patients’ natural smiles, it’s not always possible. If a fracture or break extends below the gum line, your dentist might not be able to preserve the tooth. In these extreme cases, we will need to have it extracted. Once removed, you will need to find an appropriate replacement.
+#### Can You Go To Work After A Root Canal?
 
-## Tooth Replacement Options
+Whether you can return to work or school on the same day as your root canal appointments depends solely on your discretion. There will be some amount of discomfort or pain in the days following your appointment. When the pulp and root are removed, your remaining tooth nerve endings will be incredibly sensitive until they have time to heal. Some patients find that they can return to work immediately as long as they follow their endodontist’s instructions and take pain relievers as recommended. However, many patients end up taking the day off to allow them time to rest and recover before working the next day.
 
-Is it OK not to replace a missing tooth? Unless it’s a baby tooth, you should always replace a knocked-out or extracted tooth. Your jaw and the rest of your smile directly rely on your tooth to keep them healthy and intact. With tooth loss, the jaw bone no longer has the stimulation provided by the tooth’s roots, and [it starts to shrink](https://www.colgate.com/en-us/oral-health/mouth-and-teeth-anatomy/bone-resorption-why-it-happens-and-what-to-do-next). It’s estimated that a quarter to half of the original jaw bone can disappear within the first year.
+The type of dental anesthetic used can also affect this timeline. Patients who request oral and IV dental sedation should take the day off since these medications can affect your mind for the rest of the day. You also shouldn’t operate any machinery during this time until the sedative wears off in 24 hours. Patients that only use a local anesthetic or laughing gas can drive immediately after their appointment and return to their normal activities.
 
-Without a false tooth to fill in the space left behind, this can create lasting issues affecting your appearance, quality of life, and dental health. When left unchecked and unfilled, this deepening socket pulls neighboring teeth into its orbit as they gradually lose their anchoring and shift out of their correct positions. As teeth move out of place, this leads to:
+#### How Do You Know If You Need A Root Canal?
 
-* New gaps between teeth
-* Change in your bite’s shape and fit
-* Difficulty or pain when eating
-* Development of a lisp and other speech problems
-* Facial sagging
-* Lips becoming wrinkly and sinking into themselves
-* Teeth becoming loose and falling out
+When you have a fractured or broken tooth or a cavity, you may wonder whether your dentist will recommend either a dental filling, crown, or root canal. Since root canals are needed once dental decay or trauma reaches the central pulp, several warning signs are unique to this level of damage. Common root canal symptoms to look out for include:
 
-Not all replacement teeth can stop this bone loss. However, they are necessary to keep the teeth surrounding the empty gap where they are. At Nu Dentistry, our dentists restore patients’ missing teeth with dental implants, bridges, and partial dentures.
+* Persistent toothache
+* Pimples or bumps on the gums
+* Sensitivity to hot, cold, and sweets
+* Gums that are swollen or tender to the touch
+* Dark tooth discoloration
+* Tooth pain suddenly disappearing
+* [Dental abscess](https://www.mouthhealthy.org/en/az-topics/a/abscess) forming
 
-#### Dental Implants
+#### How Much Does Endodontic Treatment Cost?
 
-[Dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are widely considered the best teeth replacement option. They are the only ones that recreate your whole tooth, including the root. Dental implants are composed of three parts: an implant, an abutment, and a dental crown. The implant is a titanium screw surgically inserted in the jaw, acting as the false tooth’s anchor and artificial root. As it fuses with the natural bone, it stimulates the jaw and prevents bone loss. The crown is the “visible tooth” part of the implant, restoring your original tooth’s look, feel, and function. The abutment connects the titanium implant and crown. Altogether, implants are the only way to keep your jaw at its healthiest and most intact.
+There’s no single price for endodontic therapy. When calculating a patient’s root canal cost, our endodontist considers several factors:
 
-#### Dental Bridge
+**Tooth Location and Complexity**
 
-A dental bridge is an affordable, long-lasting way to restore between one and four missing teeth in a row. This prosthetic works by securing the dental crowns connected on either end of your false tooth to the remaining teeth bookending your tooth gap. Your new teeth can then rest in the space between to complete your smile. If you’ve knocked out a front tooth, your dentist may instead recommend other alternative options, like cantilever and Maryland bridges. Cantilever bridges use a single crown to hold them in place rather than two. Maryland bridges forego dental crowns entirely to connect themselves to neighboring teeth using small metal and porcelain wings extending from the false tooth.
+Some teeth may only need a small portion of the dental pulp removed, while others require clearing out an entire tooth canal or two. Front teeth tend to be less costly as they only have a single root compared to molars’ two or three. As such, they’re much quicker and easier to treat.
 
-#### Partial Denture
+**Type of Restoration**
 
-Partial dentures allow a dentist to replace any amount of teeth less than an entire arch as long as there are still enough remaining teeth to support it. For some people, this may be as few as one or two teeth. This prosthesis fits your fake tooth or teeth in place by resting its base against the back of the neighboring teeth. It can also be better secured with wire clasps that gook onto those support teeth.
+Whether you need a dental filling or crown to seal and reinforce your hollowed tooth can also affect the price. Composite fillings cost less than crowns since they don’t require both a temporary and permanent version. Additionally, your type of crown—porcelain, silver metal, or gold—can also impact your treatment’s cost.
+
+**Dental Insurance**
+
+Root canals are also typically covered by dental insurance, usually between 50 and 80%. Here at Nu Dentistry, our dental office accepts all PPO dental insurance plans. However, we want to be flexible to our patients’ specific needs, including their treatment’s affordability. As such, we also offer financing options like CareCredit Dental and in-house membership programs to make managing payments on your budget simple. These options are compatible with your insurance plans, too, so you have nothing to worry about.
+
+If you have any questions about your root canal procedure or aftercare, please don’t hesitate to give our Houston dental office a call. We can schedule a consultation with our endodontics team to ensure you have the best experience possible, both in and out of the dental chair.
