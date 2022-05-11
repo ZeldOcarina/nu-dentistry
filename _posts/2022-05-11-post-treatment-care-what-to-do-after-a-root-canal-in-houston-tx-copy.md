@@ -1,100 +1,94 @@
 ---
-title: 'Tooth Replacement In Houston, Tx: What  Are My Options?'
+title: 'Bleeding Gums In Houston, Tx: Causes And Treatments'
 
 ---
-[Tooth extraction](https://www.healthline.com/health/tooth-extraction) is one of the most prevalent dental procedures performed in dentist offices across the U.S. More than 178 million adults aged 30 and over are missing at least one tooth, not including wisdom teeth. When our patients need to have one or more of their teeth pulled, a popular question we get asked is, “Does a missing tooth need to be replaced?” The short answer is yes.
+If you’ve ever asked yourself, “Why are my gums bleeding for no reason?” you’re not alone. From poor oral hygiene and diets to pregnancy and drug use, gingival bleeding is a widespread problem that our dentists and hygienists see here at Nu Dentistry. But are bleeding gums dangerous? It depends on the reason. Some reasons are relatively harmless, like brushing a little too hard with a new toothbrush. Others can lead to long-lasting and disastrous problems that can plague your smile for a lifetime.
 
-Leaving an empty gap in your smile does more than affect its aesthetics; it directly impacts its health, too. Once a tooth is pulled, the underlying bone quickly starts shrinking in a process called bone resorption. The alveolar jaw bone relies on the pressure provided by your tooth’s root when chewing and biting down to keep it healthy and intact. With the tooth gone, this stimulation disappears, and the jawbone no longer tries to maintain itself.
+Identifying the exact cause can be essential for helping us plan the right bleeding gums treatment for you. Common bleeding gums causes include:
 
-As bone loss worsens, you will need a dental prosthetic to minimize or prevent the resulting damage. Otherwise, leaving your missing teeth gaps empty can lead to several issues that put the rest of your smile’s health at risk:
+* Gingivitis and gum disease
+* Chewing tobacco
+* Your dental hygiene routine
+* Medications like blood thinners
+* Hormonal changes during pregnancy
+* Poor diet
 
-* Facial sagging
-* Nearby teeth becoming loose
-* Shifting teeth and new gaps between teeth
-* Change in fit and shape of your bite
-* Further tooth loss
-* Tooth decay and cavities
+## Gum Disease
 
-Can bone loss in the jaw be reversed? You can turn back the clock some with a dental bone graft, which replaces missing bone with tissues taken either from elsewhere in your jaw or a donor. This doesn’t stop the resorption process entirely, and it will eventually return. The only way to prevent bone loss entirely is with a dental implant, which acts like a wholly artificial tooth.
+If you experience bleeding gums when brushing or flossing your teeth, particularly if you haven’t done them in a while, you likely have [gum disease](https://www.nudentistry.com/houston-tx/emergency-dentistry/gingivitis/). Nearly half of all Americans over the age of 30 have some form of gum, or periodontal, disease. That number only increases as we grow older, with 70% of all adults 65 years and older developing it. As the leading cause of adult tooth loss, bleeding gums from periodontal disease shouldn’t be ignored or left untreated.
 
-Let’s take a look at the specifics of your tooth replacement options:
+Gum disease can ravage your smile as plaque and bacteria build up on the parts of the teeth below the gums. Worsening gum disease causes your gums to recede and the bones supporting your teeth deteriorate until your teeth can no longer be secured in place.
 
-## Dental Bridge
+Gum bleeding isn’t the only sign of developing gingivitis. Other gum disease symptoms include:
 
-[Dental bridges](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) are a great, affordable way to replace one or more missing teeth in a row simultaneously. This dental prosthetic anchors your false teeth using two crowns connected to them on either side. These crowns are cemented to the neighboring teeth on opposite ends of your tooth gap, allowing your false teeth to rest comfortably in the space in-between. With good care, a dental bridge can last an average of 10 to 15 years.
+* Red or purple gums
+* Swollen, tender or painful gums
+* Pain when chewing
+* Receding gum line or teeth that look longer
+* Halitosis (persistent bad breath)
+* Sensitivity to hot and cold
+* Loose and shifting teeth
+* Change in bite
 
-If you’re missing a front tooth, you also have multiple other options than a traditional bridge. Cantilever bridges anchor themselves using a single crown rather than two. Maryland bridges forego crowns entirely and instead secure themselves via porcelain or metal wings extending from the false tooth. Both alternative bridges require less or even no tooth preparation, saving patients money and time in the dental chair. However, they’re not as strong or durable as a standard bridge, which is why they’re only used on front teeth that don’t experience the full force of your bite like molars.
+#### What Is the Main Cause of Gingivitis?
 
-#### How Much Do Dental Bridges Cost?
+The most common reason our patients develop gingivitis and gum disease is poor oral hygiene. When you don’t brush and floss your teeth as your dentists recommend, plaque and bacteria accumulate on your teeth and below your gums. This buildup irritates the gums, causing them to become inflamed and infected. Other factors that can play a role include diabetes, tobacco use, hormone changes in women, dry mouth, genetics, and certain medications and illnesses.
 
-With bridges, there’s no one treatment cost. Just as everyone’s smile is unique, their specific prosthetic needs change to reflect it. When calculating a patient’s dental bridge cost, prosthodontists consider several factors:
+#### Can You Fix Periodontal Disease?
 
-* Type of bridge
-* Number of false teeth
-* Materials used
-* Complexity and amount of tooth prep
-* Cost of tooth extraction
-* Dental insurance
+When your gum disease is in its earliest stage, gingivitis can be fully cured and reversed with time, care, and attention. At this point, plaque and bacteria have only begun to irritate but not damage your gums. With a trip to our Houston dental office for a cleaning and some at-home TLC, including brushing and flossing your teeth regularly, you can see your gingivitis go away in 14 days. You may notice that your gums still bleed during the first few days, but this will clear up as you remove all of the buildup beneath your gums.
 
-## Removable Dentures
+Once gingivitis becomes periodontitis, your teeth’s supporting gums and bones become irreversibly attacked. At this point, your gum disease can be managed, not cured, with professional treatment at your dentist’s office. At Nu Dentistry, standard methods we use include [deep cleanings](https://www.mouthhealthy.org/en/az-topics/s/scaling-and-root-planing), pocket reduction surgery, and gum and tissue grafts. However, if left untreated for too long, your teeth may become loose enough that they fall out!
 
-If you need to restore multiple teeth, even if they’re not lined up neatly next to each other, [removable dentures](https://www.nudentistry.com/houston-tx/restorative-dentistry/dentures/) are a better option. Dentures are the most flexible to patients’ needs, allowing our prosthodontists to take on any level of tooth loss with ease. On average, dentures have a lifespan of 5 to 7 years. There are two types of removable dentures:
+## Chewing Tobacco
 
-**Partial Dentures.** Partial dentures can replace anything less than a full arch of teeth. They use a gum-pink base that rests against the backs of your teeth to keep them solidly in place. We can add clasps that better secure your false teeth to the real ones acting as their anchor for extra stability.
+Chewing tobacco, or “dip,” doesn’t just cause health problems like oral cancer—it can also lead your gums to recede and bleed. Bleeding gums from dip is especially common when patients brushing or flossing their teeth because, similar to gum disease, tobacco and nicotine irritate the gums. Unlike with gum disease, however, these toxic chemicals don’t just fester under your gums. They are absorbed directly into the gums from where they sit plastered against them. Chewing tobacco also makes it incredibly easy for your gums to develop gingivitis and become diseased.
 
-**Complete Dentures.** If you’re missing an entire arch or smile of missing teeth, your dentist will need to prepare a complete denture instead. Without any remaining teeth to support them, they rely on your jaw’s natural, unique shape. With a well-fitting prosthetic, these false teeth can stay steady without slipping or falling out, even while eating or speaking.
+Here are some other ways frequently using dip can impact your smile:
 
-#### What Do Dentures Cost?
+* Gum recession
+* Bone loss around your teeth
+* Tooth loss
+* Quickly stain your teeth
+* Damage tooth enamel
+* Lead to cavities and gum disease
+* Increase the risk for oral cancer
 
-Like bridges, dentures aren’t one-size-fits-all. You may need multiple prosthetics prepared. You may only need three or four teeth replaced rather than an entire smile. Perhaps your tooth extraction appointment was months beforehand. Taking everything into account, your false teeth cost will vary depending on:
+## Medications
 
-* Type of denture
-* Number of false teeth
-* Materials used
-* Cost of immediate dentures
-* Cost of tooth extraction
-* Dental insurance
+Medications like blood thinners make it more difficult for your blood to clot and easier for your gums to bleed. Just as you would your doctor, you should always inform your dentist of any new medications you start using. This allows us to better understand and account for any complications that might arise. We can also give you recommendations to minimize or prevent these complications, including gingival bleeding.
 
-## Dental Implants
+## Pregnancy
 
-Compared to both bridges and dentures, [dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are considered the best teeth replacement option available. They are embedded directly into the jaw to allow a periodontist to replace a tooth entirely, root and all. By replacing the original tooth’s root, they can provide the same amount of force and stimulation. This unique advantage makes implants the only dental prosthetic that can completely prevent post-extraction bone loss. Teeth implants are composed of three parts:
+When a woman is pregnant, her body experiences frequent hormonal changes that upset its natural balance. As your hormones change, so can your body’s response to oral bacteria. For some women, their smiles become more susceptible to bacteria and plaque, often leading to “pregnancy gingivitis.”
 
-* **Tooth Implant:** a titanium post or screw surgically inserted in your jaw, acting as the new tooth’s root
-* **Abutment:** the piece connecting the implant and crown and keeping the entire false tooth together securely
-* **Dental Crown:** the final part completing the implant and giving it the look and function of a real tooth
+Bleeding gums during pregnancy usually clears up by the end of month 8. Still, it’s crucial for expecting mothers to take good care of their teeth and gums. Be sure to maintain a close relationship with your dentist during this time. Please come in to see us if you notice any new developments with your teeth or gums. The damage gingivitis and periodontitis do to your mouth can be a nightmare. The earlier you come in at the first signs of trouble, the quicker and easier it will be to take care of your smile.
 
-Although a traditional tooth implant restores a single tooth, implants can be modified to work with both bridges and dentures. The standard dental crown is replaced by a bridge or denture, anchoring them with greater stability. Additionally, these implant-supported prosthetics have greater longevity than their counterparts because the jaw stays healthier over time.
+## Poor Diet
 
-#### Am I Too Old For Implants?
+The foods you eat can have a huge and lasting impact on your body, and your gums are no exception. Foods high in vitamins C and K, keep your gums healthy and your smile in top form. Vitamin C deficiency can lead to scurvy, which isn’t just a problem for pirates like you might think. Along with bleeding gums, scurvy can lead to anemia, chronic exhaustion, gingivitis, jaundice, and even death. Vitamin K allows your blood to clot. While not as catastrophic, a diet lacking vitamin K can make it easy for your gums to bleed and difficult for them to stop once they start.
 
-To be a candidate for teeth implants, both your smile and general health must be in great shape. As such, many patients worry that there’s an age cutoff. Whether you’re 32 or 82 years old, you can still enjoy all that implants have to offer as long as your periodontist believes your treatment will succeed. Dental implants have a success rate of 90 to 95%, so you can rest easy knowing your treatment will be smooth sailing you get the go-ahead.
+To help your gums stay fit and prevent bleeding, our Houston dentists recommend you try eating these foods:
 
-During your initial consultation, our periodontist will check that you meet the following critical criteria. You must:
+* Citrus fruits
+* Broccoli
+* Lettuce
+* Soybeans
+* Spinach
+* Olive oil
+* Tomatoes
+* Bell peppers
+* Strawberries
+* Potatoes
 
-* Have a healthy mouth, particularly the periodontal system of jawbone, gums, and connective tissues
-* Be in good overall health
-* Have sufficient jawbone to support the implant
-* Be willing to wait 6 to 8 months for your finished tooth
+## How Do You Fix Bleeding Gums?
 
-Patients who smoke, drink, or have uncontrolled diabetes can be approved for implant surgery, but they have a higher risk of failure. These conditions can affect the mouth’s ability to heal. The implant process relies on your jaw and gums healing across months and several surgeries. Slowed healing can prevent your implant from securing itself firmly or lead to other complications, like infections.
+**Practice excellent oral hygiene.** One of the most common reasons for bleeding gums is poor oral hygiene. Brushing twice and flossing once daily is an amazingly effective gingivitis treatment, removing all plaque and bacteria buildup beneath the gums in as little as two weeks. We may also recommend that you see your Houston dentist for a [professional dental cleaning](https://www.nudentistry.com/houston-tx/general-dentistry/dental-cleaning/), which should be done regularly at least once every six months. For later stages of periodontal disease, a deep cleaning may be required to clear your teeth down to the roots of hardened plaque and bacteria.
 
-If you don’t have enough jawbone, don’t worry. A periodontist can replace the missing material with an additional bone graft surgery. This procedure transplants new tissue, often taken from the back of the jaw, and places it where the bone is too thin. Over four to six months, this new bone fuses with the old, and this stimulation causes more natural bone to form and reinforce the jaw. Once the jaw is fully healed, you can safely start the dental implant process.
+**Use a soft or electric toothbrush.** While you’re working to better your gums, especially when they’re inflamed from periodontal disease, the type of toothbrush you use can make all the difference. If you’ve just bought a new toothbrush with stiff bristles, brushing too aggressively can irritate your gums and cause them to bleed further. By switching to a soft bristle brush, you can be gentle with your smile even as you work to make it healthier.
 
-#### How Much Do Dental Implants Cost?
+An electric toothbrush is programmed to move and rotate to your teeth’s best advantage. These toothbrushes can be especially effective along your gum line, making it easier to clean your teeth better than a manual one. They can also come with built-in timers to ensure you always brush your teeth the full two minutes it takes to give each of your teeth the attention they need. Whichever toothbrush you choose, be sure to replace yours every three or four months. You may need to do this sooner if you are a more enthusiastic brusher because your brush’s bristles may quickly become frayed.
 
-Implants require more time, precision, and specialized care to place them, and this is reflected in the treatment’s price. Implants are usually more costly than their alternatives. Still, their unmatched longevity and health benefits make them an incredibly worthwhile investment. Like other prosthetics, a patient’s dental implant cost depends on several variables:
+**Quit using chewing tobacco.** Just as using dip can cause problems like gum bleeding, gum recession, periodontal disease, and cancer, so can going cold turkey reduce its effects. While you might not fully recover from the damage, you may find your inflammation and gum disease steadily improving within two to six weeks of quitting.
 
-* Type of dental implant
-* Number of visits
-* Cost of titanium implant
-* Cost of abutment
-* Cost of dental crown
-* If bone grafting is required
-* Cost of tooth extraction
-* Whether dental sedation is used
-
-However, unlike bridges and dentures, teeth implants are often not covered under dental insurance plans. Several full coverage plans do include them, but many only include part of the dental crown’s cost, not the abutment’s or titanium implant’s.
-
-No matter what, Nu Dentistry is dedicated to ensuring our patients never have to worry about their dental work breaking the bank. Along with accepting all PPO dental insurance, our Houston dental office offers multiple alternative financing options to make managing your payments easy. With CareCredit Dental and our in-house membership program, our caring team helps guarantee that you can get affordable dentures, bridges, and dental implants.
-
-Are you excited to finally fill in the gaps in your smile and restore it to its old self? The Nu Dentistry team is here to help! You can reach us at (832) 916-4144 to schedule a prosthodontic consultation with us today.
+**Listen to your dentist.** If your Nu Dentistry dentist has any specific recommendations or instructions for how to stop bleeding gums, their suggestions should not be ignored. This can mean easy, at-home treatments like rinsing with a saltwater solution or dentist-recommended mouthwash or adding more fruits and green vegetables to your diet. However, we may request that you receive professional treatment under our care. These procedures can include periodontal disease treatments like pocket reduction surgery, gum and bone grafts, or dental extractions in worst-case scenarios.
