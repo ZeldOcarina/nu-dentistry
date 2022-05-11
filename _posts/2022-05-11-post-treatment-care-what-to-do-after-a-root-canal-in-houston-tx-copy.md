@@ -1,81 +1,61 @@
 ---
-title: What Can You Do To Save Your Cracked Or Chipped Tooth?
+title: Why Invasalign In Houston, Tx Is The Best Choice For Straightening Teeth
 
 ---
-Have you ever bitten down on something hard or been hit in the face while playing sports and suddenly heard a loud crack? You look in the mirror, and suddenly there’s a large crack running through your tooth, or even a piece of it missing entirely! If this has ever happened to you, you’re not alone. Cracked and chipped teeth are fairly common problems in the dental world, and they have a range of possible causes.
+As dentists who take pride in our work, there’s nothing we love more than to have our patients leave with a beaming smile they’re excited to show off to the world. We understand the power of cosmetic dentistry, and we always use it to our Houston patients’ best advantage. From bonding and veneers to professional whitening, we can tackle a wide variety of aesthetic problems to give you a red carpet-worthy smile you adore.
 
-#### Some causes include:
+Perfecting crooked teeth and misaligned bites is no exception. While dental braces are what most people think of as their only orthodontic solution, our dentists have another, better option. Invisalign has been sweeping the world by storm since their invention over two decades ago, and it’s not hard to see why. They’re incredibly comfortable, sleek, and convenient, allowing patients of all ages to get the cosmetic care they need without the drawback of clunky metal brackets and “brace-face.”
 
-* Grinding your teeth, particularly at night
-* Cavities and tooth decay that may weaken the integrity of the tooth
-* Eating hard foods like an ice cube, peanuts, and hard candy
-* Sudden impact or trauma to the mouth (car accidents, playing contact sports, falling on a hard surface, etc.)
+### What Does An Invisalign Do?
 
-As you get older, you may find that your teeth may become even more vulnerable to cracking and chipping. Your smile will naturally begin to weaken as a lifetime of eating, chewing, and normal wear and tear begin to make their mark. You should be especially careful with the foods you eat. Hard and crunchy foods do plenty of harm on their own, and sweets weaken your teeth by causing cavities.
+[Invisalign treatment](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/invisalign/) consists of a series of clear plastic aligning trays crafted from molds of your mouth. By switching to the next aligner every two weeks, you’ll be able to gradually and painlessly shift your teeth into the perfect positions. While clear aligners don’t brackets and wires like traditional braces do, that doesn’t mean they aren’t just as capable of getting the job done. Invisalign can fix a wide variety of orthodontic issues:
 
-## Signs of a Cracked or Chipped Tooth
+* Crooked teeth
+* Overcrowding
+* Gaps between teeth
+* Overbite
+* Underbite
+* Crossbite
+* Open bite
 
-Beyond any visible cracks or missing enamel you might see, several other symptoms may be present, depending on the severity of the damage. Chipped and cracked tooth symptoms include:
+After your teeth and bite are precisely where your Invisalign dentist wants, you will need to wear a retainer 24/7 for the next few months to a year just as you would with braces. This allows us to stabilize your alignment and prevent your teeth from sliding back to their old positions. Once we’re sure your smile is steady, you can cut down on the hours you need to wear your retainer. A few nights a week is often enough for most patients, but your dentist will be able to give you an exact timeline.
 
-* Tooth pain that comes and goes but is rarely continuous
-* Pain when chewing or biting
-* Sensitivity to temperatures and sweetness
-* Swelling gums around the damaged tooth
+### Are Clear Aligners Better Than Braces?
 
-However, sometimes there may be no symptoms beyond the initial crack or chip. We still highly recommend that you come into the office to have your tooth looked at to ensure you don’t run the risk of developing an infection or cavity. If left untreated, the infection can spread from the initial tooth to its neighbors, your jawbone, bloodstream, and [rest of the body](https://www.colgateprofessional.com/education/patient-education/topics/systemic/why-a-healthy-mouth-is-good-for-your-body). In these cases, there may be additional symptoms such as:
+For slight to moderate orthodontic problems, the clear answer is easy for the Invisalign vs braces question. Invisalign treatment is better overall than traditional orthodontic braces, from its speedy process to your experience. Here are some of the unique advantages Invisalign has over braces:
 
-* Persistent pain, not just when eating
-* Bad breath or taste in the mouth
-* Discolored spots around the infected area
-* Tooth abscess or pus around the teeth and gums
-* Fever
+##### They are almost unnoticeable.
 
-#### Is a chipped tooth a dental emergency?
+Invisalign is the invisible braces of the orthodontic world. While “clear braces” made of ceramic might mask dental brackets, clear aligners are the only way to hide your treatment from others completely. Without bulky and colorful brackets on full display on your teeth’s fronts, your transparent aligner trays go unnoticed by everyone around you.
 
-Not all chipped teeth are dental emergencies, but they certainly can be. Some may leave jagged, sharp fragments that can rip and tear at your lips and gums, and others may reach down to damage the nerves at the center of your tooth. In many cases, a chipped tooth leaves a tooth vulnerable to infection, and painful cavities may begin wearing away at what’s left of your tooth. In these cases, you should seek [immediate dental care](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/).
+Just make sure to watch what you drink. While most patients remember to take out their clear aligners for meals, some don’t always do the same for drinks. If you’re wearing Invisalign, please avoid dark and colorful beverages like coffee, tea, and red wine. They can stain and discolor your trays just like they do your teeth.
 
-#### Can a cracked tooth heal on its own?
+##### Clear aligners are more comfortable than bracket braces.
 
-With the most minimal cracks, it is possible for your tooth to eventually heal itself through remineralization. This is the same process that can repair a tooth in the earliest stage of tooth decay. However, for more major cracks or breaks, your dentist will need to repair the damage. Even with those minor cracks, we recommend that you see us for an exam to ensure there’s no underlying damage or infection.
+Invisalign is designed to fit your smile perfectly, sliding smoothly over your teeth without any effort or discomfort. There are no bulky brackets and wires that can poke and rub painfully against the inside of your mouth. Clear aligners also move your teeth more gradually than braces, removing initial discomfort and soreness while adapting to Invisalign.
 
-#### How bad is a cracked tooth?
+##### Invisalign is easy to remove.
 
-With cracked tooth syndrome, a tooth has partially fractured but hasn’t fully broken away from the rest of the tooth. In some cases, the crack might not be serious and may only need cosmetic restoration. However, some cracks can cause enough damage that the tooth can’t be saved and has to be removed. No matter how bad it looks, you should always see a dentist for an examination to determine the full extent of the damage.
+Unlike bracket braces, Invisalign isn’t permanently bonded to your teeth but can be readily removed whenever you need to. There’s no need to worry about your diet or dental hygiene habits. By taking your aligner trays out when eating, there are no unwanted food restrictions to prevent you from breaking your invisible braces. You also won’t need to learn any new techniques to keep your teeth bright and healthy.
 
-#### What happens if you don't fix a chipped tooth?
+Plus, you don’t need to wear Invisalign 24 hours a day like bracket braces. Only 22 consecutive hours are required to experience the full benefits and amazing results of orthodontic treatment. So if you have any special events planned, you can remove your Invisalign before heading out for your night on the town.
 
-No matter how bad the chip looks, you should always have your injured tooth looked at by your dentist. They will diagnose the scope of the damage and detect any potential dangers to your oral health. Even with teeth that aren’t in any pain or have any worrying signs, leaving your chip untreated can be disastrous. The chip can leave the tooth exposed and susceptible to bacteria, infection, and decay, leading to even more intensive treatment being needed, up to and including extraction.
+##### You'll see faster results.
 
-#### What can be done for a cracked tooth?
+While braces can take as long as 3 years to perfect your smile, Invisalign only needs an average of 12 to 18 months. Some of our patients with less severe issues only require their clear aligners for s6 months before walking away with a brand new smile. You’ll also save more time throughout your procedure by requiring fewer trips to your Houston orthodontist for adjustments.
 
-Anything more than small, enamel-only cracks need immediate repair, even if there’s no pain or discomfort. For minor chips that only cosmetically affect your tooth, you won’t have to have a major repair. The dentist might fill in the tooth’s crack with a dental filling, or with [dental bonding](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) if it’s a cracked front tooth. More significantly major cracks, especially those causing severe cracked tooth pain, can demand much more extensive dental work, including crowns, root canals, and dental extraction.
+### What Is The Best Age For Orthodontic Treatment?
 
-## Treatment Options
+There is a rule of thumb that the earlier you come in to see an orthodontist, the better, but the best age to straighten your teeth is between ages 8 and 14. At this point, your jaw is still growing and changing, and your adult teeth are steadily replacing your baby ones. This allows your Invisalign dentist to quickly apply a gentle pressure to your teeth as we fine-tune your smile’s development. Most children have an[initial examination and consultation](https://www.colgate.com/en-us/oral-health/cosmetic-dentistry/early-orthodontics/first-pediatric-orthodontist-visit-what-to-expect-0113) around 6 or 7 years old to determine if orthodontics is necessary. We’ll move forward from there.
 
-You may be tempted after cracking or chipping your tooth to Google “how to fix a chipped tooth” or “cracked tooth remedies at home,” but we recommend that you don’t try to fix it yourself. You can’t tell how extensive the damage is just by looking at it, and what might seem like a small crack may actually run deep to the root of your tooth. Plus, superglue can only do so much.
+There are two main stages for children and teens based on how early their orthodontist needs to start treatment. Phase 1 usually occurs between ages 8 and 10 while baby teeth are still falling out and adult ones are coming in. Phase 1 Invisalign allows us to prepare a child’s smile for all of their emerging permanent teeth to come in without issue. While not all patients require Phase 1 treatment, every orthodontic patient 11 years and older needs Phase 2. During this last stage, our dentists will focus on getting your teeth into their final positions.
 
-When you come in for a consultation, your dentist will comprehensively examine your injured tooth and determine the best chipped or cracked tooth repair options for you. Which one is right for your specific needs depends on the size of the crack or chip, its location, the signs and symptoms involved, and whether it reaches below the gum line.
+Many of our adult patients ask our Houston dentists, “Is it too late to straighten my teeth?” Even if you miss that early window to get clear aligners, you haven’t lost your chance at having the dream smile you’ve always wanted. You’ll still achieve that Invisalign before and after you want—it will just take longer. Your teeth will need a bit more force to move them where we want, and we’ll want to take things a little slower to prevent any discomfort or damage to your teeth.
 
-The most common treatments we recommend are:
+### Is Invisalign Worth The Money?
 
-#### Dental Bonding
+As they have become more popular and affordable with time, Invisalign treatment now costs about the same as traditional dental braces. Several factors determine the exact price of your orthodontic work: your oral health needs, if Phase 1 treatment is necessary, the severity of your alignment issues, who you see, and where you go. Most patients agree that Invisalign is well worth the cost. With clear aligners, you can enjoy the long list of benefits our patients love about having straight teeth:
 
-Dental bonding uses a tooth-colored composite resin to cosmetically restore the appearance of your teeth. Our dentists can apply as much or as little composite as needed to repair your smile’s natural look. Bonding fills in your cracked front tooth or can completely rebuild a chipped piece of missing enamel.
+Better Dental Hygiene: without crooked and crowded teeth getting in the way of each other, you’ll be able to brush and floss your teeth much more comfortably and efficiently. Say goodbye to those pesky cavities and gum disease for good! Clearer Speech: misaligned teeth and bites can cause speech impediments and problems that can be solved with orthodontics. No More Neck Pain and Headaches: jaw misalignment can put an undue amount of stress and pain, often leading to chronic headaches and neck pain. Healthy, Whole Smile: straighter teeth lead to less wear and tear on your enamel, and they prevent chips and cracks from forming as easily. Beautiful Smile, Boosted Confidence: with an improved smile, our patients find their self-esteem improves as they can’t help themselves from showing off their pearly white grins.
 
-#### Dental Veneers
-
-Like bonding, porcelain veneers are used by dentists to repair a chipped front tooth cosmetically. This process involves lightly shaving down your tooth to fit a thin porcelain shell over it, re-envisioning your tooth’s total look. This shaving can smooth away any sharp edges that could cut your lips and gums. The veneer itself is strong and durable, protecting the tooth below from further damage or infection.
-
-#### Dental Crown
-
-For significant cracks and breaks, a dental crown may be needed to fit over the tooth and restore both its looks and strength. Crowns are also a great choice if there is a significant amount of decay that has left the tooth weak. Porcelain or ceramic crowns are the most popular since they can return your smile to normal, exactly matching your natural tooth.
-
-#### Root Canal
-
-When you experience chipped, cracked, or broken tooth pain, this is often because the crack or chip extends deep into your tooth’s dental pulp. The pulp is the lifeblood of your tooth, containing the blood vessels and nerves keeping it alive. If the pulp is damaged, your dentist will most likely perform a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/) to remove damaged tissue and regain your tooth’s lost integrity. This procedure can also remove dental pulp that might have become infected if a crack or chip is left untreated for too long.
-
-#### Tooth Extraction
-
-Sometimes a fracture or break can leave your tooth’s structure, nerves, or roots so injured that the tooth dies. At this point, it can’t be saved by a root canal or crown, and your dentist will have to remove the tooth entirely.
-
-Many patients who have hairline cracks or small chips in their tooth’s enamel may not seek any treatment without any pain or significant visible damage. While cracked or chipped tooth repair may not be necessary in some of these cases, we highly recommend that you at least come into our office for a consultation to ensure your tooth is healthy. We want to make sure that your natural tooth is always in the best condition possible and can last you a lifetime.
+If you’re concerned about the price of your orthodontic treatment, many dental insurance plans also cover at least part of your Invisalign cost. Here at Nu Dentistry, we accept all PPO dental insurance plans to allow our patients flexibility in getting affordable dental care. However, we understand that insurance rarely takes care of the total cost of any treatment. Our Houston dental office offers multiple [financing options](https://www.nudentistry.com/dental-financing/) to ensure you never have to worry about putting off a procedure you need.
