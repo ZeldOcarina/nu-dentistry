@@ -1,63 +1,63 @@
 ---
-title: The Pros And Cons Of Getting A Root Canal In Houston, Tx
+title: Should  You Consider Sedation Dentistry In Houston, Tx?
 
 ---
-When you have a bad toothache that won’t go away, you know it’s time to visit your dentist . Most often, severe tooth pain is a sign of dental decay wreaking havoc on your tooth. When our dentists at Nu Dentistry notice a deep cavity, we have to ask ourselves, “Can a badly decayed tooth be saved?” For all but the most severe cases, a root canal can save even a tooth on the brink of death and return it to its former glory.
+Our dentists at Nu Dentistry often hear scary stories of patients coming into the dental office for the first time in years because their daily pain became too much. Bleeding gums, pus-filled dental abscesses, rotting teeth, and more go ignored for far too long because of a secret killer in the dental world: dental anxiety. Whether from a bad childhood experience or a fear that your visit might hurt, dental phobia shouldn’t get in the way of the dental care you need any longer.
 
-What is a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/)? A root canal is a procedure a dentist or endodontist performs to preserve a tooth from severe damage and dental decay. The process involves removing your tooth’s infected pulp down to the root, sterilizing it, and restoring it with a dental filling or crown. For some teeth, a root canal involves more than one diseased root or canal. Each root must be completely decay-free before the tooth can be permanently sealed. Otherwise, you risk your procedure failing.
+What helps with dental anxiety? We have many ways to help [calm nervous patients](https://www.mouthhealthy.org/en/az-topics/a/anxiety) at our Houston dental office. Our friendly and funny dentists keep you calm and informed during your visits so that nothing is uncomfortable or a surprise. Every room comes with wireless Bluetooth headphones to let patients play their music during treatment. We even equip each of our private patient suites with two televisions, one at eye level and the other by the ceiling, through which you can stream your favorite movies and shows. However, we know that simple distractions, entertaining as they are, can’t help with every case of dental phobia. Sometimes you need a little something more to ensure you enjoy your time at the dentist: sedation dentistry.
 
-### What Causes You To Need A Root Canal?
+### What Is Sedation Dentistry?
 
-Teeth are composed of three layers: the hard protective enamel, the softer dentin, and the sensitive dental pulp at your tooth’s center. When the pulp becomes damaged, it can be excruciating. This part of the tooth contains the vulnerable blood vessels and nerves keeping your tooth alive and healthy. When these structures become damaged, you must get a root canal to remove and replace any damaged dental tissue.
+Sedation dentistry is one of our Houston office’s most popular dental anxiety treatment options. Patients remain comfortable and relaxed throughout their treatment without the need for a local anesthetic. However, don’t confuse it with sleep dentistry, which uses general anesthesia to make patients fall unconscious. Sedation dentistry doesn’t knock you out. Instead, patients are aware enough to respond to our questions, but all of their fear and anxiety will be gone as if they were never there.
 
-### The primary reasons your dentist may suggest a root canal include:
+Here at Nu Dentistry, we use three different [sedation methods](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/) to keep our patients calm and relaxed in the dental chair:
 
-##### Dental Decay
+##### Laughing Gas
 
-Tooth decay and cavities are the top reason our patients need a root canal in Houston. They burrow through enamel and dentin into the pulp with a single-minded purpose: to destroy your tooth. A root canal is used to clear out the infection and prevent decay from spreading so deep into your tooth that it requires extraction.
+Nitrous oxide, or “laughing gas,” is breathed in through a mask over your nose to help you feel happy during your procedure. You’ll be feeling the effects in as little as 30 seconds. Due to its mildness, laughing gas is often recommended for routine or deep dental cleanings. The gas wears off quickly, so you can drive home and go about your day normally after your treatment.
 
-##### Multiple Treatments
+##### Oral Sedation
 
-When a tooth acquires multiple cavities over the years, it will need the current filling or crown to be removed, the new damage cleared away, and a new dental restoration. Slowly but surely, these multiple treatments will cut out more and more of your enamel and dentin until the pulp is reached. As we know, once the pulp becomes involved, a root canal becomes necessary.
+Oral sedation is more powerful than laughing gas, and it takes much longer to take effect. You’ll typically take these pills 30 to 60 minutes before your appointment. Once they take effect, you’ll be fully awake, if a bit tired, and fully capable of responding to our dentists’ questions or requests. The pills won’t wear off for a few hours, so be sure to take the day off work or school with this medication.
 
-##### Dental Trauma
+##### IV Sedation
 
-Dental trauma like deep fractures and breaks can reach far enough down into a tooth to damage the pulp. Not only can this cause severe tooth nerve pain, but it can also put your tooth’s life at risk. Your endodontist will remove the injured pulp before repairing and reinforcing the tooth with a filling or crown. It’s not just extensive damage you need to worry about, either. Even small and painless cracks and chips from nighttime grinding and clenching can make their mark. Without [cosmetic repair](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) like tooth bonding or veneers, many of these minor injuries can still leave your tooth vulnerable to infection and decay. With time, these will require a root canal.
+IV sedation dentistry is the strongest and has two varying levels: “twilight” and “deep.” Here at Nu Dentistry, we perform the more moderate twilight sedation to keep patients awake but generally unaware of their surroundings. While a completely conscious sedation, many patients feel sleepy and relaxed enough to fall asleep during their procedure. If necessary, we can wake you before allowing you to catch up on your beauty sleep again. You might not remember much of your time with us afterward, which many of our dental phobia patients appreciate.
 
-### Pros of Root Canal Treatment
+</h3>Can You Request To Be Sedated At The Dentist?</h3>
 
-Root canals provide relief from debilitating tooth pain. Whether your tooth hurts from trauma or a cavity, root canals permanently stop the problem at its source. They also keep your tooth protected against further harm, potentially for a lifetime with excellent dental hygiene.
+Dental phobia and anxiety aren’t the only reasons you might want to be sedated. Patients may benefit from dental sedation if:
 
-They stop root canal infection from damaging nearby bones and teeth. From the moment tooth decay breaks its way through your enamel, it won’t stop its attack on your mouth even once it reaches the end of your tooth. Root canals prevent infection from spilling out into nearby gum and bone tissue in the form of a pus-filled abscess, where it would spread to neighboring teeth and into your bloodstream.
+* Multiple procedures are planned for a single day
+* You have had bad and traumatic experiences with a previous dentist
+* The patient has special needs
+* Gag reflexes often get in the way of treatment
+* You have sensitive teeth and gums
+* Local anesthetic isn’t an option—due to bad reactions or problems getting numb
+* You are going to have a long or extensive treatment
 
-Root canals save your teeth. Pulling a tooth is always a last resort reserved only for teeth a root canal can’t fix. Missing a tooth weakens your smile and leaves an unsightly gap that needs to be replaced. This can be costly and time-consuming. Leaving the gap alone can lead to bone loss, further decay, shifting teeth, and the potential need for another tooth removal.
-
-### Cons of Root Canal Treatment
-
-Root canals require reinforcement. By removing much of the central structure keeping your tooth strong and healthy, the hollowed tooth becomes brittle and more susceptible to cracks and fractures. Your dentist must strengthen it with a filling or crown to prevent this. However, there is still a chance you may further damage your tooth if you’re not careful.
-
-Root canals often take multiple visits to finish. Some teeth are more complex than others with two or even three roots, each containing one or two canals. When more than one of these roots is hurt, you may need to come in for a second visit to ensure all infected tissue is cleared away. Another visit may also be required if a crown is necessary to seal a tooth post-extraction.
-
-Not all root canals are 100% effective. For a root canal procedure to be successful, all infected pulp must be taken out and cleaned. Less experienced or skilled dentists may not get everything they need to. Although uncommon, the treatment may fail as bacteria and decay sealed inside your tooth can continue to work their way through your tooth.
+To be an excellent candidate, you should be in great general health and want to experience all that sedation has to offer. Your sedation dentist will consult with you about your medical history, past dental experiences and anxiety level, and current medications. This way, we can safely ensure that your time in our care is the best you’ve ever experienced.
 
 ### Frequently Asked Questions
 
-##### Do root canals hurt?
+##### How much does sedation dentistry cost?
 
-Root canals have an unearned reputation of being painful—as long as you choose the right dentist for the job. Here at Nu Dentistry, we use a powerful local anesthetic that numbs the area around your tooth. We also have the best technology available to ensure that even applying the anesthetic is as comfortable as possible. We do everything we can to make sure you don’t feel a thing from the moment you sit down in the dental chair.
+Your cost depends both on which type of sedation you will need and how long it is required. For oral sedation, prices will also differ depending on the pill you use, such as diazepam, Ambien, or triazolam. Since it is optional, sedation is not included with the standard cost of your dental treatment. It is also not covered by a regular dental insurance plan. However, we want to make sure you get the incredible, stress-free dental experience you deserve. Our Houston office has multiple [financing options](https://www.nudentistry.com/dental-financing/), including an in-house membership program, to ensure you don’t have to worry about getting dental work ever again.
 
-We understand that some patients may be nervous about their upcoming root canal treatment, especially if they have a dental phobia. Our dentists can help you experience a deeper level of comfort with [dental sedation](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/). Sedation relaxes both your mind and body to give you the perfect peace of mind you need to enjoy your time with us. While we won’t put you to sleep, many of our patients become so calm that they fall asleep in the middle of their procedure! If this seems like a great choice for you, be sure to request it in advance. We want to make sure you always have your best dental experience at our Houston office.
+##### How do you feel after dental sedation?
 
-##### How long does a root canal take?
+Your sedation experience depends on which type you request. Patients who take laughing gas will be back to normal within minutes of removing their mask, without any of the happy giddiness they felt during treatment. With deeper sedation, you might feel tired and sleepy for hours afterward. You will also feel heavier, sluggish, and have slower reflexes, meaning you can’t drive until the effects of your medication wears off. Many patients don’t remember much or all of their dental procedure afterward. This can be a relief to those with acute dental phobia.
 
-The length of your procedure depends on the complexity of your specific situation. Some patients only need a single 30 to 60-minute appointment to remove all damaged tissue and restore it. More complicated cases where more than one root needs fixing can take as long as three hours. Many dentists prefer to split this time in half with two 90-minute visits. For patients who need a dental crown, a second visit may also be required to switch a temporary crown for a permanent one.
+##### How long does dental sedation last?
 
-##### Is it better to have a root canal or extraction?
+Laughing gas is the lightest and quickest sedative, usually wearing off within minutes of your sedation dentist removing your mask. With no side or after effects, patients can drive themselves home safely without any problems. Both oral and IV sedation take much longer to pass through your system. Oral pills usually last between 4 and 10 hours, while IV sedatives require a full 24 hours. If you know that you will use sedation, please take the day off from work and plan with a friend or family member before your appointment to have them drive you home afterward.
 
-Our dentists at Nu Dentistry understand the importance of preserving your real smile however possible. [Natural teeth](https://www.aae.org/patients/root-canal-treatment/saving-natural-tooth/) keep your smile stronger than even the best dental implant can manage. They also have the potential to last you a lot longer as long as you take good care of them. If there is still a chance that we can bring your tooth back to full health, we always recommend you choose to have a root canal. However, please be aware that root canals may be powerful, but they’re not a cure-all. If your dentist suggests you have your tooth removed, then there is no other way we can protect your smile from decay.
+##### Can I be sedated for tooth extraction?
 
-##### How much does a root canal cost?
+Absolutely! If you want to benefit from sedation during your upcoming tooth removal procedure, don’t hesitate to let our Houston dentists know. Dental extraction is one of the most common procedures our patients request to be sedated for. We understand that the thought of having a tooth pulled can be nerve-wracking, especially if oral surgery is involved. IV is incredibly popular for wisdom tooth removal when patients will have all of their wisdom teeth taken out at once.
 
-The cost of a root canal depends on the type of tooth. Front teeth and canines have only a single root with a single root canal. These take less time to operate on, making them the easiest and most affordable to treat. Molars and premolars nearer the back of your mouth usually have as many as two or three roots, each with one or two canals. As these teeth are more complicated and often require more extensive care, their root canal cost is often steeper.
+##### Is sedation dentistry dangerous?
 
-If you’re at all worried about your treatment cost, our Nu Dentistry dentists are prepared to help you however we can. Most root canals are partially covered by dental insurance. We accept all PPOs to allow you the freedom to seek our expert service affordably. Our office also has alternative financing options for those without insurance or who need assistance covering the rest of your procedure cost. Please feel free to call us if you’d like to hear about our in-house membership program or CareCredit Dental policy.
+With the right and experienced sedation dentist on your side, sedation dentistry is perfectly safe for most patients. However, not everyone is a good candidate for this treatment. We will thoroughly go over your medical history to ensure sedation is a safe option for you. Patients who are obese or have sleep apnea may not be advised to stick with a standard local anesthetic. And not all medications go well with dental sedation, so we will discuss which ones you are currently taking with you.
+
+Even once you’re cleared and approved, our Houston dentists will closely monitor you throughout your appointment to ensure your procedure goes smoothly. Sedation works slightly differently for each patient. Some patients only need a small dosage to fall asleep, but others can take much more while staying awake and somewhat aware. Our expert professionals will make any adjustments necessary to keep you comfortable and safe in our care.
