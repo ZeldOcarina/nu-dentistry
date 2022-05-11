@@ -1,71 +1,134 @@
 ---
-title: What Are The Best Types Of Tooth Filling In Houston, Tx?
+title: When Do You Need A Dental Crown In Houston, Tx?
 
 ---
-Dental cavities are one of the most common forms of dental disease. While you can fix earlier tooth decay with brushing, flossing, and fluoride, cavities will require professional treatment. It is always better to treat cavities sooner rather than later. Otherwise, the damage to your tooth will go unchecked until it eventually puts your tooth’s life at risk. With smaller cavities, only a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) is needed. During this procedure, the tooth’s decayed tissues are removed before being rebuilt with a filling material.
+Dental crowns are used for various purposes, from restoring decayed and broken teeth to replacing missing teeth with a dental bridge or implant. Traditional dental crowns used gold and, later, more base metals like palladium, platinum, nickel, and chromium. These were strong and long-lasting but easy to spot, especially as dental crowns change a tooth’s entire appearance. However, as dental technology improved, more natural-looking crowns became available, soon becoming the most popular types of dental crowns.
 
-## Types of Dental Fillings
+[Porcelain dental crowns](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) combine both aesthetics and durability. Porcelain is designed to recreate your tooth’s original appearance, both in shape and color. They come in several shades, and your crowns dentist can make minor adjustments to ensure they match the rest of your neighboring teeth. Porcelain is also much stronger than the dental composite used in dental filling and bonding procedures, so these crowns can easily last more than a decade or two.
 
-There are several different materials that a dentist can use for a cavity filling, some of which are relatively new advancements and others that have fallen behind in recent years. What are the different filling materials?
+While gold and other metal crowns are still sometimes used for back teeth, which take the brunt of your bite’s full force, porcelain crowns have no such restrictions. They are an excellent option for all teeth, including highly visible front teeth. However, they’re also strong and sturdy enough to stay in good shape on molars and premolars.
 
-#### Dental Composite Resins
+When getting a porcelain crown, your dentist will need to make a custom crown. This is because no two patients or teeth are the same. After treating your tooth for breaks and cavities, the dentist will scan your tooth to help design your porcelain crown. Once the crown is made, you’ll come in for placement. The design process considers the crown’s color, shape, and size to match the original tooth exactly. When designing a dental crown, we will take into account:
 
-Most fillings we perform are composite fillings. Dental composite uses a liquid resin made of plastic and silica, which can be designed to match the precise shade of your tooth. These white fillings look like natural enamel, allowing them to blend in with your natural smile. They are also one of the most conservative filling options. They require less of the tooth to be prepared to fit them in place, keeping the tooth in better and healthier shape. Plus, a dentist can use composite to repair teeth from more than just cavities.
+* Tooth’s location
+* Tooth’s size and shape
+* Gum health
+* Tooth to gum ratio
+* Tooth’s shade and color
+* Your dental habits (ex. clenching or grinding your teeth)
+* Type of porcelain crown
 
-Composite fillings are applied in layers rather than all at once. Once each layer is placed, the liquid resin is hardened with UV light. The composite bonds to the tooth itself, reinforcing and strengthening them both. By building them up like this, you can leave your appointment with your tooth fully settled. There’s no wait time before eating or drinking anything like there is with other fillings, like silver amalgam. (We still recommend waiting until the local anesthetic wears off to prevent you from accidentally biting your tongue or burning your mouth without realizing it.)
+## Types of Porcelain Crowns
 
-#### Silver Amalgam
+There is more than one type of porcelain crown: all-porcelain and porcelain-fused-to-metal (PFM). Which porcelain crown is best? Each porcelain-type tooth crown has its advantages. Our dentist will help you decide which is best for you depending on your preference and individual needs.
 
-Amalgam is one of the oldest tooth filling materials, having been around since the early 19th century. It uses a mixture of silver, tin, copper, and liquid mercury. However, it has largely fallen out of fashion in recent years. While silver fillings can last up to 10 or 15 years on average and are among the most affordable, they have several drawbacks that make them unpopular. Our dentists at Nu Dentistry don’t use them at all.
+#### All-Porcelain Crowns
 
-The most obvious reason is that their metal look makes them easy to spot, ruining your smile’s natural appearance. Amalgam is also 50% mercury, which can understandably create health concerns for patients and dentists alike. While studies have shown this content is still minimal enough to be safe, amalgam still poses a risk to your dental health. Amalgam fillings are prone to expanding and contracting when exposed to hot and cold foods and drinks. Since the tooth doesn’t expand and contract with the filling, it can crack and fracture over time.
+All-porcelain crowns are, without a doubt, the most popular kind of dental crown today. Made entirely of porcelain, they are the most natural in appearance. They can closely match the look of tooth enamel, even above PFM crowns. Additionally, they are wholly biocompatible and metal-free, making them one of the only options for patients with metal allergies.
 
-#### Ceramic
+However, one of the drawbacks of all-porcelain crowns is that they are not as strong as metal crowns. They can crack or chip with enough force. Patients with a bad habit of grinding or clenching their teeth while asleep should be careful with porcelain crowns placed on back teeth. We recommend using a [nighttime mouthguard](https://www.medicalnewstoday.com/articles/mouth-guard-for-grinding-teeth) to better protect your crown. All-porcelain crowns are also more costly than PFM crowns.
 
-Ceramic fillings are made of porcelain designed to look like natural enamel. Like composite, these fillings can often appear invisible against the rest of your tooth. They’re sturdier than composite, helping them last longer. Compared to composite, porcelain fillings are also more resistant to staining and discoloration. Since they can last a decade or more, this can be incredibly helpful if you have a habit of drinking coffee and tea or eating [dark or colorful foods](https://www.healthline.com/health/foods-that-stain-teeth). However, they can potentially crack or chip under too much pressure. Porcelain fillings are also more costly than composite ones.
+#### Porcelain-Fused-to-Metal Crowns
+
+PFM crowns are composed of a metal base that is covered by a porcelain exterior. This leaves the crown looking like a real tooth while still benefiting from a more durable foundation. The metal base makes these crowns look slightly less natural than an all-porcelain. However, it also keeps the tooth better able to withstand your bite’s full force on back teeth like molars and premolars. PFM crowns are also more cost-effective than all-porcelain crowns, making them a great option for patients on a budget or who need multiple crowns.
+
+## Frequently Asked Questions
+
+#### Do Porcelain Crowns Stain?
+
+Porcelain crowns are incredibly durable and stain-resistant, and they are designed to stay white for decades. Still, they require proper care to remain in good shape. Drinking coffee, tea, and sports drinks every day can eventually lead to surface stains. Luckily, most surface-level stains aren’t permanent and can instead be eliminated with a professional dental cleaning. Your dentist can polish the crown’s surface to remove more stubborn plaque and tartar buildup on the crown’s surface that your toothbrush couldn’t. However, if the crown becomes damaged, stains can breach the porcelain surface and cause more lasting discoloration.
+
+Additionally, while your crowns may not be staining, they may look yellower if you whiten your teeth. Porcelain doesn’t gradually absorb pigments from food and drinks like natural enamel does, which allows them to keep their original appearance for years. However, this also means that they cannot absorb peroxide when whitening your teeth. As the surrounding teeth become lighter, the porcelain stays the same. This can create an illusion that the crown is stained.
+
+#### Why Is It Black Around My Crown?
+
+With PFM crowns, patients may sometimes notice a ring of black around their tooth at the gum line. This often happens with periodontitis. While PFM crowns have a porcelain exterior covering the metal base, the porcelain is only meant to extend to the part of the crown above the gum line. If gum disease causes the gums to recede, the uncovered metal parts of the crown become visible. The gums can return to their original height and health with proper care and treatment, resubmerging the metal ring below the soft tissues.
+
+#### Does Getting A Crown Hurt?
+
+Not with our dentists at Nu Dentistry on the job. Before starting your dental crown procedure, we will numb the tooth and surrounding areas with a local anesthetic. This will keep you from feeling anything more than some pressure as we take care of your tooth, even if a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/) is needed. In all, receiving a crown should be no more stressful or uncomfortable than getting a simple tooth filling. However, patients can also request dental sedation if they want more all-encompassing comfort and relaxation during their dental crown procedure. Sedation is a popular option for patients with dental anxiety or who need multiple same-day procedures.
+
+#### How Long Do Crowns Last?
+
+Porcelain dental crowns have an average lifespan of 10 to 15 years. However, many crowns can last more than 20 or 25 years without issue. The most significant factor in a porcelain crown’s longevity is your own care. Dental hygiene, the foods and drinks you consume, and even habits like clenching your teeth or biting your nails can impact how long your crown lasts. Even without major impacts or accidents, wear, tear, and strain can gradually weaken your crown until it eventually breaks under stress.
+
+As strong and durable as porcelain is, it’s not invulnerable. Both all-porcelain and PFM crowns can crack or chip with enough force, just like natural tooth enamel can. All-porcelain crowns are more at risk because they don’t have PFM ones’ sturdier metal base. Patients with metal-free crowns don’t need to watch their smiles or dental habits like a hawk. Still, we recommend being generally more careful, especially with crowns on back teeth that take on the daily force and pressure of your bite.
+
+Additionally, the underlying tooth should be healthy without tooth decay or cracks hidden beneath the crown’s surface. Otherwise, it doesn’t matter how well you take care of your dental crown. If the tooth is compromised, it will instead need additional treatment (most likely requiring the crown to be removed or drilled into). Or else you might put the tooth’s health and life at risk, requiring more extensive dental care like a root canal or even [tooth extraction](https://www.nudentistry.com/houston-tx/emergency-dentistry/tooth-extraction/).
+
+#### How Much Do Porcelain Crowns Cost?
+
+Due to their mix of cosmetics and durability, porcelain crowns are more costly than traditional metal crowns. The cost of your dental crown can range depending on several factors. Our dentists will calculate your treatment’s price based on:
+
+* **Type of porcelain crown.** All-porcelain dental crowns are more costly than porcelain-fused-to-metal crowns because they are entirely metal-free and the most natural-looking.
+* **Complexity of your dental problem.** The extent of your cavity or dental trauma can impact your treatment’s price.
+* **Additional procedures.** Your dentist may need to factor in other treatments when calculating your dental crown cost, such as root canals, tooth extractions, dental implants, etc.
+* **Dental insurance.** Most dental insurance plans provide about half of your dental crown cost. However, it’s important to check with your specific provider beforehand.
+
+Along with PPO dental insurance, our practice also accepts alternative financing options, including Care Credit Dental and our own in-house plans.
+
+Are you ready to say goodbye to your decayed and broken tooth and restore your smile with a beautiful porcelain dental crown? The Nu Dentistry team is here to help! Call our Houston office at (832) 916-4144 to schedule an appointment with us today.Dental crowns are one of the most common dental restorations people need for their teeth. They help replace missing parts of teeth, restore a tooth’s bite fully, and protect your tooth from potential problems in the future. Whether due to severe cavities, impacts to the face, or missing teeth, our dentists may recommend a [tooth crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) depending on your specific needs. Crowns are typically used once a dental filling isn’t enough to repair a damaged tooth. However, at what point do you need a dental crown instead of a filling?
+
+## Reasons You May Need A Dental Crown
+
+There’s no single reason that your dentist may perform a dental crown procedure. Crowns provide full-tooth restoration compared to a tooth filling, which is limited only to a small area of the tooth. They’re also made of more durable materials than the composite resin that fillings use, so they are one of the best ways to protect a tooth from future dental issues. Do I really need a crown? Our dentists may recommend a dental crown on a case-by-case basis for these reasons:
+
+#### Dental Cavities.
+
+A dental cavity starts as a small hole in the tooth. However, as tooth decay worsens, it can create a sizable pit in the tooth, covering much of the surface and burrowing deep to the roots. While smaller cavities may only need a dental filling, larger ones will likely need a tooth crown instead. Crowns can not only restore the missing and decayed dental tissues but also provide your tooth with the proper support and strength necessary to protect it daily.
+
+#### Broken Tooth
+
+A severely chipped or cracked tooth can compromise the tooth’s structural integrity. When fillings can’t hold the fractured or broken parts of the tooth together, a dental crown is required instead. A dental crown not only keeps what’s left of your tooth intact but also helps rebuild the tooth to its intended size, shape, and bite.
+
+#### Root Canal
+
+During a root canal, much more of a tooth is removed than with less severe infections. Depending on the decay’s severity, it can mean clearing out an entire root or two. The hollowed-out tooth will need to be reinforced to keep it protected from future cavities and impacts. While a tooth filling can work, dentists typically prefer the greater strength and stability of a dental crown.
+
+#### Tooth Replacement
+
+Dental crowns can also be used for tooth replacement. They are an essential part of both dental implants and bridges. With implants, an implant post is embedded in the socket where your tooth was. A crown is attached to the post via an abutment, giving the new tooth the original’s look, feel, and function. A dental bridge is instead composed of two crowns connected to a false tooth in-between. By attaching the crowns to the neighboring teeth, you can secure your new tooth in place.
+
+## How Much Tooth Do You Need For A Crown?
+
+The answer to this question is a little complicated. As a general rule, dental crowns are required when more than two-thirds of the tooth’s structure is lost to tooth decay or dental trauma. If the damage is less extensive and more localized, our dentists will likely use a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) instead. Fillings are the most conservative restoration option. They repair the holes left behind in your tooth by filling them with dental composite. The liquid resin is hardened, layer by layer, until the tooth is fully restored.
+
+In some cases, we may use an inlay or onlay. These more medium-sized restorations act as a compromise between limited fillings and comprehensive crowns. However, these are usually relegated to the biting surfaces of back teeth like molars and premolars. Unlike crowns, which encompass a tooth’s entire surface, inlays and onlays only restore the top of a tooth, such as the cusps and areas in-between. With more significant dental damage covering most of the tooth’s overall surface, our dentists will need to perform a dental crown procedure instead.
+
+With root canals, our dentists may recommend a dental crown even if your tooth’s outer surface is still significantly intact. Root canals remove the tooth’s central structure, making them more brittle and likely to crack or break under strain or pressure. A dental filling can be used to help fill and reinforce the tooth. However, dental crowns are typically the dental work of choice because they are sturdier and can better protect the tooth over time.
+
+However, what if most of the tooth’s structure has been damaged? If too much of the tooth is gone, especially if the damage reaches below the gum line, a dental crown won’t have enough of a foundation to secure it in place. Additionally, dental crowns typically require trimming a tooth to fit them. Our dentists must consider this tooth preparation process to ensure your crown will have enough of a base to support it for years or decades. If there’s too little tooth left, there may be no saving it long-term, and we may need to [extract](https://www.nudentistry.com/houston-tx/emergency-dentistry/tooth-extraction/) the tooth instead.
+
+## What Happens When You Get A Crown?
+
+First, we will numb the tooth with a local anesthetic before working on your damaged tooth. With dental cavities, chips, and fractures, a dentist will remove the injured parts of the tooth with a dental drill. After this, the tooth is cleaned and shaved down a little to prepare it for the dental crown. We will then make an impression of the trimmed tooth, which will be sent to a lab for creating a custom crown. This will take a few weeks, so our dentist will place a temporary crown in the meantime.
+
+Once your permanent crown is ready, you can come in for your second and last appointment to replace the temporary crown. After the temporary crown has been removed, the process will continue similarly to placing the temp crown. However, we will use a stronger dental cement to glue the permanent crown solidly in place over your tooth. This completes the process of a dental crown.
+
+## What Are Dental Crowns Made Of?
+
+In general, crowns don’t use composite resin like fillings do because this material is not strong enough to protect the tooth from the full force of your bite over time. Instead, our dentists use more durable materials to help the tooth stay in good shape for many years or even a lifetime longer.
+
+#### All-Porcelain
+
+Porcelain is not only strong but it is designed to look just like normal tooth enamel. All-porcelain crowns are entirely metal-free, allowing them to look the most natural, even above other porcelain-type crowns. Porcelain is also resistant to staining, so they look great for decades. However, they have the highest dental crown cost.
+
+#### Porcelain-Fused-To-Metal (PFM)
+
+PFM dental crowns have a porcelain exterior but a metal base hidden below. This allows them to be stronger than standard all-porcelain crowns while still maintaining a natural look. PFM crowns are also more affordable than their all-porcelain siblings.
+
+#### Metal
+
+All-metal dental crowns are typically made from silver, chromium, palladium, and nickel. What they don’t have in their aesthetic, they more than make up for with their durability. Metal crowns are less likely to crack or chip compared to porcelain crowns. This makes them an excellent choice for less visible back teeth that need to withstand the full force of your bite.
 
 #### Gold
 
-In some cases, a dentist may use a gold dental filling. Gold shares amalgam’s longevity advantage without the same potential dental problems like cracked and broken teeth. With good care, these fillings can often last two or three times longer than other fillings. While not natural-looking, gold is often seen as more aesthetic than amalgam fillings. Gold also won’t crack or break, and it is also malleable enough to be made precisely to your tooth’s shape and needs.
+[Gold](https://www.verywellhealth.com/what-is-a-gold-crown-1059031) is the best type of metal crown. Gold is just as durable as other metal dental crowns, but they also wear down at the same rate as enamel. This means that they can last a lifetime while being unlikely to cause damage to other teeth when biting down, which can happen with especially strong materials.
 
-However, gold fillings often take two visits to complete as the dentist will need to take an impression of your tooth and send it off to a lab. In the meantime, a temporary filling will need to be placed while the permanent one is being made. Gold fillings also have a higher cost. However, their long lifespan often makes them an excellent investment for patients who choose them.
+### How Long Do Crowns Last?
 
-## Which Tooth Filling Is Best?
+The answer to this question depends on the dental crown’s material. Porcelain-type crowns typically have a lifespan of 10 to 15 years. However, they can often last as long as 20 or 25 years as long as you take good care of them. PFM crowns, in particular, are less likely to chip or fracture than all-porcelain types of dental crowns due to their solid metal foundation. Fully metal crowns are even more durable and unlikely to chip, often lasting 20 and even 30 years.
 
-Composite fillings are the most popular type of filling for a reason. The top reason is that they are the most natural-looking. With multiple shades available, our dentists can choose the best color to match the rest of the tooth perfectly. That’s why dental composite is also used in cosmetic procedures like [dental bonding](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) to change a tooth’s appearance. While porcelain fillings appear realistic, they’re also more costly. And as already stated, more traditional fillings materials are obvious to spot.
+However, the longest-lasting crowns are made of gold. Gold tooth crowns don’t wear down as quickly as porcelain ones. They are also gentler on nearby teeth, preventing wear and tear that is common with stronger materials. Combined, this allows gold crowns to stay in excellent condition for more than 50 years, if not an entire lifetime. Despite their unnatural appearance, there’s a good reason that gold crowns have been used for more than 4,000 years and still are today.
 
-Composite fillings are also more biocompatible than silver. The mouth accepts them much more readily, and there is little to no chance of an allergic reaction like with metal fillings. Plus, there’s no worrying mercury content to make patients nervous. Composite resin has the additional advantage of bonding to the tooth’s structure for greater support. It is also a more conservative option and saves more of the original tooth in the process. And unlike both gold and porcelain fillings, composite can be placed and hardened in a single appointment.
-
-## Is It A Good Idea To Replace Silver Fillings?
-
-You should always consult one of our dentists first before replacing any silver fillings. In general, we will switch out amalgam for composite for these reasons:
-
-* **Aesthetics.** Some patients don’t want to deal with the metallic look of amalgam fillings, and composite fillings are the easiest fix. Porcelain is another excellent alternative with larger fillings or back teeth that take a lot of pressure daily.
-* **Damaged Tooth.** If the filling expands and damages your tooth, you should have it replaced with one that keeps your tooth safer and healthier. Replacing these fillings also helps prevent further damage and dental decay.
-* **Age.** While silver fillings can last more than a decade, they can eventually become loose. Before they fall out or risk tooth infection, you should have them replaced.
-
-## Cavity Filling Cost
-
-In general, composite fillings are the least costly fillings performed at our Houston dental office. Porcelain and gold are more expensive, but their durability typically makes them a worthwhile investment. However, the cost of your dental filling depends on several other factors besides filling materials, including:
-
-* The tooth’s location
-* The size of the cavity
-* Your dental insurance
-
-Most dental insurance plans provide most of a cavity filling’s cost, though how much may vary by provider. Typically, plans cover about 70 to 80%. At Nu Dentistry, we accept all PPO provider plans. However, we also offer alternative financing to ensure your treatments are always affordable, with or without dental insurance. If you have any questions about your cavity filling cost, feel free to schedule a consultation with our team to discuss your options.
-
-## Do You Need A Filling?
-
-Early tooth decay before a cavity forms doesn’t need professional treatment. You can entirely reverse the damage yourself with excellent dental hygiene and fluoride treatment. However, once dental decay starts wearing through the enamel’s surface, you will need a filling. What does tooth decay look like? At first, tooth decay can create white spots on the tooth’s surface as the enamel is weakened and demineralized. Once a cavity appears, you will notice those spots darkening and forming a visible pit in the tooth’s surface. Other symptoms will appear as the cavity gradually deepens:
-
-* Toothache, which may be persistent or come and go
-* Tooth sensitivity to hot and cold foods
-* Lingering sensitivity to sweets
-* Chronic bad breath (halitosis)
-* Cavity pain when biting down
-* Pimple on the gums
-* Tooth suddenly becoming numb
-
-The earlier you seek professional care, the easier and more conservative your treatment will be. A small surface cavity can quickly spread until it needs more extensive tooth decay treatment than a simple filling, such as a dental crown or [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/). In worst-case scenarios, even a root canal may not be capable of saving your tooth, and the tooth may require extraction instead. Our dentists want to keep your natural smile as healthy and whole as possible, ensuring your dental cavity care is as simple and stress-free as possible.
-
-At Nu Dentistry, our dedicated team is here to help you with the urgent cavity treatment you need. If you recognize these late-stage tooth decay symptoms, please don’t hesitate to call our dental office today and schedule an appointment.
+Do you need a dental crown in Houston, TX? The Nu Dentistry team is here to help! Call our dental office to schedule an appointment with a crowns dentist today.
