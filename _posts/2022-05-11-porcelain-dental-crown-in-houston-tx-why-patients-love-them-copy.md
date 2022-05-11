@@ -1,77 +1,68 @@
 ---
-title: Do You Need To Replace Amalgam Fillings In Houston, Tx?
+title: How A Dentists Fixes Your Decayed Or Broken Tooth In Houston, Tx
 
 ---
-It’s almost inevitable that at some point or another that you will need a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). Nearly everyone gets at least one cavity in their lifetime, with patients as young as 2 and as old as 92 needing to see our dentists for treatment. Depending on the severity, your dentist may recommend a filling when a tooth is:
+When tooth decay, cracks, and chips happen to your smile, they usually can’t be left alone. Any amount of tooth damage weakens it. Even a small chip can make your tooth much more vulnerable to further breakage. Untreated, existing problems will only continue to worsen as cavities deepen and teeth further break and fracture. Eventually, you become at risk of losing your tooth. Depending on the severity, your dentist may recommend one of several options to repair your chipped or broken tooth.
 
-* Decayed to the point that there is a physical hole in the tooth
-* Chipped, cracked, or fractured
-* Damage from tooth grinding
+## Dental Bonding and Porcelain Veneers
 
-Since their invention in the early 19th century, dentists have traditionally used silver dental amalgam for restoring a tooth against decay with a cavity filling. However, as dentistry has come further along in the following centuries, there are now several alternative materials that we can use instead. The most popular of these new materials is composite resin. Recently, the dental world has almost entirely abandoned amalgam for this tooth-colored upstart.
+Not every cracked or chipped tooth requires major restorative work. With surface-level damage, cosmetic procedures like dental bonding and porcelain veneers can restore your tooth’s appearance to better than new. These treatments are focused primarily on aesthetics, and they’re commonly used to fix many more cosmetic problems than simple chips and cracks:
 
-## Why Is Composite Better Than Amalgam?
+* Teeth stains and discoloration
+* Minor crookedness
+* Teeth that are too long or short
+* Gaps between teeth
+* Lumpiness and misshapen teeth
+* Dental wear and tear
 
-Amalgam fillings are made of about 50% liquid mercury, with other metals like tin, copper, and silver making up the other half. This material used to be the cavity filling of choice due to its longevity, strength, and resistance to wear and tear. They were also often used for larger cavities, which require greater strength to reinforce the tooth against future tooth decay, cracks, chips, and dental damage.
+Bonding works through molding tooth-colored composite resin to your tooth and then hardening it with a curing light once it’s in the perfect shape. We match the bonding’s exact shade to your tooth so that it blends in with your smile, no matter how much or how little bonding is needed to repair the damage.
 
-However, their high mercury content has put these fillings under scrutiny among both dentists and patients out of safety concerns. Amalgam can release trace amounts of mercury vapor that can be breathed in and absorbed into the lungs. While dangerous in high amounts, this vapor is relatively harmless in the small doses that these fillings release. Still, [the FDA warns](https://www.fda.gov/medical-devices/dental-devices/dental-amalgam-fillings) there is a greater risk among pregnant and nursing women, children under 6, and people with existing neurological diseases or impaired kidney function.
+Veneers instead use thin porcelain shells designed to slip over your teeth and change their entire appearance. They can take on more moderate issues than bonding but also require your enamel to be slightly shaved down to fit them. Are veneers safe long-term? Yes. While they cause permanent changes to your teeth, the tooth preparation process only involves your tooth’s outermost layer. The more vulnerable dentin and pulp layers below are entirely untouched and intact.
 
-Beyond the health concerns, amalgam fillings have largely fallen out of fashion for several other reasons:
+## Tooth Filling
 
-* Silver fillings do not look natural and can be easily seen
-* The filling can gradually discolor the surrounding tooth an unnatural, unhealthy-looking gray
-* The metal can expand and contract over time with heat and cold, eventually causing the tooth to crack
-* Dental amalgam requires more of the original tooth to be removed to fit the cavity filling
-* Some patients are sensitive or allergic to mercury and other metals used in amalgam fillings
+Once cavities, fractures, and breaks reach past the tooth’s enamel and into the inner dentin layer below, you will need more extensive broken tooth repair. A [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) is especially common for repairing tooth decay and small cavities. It uses the same composite material as dental bonding but goes a step further. Your dentist must first remove the diseased and damaged parts of your tooth before sealing and repairing your tooth with the composite filling.
 
-In recent years, dentists across the country have switched almost entirely to composite and other metal-free alternatives. Composite fillings use a liquid resin made from plastic and ceramic compounds. Once they are applied to the tooth and molded into the best and healthiest shape, the resin is hardened with a curing light to seal the tooth fully. These fillings are the most popular not just because they avoid using the same controversial materials. They can also look just like the surrounding tooth. Composite can come in many shades, so a dentist can choose the one that perfectly matches the natural tooth.
+Fillings can be used to pinpoint cavities anywhere: front teeth, back teeth, near the gum line, between teeth, and more. Since we use white composite, we can color-match your filling to the rest of your tooth just like we would with bonding. As long as you take good care of your teeth and remember to brush and floss regularly, your filling can easily last over a decade in great shape.
 
-Previously, these tooth-colored fillings were mainly used for front teeth, while amalgam was placed on back teeth. At Nu Dentistry, we only use composite fillings so that our patients can enjoy a natural-looking, healthy smile. Composite has improved drastically in strength over the years, with greater strength and durability. Nowadays, these fillings can safely take on even the increased bite pressure that back teeth and molars face daily.
+#### Is A White Filling Better Than Silver?
 
-Here’s a quick look at the pros of composite fillings:
+While silver amalgam fillings are very durable, they’ve been almost entirely replaced by composite fillings by dentists worldwide. Amalgam fillings’ noticeable look and mercury content have made them contentious among both patients and dentists. Some silver fillings can discolor surrounding enamel, making teeth look slightly gray. Amalgam’s mercury content has also made them contentious among both patients and dentists. Plus, as the metal corrodes over time, it becomes prone to expanding and contracting to hot and cold foods and drinks. Eventually, the teeth may crack and become vulnerable to plaque, bacteria, and tooth decay. However, composite is entirely safe and leaves your tooth and its neighbors safe and pearly white for years.
 
-* Aesthetically pleasing
-* Entirely metal-free
-* No health and safety concerns
-* Bond to the tooth’s surface for greater support and stability
-* Adequate strength, no matter the tooth’s location
-* Requires less tooth preparation than amalgam
-* No contraction or expansion of the filling over time
-* Easy to replace
-* Hardens quickly for a quick procedure
+## Inlays and Onlays
 
-## When Should Amalgam Fillings Be Replaced?
+Dental fillings are usually used for small cavities. Once the infection grows and spreads, a dentist may suggest either a dental inlay or onlay. Inlays and onlays are like partial dental crowns made of durable, high-quality porcelain designed to match your tooth’s natural color. They are most often used for back teeth, particularly molars. From there, they can provide your molars with extra strength and support to withstand the significant pressure your teeth experience every day from biting and chewing.
 
-While you can often choose to have our dentists replace your amalgam fillings with composite ones, sometimes life makes that decision for you. As great as you may take care of them, even the best dental fillings don’t last forever. Eventually, they will need to be replaced as they gradually break down over time. How long do fillings last? Typically, amalgam fillings last about 15 years before patients need to replace them. Composite fillings last between 8 and 12 years on average. Leaving your old and worn-out fillings is a recipe for disaster as it leaves the inner tooth exposed and vulnerable to dental decay and further damage.
+What is the difference between an onlay and inlay? Inlays focus on repairing the valley of space between the tooth’s bumps, called the cusps. Onlays are instead more extensive than inlays, typically. They repair the tooth’s cusps, though they can also include the space between that an inlay covers. They are both meant to precisely tackle and restore a limited, targeted area of a broken or a diseased tooth. Both inlays and onlays can strengthen and support the damaged teeth. With proper care, they can long-lasting from twenty to thirty years.
 
-These are some of the most common warning signs to look out for if your tooth filling has been compromised:
+## Dental Crown
 
-**Missing Filling** One of the most obvious signs to see your dentist is if your filling fell out. With a missing filling, it’s critical to get it replaced as soon as possible. The inner tooth below is left exposed and vulnerable to cavities, decay, and further injury.
+If most of a tooth’s surface is fractured or damaged, your dentist may need to restore your entire tooth’s crown with an artificial one. [Dental crowns](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) go further than what onlays and inlays can achieve, allowing us to repair a whole tooth and reinforce it against future cavities and impacts. Like fillings, inlays, and onlays, the injured parts of a tooth are removed before the dental crown is cemented in place. Crowns are comprehensive, so the tooth will need to be reshaped to fit it.
 
-**Crack In Your Filling** Over time, constant pressure from eating and biting can cause dental fillings to crack. While some cracks can be visible, others may be small or thin enough only to be seen with an X-ray. However, no matter their size, these cracks should be re-filled quickly as they can become infected.
+Compared to other restorations already mentioned, crowns are the most durable and longest-lasting. Exactly how long yours last depends on your dental hygiene habits and the material used. What are dental crowns made of?
 
-**Toothache** If your already-filled tooth starts hurting again, it’s probably time to get your cavity filling replaced. Toothaches are a common sign that the filling has been compromised, and tooth decay has started attacking your sensitive inner tooth. If left untreated, the decay will spread and continue to worsen until you need something more extensive than a simple filling, like a dental crown or [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/).
+**All-Porcelain:** Made of sturdy and durable porcelain, these crowns are color-matched to your teeth to look just as real as enamel. As a completely metal-free option, they’re also a good choice if you have metal allergies. Most patients’ all-porcelain crowns last 5 to 15 years.
 
-**Sensitivity** The filling needs replacement when the tooth gets sensitive to hot and cold. Sensitivity in filled teeth is often a sign that the filling or the tooth around it has a crack. (Please note that it’s normal to experience some measure of sensitivity days or even weeks after first having a filling performed.)
+**Porcelain-Fused-Metal (PFM):** Similar to all-porcelain, PFM crowns use their outer porcelain layer to create a natural look for your tooth. However, their hidden metal base underneath gives them even greater strength to resist chips and breaks better. Like all-porcelain, they last between 5 and 15 years, though some last as many as 20.
 
-**Tooth Injury** Sometimes, it’s not the filling that’s the problem but the tooth itself. If the tooth breaks due to injury or trauma, your current filling won’t work. A new dental filling is needed to repair and reinforce the tooth.
+**Metal:** Made of a blend of different metals—gold, palladium, nickel, chromium, and more—metal crowns rarely chip or break and last longer than porcelain. Base metals can last between 20 to 30 years with good care. Gold crowns wear down at the same rate as natural enamel, allowing them to last more than 50 years to a lifetime.
 
-It is not always easy to self-assess when your filling needs a replacement. The best way to know for yourself is to visit your dentist for an examination.
+## Restoring Missing Teeth
 
-## How Many Times Can A Filling Be Replaced?
+Sometimes, a tooth is too badly broken or decayed that no filling or crown can save it. The tooth must be removed. However, once your trick tooth has been [extracted](https://www.healthline.com/health/tooth-extraction), your dentist can restore it with an artificial one. Two of the most popular tooth replacement options are dental bridges and implants.
 
-The exact number of times a dentist can replace your dental filling depends on how much of your base tooth remains. During the filling procedure, the decayed and injured portions of the tooth are removed before the hole is filled with composite resin. If that hole becomes too large, the tooth is too weak to stay strong and protected against future damage. Sometimes, a tooth has multiple fillings, meaning even more of the original tissues are missing. In these cases, your dentist may eventually recommend a more extensive restorative treatment, like a [porcelain dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/), to reinforce the whole tooth.
+#### Dental Bridge
 
-## How Are Fillings Replaced?
+Dental bridges are a common way of replacing one or more missing teeth in a row simultaneously. They typically work using a single appliance composed of dental crowns conjoined to a false tooth (pontic). By placing the crowns on the teeth beside the empty socket, a dentist can bridge the gap in your smile precisely and securely. Depending on your specific needs, there are three main types of dental bridges.
 
-When replacing an amalgam filling with a composite one, the procedure is similar to the initial filling. It will just take a bit longer as we will first need to take out the old tooth filling before preparing and placing your new one.
+**Traditional:** Using two crowns and a pontic, these bridges can replace anywhere between one and four teeth at once. They can be placed in the front or back of the mouth, able to withstand the full force of your bite. On average, they last about 10 years, but they can often last over 15 with great care and dental hygiene.
 
-* First, we numb your tooth with a local sedative so that the entire process is painless.
-* Next, the old filling is removed via a dental drill.
-* Once the cavity is cleaned off the old residue, it is prepared again to fit in the new one. With teeth that have developed new infections and cavities, this may require removing more of the tooth.
-* The composite resin is placed before being hardened with a special light. This is done in layers.
-* After the tooth is filled, we will shape the composite filling until it fits your bite perfectly, making adjustments where needed.
+**Cantilever:** Cantilever bridges only use a single crown as the anchor, which is great when there is only one natural tooth to act as the abutment. They are less stable than traditional crowns and are only possible with missing front teeth.
 
-How long does a filling take? Most fillings don’t need more than an hour to finish, including the time necessary for the local anesthetic to kick in. However, the exact time depends on the size of the dental filling needed. Small fillings might require as little as 20 to 30 minutes to complete, while larger or multiple fillings may need quite a bit longer.
+**Maryland:** While still relying on two neighboring teeth for support, Maryland bridges are held in place through metal framework extending from the pontic rather than crowns. This framework is bonded to the backs of the abutment teeth, leaving them fully intact. Like cantilever bridges, they are used on front teeth to avoid putting too much pressure on them while chewing and eating.
 
-Do you need to replace your current silver fillings with metal-free composite? Feel free to give our dental office a call at (NUMBER) today to schedule an appointment with our dentists.
+#### Dental Implants
+
+[Dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are a total tooth replacement, restoring everything from the root to the crown. Unlike dental bridges, they are anchored directly in the jaw using a titanium screw rather than relying on neighboring teeth for support. This difference lets implants behave exactly as a natural tooth would. The screw gradually fuses with the jawbone, allowing your normal bite to put the same amount of force that stimulates the underlying bone and keeps it active. Without this pressure, the jaw would gradually shrink and become weaker. However, implants help your jaw stay perfectly intact and healthy.
+
+Implants require that you have enough existing jawbone to support them, which can be tricky for patients with gum disease or who waited too long. With a dental bone graft, your dentist can replace the missing tissues and give your implant a sturdy and healthy foundation. Once the implant is firmly in place, the crown used can last for more than 25 years, while the titanium implant screw can stay in great shape for the rest of your life.
