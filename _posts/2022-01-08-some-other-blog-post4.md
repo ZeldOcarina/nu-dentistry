@@ -1,5 +1,5 @@
 ---
-title: ALL ABOUT PROPHYLAXIS CLEANING IN HOUSTON, TX
+title: All About Prophylaxis Cleaning In Houston, Tx
 
 ---
 Dental prophylaxis is the technical term dentists use for [routine cleaning](http://50.18.194.110:40030/houston-tx/general-dentistry/dental-cleaning/). It is typically done for patients with good oral hygiene and no gum disease. As a preventative procedure (prophylaxis means ‘a treatment to prevent disease’), the hygienist focuses on removing any plaque, tartar (calculus), and other buildups that are above the gum line. This is important to prevent common dental diseases that can develop due to poor or insufficient oral care. Daily brushing and flossing are crucial for healthy teeth and gums, but everyone still needs periodic cleanings to hit those hard-to-reach places and remove buildup that otherwise become a breeding ground for cavity-causing and harmful bacteria. Depending on the amount of cleaning you need, oral prophylaxis can take around 20-30 minutes. A dental hygienist may also polish your teeth to remove surface stains. Regular cleanings are an easy and excellent way to maintain great oral health and prevent cavities.
