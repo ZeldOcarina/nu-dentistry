@@ -83,17 +83,29 @@ blocks:
   color: dark
   align: left
   columns: '3'
-  superheading: ''
-  heading: LUXURY COSMETIC DENTISTRY
-  text: YOU ALWAYS LEAVE OUR OFFICE WITH A GLOWING SMILE ON YOUR FACE
-  content: When you want a red carpet smile, you should have celebrity-level comfort,
-    too. At Nu Dentistry, we take great care to give our patients the best, most relaxing
-    experience while getting their smile makeover. Each suite is completely private
-    and offers fantastic amenities. These include luxury dental chairs, multiple streaming-capable
-    televisions, and Bluetooth headphones so you can enjoy your favorite movies and
-    shows during your procedure. Our dentists are always ready to accommodate your
-    needs because we make dentistry fun and exciting.
-  lists: []
+  superheading: VENEERS ARE PERFECTLY COLOR MATCHED
+  heading: VENEERS BLEND WITH YOUR SMILE EXACTLY
+  text: 'They’re perfectly color-matched to blend with your smile and can even be
+    used to make them shine whiter and healthier, just like your favorite movie stars.
+    Veneers are incredibly versatile and can easily:'
+  content: "Veneers offer astonishing results in way less time than other more-intensive
+    procedures. Although veneers may need to be replaced at some point, they are incredibly
+    durable and last for years. Regular brushing and flossing, as well as visits to
+    our office for regular dental [cleanings and exams](http://50.18.194.110:40030/houston-tx/general-dentistry/dental-cleaning/),
+    will help make sure that your veneers last as long as possible.  \n  \nGet the
+    beautiful smile you deserve with veneers today. Call our office to get started
+    on the brand new you!"
+  lists:
+  - icon: bolt
+    icon_color: "#000000"
+    list:
+    - Lengthen short teeth
+    - Fill gaps and spaces
+    - Adjust chipped teeth
+    - Fix discolored or grey teeth
+    - Whiten stained teeth
+    - Reshape broken or misshapen teeth
+    - Straighten and adjust crooked teeth
 - template: text-1
   block: text-1
   background:
