@@ -1,61 +1,61 @@
 ---
-title: Why Invasalign In Houston, Tx Is The Best Choice For Straightening Teeth
+title: Why Choose A Periodontist For Dental Implants In Houston, Tx?
 
 ---
-As dentists who take pride in our work, there’s nothing we love more than to have our patients leave with a beaming smile they’re excited to show off to the world. We understand the power of cosmetic dentistry, and we always use it to our Houston patients’ best advantage. From bonding and veneers to professional whitening, we can tackle a wide variety of aesthetic problems to give you a red carpet-worthy smile you adore.
+Dental implants can be a wonderful way for our Houston patients at Nu Dentistry to beautifully restore their missing teeth after an extraction. There’s no need to worry about a gap in your smile, and they prevent the gradual bone loss that occurs even with other tooth replacement options. What are [dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/)? Dental implants are the only dental prosthetics which function exactly like real teeth do, root and all. They are made of three components:
 
-Perfecting crooked teeth and misaligned bites is no exception. While dental braces are what most people think of as their only orthodontic solution, our dentists have another, better option. Invisalign has been sweeping the world by storm since their invention over two decades ago, and it’s not hard to see why. They’re incredibly comfortable, sleek, and convenient, allowing patients of all ages to get the cosmetic care they need without the drawback of clunky metal brackets and “brace-face.”
+Implant: a metal post or screw surgically implanted into the jaw where your tooth had been. This implant post functions as the root of a natural tooth, keeping your replacement firmly in place and promoting bone growth and regeneration. Abutment: a metal cap that fits over the implant to anchor the final implant piece. In certain cases, the abutment can be attached at the same time as the implant, allowing the total length of the procedure to shorten by a few weeks. Crown: the final part of the implant, which connects to the abutment and replaces the natural crown of a tooth. For patients who need to restore more than one tooth, this crown can be replaced by other restoration pieces like bridges and dentures.
 
-### What Does An Invisalign Do?
+However, not every Tom, Dick, and Dentist is qualified to perform a dental implant procedure. Most implants are inserted directly into the gum and bone where your missing tooth would be. Only a specialist with unmatched experience with the sensitive and critical aspects of your mouth can be counted on to ensure your treatment goes smoothly. Otherwise, what would normally be an incredible smile transformation can become a tragedy. So just who should you go to when you need a dental implant?
 
-[Invisalign treatment](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/invisalign/) consists of a series of clear plastic aligning trays crafted from molds of your mouth. By switching to the next aligner every two weeks, you’ll be able to gradually and painlessly shift your teeth into the perfect positions. While clear aligners don’t brackets and wires like traditional braces do, that doesn’t mean they aren’t just as capable of getting the job done. Invisalign can fix a wide variety of orthodontic issues:
+### Dentist vs Periodontist
 
-* Crooked teeth
-* Overcrowding
-* Gaps between teeth
-* Overbite
-* Underbite
-* Crossbite
-* Open bite
+General dentists have a broad knowledge of dentistry but usually focus on preventive care and non-surgical restorative dental work. Typical dentist treatments include dental cleanings, exams, dental fillings and crowns, cosmetic dentistry, and non-emergency extractions. For procedures of a more intense and invasive nature, particularly oral surgeries, your general dentist will most likely refer their patient to a specialist. Dental implants are no exception, as they often require three or four surgeries throughout the process.
 
-After your teeth and bite are precisely where your Invisalign dentist wants, you will need to wear a retainer 24/7 for the next few months to a year just as you would with braces. This allows us to stabilize your alignment and prevent your teeth from sliding back to their old positions. Once we’re sure your smile is steady, you can cut down on the hours you need to wear your retainer. A few nights a week is often enough for most patients, but your dentist will be able to give you an exact timeline.
+What is a periodontist? A periodontist receives years more training than a standard dentist to make them experts on the gums, particularly when it comes to gum disease and dental implants. These specialized dentists understand the structures keeping your teeth deeply rooted and secure in your mouth. You can rely on your periodontist to insert your implant into your jaw with a level of professional experience that guarantees you’ll love your replacement tooth.
 
-### Are Clear Aligners Better Than Braces?
+Just as you wouldn’t trust anyone but a locksmith to fix your lock, you should trust a periodontist to take care of your dental implant surgery. General dentists lack the experience to know what to do if your situation is more complex than expected or if [complications](https://www.healthline.com/health/dental-implant-problems) occur. A botched implant procedure can lead to intense and lasting tooth and jaw pain, red and swollen gum inflammation, and damage to your nearby teeth and bones. An implant inserted too deeply into the bone or too close to a nerve, often leading to permanent tingling or numbness around the gums, tongue, lips, and face.
 
-For slight to moderate orthodontic problems, the clear answer is easy for the Invisalign vs braces question. Invisalign treatment is better overall than traditional orthodontic braces, from its speedy process to your experience. Here are some of the unique advantages Invisalign has over braces:
+Even without the significant potential health risks involved, a dentist without a specialized understanding of a periodontist can cause the implant procedure to fail. Sometimes a candidate without enough supporting bone support is chosen. The implant might not be stable as small micro-movements cause it to loosen or not integrate with the jaw. No one wants to lose out on hard-won progress and have their new tooth removed. With a highly-skilled and talented dental implants periodontist, however, these risks drastically drop and can become nearly non-existent. You want to be sure that the dental professional in charge of transforming your smile does an excellent job.
 
-##### They are almost unnoticeable.
+### Who Is A Good Candidate For Dental Implants?
 
-Invisalign is the invisible braces of the orthodontic world. While “clear braces” made of ceramic might mask dental brackets, clear aligners are the only way to hide your treatment from others completely. Without bulky and colorful brackets on full display on your teeth’s fronts, your transparent aligner trays go unnoticed by everyone around you.
+Your periodontist will need to ensure that you are an excellent candidate for dental implants. Too often have we heard horror stories of patients who’ve gotten implants without the proper consultations and comprehensive exams to ensure that their procedure will succeed. When you come in to see us at our Houston office, we’ll be thorough in ensuring your transition to your new smile is smooth sailing. Generally, candidates should have healthy bone and gum tissue as well as be in good overall health. Patients with gum disease should see our periodontist for proper treatment before beginning the implant process.
 
-Just make sure to watch what you drink. While most patients remember to take out their clear aligners for meals, some don’t always do the same for drinks. If you’re wearing Invisalign, please avoid dark and colorful beverages like coffee, tea, and red wine. They can stain and discolor your trays just like they do your teeth.
+Your mouth should also have enough underlying jawbone to support the implant. Patients who wait too long after having a tooth pulled to replace it with an implant might have a problem with this. Without a tooth rooted in the bone, the jaw doesn’t receive enough stimulation to keep itself strong. The bone will gradually deteriorate, which can cause problems for your mouth, such as shifting teeth, facial sagging, and gum disease. Though they can stop your remaining teeth from moving into the growing cavity left behind, even bridges and partial dentures can’t stop this eventual bone loss.
 
-##### Clear aligners are more comfortable than bracket braces.
+If you don’t have enough jaw structure for a successful implant, there’s no need to worry. A bone graft can be used to replace any missing tissue. It can also help your mouth regenerate some lost bone as the graft integrates with the rest of your mouth. The grafting process usually takes about three to four months total, accounting for healing. Once we’re sure your mouth is healthy enough, we’ll be able to move forward and start your dental implant journey.
 
-Invisalign is designed to fit your smile perfectly, sliding smoothly over your teeth without any effort or discomfort. There are no bulky brackets and wires that can poke and rub painfully against the inside of your mouth. Clear aligners also move your teeth more gradually than braces, removing initial discomfort and soreness while adapting to Invisalign.
+### Types of Dental Implants
 
-##### Invisalign is easy to remove.
+There is more than one kind of dental implant that our periodontist can give you. Which one you need often depends on how many missing teeth you want to replace.
 
-Unlike bracket braces, Invisalign isn’t permanently bonded to your teeth but can be readily removed whenever you need to. There’s no need to worry about your diet or dental hygiene habits. By taking your aligner trays out when eating, there are no unwanted food restrictions to prevent you from breaking your invisible braces. You also won’t need to learn any new techniques to keep your teeth bright and healthy.
+##### Single Tooth Implant
 
-Plus, you don’t need to wear Invisalign 24 hours a day like bracket braces. Only 22 consecutive hours are required to experience the full benefits and amazing results of orthodontic treatment. So if you have any special events planned, you can remove your Invisalign before heading out for your night on the town.
+Traditional implants use a standard implant-abutment-crown combination to replace a single missing tooth. We may instead recommend mini dental implants for patients who don’t have enough jawbone structure for a conventional implant. By using smaller implant posts, less bone support without requiring a bone graft.
 
-##### You'll see faster results.
+##### Implant-Supported Bridge
 
-While braces can take as long as 3 years to perfect your smile, Invisalign only needs an average of 12 to 18 months. Some of our patients with less severe issues only require their clear aligners for s6 months before walking away with a brand new smile. You’ll also save more time throughout your procedure by requiring fewer trips to your Houston orthodontist for adjustments.
+For patients who need to restore more than one tooth, we recommend you get an implant-supported bridge. [Standard bridges](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) replace a single tooth by placing two crowns on the teeth on either side of the gap while a connected false tooth fills the space between them. Implant bridges instead root these crowns on two implant posts, allowing you to replace at least three teeth without affecting nearby ones.
 
-### What Is The Best Age For Orthodontic Treatment?
+##### Permanent Dentures
 
-There is a rule of thumb that the earlier you come in to see an orthodontist, the better, but the best age to straighten your teeth is between ages 8 and 14. At this point, your jaw is still growing and changing, and your adult teeth are steadily replacing your baby ones. This allows your Invisalign dentist to quickly apply a gentle pressure to your teeth as we fine-tune your smile’s development. Most children have an[initial examination and consultation](https://www.colgate.com/en-us/oral-health/cosmetic-dentistry/early-orthodontics/first-pediatric-orthodontist-visit-what-to-expect-0113) around 6 or 7 years old to determine if orthodontics is necessary. We’ll move forward from there.
+If you want full mouth dental implants, then a permanent denture may be what you need. These dentures secure themselves on dental implants inserted at strategic points around the mouth, giving patients a more stable bite. While most implant-supported dentures are removable, All-on-4 dental implants fix a complete arch of false teeth on four dental implants. They are screwed in, so you never have to worry about taking them falling out.
 
-There are two main stages for children and teens based on how early their orthodontist needs to start treatment. Phase 1 usually occurs between ages 8 and 10 while baby teeth are still falling out and adult ones are coming in. Phase 1 Invisalign allows us to prepare a child’s smile for all of their emerging permanent teeth to come in without issue. While not all patients require Phase 1 treatment, every orthodontic patient 11 years and older needs Phase 2. During this last stage, our dentists will focus on getting your teeth into their final positions.
+### Does A Missing Tooth Need To Be Replaced?
 
-Many of our adult patients ask our Houston dentists, “Is it too late to straighten my teeth?” Even if you miss that early window to get clear aligners, you haven’t lost your chance at having the dream smile you’ve always wanted. You’ll still achieve that Invisalign before and after you want—it will just take longer. Your teeth will need a bit more force to move them where we want, and we’ll want to take things a little slower to prevent any discomfort or damage to your teeth.
+Except in the case of wisdom teeth, it is always recommended that you replace a missing tooth. Leaving a tooth gap alone can lead to uncomfortable and even painful problems:
 
-### Is Invisalign Worth The Money?
+Bone loss Change in bite Facial sagging Gum disease Further tooth loss
 
-As they have become more popular and affordable with time, Invisalign treatment now costs about the same as traditional dental braces. Several factors determine the exact price of your orthodontic work: your oral health needs, if Phase 1 treatment is necessary, the severity of your alignment issues, who you see, and where you go. Most patients agree that Invisalign is well worth the cost. With clear aligners, you can enjoy the long list of benefits our patients love about having straight teeth:
+A dental implant isn’t the only way to restore a single missing tooth. While it can’t stop the eventual bone deterioration, a dental bridge can maintain the fit and look of your smile for up to 15 years before needing to be replaced. If you need help deciding the dental bridge vs implants dilemma, please don’t hesitate to call our Houston office at (NUMBER).
 
-Better Dental Hygiene: without crooked and crowded teeth getting in the way of each other, you’ll be able to brush and floss your teeth much more comfortably and efficiently. Say goodbye to those pesky cavities and gum disease for good! Clearer Speech: misaligned teeth and bites can cause speech impediments and problems that can be solved with orthodontics. No More Neck Pain and Headaches: jaw misalignment can put an undue amount of stress and pain, often leading to chronic headaches and neck pain. Healthy, Whole Smile: straighter teeth lead to less wear and tear on your enamel, and they prevent chips and cracks from forming as easily. Beautiful Smile, Boosted Confidence: with an improved smile, our patients find their self-esteem improves as they can’t help themselves from showing off their pearly white grins.
+### How Much Do Dental Implants Cost?
 
-If you’re concerned about the price of your orthodontic treatment, many dental insurance plans also cover at least part of your Invisalign cost. Here at Nu Dentistry, we accept all PPO dental insurance plans to allow our patients flexibility in getting affordable dental care. However, we understand that insurance rarely takes care of the total cost of any treatment. Our Houston dental office offers multiple [financing options](https://www.nudentistry.com/dental-financing/) to ensure you never have to worry about putting off a procedure you need.
+There’s no single price when it comes to dental implants. There are a variety of factors that impact the cost of your new teeth:
+
+Type of implant Number of teeth to be replaced Whether a bone graft is needed Cost of extraction, if applicable If [dental sedation](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/) is needed Location
+
+Some patients try to lower their dental implant cost by seeing a general dentist rather than a periodontist. In most cases, these are one of those “too good to be true” scenarios. Patients who want these cheap implants often walk away with a burning hole in their wallet from additional fees hidden in small print. Plus, they have to deal with the material and emotional price of a potential failed implant.
+
+If you need assistance ensuring you receive the affordable dental implants you deserve, don’t hesitate to reach out to us at Nu Dentistry. From our in-house membership program to our CareCredit Dental acceptance policy, we’re ready to work with you to make your dental implant dreams come true. You can reach out to our incredible and caring dental staff, and we’ll schedule a financial consultation with you today.
