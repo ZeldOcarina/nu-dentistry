@@ -1,54 +1,71 @@
 ---
-title: 'Treating Tooth Decay: Onlay Vs. Inlay In Houston, Tx'
+title: What Are The Best Types Of Tooth Filling In Houston, Tx?
 
 ---
-When cavities first appear, dentists typically recommend a [tooth filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) to repair the damage. Dental fillings use composite resin bonded to the tooth’s surface to build it back to its old shape and size. This works great for smaller dental caries, but more significant and severe cavities will need something larger and more robust than a dental filling. Crowns are a popular option because they fully restore the tooth’s entire enamel, using durable materials like porcelain and metal. However, what happens if your cavity is too large for a filling and too small for a dental crown?
+Dental cavities are one of the most common forms of dental disease. While you can fix earlier tooth decay with brushing, flossing, and fluoride, cavities will require professional treatment. It is always better to treat cavities sooner rather than later. Otherwise, the damage to your tooth will go unchecked until it eventually puts your tooth’s life at risk. With smaller cavities, only a [dental filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) is needed. During this procedure, the tooth’s decayed tissues are removed before being rebuilt with a filling material.
 
-Dental inlays and onlays are these alternative options. They are solely used to restore the decay damage on the biting surface of molars and premolars. These back teeth have four cusps that form pits and fissures notorious for trapping food, plaque, and other debris. As long as the cavities stay confined to these top biting surfaces, our dentists can treat them with a filling or onlay. Inlays and onlays are typically made of a special dental composite, porcelain, or gold. However, porcelain is the most popular due to its strength and natural appearance.
+## Types of Dental Fillings
 
-## What Is The Difference Between An Onlay And Inlay?
+There are several different materials that a dentist can use for a cavity filling, some of which are relatively new advancements and others that have fallen behind in recent years. What are the different filling materials?
 
-A dental inlay is used when tooth decay remains localized only to the areas between the back teeth’s cusps. It is the first step up from a dental filling. Our dentists will recommend an inlay when standard bonding can’t sufficiently restore the tooth’s shape, size, and function—at least not without compromising the tooth’s strength and durability. Inlays are designed to fit in the small pit or valley at the tooth’s center without impacting the cusps.
+#### Dental Composite Resins
 
-When the damage to the tooth is more extensive and has involved even one of the cusp of the tooth, you will instead need a dental onlay. Onlays are used to treat larger cavities that reach one or more cusps of the tooth, along with any decayed areas between them. They are also sometimes called partial crowns. This is because they can sometimes encompass the entirety of the tooth’s top surface if the cavity doesn’t reach further down the tooth towards the gum and roots. Onlays are typically recommended as a more conservative option for [dental crowns](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/), saving more of the tooth’s structure overall and better preserving your natural tooth.
+Most fillings we perform are composite fillings. Dental composite uses a liquid resin made of plastic and silica, which can be designed to match the precise shade of your tooth. These white fillings look like natural enamel, allowing them to blend in with your natural smile. They are also one of the most conservative filling options. They require less of the tooth to be prepared to fit them in place, keeping the tooth in better and healthier shape. Plus, a dentist can use composite to repair teeth from more than just cavities.
 
-## How Long Does An Inlay Procedure Take?
+Composite fillings are applied in layers rather than all at once. Once each layer is placed, the liquid resin is hardened with UV light. The composite bonds to the tooth itself, reinforcing and strengthening them both. By building them up like this, you can leave your appointment with your tooth fully settled. There’s no wait time before eating or drinking anything like there is with other fillings, like silver amalgam. (We still recommend waiting until the local anesthetic wears off to prevent you from accidentally biting your tongue or burning your mouth without realizing it.)
 
-Unlike a cavity filling, inlays typically take two visits to complete. The first appointment is the lengthiest, usually taking about an hour. During this visit, the cavity and decay are removed just like your dentist would with a filling. An impression of your mouth is made, which will be sent to a lab to create your inlay. In the meantime, a temporary restoration is placed on the tooth. This placeholder keeps your tooth protected against food, plaque, and decay while your permanent inlay is made. This usually takes a week or two.
+#### Silver Amalgam
 
-Once the inlay is ready, you will come in for your second and last appointment. This visit is often only 10 to 20 minutes long. Your dentist will place the final restoration, making any necessary adjustments before gluing the restoration in place with dental cement or bonding. The inlay’s surface is then polished smooth. With porcelain and composite inlays, your restoration will blend in with the rest of your tooth as well as recreate your tooth’s original feel and shape. The dental onlay process is virtually the same, only using a different restorative piece.
+Amalgam is one of the oldest tooth filling materials, having been around since the early 19th century. It uses a mixture of silver, tin, copper, and liquid mercury. However, it has largely fallen out of fashion in recent years. While silver fillings can last up to 10 or 15 years on average and are among the most affordable, they have several drawbacks that make them unpopular. Our dentists at Nu Dentistry don’t use them at all.
 
-#### Does Getting An Inlay Hurt?
+The most obvious reason is that their metal look makes them easy to spot, ruining your smile’s natural appearance. Amalgam is also 50% mercury, which can understandably create health concerns for patients and dentists alike. While studies have shown this content is still minimal enough to be safe, amalgam still poses a risk to your dental health. Amalgam fillings are prone to expanding and contracting when exposed to hot and cold foods and drinks. Since the tooth doesn’t expand and contract with the filling, it can crack and fracture over time.
 
-Not with our dentists in charge. Before starting the inlay process, we will use a numbing agent around the tooth to keep you from feeling a thing throughout the procedure. Our dental office even makes applying the local anesthetic as painless and stress-free as possible. We use innovative tools like Dentapen and Dentalvibe to mask the injection, so many patients never notice until their mouth is already turning numb. For patients who are particularly nervous or anxious about dental appointments, we also offer dental sedation, like nitrous oxide, to keep you relaxed and pain-free.
+#### Ceramic
 
-## Are Dental Onlays Necessary?
+Ceramic fillings are made of porcelain designed to look like natural enamel. Like composite, these fillings can often appear invisible against the rest of your tooth. They’re sturdier than composite, helping them last longer. Compared to composite, porcelain fillings are also more resistant to staining and discoloration. Since they can last a decade or more, this can be incredibly helpful if you have a habit of drinking coffee and tea or eating [dark or colorful foods](https://www.healthline.com/health/foods-that-stain-teeth). However, they can potentially crack or chip under too much pressure. Porcelain fillings are also more costly than composite ones.
 
-If your dentist suggests an onlay (or an inlay), then it is necessary. A standard dental filling won’t be enough to fully repair the damage done to your tooth. Inlays and onlays not only protect and rebuild the tooth but prevent any further infection. They also strengthen the tooth structure while restoring functions like chewing and speech. While our dentists could perform a crown procedure, this would require removing more of the tooth’s structure than is needed. The tooth would be decay-free, but a dental crown would certainly be overkill.
+#### Gold
 
-However, without professional treatment, the cavity will only continue to worsen, wreaking havoc on your smile. Tooth decay won’t stay confined to the tooth’s enamel. Instead, it will burrow further into your tooth, attacking the sensitive inner tissues keeping your tooth alive and healthy. Once the central dental pulp becomes involved, inlays, onlays, and even dental crowns won’t be enough. You’ll need a [root canal](https://www.aae.org/patients/root-canal-treatment/what-is-a-root-canal/root-canal-explained/). Eventually, enough of the tooth can be infected that it dies. Without an immediate root canal, the only remaining option is to extract the tooth.
+In some cases, a dentist may use a gold dental filling. Gold shares amalgam’s longevity advantage without the same potential dental problems like cracked and broken teeth. With good care, these fillings can often last two or three times longer than other fillings. While not natural-looking, gold is often seen as more aesthetic than amalgam fillings. Gold also won’t crack or break, and it is also malleable enough to be made precisely to your tooth’s shape and needs.
 
-Our dentists want to treat your cavities as early as possible to keep your treatments more conservative and help your teeth stay healthier. Please seek professional treatment at the first appearance of cavity and tooth decay symptoms:
+However, gold fillings often take two visits to complete as the dentist will need to take an impression of your tooth and send it off to a lab. In the meantime, a temporary filling will need to be placed while the permanent one is being made. Gold fillings also have a higher cost. However, their long lifespan often makes them an excellent investment for patients who choose them.
 
-* Toothache that lasts more than a day
-* Visible pit in the tooth’s surface
-* White or dark spots on the tooth
-* Tooth pain when chewing or biting down
-* Sharp tooth sensitivity to hot and cold foods
-* Lingering sensitivity or tooth twinges to sweets
-* Chronic bad breath
+## Which Tooth Filling Is Best?
+
+Composite fillings are the most popular type of filling for a reason. The top reason is that they are the most natural-looking. With multiple shades available, our dentists can choose the best color to match the rest of the tooth perfectly. That’s why dental composite is also used in cosmetic procedures like [dental bonding](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) to change a tooth’s appearance. While porcelain fillings appear realistic, they’re also more costly. And as already stated, more traditional fillings materials are obvious to spot.
+
+Composite fillings are also more biocompatible than silver. The mouth accepts them much more readily, and there is little to no chance of an allergic reaction like with metal fillings. Plus, there’s no worrying mercury content to make patients nervous. Composite resin has the additional advantage of bonding to the tooth’s structure for greater support. It is also a more conservative option and saves more of the original tooth in the process. And unlike both gold and porcelain fillings, composite can be placed and hardened in a single appointment.
+
+## Is It A Good Idea To Replace Silver Fillings?
+
+You should always consult one of our dentists first before replacing any silver fillings. In general, we will switch out amalgam for composite for these reasons:
+
+* **Aesthetics.** Some patients don’t want to deal with the metallic look of amalgam fillings, and composite fillings are the easiest fix. Porcelain is another excellent alternative with larger fillings or back teeth that take a lot of pressure daily.
+* **Damaged Tooth.** If the filling expands and damages your tooth, you should have it replaced with one that keeps your tooth safer and healthier. Replacing these fillings also helps prevent further damage and dental decay.
+* **Age.** While silver fillings can last more than a decade, they can eventually become loose. Before they fall out or risk tooth infection, you should have them replaced.
+
+## Cavity Filling Cost
+
+In general, composite fillings are the least costly fillings performed at our Houston dental office. Porcelain and gold are more expensive, but their durability typically makes them a worthwhile investment. However, the cost of your dental filling depends on several other factors besides filling materials, including:
+
+* The tooth’s location
+* The size of the cavity
+* Your dental insurance
+
+Most dental insurance plans provide most of a cavity filling’s cost, though how much may vary by provider. Typically, plans cover about 70 to 80%. At Nu Dentistry, we accept all PPO provider plans. However, we also offer alternative financing to ensure your treatments are always affordable, with or without dental insurance. If you have any questions about your cavity filling cost, feel free to schedule a consultation with our team to discuss your options.
+
+## Do You Need A Filling?
+
+Early tooth decay before a cavity forms doesn’t need professional treatment. You can entirely reverse the damage yourself with excellent dental hygiene and fluoride treatment. However, once dental decay starts wearing through the enamel’s surface, you will need a filling. What does tooth decay look like? At first, tooth decay can create white spots on the tooth’s surface as the enamel is weakened and demineralized. Once a cavity appears, you will notice those spots darkening and forming a visible pit in the tooth’s surface. Other symptoms will appear as the cavity gradually deepens:
+
+* Toothache, which may be persistent or come and go
+* Tooth sensitivity to hot and cold foods
+* Lingering sensitivity to sweets
+* Chronic bad breath (halitosis)
+* Cavity pain when biting down
 * Pimple on the gums
+* Tooth suddenly becoming numb
 
-If your tooth suddenly becomes numb after having a persistent toothache, please schedule an immediate appointment with our Houston team. This is a sign that the tooth is in danger of dying (or it has already died). With quick and responsive treatment, our dentists may be able to save your tooth even in the last tooth decay stages with an emergency root canal.
+The earlier you seek professional care, the easier and more conservative your treatment will be. A small surface cavity can quickly spread until it needs more extensive tooth decay treatment than a simple filling, such as a dental crown or [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/). In worst-case scenarios, even a root canal may not be capable of saving your tooth, and the tooth may require extraction instead. Our dentists want to keep your natural smile as healthy and whole as possible, ensuring your dental cavity care is as simple and stress-free as possible.
 
-## How Long Do Inlays And Onlays Last?
-
-Inlays and onlays are built to last a long time because they are made from sturdier and more durable materials than fillings. On average, inlays and onlays have a typical lifespan of 10 to 30 years, making them just as long-lasting as dental crowns. In comparison, most composite dental fillings need to be replaced after 5 or 10 years. However, exactly how long your inlay or onlay lasts depends on the material used and your own care.
-
-* Composite is on the shorter end of the spectrum, with lifespans of up to 15 or 20 years
-* Porcelain is more durable, often lasting 20 to 30 years with good care
-* Gold is the longest-lasting of any dental material, often lasting 30 or more years—some gold restorations can last a lifetime
-
-Maintaining impeccable oral hygiene is the key to ensuring you get the most out of your onlay or inlay. This means flossing daily and brushing your teeth twice a day with a fluoridated toothpaste and soft-bristled toothbrush. We recommend limiting the amount of sugary and starchy foods and drinks you have because they’re good at attracting oral bacteria and dental plaque. You should also see your dentist for a routine [cleaning and exam](https://www.nudentistry.com/houston-tx/general-dentistry/dental-cleaning/) at least once every six months. Together, these all keep plaque and bacteria from building up and creating more cavities that put your restoration’s survival at risk.
-
-If you think you may have a dental cavity and need immediate tooth decay treatment, please call us to schedule an appointment with our team today at (832) 916-4144. Our dentists will perform a thorough examination to see whether an inlay or onlay is the right choice for your smile.
+At Nu Dentistry, our dedicated team is here to help you with the urgent cavity treatment you need. If you recognize these late-stage tooth decay symptoms, please don’t hesitate to call our dental office today and schedule an appointment.
