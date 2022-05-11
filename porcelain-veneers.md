@@ -108,18 +108,14 @@ blocks:
   align: left
   columns: '2'
   superheading: 
-  heading: YOUR SMILE MAKEOVER PROCEDURE
-  text: WHAT EXACTLY HAPPENS DURING MY VENEERS APPOINTMENT?
+  heading: DENTAL BONDING VS. VENEERS
+  text: WE WANT YOU TO PERFECT YOUR SMILE ON YOUR TERMS
   content: |-
-    During your first appointment, to ensure that your smile feels as natural as it looks, your teeth will be prepared by being lightly shaved down. This tooth preparation ensures that your porcelain veneers stay better on your teeth and don’t feel awkward or bulky in your mouth. It also allows for the removal of any potential decay you may have. At the end of this process, your teeth will be healthy and the right size for your veneers to slide right over them.
+    There are many ways that you can get the smile makeover you always wanted. At Nu Dentistry, we want to make sure that you always go into your dental decisions well-informed and excited. When it comes to quick, [tooth transforming cosmetic dentistry](http://50.18.194.110:40030/houston-tx/cosmetic-dentistry/aesthetic-dentistry/), you have to decide which is better: dental bonding or veneers? Dental bonding uses a composite, tooth-colored resin that is applied directly to your tooth and molded to fit your specific needs.
 
-    Your cosmetic dentist will then take a mold of your mouth and choose a veneer color that will match or whiten your teeth, depending on your smile goals. The mold will be sent to a lab where your veneers will be made to custom-fit specific design and coloring. We will also be set up with temporary veneers during the week or two it takes for your permanent veneers to arrive.
+    It can still address the same problems as veneers: chipped or cracked teeth, gaps between teeth, short teeth, misalignment, and tooth shape. Dentists also use bonding resin as a natural-looking alternative to amalgam fillings. There is no preparation needed for bonding, and your entire treatment can be completed in a single office visit. In as little as 30 minutes to an hour, you can have your new smile at a lower price. However, dental veneers can outlast bonding by years.
 
-    On the second visit, your permanent dental veneers will be placed and secured to your natural teeth. Our dentists will evaluate the fit, trimming, and adjusting as necessary to make sure that your new teeth are perfect. We make sure that there’s no room for error because we want your new smile to last for years.
-
-    There are some brands of veneers, like Lumineers, that are thinner than traditional porcelain ones and do not require preparation. These no-prep veneers can be applied directly to the teeth after cleaning and polishing.
-
-    If you have any questions about the smile makeover process, contact our office, and our team of experienced dentists will be happy to answer them.
+    Veneers, particularly porcelain ones, are made of much sturdier material, resisting stains and damage that bonding can’t. They also cover the entire tooth, allowing for more drastic cosmetic changes to be possible. If you’re looking for a quick, easy smile transformation, call us now at (832) 916-4144 to make an appointment. Our team can help you decide which option is the right choice for you.
   lists: []
 - template: cta-1
   block: cta-1
