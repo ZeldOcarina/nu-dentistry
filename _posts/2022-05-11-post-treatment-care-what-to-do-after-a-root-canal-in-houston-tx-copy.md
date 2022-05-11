@@ -1,91 +1,81 @@
 ---
-title: 'Emergency Tooth Extraction: Treating Cavities, Gum Disease, And Wisdom Tooth
-  Impaction'
+title: What Can You Do To Save Your Cracked Or Chipped Tooth?
 
 ---
-It’s the goal of every dentist, including our talented staff at Nu Dentistry, to keep their patients’ smiles as intact and healthy as possible. However, when a worst-case scenario happens—a tooth has become damaged beyond repair—an [emergency dental extraction](https://www.nudentistry.com/houston-tx/emergency-dentistry/tooth-extraction/) is needed.
+Have you ever bitten down on something hard or been hit in the face while playing sports and suddenly heard a loud crack? You look in the mirror, and suddenly there’s a large crack running through your tooth, or even a piece of it missing entirely! If this has ever happened to you, you’re not alone. Cracked and chipped teeth are fairly common problems in the dental world, and they have a range of possible causes.
 
-An emergency tooth extraction may be needed if there is:
+#### Some causes include:
 
-* Severe jaw pain and toothaches
-* Dark discoloration on your tooth
-* Late-stage gum disease or tooth decay
-* A tooth abscess or pus around your teeth and gums
-* Loose or shifting teeth
-* Dental trauma to the mouth
-* Wisdom tooth impaction
-* A break or fracture in a tooth that can’t be fixed
+* Grinding your teeth, particularly at night
+* Cavities and tooth decay that may weaken the integrity of the tooth
+* Eating hard foods like an ice cube, peanuts, and hard candy
+* Sudden impact or trauma to the mouth (car accidents, playing contact sports, falling on a hard surface, etc.)
 
-While most emergency extractions are done only when the worst has already happened, the one exception is impacted wisdom teeth. An impacted tooth doesn’t have enough room to emerge from beneath the gums. They can cause a whole host of problems for your mouth, from gum disease and cavities to bleeding and damage to nearby teeth. In many cases, your Houston dentist may choose to perform an emergency wisdom tooth extraction to prevent a lot of pain and frustration for you in the future.
+As you get older, you may find that your teeth may become even more vulnerable to cracking and chipping. Your smile will naturally begin to weaken as a lifetime of eating, chewing, and normal wear and tear begin to make their mark. You should be especially careful with the foods you eat. Hard and crunchy foods do plenty of harm on their own, and sweets weaken your teeth by causing cavities.
 
-## Emergency Extraction Procedure
+## Signs of a Cracked or Chipped Tooth
 
-There are two types of tooth removal: simple extraction and surgical extraction. Which one your emergency dentist performs depends on whether or not your tooth is impacted below the gums.
+Beyond any visible cracks or missing enamel you might see, several other symptoms may be present, depending on the severity of the damage. Chipped and cracked tooth symptoms include:
 
-#### Simple Extraction
+* Tooth pain that comes and goes but is rarely continuous
+* Pain when chewing or biting
+* Sensitivity to temperatures and sweetness
+* Swelling gums around the damaged tooth
 
-For teeth fully visible above the gum line, your dentist will perform a simple extraction. This method involves loosening the tooth from the gums with a dental elevator device and then pulling it free with forceps.
+However, sometimes there may be no symptoms beyond the initial crack or chip. We still highly recommend that you come into the office to have your tooth looked at to ensure you don’t run the risk of developing an infection or cavity. If left untreated, the infection can spread from the initial tooth to its neighbors, your jawbone, bloodstream, and [rest of the body](https://www.colgateprofessional.com/education/patient-education/topics/systemic/why-a-healthy-mouth-is-good-for-your-body). In these cases, there may be additional symptoms such as:
 
-#### Surgical Extraction
+* Persistent pain, not just when eating
+* Bad breath or taste in the mouth
+* Discolored spots around the infected area
+* Tooth abscess or pus around the teeth and gums
+* Fever
 
-A surgical extraction is performed for teeth that have not fully emerged from the gums. Usually, these teeth have either broken beneath the gum line or are impacted, as is most often the case during wisdom teeth removal. To reach them, your dentist will make a small incision and then painlessly pull your tooth from the gum. Your dentist may need to suture the cut closed.
+#### Is a chipped tooth a dental emergency?
 
-No matter which emergency treatment you need, your mouth will be numbed beforehand with a local anesthetic to keep you from feeling a thing throughout your procedure. Some patients, particularly those with dental anxiety, can choose to use [dental sedation](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/) instead to ease their minds as well as their mouths. IV and oral sedation are most often used during surgical extraction as they often keep patients relaxed enough during their treatment that they fall asleep in the dental chair.
+Not all chipped teeth are dental emergencies, but they certainly can be. Some may leave jagged, sharp fragments that can rip and tear at your lips and gums, and others may reach down to damage the nerves at the center of your tooth. In many cases, a chipped tooth leaves a tooth vulnerable to infection, and painful cavities may begin wearing away at what’s left of your tooth. In these cases, you should seek [immediate dental care](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/).
 
-## Tooth Extraction Aftercare
+#### Can a cracked tooth heal on its own?
 
-After your procedure, our dentists at Nu Dentistry will provide you with a detailed and easy-to-follow list of instructions so that your healing process is smooth. We want to ensure you feel as little post tooth extraction pain as possible while preventing any chance of dry socket or a tooth extraction infection. Here are some tips we highly recommend you follow to the best of your ability:
+With the most minimal cracks, it is possible for your tooth to eventually heal itself through remineralization. This is the same process that can repair a tooth in the earliest stage of tooth decay. However, for more major cracks or breaks, your dentist will need to repair the damage. Even with those minor cracks, we recommend that you see us for an exam to ensure there’s no underlying damage or infection.
 
-* Rest and relax for the first 24 hours following your procedure. Take a day or two off from work or school depending on how you feel.
-* Prepare to have someone pick you up after your procedure and bring you home, especially patients who used oral or IV sedation during treatment. You cannot drive anywhere for at least 24 hours after dental sedation.
-* Avoid spitting, drinking from a straw, and any strenuous exercise for the first few days. These activities can make it more difficult for a blood clot to form.
-* Don’t smoke 24 hours before and 24 hours after your extraction.
-* If you experience any discomfort or facial swelling in the first 2 or 3 days after your dental extraction, use an ice pack in 15-minute intervals. We recommend that for patients with multiple extractions done on both sides of the face, you switch off every 15 minutes.
-* Over-the-counter pain relievers are also great ways to reduce any pain you may feel during the recovery process.
-* Avoid brushing or flossing near the site of your tooth removal as your mouth heals.
-* Keep to a liquid and soft food diet for the first few days. From there on, you can slowly begin returning to your normal diet. However, you should still try staying away from crunchy, hard, or sticky food for a week.
-* Do not eat on the side of your extraction for two weeks to keep any food bits or particles from getting stuck in the space left behind by your missing tooth.
-* After the first 24 hours, rinse your mouth after every meal with a warm salt water rinse to disinfect and soothe the extraction site. Be sure not to spit out the water when you’re done.
+#### How bad is a cracked tooth?
 
-If you have any questions or concerns about your recovery process, please don’t hesitate to call our Houston dental office and schedule an appointment with our attentive dentists. We understand
+With cracked tooth syndrome, a tooth has partially fractured but hasn’t fully broken away from the rest of the tooth. In some cases, the crack might not be serious and may only need cosmetic restoration. However, some cracks can cause enough damage that the tooth can’t be saved and has to be removed. No matter how bad it looks, you should always see a dentist for an examination to determine the full extent of the damage.
 
-## What To Eat After Tooth Extraction
+#### What happens if you don't fix a chipped tooth?
 
-In those first few days after your tooth removal, you should stick to a mostly liquid and soft food diet. As you recover, you must keep your body stocked up on all of the nutrients and vitamins it needs to stay strong and healthy. Some foods we recommend include:
+No matter how bad the chip looks, you should always have your injured tooth looked at by your dentist. They will diagnose the scope of the damage and detect any potential dangers to your oral health. Even with teeth that aren’t in any pain or have any worrying signs, leaving your chip untreated can be disastrous. The chip can leave the tooth exposed and susceptible to bacteria, infection, and decay, leading to even more intensive treatment being needed, up to and including extraction.
 
-* Fruit and vegetable smoothies
-* Applesauce and mashed bananas
-* Blended soups and broths
-* Jell-O
-* Yogurt
-* Ice cream
-* Mashed potatoes
-* Soft cheeses
-* Milkshakes
-* Scrambled eggs
-* Avocado
-* Soft cheeses
+#### What can be done for a cracked tooth?
 
-Cold foods are especially great for helping numb any lingering discomfort you may feel, just like an ice pack does. If you choose to eat hot foods like soups, eggs, or potatoes, please wait until they cool down. Heat tends to irritate the gums and cause extra sensitivity during the recovery process.
+Anything more than small, enamel-only cracks need immediate repair, even if there’s no pain or discomfort. For minor chips that only cosmetically affect your tooth, you won’t have to have a major repair. The dentist might fill in the tooth’s crack with a dental filling, or with [dental bonding](https://www.nudentistry.com/houston-tx/cosmetic-dentistry/aesthetic-dentistry/) if it’s a cracked front tooth. More significantly major cracks, especially those causing severe cracked tooth pain, can demand much more extensive dental work, including crowns, root canals, and dental extraction.
 
-## Frequently Asked Questions
+## Treatment Options
 
-#### What happens if you wait too long to get wisdom teeth out?
+You may be tempted after cracking or chipping your tooth to Google “how to fix a chipped tooth” or “cracked tooth remedies at home,” but we recommend that you don’t try to fix it yourself. You can’t tell how extensive the damage is just by looking at it, and what might seem like a small crack may actually run deep to the root of your tooth. Plus, superglue can only do so much.
 
-Wisdom teeth removals may not seem as urgent as treating a tooth on the brink of death, such as when a decayed tooth is too far gone for even a root canal to fix. However, leaving them alone once our dentists have identified it as a problem tooth can be a nightmare for your mouth. Just looking at impacted and partially [impacted wisdom teeth](https://www.colgate.com/en-us/oral-health/wisdom-teeth/impacted-tooth), they leave your mouth vulnerable to serious oral health issues like gum disease, cavities, and cysts. They can also cause damage to the roots of their neighbors as they try to erupt through the gums and collide with nearby teeth instead. Even if they do come in, they’re often prone to leaning, crookedness, and overcrowding.
+When you come in for a consultation, your dentist will comprehensively examine your injured tooth and determine the best chipped or cracked tooth repair options for you. Which one is right for your specific needs depends on the size of the crack or chip, its location, the signs and symptoms involved, and whether it reaches below the gum line.
 
-#### How long does it take to get a tooth pulled?
+The most common treatments we recommend are:
 
-Simple extractions are quick and easy to perform, usually taking only a few minutes. More complex cases may take over 20 minutes to complete. Surgical extractions are a bit more involved and are about 45 minutes long on average. The length of either of these procedures may be extended if you decide to use oral sedation. While nitrous oxide and IV sedation only take a few minutes to work, oral sedation can take 30 to 60 minutes before the full effects kick in.
+#### Dental Bonding
 
-#### What does tooth extraction cost?
+Dental bonding uses a tooth-colored composite resin to cosmetically restore the appearance of your teeth. Our dentists can apply as much or as little composite as needed to repair your smile’s natural look. Bonding fills in your cracked front tooth or can completely rebuild a chipped piece of missing enamel.
 
-The cost of your emergency extraction depends on a variety of factors: how many teeth will be removed, the type of tooth, the location of the extraction, and which extraction procedure is needed. For example, a wisdom tooth extraction for an impacted tooth will differ in price than a fully-emerged front tooth. Your treatment cost may also go up if you choose to use any of our Houston office’s dental sedation options.
+#### Dental Veneers
 
-#### What happens if you don't replace an extracted tooth?
+Like bonding, porcelain veneers are used by dentists to repair a chipped front tooth cosmetically. This process involves lightly shaving down your tooth to fit a thin porcelain shell over it, re-envisioning your tooth’s total look. This shaving can smooth away any sharp edges that could cut your lips and gums. The veneer itself is strong and durable, protecting the tooth below from further damage or infection.
 
-Except in the case of wisdom teeth, which our mouths often don’t have room for, not replacing a missing tooth can be disastrous for your mouth. Over time, the jawbone where your tooth used to be starts to deteriorate. Bone loss causes the nearby teeth to sink into the space left behind, causing changes and problems in your bite. This can leave your remaining teeth vulnerable to further infection, gum disease, and decay. At its worst, you may need even more teeth pulled.
+#### Dental Crown
 
-#### What is the best option for replacing missing teeth?
+For significant cracks and breaks, a dental crown may be needed to fit over the tooth and restore both its looks and strength. Crowns are also a great choice if there is a significant amount of decay that has left the tooth weak. Porcelain or ceramic crowns are the most popular since they can return your smile to normal, exactly matching your natural tooth.
 
-While there are multiple tooth replacement options available, [dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are generally the best way to replace an extracted tooth. Unlike dentures or a dental bridge which only camouflage the gap left behind, an implant is surgically inserted into the gum and jaw to act as a fully functioning tooth, root and all. They are the longest-lasting, often staying intact for over 20 years before needing any replacement. However, their higher price often makes them more preferable for patients who are only missing a single tooth. For multiple missing teeth, your dentist may instead recommend dentures or a bridge. For patients who still want some of the unique benefits of dental implants, we can also restore your smile with implant-supported bridges and dentures.
+#### Root Canal
+
+When you experience chipped, cracked, or broken tooth pain, this is often because the crack or chip extends deep into your tooth’s dental pulp. The pulp is the lifeblood of your tooth, containing the blood vessels and nerves keeping it alive. If the pulp is damaged, your dentist will most likely perform a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/) to remove damaged tissue and regain your tooth’s lost integrity. This procedure can also remove dental pulp that might have become infected if a crack or chip is left untreated for too long.
+
+#### Tooth Extraction
+
+Sometimes a fracture or break can leave your tooth’s structure, nerves, or roots so injured that the tooth dies. At this point, it can’t be saved by a root canal or crown, and your dentist will have to remove the tooth entirely.
+
+Many patients who have hairline cracks or small chips in their tooth’s enamel may not seek any treatment without any pain or significant visible damage. While cracked or chipped tooth repair may not be necessary in some of these cases, we highly recommend that you at least come into our office for a consultation to ensure your tooth is healthy. We want to make sure that your natural tooth is always in the best condition possible and can last you a lifetime.
