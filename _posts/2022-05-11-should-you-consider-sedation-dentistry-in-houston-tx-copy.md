@@ -1,69 +1,77 @@
 ---
-title: Do I Need Wisdom Teeth Removal In Houston, Tx?
+title: What To Do When You Need Immediate Toothache Relief
 
 ---
-Your third molars, or wisdom teeth, usually appear between the ages of 17 to 21 years. However, sometimes they can come in with complications and require extraction—if they come in at all. While not everyone needs to remove their third molars, they can create massive issues for some patients if these teeth are left alone. At Nu Dentistry, we encourage our young patients to come in for a consultation when they’re 16-years-old to determine if [dental extraction](https://www.nudentistry.com/houston-tx/emergency-dentistry/tooth-extraction/) is necessary.
+Tooth pain is never fun. Even a mild toothache can make it difficult to chew and eat, and it can cause significant discomfort for you at night. Toothaches are huge warning signs that something is wrong with your smile, and it needs urgent attention from your dentist. The pain involved can be acute or throbbing, constant or periodic, depending on the tooth’s condition.
 
-### When Should A Tooth Be Extracted?
+A tooth is composed of 3 main parts: the hard, outer enamel; the softer middle dentin; and the sensitive inner pulp. The pulp contains blood vessels that nourish the whole tooth and keep it alive and strong. When your teeth hurt, it is often caused by bacteria and plaque eating its way to the pulp, infecting and inflaming.
 
-Just as with any other tooth, wisdom teeth should only be removed when they present a considerable problem for your smile’s health. While most emergency tooth extraction situations are dire, many wisdom teeth are removed before your teeth can erupt as a preventive measure. Our dentists at Nu Dentistry may recommend a wisdom tooth extraction in the following cases:
+“Why do my teeth hurt?” you might ask. “I brush my teeth every day and take good care of my teeth. There’s no way I should have tooth decay!” It’s not enough to brush your teeth once or even twice a day to keep your smile healthy. Good oral hygiene requires brushing twice and flossing once daily as well as regular visits to your dentist every month for a dental cleaning. This helps remove any bacteria and plaque trying to build up and wear down your teeth.
 
-##### Impacted Wisdom Teeth
+However, tooth decay isn’t the only reason you may experience toothache pain. Other toothache causes include:
 
-As the third and last set of molars, your mouth might not have enough room for your wisdom teeth to emerge from the gums. They become impacted or trapped beneath the gums. Impacted wisdom teeth symptoms include radiating jaw and wisdom tooth pain, jaw swelling and tenderness, chronic bad bread, and pus formation. Some of our patients also have difficulty in chewing and opening their mouths.
+* Cracked or broken tooth
+* Overhanging or damaged filling
+* [Tooth extraction](https://www.nudentistry.com/houston/emergency-dentistry/tooth-extraction/)
+* Gum disease and gum recession
+* Dental trauma or accident
+* Sinus infection
+* Wisdom tooth eruption or impaction
+* Chewing or grinding your teeth
 
-##### Partially Impacted Wisdom Teeth
+You should be careful when eating with a toothache because the foods you eat can cause your pain to flare up or even get worse. This means staying away from cold drinks and spicy or hot foods. It’s also best if you keep as much balanced pressure on your tooth as possible.
 
-Even partially impacted wisdom teeth can be troublesome for your smile. While they can somewhat come out from the gums, it can be incredibly challenging to give these teeth the proper care and attention they need. They also leave a channel wide open for bacteria and plaque to slip under the gums and cause gum disease and wisdom tooth infection.
+There are so many different possible reasons your teeth may hurt. If your toothache persists for more than a day, we recommend that you come into our Houston office for a complete and thorough diagnosis. Our dentists will take 3D x-rays and digital scans to design an accurate clinical picture of your dental health. This allows us to plan your treatment quickly and precisely.
 
-##### Crowded Teeth
+### SYMPTOMS OF A TOOTHACHE
 
-Even if your wisdom tooth can erupt, it still might not have enough room to fit in neatly with the rest of your teeth. While they might not have the amount of force necessary to move neighboring teeth out of alignment, these wisdom teeth can crowd your mouth and cause damage to other teeth and bone.
+As its name suggests, the main symptom of a toothache is pain in and around your tooth. You will feel sharp or dull, severe, or throbbing pain that may be unbearable for some patients. The toothache doesn’t need to be persistent. Some other symptoms that often come with tooth pain, especially when tooth or gum infection is involved, are:
 
-##### Wisdom Teeth Erupted In The Wrong Direction
+* Swelling of the gum around the tooth
+* Fever
+* Headache
+* Halitosis (bad breath)
+* Pain when chewing
+* Bleeding or tender gums
 
-At times, wisdom teeth grow in at a crooked and unhealthy angle, creating huge problems for adjacent teeth. Like with crowded wisdom teeth, brushing and flossing is difficult. There is an especially high chance that your mouth may develop cavities, swelling, infection, and gum disease. To prevent these almost inevitable issues from occurring, your dentist may suggest having the troublesome tooth removed.
+### TREATMENT
 
-##### Cyst Formation
+A mild toothache can go away by simply using aspirin or other over-the-counter painkillers. However, this is only a temporary tooth pain relief and doesn’t fix the underlying problem. To treat the root source of your dental pain, your dentist may perform a dental filling, root canal, extraction, dental crown, or any other number of procedures. Which one it is depends on the location and state of the tooth.
 
-In some instances, a fluid-filled sac called a cyst forms in the jawbone around the wisdom tooth. This is most common with impacted wisdom teeth, but any tooth that creates a cyst must be removed. Cysts can be excruciatingly painful as they damage your mouth’s nerves, jaw bone, gums, and teeth. As soon as a cyst forms, we will want to perform an emergency tooth extraction to save the surrounding soft and hard tissues. By waiting too long for treatment, severe complications may require having part of your jaw removed through major surgery.
+If you have wisdom tooth pain, for example, the most likely treatment will be extraction. [Most troublesome wisdom teeth are impacted](https://www.mouthhealthy.org/en/az-topics/w/wisdom-teeth), meaning they can’t fully emerge from the gums. The only way they can be treated is to remove them safely and painlessly with a surgical extraction. If the toothache is caused by a cavity, then dentists often restore the tooth with a filling or root canal with crown.
 
-### The Dental Extraction Process
+### PREVENTION OF TOOTHACHE:
 
-We understand at Nu Dentistry that being told you need a tooth extraction may sound scary, but you have nothing to worry about. Our friendly, gentle dentists make sure the whole process goes smoothly and painlessly. There are two ways we may remove your tricky wisdom tooth:
+Toothaches can be prevented by adopting good oral hygiene habits that keep your teeth healthy and plaque-free. You should adapt these cleaning routines to stop your cavities before they ever form:
 
-Simple Extraction We will perform a simple extraction for wisdom teeth that can fully emerge and are completely visible above the gum. First, we will numb your tooth with either a local anesthetic or dental sedative. Our dentist will then use a dental tool called an elevator to loosen your tooth from the gums. With forceps, we’ll be able to pull your teeth free without any pain or discomfort. This procedure is easy for our expert professionals, and each tooth takes no more than 15 minutes to remove.
+Brush your teeth twice and floss once daily. Also, clean your tongue daily. Attend a routine checkup every 4 or 6 months, depending on your dental history. Eat a healthy diet, staying away from sweets and starchy foods when you can.
 
-Surgical Extraction For impacted wisdom teeth, we will need to perform a surgical extraction instead as we won’t be able to access the tooth. Your dentist or oral surgeon will need to make a small incision to allow us to extract your tooth directly from your gums. With more complex cases, we may need to cut your tooth into smaller pieces to remove it more comfortably. Since this method is more intensive, we can use [dental sedation](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/) to keep you completely calm throughout your procedure. Please be aware that if you choose to be dentally sedated, you should plan to have someone drop you off at home after your procedure. You will not be able to drive for the next 24 hours.
+### FREQUENTLY ASKED QUESTIONS
 
-### Frequently Asked Questions
+#### Can a toothache go away on its own?
 
-##### How can I make my tooth extraction heal faster?
+Knowing how to get rid of a toothache depends on the condition of the tooth and the cause of your dental pain. For mild cases, there are some home remedies for toothache pain, such as fluoride toothpastes. However, when dealing with cavity pain of infected dental pulp, you should immediately consult a dentist. If you find your toothache suddenly leaving after it’s hurt for a long time, this isn’t a reason to celebrate. At this point, the tooth’s nerves may have been fully infected down to the root, and your tooth may be in danger of dying.
 
-To ensure your wisdom teeth removal recovery goes quickly without any complications, our dentists at Nu Dentistry will prepare you with aftercare instructions. Here are some common post-operative guidelines:
+#### Why does my broken tooth not hurt?
 
-* Take a day or two off of work or school after wisdom teeth removal to rest and recover. Keep your head elevated whenever possible, and avoid any heavy or strenuous activity for the next few days to let the blood clot.
-* During the first two days, don’t be shy when using ice packs on the treatment site’s cheek. The best way to relieve swelling and post wisdom teeth removal pain is to take the pack on and off in 15-minute intervals.
-* Don’t brush your teeth near the extraction site during the 24 hours after your extraction.
-* Stay on a rigid liquid and soft food for those initial few days. Some recommended foods to eat after wisdom teeth removal include smoothies, mashed bananas and pumpkin, oatmeal, soups and broths, salmon, avocados, and Greek yogurt. Make sure not to eat anything hotter than lukewarm.
-* Avoid spicy, crunchy, and chewy foods for at least a week, though it’s best to wait until the socket closes. If these foods become trapped in the socket, they can irritate, injure, or infect the socket.
-* Avoid spitting, rinsing your mouth, or drinking with a straw during the immediate 24 hours after your procedure. These actions can disrupt blood from clotting and lead to painful [dry socket](https://www.healthline.com/health/how-to-prevent-dry-socket).
-* After the first 24 hours following your wisdom tooth extraction, be sure to rinse your mouth with a saltwater solution regularly. This removes any food and bacteria from the extraction site and prevents infection.
-* Avoid smoking, tobacco use, and alcohol.
-* If your dentist prescribes you any medications for wisdom tooth pain relief, always take them as instructed.
+If you have a cracked or broken tooth, it might not hurt at all, especially if the damage is relatively minor. Cosmetic fractures that don’t reach the sensitive dental pulp should still be treated by a dentist. Jagged and cracked teeth can damage your lips, tongue, and gums, and if left alone, they can worsen into much more severe and painful problems. Early restoration in these cases can be the best solution for preventing future toothaches and dental issues.
 
-After two weeks, you’ll find that new bone and gum tissue will have filled the socket left behind, allowing for the rest of your recovery to be smooth sailing. Be present for your follow-up appointment to ensure your mouth is healing as it should. Your dentist will also remove any non-absorbable sutures and advise you on any future care of the socket.
+#### How long can a toothache last?
 
-##### What does tooth extraction cost?
+Your toothache can last about a few hours to even days. It may change from sharp to mild pain or even go away for a short time, but it’s consistently present in the long term. If you find that your tooth hurts for one or more days, even if it comes and goes, then you should see your dentist for an emergency exam.
 
-Your extraction cost depends on both the number of teeth to be pulled and the type of removal. Quite a few dentists lower your individual procedures’ price if you choose to have all four of your wisdom teeth removed in a single appointment, rather than separate ones for each tooth. Additionally, many of our patients choose to be dentally sedated* instead of using a local anesthetic to keep them fully relaxed both in mind and body throughout the procedure. Your wisdom teeth removal cost will increase if you choose to be sedated during your treatment.
+#### When should you seek a dentist for a toothache?
 
-##### Is it necessary to replace missing teeth?
+You should see your dentist when your tooth pain is so severe that it disturbs your routine work and activities or lasts more than a day. Persistent tooth pain is a huge signifier that a cavity or gum infection goes deep to the dental pulp and is destroying the tooth’s structures. Visiting earlier on in the tooth decay process means that more of your tooth can be preserved with less severe treatment needed.
 
-With your regular front teeth, canines, and molars, we would tell you that it is absolutely necessary to replace your extracted teeth with either a dental implant*, bridge, or denture. Wisdom teeth, however, are not the same as the rest of your teeth. In most cases, they are pulled because your mouth doesn’t have room for them. Your mouth won’t have space for a replacement, either.
+#### What happens if you leave a toothache untreated?
 
-##### How long does wisdom teeth removal take?
+There can be significant complications if you leave your toothache untreated for too long. In the case of dental decay, some patients only see us when the infection has severely damaged their tooth and gums, and the tooth is on its last legs. If the tooth is still alive, then it’s possible to save it with a root canal. However, if you come to our office too late, the only solution left is to remove the tooth entirely. Without an extraction and removal of all the infected tissue, the infection can spread to the rest of the face or the whole body. It can even prove fatal, so if you find yourself experiencing tooth pain, please see one of our dentists as early as possible.
 
-On average, wisdom teeth removal surgery requires about 45 minutes to complete. It might take longer for more complex cases or if you need to have more than one wisdom tooth removed at a time. If you need a simple extraction, pulling the tooth free only takes 3 to 15 minutes. The entire procedure is often 20 to 30 minutes total, including the time it takes for our Houston dentists to numb your tooth with a local anesthetic.
+#### Why does my toothache hurt so bad?
 
-In most cases, the numbing agent we use only takes 5 to 10 minutes to take full effect. However, if you’re going to be using oral sedatives, your body needs more time to digest the pills. This can extend your expected appointment time by an additional 30 minutes to an hour.
+Toothaches happen when the central core of the tooth, the pulp, becomes infected and inflamed. The pulp is the most sensitive part of the tooth as it’s supplied with the nerves and blood vessels that nourish the tooth. Cavities eating away at the pulp attack those extremely sensitive parts of the tooth, creating aching or intense, sharp pain.
+
+#### What helps a toothache fast?
+
+The best and fastest toothache remedy is seeing your dentist for[ immediate treatment](https://www.nudentistry.com/houston/emergency-dentistry/emergency-dentistry/). However, if you can’t schedule an emergency appointment, you can use tea bags, garlic, saltwater, and clove oil to soothe your mouth and give you some short-lasting toothache pain relief. They can also reduce inflammation.
