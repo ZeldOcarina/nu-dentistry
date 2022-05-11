@@ -1,73 +1,81 @@
 ---
-title: 7 Common Signs You Have A Dental Cavity In Houston, Tx
+title: How To Strengthen Your Tooth Enamel In Houston, Tx
 
 ---
-One of the most common diseases in the world is tooth decay. It’s second only to the common cold. Whether you have amazing brushing and flossing habits or you’ve fallen behind in yours, nearly everyone in the world will get at least one [cavity](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/) in their lives. The average person will have between four and ten in their lifetime. Once cavities first appear, they can quickly grow out of control until they eventually put your tooth’s life at stake. It’s therefore crucial for your smile to get your teeth looked at by a dentist at the first signs of a dental cavity.
+Most people think that their bones are the hardest parts of the body. However, the strongest thing in the human body is your teeth’s enamel. Enamel is the outermost layer of the tooth, meant to protect the softer and more vulnerable dentin and pulp layers underneath. It consists of 96% minerals, such as phosphate and calcium, that make this tooth layer durable and resistant to dental problems like impacts, dental trauma, decay, and erosion. In a sense, you can think of enamel as the shield or armor keeping your inner tooth safe and healthy.
 
-## What Is A Cavity?
+However, as hardy as it is, tooth enamel isn’t invincible. While it may be the most mineralized substance in your body, it can still be worn down and damaged over time as it loses its minerals. What causes tooth enamel to weaken? From improper brushing to an unlucky draw in the genetic lottery, teeth enamel can become demineralized for several reasons:
 
-The terms “tooth decay” and “dental cavities” are often used interchangeably, but they’re not quite the same. What is the difference between tooth decay and a cavity? Decay is a dental disease caused by the acids in dental plaque and oral bacteria gradually eroding and destroying a tooth. It appears only as white spots on the tooth’s enamel surface during the first tooth decay stages. These spots are visible signs that the decay is softening the tooth by stripping it of the hardy minerals—calcium, phosphate, and more—that keep this outer layer strong and protected.
+**Poor oral hygiene.** Brushing and flossing your teeth irregularly or using the wrong techniques can cause dental plaque and bacteria to build up. The acids in plaque and bacteria slowly strip away enamel’s calcium and other minerals. Once the tooth is weak enough, they erode the enamel and begin attacking the inner tooth, causing a [cavity](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/).
 
-Once the tooth is weakened enough, the decay continues its attack. Eventually, it destroys the enamel to expose the inner dentin below. The decayed hole left behind in the tooth is a dental cavity. Once a cavity appears, the damage is irreversible. Tooth decay will continue to attack the tooth as the cavity worsens and deepens. If left untreated, cavities can destroy enough of the centermost pulp that the tooth dies and must be extracted.
+**Genetics.** You don’t just inherit your good looks, humor, and wealth from your parents. Weakened enamel can also run in the family. Diseases like enamel hypoplasia and demineralization can be passed on genetically, leading to more frequent tooth decay and other dental issues.
 
-## Common Signs You Have A Tooth Cavity
+**Unhealthy food.** Sugary junk foods and fizzy drinks are the worst things for your teeth that you can eat. Sugar is excellent at attracting oral bacteria and helping plaque accumulate on your teeth faster. And carbonated drinks and sodas are great at gradually breaking down your enamel, even if you have good brushing and flossing habits.
 
-As we’ve already discussed, early-stage tooth decay symptoms include the tooth’s surface becoming softer and developing white patches and spots. Since they are so relatively mild, they can be easy for patients to miss. However, once cavities form, they can be much more difficult for you to ignore. Some of the most common signs and symptoms of dental cavities include:
+**Too much fluoride.** Fluoride strengthens the teeth, so it’s recommended even from a young age to keep smiles healthier. However, moderation is key. Excessive fluoride when teeth are still developing can lead to fluorosis. What is dental fluorosis? It makes the enamel highly porous, weakening it. You can often spot it by the faint white streaks it leaves on enamel.
 
-#### Pain When Biting
+Can you rebuild tooth enamel? Unfortunately, no. Once it’s been lost, you can’t naturally regenerate your tooth’s enamel. However, you can still restore some of the lost minerals to help strengthen the tooth. Weakened enamel can be restored or remineralized to some extent, such as with minor wear and tear and early tooth decay before cavities form. However, with more extensive damage, you can’t regenerate or rebuild the lost and destroyed tissues. You will most likely need a restorative treatment such as a dental filling or [crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) to repair your tooth to its old shape.
 
-Mealtimes can be painful with a cavity. Putting pressure on your decayed tooth, such as while eating and chewing, can cause sharp spikes of cavity pain. Food can also get stuck in deeper cavities, which won’t be fun either. However, even actions as simple as brushing or flossing your teeth can place enough light pressure on your tooth to be painful.
+Although you cannot rebuild enamel, you can still keep these problems at bay and strengthen your teeth. There are certain lifestyles and habits that you can adapt to reinforce your tooth enamel and keep your smile healthier:
 
-#### Lasting Toothache
+## Watch Your Diet
 
-Not all tooth pain has such a traceable cause. Cavity toothaches can flare up without any pressure or warning, especially once they become severe enough to reach the dental pulp. The pulp is where the tooth’s nerve and blood vessels live. As dental decay eats away at these sensitive tissues, your tooth can become incredibly painful. These toothaches work as an alarm bell for your mouth to tell you something is wrong and you should seek treatment.
+Your diet plays a large part in your enamel’s health. Healthy eating can keep your teeth from weakening and help bolster the enamel’s defenses against tooth decay and other dental problems.
 
-Cavity pain can happen in short bursts or stay consistent and linger for hours. Slight twinges of discomfort in your tooth aren’t always a sign of a cavity. However, if your toothache lasts for a day or more, it’s a sign of a real [dental emergency](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/). Our dentists will want to see you right away.
+#### Cut Down Sugars and Sodas
 
-If a persistent toothache suddenly disappears and doesn’t return, it’s not quite the relief you might think. A tooth becoming numb is often a sign that too much pulp and nerve have been damaged beyond repair. In these cases, please don’t wait to see our dentists as soon as possible. Quick treatment can mean the difference between a tooth-saving root canal or a tooth extraction.
+As discussed, sugars, junk foods, and carbonated drinks are among the most common causes of weak teeth. You need to limit sugary food and fizzy drinks because their acids weaken enamel and problems like tooth decay. For this same reason, you should also avoid having citrus fruit and fruit juices like lemonade, oranges, and grapefruits due to their high acidity.
 
-#### Staining and Discoloration
+#### Calcium-Rich Foods
 
-Early dental decay causes white enamel spots as the acids in plaque and bacteria demineralize the tooth. However, once a dental cavity develops, the areas around the decay become darker, often turning an unhealthy-looking brown or gray color. Sometimes, the entire tooth may become discolored. While it can look like normal teeth staining, it may instead be a sign of tooth decay.
+Demineralization strips enamel of its calcium. Eating calcium-rich food such as dairy products, leafy greens, and beans can help reverse the damage done by sugary foods and strengthen the enamel.
 
-#### Sensitivity
+#### Vitamin D
 
-Cavities can also cause the teeth to become highly sensitive to hot and cold. Dentin and pulp are more sensitive than enamel, and any extreme temperatures can cause sharp and biting pain. Sweets can also cause milder, lingering sensitivity.
+Getting your daily amount of [vitamin D](https://www.verywellhealth.com/does-vitamin-d-influence-your-dental-health-4144768) can help, too. Vitamin D helps your bones and tooth enamel absorb calcium. (It also helps your teeth’s inner dentin layer protect and repair itself against bacteria and decay. You can easily get vitamin D through sun exposure, foods like salmon and other fatty fish, and supplements.
 
-#### Chronic Bad Breath
+## Practice Great Dental Hygiene Habits
 
-Bad breath in the mornings or after a garlic-filled meal is normal. However, persistent bad breath that won’t go away, also known as halitosis, can signify several painful dental problems, including dental cavities.
+Keeping your teeth clean of plaque and bacteria is key to preventing your smile from weakening and falling prey to tooth decay and other dental problems. This requires maintaining excellent oral hygiene. Most people think of dental hygiene as brushing their teeth twice each day and flossing daily. However, there’s more to a healthy, clean smile than this:
 
-#### Hole In The Tooth
+#### Use the Right Techniques.
 
-One of the surest signs of a dental cavity is the appearance of a physical pit in the surface of your tooth. Cavities form once tooth decay breaks through the enamel entirely and exposes the dentin layer below. Most cavities can be seen with the naked eye or even felt by your tongue. However, some are much harder to spot, such as cavities between your teeth or near the gum line.
+_How_ you brush and floss your teeth is just as crucial as _how often_. Brush in gentle, circular motions rather than straight up-and-down, left-to-right strokes. This allows the bristles to better reach plaque at and below the gum line. You should also brush for about 2 minutes to give your smile a thorough scrub. When flossing, use C-motions to catch any food or debris stuck under the gums.
 
-#### No Symptoms
+#### Never Brush Too Much
 
-Many patients show no signs of cavities at all. They only discover they have them during their regular six-month checkup at their dentist’s office. While no symptoms can be a relief, there’s also a danger to them. Without any warning signs that something’s wrong with their smile, patients’ cavities can continue to grow worse unchecked. By the time their dentist finally gets a look at their smile, dental decay that might have needed a cavity filling may instead require a tooth crown or root canal.
+Wait, go back and read that again. While you should brush your teeth regularly, you shouldn’t brush more often than two or three times a day. Over-brushing can scratch and damage the tooth’s surface. If you have coffee or other acidic drinks, you should also wait at least 30 minutes before brushing your teeth. As the acid weakens the tooth, immediately brushing can further harm your enamel.
 
-If you happen to experience any of the symptoms mentioned above, please schedule an appointment with us and consult our dentist today.
+#### Switch To An Electric Toothbrush
 
-## Can You Stop A Cavity Once It Starts?
+If you’re still using a manual toothbrush, we recommend replacing it with an electric one instead. Electric toothbrushes can remove much more plaque—some studies say over 100% more. With rotating and vibrating bristles, they automatically help you use the correct brushing motions and techniques. Some electric toothbrushes also come with features like a built-in timer or pressure sensor to ensure you take better care of your teeth.
 
-If tooth decay is caught before a cavity forms, it can be reversed with healthy dental hygiene and [fluoride treatment](https://www.healthline.com/health/what-is-fluoride). Brushing and flossing will remove plaque and bacteria buildup from your smile. Fluoride helps remineralize the tooth, allowing your smile to heal itself fully and bolster its defenses against future damage and decay. However, once tooth decay turns into a cavity, you can’t fix the damage on your own. No amount of brushing or flossing will restore the lost enamel, dentin, or pulp.
+#### Regularly Get Dental Cleanings
 
-You will instead need to see our dentist for professional tooth decay treatment. If left untreated, cavities can progress further into the tooth. While surface-level cavities that only reach the dentin layer might not be too painful, ones that extend into the pulp at the tooth’s center can be excruciating. Eventually, a cavity may cost you your tooth.
+Even if you do all of the above, plaque and bacteria can still gradually build up on your teeth over time. Seeing a dental hygienist at least once every six months for a [dental cleaning](https://www.nudentistry.com/houston-tx/general-dentistry/dental-cleaning/) helps you keep your teeth squeaky clean and helps prevent demineralization and tooth decay. Patients who already have a history of frequent dental problems may need to come in more frequently to ensure their dental health stays in check.
 
-#### Do All Cavities Need Fillings?
+## Use Fluoride Products
 
-All cavities, big or small, need to be filled. However, not every cavity needs a tooth filling. Dental fillings are performed on small cavities that don’t span a wide portion of the tooth’s surface. If our dentist notices a small dental cavity, they will remove the decay and seal the tooth with composite resin. Larger cavities that destroy a more significant part of the tooth need more major treatments like a dental crown or root canal.
+As dentists, fluoride is one of our best friends. It has been known as nature’s cavity fighter and enamel strengthener for ages, remineralizing teeth and keeping smiles in better shape. It also makes your teeth more resistant to bacteria and tooth decay. Luckily, it’s incredibly easy and convenient to get access to it. You can add more fluoride to your smile with:
 
-[Crowns](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) are used to restore the entire tooth’s surface. Rather than composite, they are made of sturdier porcelain or metals like gold that can withstand the full forces of your natural bite. This is especially crucial for back teeth, which take on much more pressure on a daily basis. Root canals are needed once decay reaches the tooth’s central pulp layer, and they can involve clearing out an entire tooth’s root. Depending on the damage’s extent, either a filling or crown will cap and reinforce the tooth.
+* Community water
+* Fluoridated bottled water
+* Fluoride toothpaste
+* Fluoride mouthwash
+* Fluoride treatments and sealants at the dentist
 
-## How Can You Prevent Cavities?
+However, while fluoride is incredible, we’ve already discussed that too much isn’t great for your enamel. As long as you take any products as instructed, your smile will be perfectly safe and healthy with a good layer of fluoride for your teeth to absorb. Children should especially use fluoride treatment and toothpastes. Their teeth are not immune to decay and cavities. Are baby teeth more prone to cavities? Unfortunately, baby teeth are naturally weaker than adult ones, making it easier and faster for cavities to develop. Be sure to follow your children’s dentist’s instructions on how to use them.
 
-The answer is simple: proper dental hygiene. The most important thing you can do for your smile is keep your pearly whites clean and plaque-free. To prevent cavities, make sure you:
+* For children under age 2, put only a smear of remineralizing toothpaste on their toothbrushes. Afterward, tilt their head over a sink or washcloth and let the toothpaste dribble out of their mouth.
+* Kids between 3 and 6 years old can use a pea-sized amount of fluoride toothpaste. Make sure to keep a close eye on their brushing to ensure they don’t swallow any.
+* Children should **not** use mouthwashes, fluoride or not, until they are at least age 6. This ensures they do not accidentally swallow any.
 
-* Brush your teeth twice a day, once in the morning and once before bed.
-* Use fluoride products like toothpaste, mouthwash, and water to strengthen your teeth against decay.
-* Floss your teeth daily.
-* Modify your diet and limit the amount of sugary and starchy foods you eat.
-* Schedule regular dental cleanings at least once every six months.
+## Signs of Weak Tooth Enamel
 
-Do you think you might have a dental cavity? The Nu Dentistry team is here to help! Please don’t hesitate to give our dental office a call and schedule an appointment with us immediately.
+To prevent enamel from extensive damage, you need to look out for sure signs and symptoms that indicate a weakened tooth:
+
+* **Tooth discoloration:** Healthy enamel is a healthy, solid white. Enamel that has been demineralized by tooth decay can develop white spots. These spots will gradually darken as the decay worsens.
+* **Tooth sensitivity:** Thinner tooth enamel can also increase sensitivity to hot, cold, and sweet foods. This sensitivity is often a symptom of a cavity, so it’s best to see a dentist for an exam if you consistently feel twinges and pain from your teeth.
+* **Surface roughness:** Normally, our teeth feel smooth on our tongues. However, early stages of enamel loss can cause them to feel rough, especially around the tooth’s edges.
+
+If you experience any of these problems, it’s time to start strengthening your enamel or even see one of our dentists.
