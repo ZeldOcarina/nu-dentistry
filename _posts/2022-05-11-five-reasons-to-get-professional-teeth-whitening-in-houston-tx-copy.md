@@ -1,79 +1,76 @@
 ---
-title: The Advantage Of A Gold Dental Crown In Houston, Tx
+title: 'Cavities 101: The Ins And Outs Of Tooth Decay In Houston, Tx'
 
 ---
-[Dental crowns](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) are used to cover up a tooth that has been severely decayed, chipped, cracked, or broken. They’re also often used to reinforce teeth after a root canal or replace missing teeth, such as with a dental bridge or implant. Crowns are more extensive than a dental filling, covering the entire visible surface of the tooth. They take on much more of the daily pressures and force your tooth experiences every day from biting, eating, and even clenching your jaws. This means that a dental crown needs to be made of much sturdier materials than a standard filling’s dental composite.
+We all know the importance of flossing and brushing our teeth once and twice daily, respectively. These habits are vital for fighting off tooth decay and dental cavities. However, skipping your dental hygiene, snacking throughout the day, eating sweets and junk food, and even dry mouth lead to toothaches and cavities. Nearly everyone will get at least one cavity in their lifetime. [By the time they’re 64](https://www.nidcr.nih.gov/research/data-statistics/dental-caries/adults), the average American will have had four to ten decayed or missing teeth.
 
-What are dental crowns made of? There are several common materials that our dentists commonly use, from porcelain and metals to a combination of the two:
+At Nu Dentistry Houston, our dentists have seen our fair share of patients with tooth decay and dental caries. Let’s take a look at how these dental problems impact your smile…
 
-**Porcelain.** All-porcelain crowns are generally strong, but their greatest advantage is aesthetic. They can look nearly identical to your natural enamel, making them the crown of choice for front teeth. They’re also metal-free, which can help people with allergies. However, they can be prone to chipping, cracking, and breaking under enough pressure without a robust metal base. This can be especially worrying for patients with a nightly habit of grinding or clenching their teeth.
+## The Stages of Tooth Decay
 
-**Porcelain-fused-to-metal (PFM).** PFM crowns combine a metal base and a porcelain exterior to provide both strength and aesthetics. While the porcelain surface can closely mimic the shade of the enamel, they are not quite as realistic-looking as all-porcelain. The metal base allows these crowns to be more durable than all-porcelain crowns; they are much less likely to break under the strain your tooth faces daily. Still, PFM dental crowns have a similar lifespan as all-porcelain crowns.
+While “tooth decay” and “cavities” are often used interchangeably to describe the same thing, they are different. What is tooth decay? Dental decay is a dental disease caused by dental plaque and oral bacteria attacking your tooth. So what is a cavity? A cavity is a hole in your tooth that forms once tooth decay wears down the enamel enough. Cavities form partway through the tooth decay process. Your tooth decay treatment will depend on what stage your tooth is in.
 
-**Metals.** Metal crowns are some of the strongest and longest-lasting dental crowns available, typically lasting more than a decade or two longer than porcelain types. They are made from various metal alloys, including nickel, chromium, palladium, platinum, and gold. However, the main drawback of metal dental crowns is that they don’t look natural and can be easy to spot. For this reason, they are mostly placed solely on out-of-sight back teeth like molars and premolars.
+#### Stage 1: Demineralization
 
-One type of metal dental crown blows the others out of the water: gold. Gold has been a staple of dental care for 4,000 years, and its use in dental crowns is no exception. While these crowns are still made from several metal alloys rather than 100% elemental Au, they typically range from 10 to 22-karat gold. Most gold crowns are about 16 karats, which is about 67% gold. 22-karat crowns are as much as 92% gold. The more gold used, the more valuable and beneficial it can be for your tooth’s health and crown’s success.
+In its earliest stage, tooth decay first appears as white and chalky patches on your teeth. The acids found in plaque and bacteria initially strip the enamel of crucial minerals like calcium that help strengthen and protect the tooth. You can reverse this demineralization with good at-home care since the enamel is only weakened but not injured.
 
-Here are just a few of the many advantages of a gold dental crown:
+#### Stage 2: Enamel Decay
 
-## Long-Lasting and Durable
+As demineralization weakens the tooth, dental decay can gradually break down the enamel (and later the inner tooth). As decay burrows a small hole into your tooth, the first cavity forms. White tooth spots may also begin darkening. At this stage, the damage to your tooth is permanent and will need professional treatment.
 
-The best part about gold crowns is that they are highly durable and incredibly long-lasting. Metal is highly resistant to wearing down, chipping, or breaking, making these crowns extremely durable. This makes them popular with back teeth and molars, which need strong crowns that can withstand the full biting power of these teeth. Gold, in particular, has the unique advantage of being softer and wearing down at the same rate as enamel. Your crown also won’t damage the opposite teeth when biting down or eating, even after years and decades.
+#### Stage 3: Dentin Decay
 
-How long do gold crowns last? Gold crowns can easily last 30 to 50 years on average. With good care and attention, many patients can keep their gold dental crowns in excellent condition for a lifetime. They are easily one of the longest-lived types of dental crowns available. To get the most out of your dental crown, we recommend practicing good oral hygiene and paying regular visits to your dentist.
+Tooth decay eventually breaks through the hard outer enamel to attack the more vulnerable dentin layer below. Dentin is more sensitive than enamel, so you may notice twinges of discomfort or pain in your tooth that you didn’t before. Tooth decay will also pick up more speed as it wears down this softer layer of the tooth.
 
-Even other metal crowns made of nickel, chromium, platinum, and palladium are not quite as durable. On average, base metal crowns last about 20 to 25 years, though they can last more than 30 when taken care of well. Porcelain-type dental crowns have an even shorter lifespan of about 5 to 15 years as they are more brittle and wear down faster over time.
+#### Stage 4: Pulp Decay
 
-## Aesthetic
+Below the dentin is the dental pulp. This is the most sensitive and vulnerable part of the tooth because it contains its nerves and blood vessels. Damage to this central dental layer will not only be painful but also put your tooth’s health at serious risk. The pulp runs down the tooth’s roots, and tooth decay can cause infection in these critical structures.
 
-Gold crowns can’t blend in with your natural smile like porcelain-type ones. However, many patients prefer gold’s regal appearance to any other silver-colored metal crown. Gold has been a symbol of wealth for thousands of years, and a gold tooth is often seen as a fashion statement for people wanting to show off their big wallets. Gold dental crowns also don’t corrode or stain like other metal crowns. This means your tooth will keep its shine for as long as you have it—which can easily be your entire lifetime!
+#### Stage 5: Tooth Abscess Formation
 
-## Less Preparation
+In the last stage, decay and oral bacteria may spill from the infected tooth’s roots into the surrounding gum tissues. This can create a pocket of pus called a tooth abscess. Abscesses are incredibly painful and potentially dangerous when left untreated. If the abscess bursts, the infection can spread to the rest of the mouth or even throughout your body.
 
-Gold crowns are slightly thinner than most other types of dental crowns while still not impacting their durability and longevity. What does this mean exactly? Your tooth will require less [preparation](https://www.news-medical.net/health/Procedure-for-Dental-Crowns.aspx) than other crowns. To ensure the crown fits, the target tooth must be shaved down and trimmed. With a thinner crown, the dentist can leave more of the base tooth intact. This both keeps the tooth stronger and healthier while also saving you more time in the dental chair.
+## What Does A Decayed Tooth Look Like?
 
-## Cost
+As we’ve already mentioned, first-stage tooth decay shows itself as white spots on the enamel from demineralization. As dental decay starts breaking down the tooth’s surface, these spots can gradually darken to a brown, gray, or black, depending on the cavity’s severity. After a cavity forms, it can be seen as a visible pit, deepening as the cavity worsens. If an abscess forms, you may notice a white pimple on your gums as pus fills up the pocket below.
 
-While gold itself can be costly, gold dental crowns can be surprisingly affordable compared to other crown materials. Is a gold crown cheaper than porcelain? In many cases, yes. All-porcelain crowns are the most expensive dental crown material due to their unmatched appearance and aesthetic. In comparison, a patient’s gold dental crown cost is much more affordable, often within the same range as a PFM crown. Gold crowns are still more costly than a base alloy metal crown. Still, their unrivaled longevity often makes them a much better investment overall.
+However, some of the signs of tooth decay aren’t so noticeable to the naked eye. They can still be difficult to ignore, especially as your cavity worsens and puts your tooth’s health at further risk. Other cavity symptoms include:
 
-Dental crowns are also covered by dental insurance. Most providers cover 50% of the cost, though this can differ depending on your specific plan. Please note that [dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are often not covered by insurance. (Some full coverage plans may provide part of the implant’s dental crown cost.) At Nu Dentistry Houston, we accept all PPO dental plans. However, for patients without insurance, we also offer alternative financing options, which you can check out [here](https://www.nudentistry.com/dental-financing/). If you have any questions about your dental crown cost, please call our dental office and schedule a consultation with our dental team.
+* Persistent toothache
+* Sharp pain in your tooth when biting down
+* Halitosis (bad breath that won’t go away)
+* Intense tooth sensitivity to hot and cold
+* Lingering sensitivity to sweets
+* Tooth becoming numb
 
-## Is A Gold Crown Better Than Porcelain?
+When a cavity becomes severe enough, your tooth pain may suddenly disappear. This is a blaring warning sign to see your dentist immediately. A numb tooth is often a sign that it is on the brink of death. In the last tooth decay stages, enough of the tooth’s dental pulp can be damaged or destroyed that the tooth’s nerve can no longer warn you about your cavity. Waiting too long for treatment may mean that a dentist can no longer save your tooth. It may need to be [removed](https://www.nudentistry.com/houston-tx/emergency-dentistry/tooth-extraction/).
 
-Ultimately, which crown is best changes on a case-by-case basis. It depends on each patient’s specific needs and personal preferences. Some patients value a crown’s appearance the most, so all-porcelain crowns are often their go-to for all teeth, both in the front and the back. However, other patients prefer function over aesthetics. They may want a gold crown for their damaged molars and other back teeth. Let’s take a quick look at both the advantages and disadvantages of both:
+## How To Get Rid Of Cavities
 
-#### Gold Crowns
+How is tooth decay treated? This depends on the stage of tooth decay.
 
-Pros:
+#### Fluoride
 
-* Unrivaled strength and durability
-* Can last 20 to 30 years more (or longer) than porcelain
-* Resistant to corrosion and stains
-* Requires minimal tooth reshaping
-* Wears down slower, at the same rate as enamel
-* Gentler and less harmful on opposite teeth
+If tooth decay hasn’t formed a cavity yet, you can reverse the damage with great dental hygiene habits. This doesn’t just mean brushing and flossing your teeth—though those are certainly important parts too. Instead, you need to start adding fluoride to your routine. Fluoride is a naturally occurring mineral that enriches tooth enamel and makes it more resistant to demineralization. While it is often used to strengthen teeth and prevent cavities, it can also remineralize teeth.
 
-Cons:
+Fluoride is often added to drinking water, but we recommend using fluoridated toothpaste and mouthwash instead for more effective treatment. Dentists can also apply fluoride to your teeth with sealants after dental cleanings. If you use fluoride, do not eat or drink anything (including water) for at least 30 minutes. Otherwise, you will wash the fluoride away and keep your teeth from fully absorbing the mineral.
 
-* Unnatural appearance
-* Can cause allergic reactions to metal
+#### Dental Filling
 
-#### Porcelain Crowns
+Once dental decay causes a cavity, your tooth will need professional treatment. The first and most common way to repair dental damage is with a [cavity filling](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). Dental fillings are typically used for smaller cavities. They can also reinforce the tooth and protect it from further deterioration. Dental composite is the most common material used for this tooth decay treatment. This tooth-colored resin is designed to match the rest of your tooth so that no one can tell your enamel from your filling.
 
-Pros:
+To fill a tooth, your dentist will first numb your mouth with a local anesthetic. From there, we can get to work removing the cavity with a dental drill. Once the tooth is decay-free, it will be disinfected and filled with composite. The composite is cured and hardened with UV light, with minor adjustments made to ensure the filling fits and feels just like your tooth did pre-cavity. Depending on the cavity’s size, the entire tooth filling process takes 20 minutes to an hour.
 
-* Most realistic appearance; can look like a real tooth
-* Best option for front teeth
-* Adequate strength
-* Entirely metal-free (no allergic reactions)
+#### Dental Crown
 
-Cons:
+More extensive cavities may require a [dental crown](https://www.nudentistry.com/houston-tx/restorative-dentistry/tooth-crown/) instead. While a cavity filling can fix a specific area of your tooth, dental crowns restore the entire tooth’s surface. This custom dental cap provides greater protection and reinforcement to your decayed tooth. Crowns can be made from different materials, each with its strengths and weaknesses:
 
-* Prone to chipping and fractures under pressure
-* Can wear down opposing teeth over time
-* Doesn’t last as long as metal or gold crowns
-* More costly than gold crowns
+* **All-Porcelain.** All-porcelain crowns are often patients’ and dentists’ first choice for dental crowns. They offer the most natural appearance and can be made to match the rest of your smile. They are also very durable and can last more than 20 years.
+* **Metal.** Metal crowns are the strongest option, rarely cracking or breaking under pressure. However, their unnatural appearance means they are typically only placed on less visible back teeth. Metal crowns can last more than 30 years on average. Gold crowns are even more durable than base metals and can last more than 50 years—possibly even a lifetime.
+* **Porcelain-Fused-To-Metal (PFM).** PFM crowns are a combination of a metal base and a porcelain surface. This strikes a balance between aesthetics and durability. These crowns can last as long as all-porcelain while better preventing chips and cracks.
 
-In many cases, PFM crowns can use gold as their base metal rather than most non-precious metal alloys. This lets patients compromise between these two choices for a combination of both aesthetics and durability.
+#### Root Canal
 
-Are you ready to get your smile fixed up and shiny for a lifetime with a gold tooth crown? Call our Houston dental office today to schedule an appointment with our expert dentists.
+Once tooth decay reaches the pulp, you will need a [root canal](https://www.nudentistry.com/houston-tx/emergency-dentistry/root-canal/). Since the pulp is much more sensitive and complex than enamel or dentin, a specialist called an endodontist often performs this procedure. Like with a cavity filling or crown, all of the decay is removed via a drill. Especially deep cavities may require an entire tooth root or canal cleared out. A root canal can also help safely drain a dental abscess that might have formed.
+
+With only healthy dental tissues remaining, your tooth will be disinfected and filled with a toothpaste-like substance called gutta-percha. Gutta-percha is rubbery to help hold the root structure together now that the tooth is much more brittle. It also acts as a seal to keep bacteria out. Finally, the tooth will need to be reinforced and strengthened to protect the hollowed-out and weakened tooth from future damage. This reinforcement is often a dental crown since it offers the best long-term and comprehensive protection. However, a dental filling may be used instead in some instances.
