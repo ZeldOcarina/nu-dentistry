@@ -1,94 +1,119 @@
 ---
-title: 'Bleeding Gums In Houston, Tx: Causes And Treatments'
+title: The Most Common Causes Of Gum Pain In Houston, Tx
 
 ---
-If you’ve ever asked yourself, “Why are my gums bleeding for no reason?” you’re not alone. From poor oral hygiene and diets to pregnancy and drug use, gingival bleeding is a widespread problem that our dentists and hygienists see here at Nu Dentistry. But are bleeding gums dangerous? It depends on the reason. Some reasons are relatively harmless, like brushing a little too hard with a new toothbrush. Others can lead to long-lasting and disastrous problems that can plague your smile for a lifetime.
+Cut and bleeding gums, pain while chewing, pus-filled periodontal abscesses—our dentists have seen them all here at Nu Dentistry. We often have patients come in asking, “Why do my gums hurt?” but the source isn’t always so apparent as a sharp, broken tooth or brushing your teeth a little too hard at night. Your gums are incredibly sensitive, and there are a wide variety of reasons why your gums have suddenly flared in pain. Some of the most common causes include:
 
-Identifying the exact cause can be essential for helping us plan the right bleeding gums treatment for you. Common bleeding gums causes include:
-
-* Gingivitis and gum disease
-* Chewing tobacco
-* Your dental hygiene routine
-* Medications like blood thinners
-* Hormonal changes during pregnancy
-* Poor diet
+* Gum disease
+* Canker sores
+* Hormone changes
+* Tobacco
+* Dental abscesses
+* Oral cancer
 
 ## Gum Disease
 
-If you experience bleeding gums when brushing or flossing your teeth, particularly if you haven’t done them in a while, you likely have [gum disease](https://www.nudentistry.com/houston-tx/emergency-dentistry/gingivitis/). Nearly half of all Americans over the age of 30 have some form of gum, or periodontal, disease. That number only increases as we grow older, with 70% of all adults 65 years and older developing it. As the leading cause of adult tooth loss, bleeding gums from periodontal disease shouldn’t be ignored or left untreated.
+[Gum disease](https://www.nudentistry.com/houston-tx/emergency-dentistry/gingivitis/) is an infection and inflammation of the gums, most commonly caused by poor oral hygiene. When you don’t regularly brush and floss or you skip out on your regular 6-month dental cleaning, bacteria and plaque build up on your teeth and begin to spread beneath your gums.
 
-Gum disease can ravage your smile as plaque and bacteria build up on the parts of the teeth below the gums. Worsening gum disease causes your gums to recede and the bones supporting your teeth deteriorate until your teeth can no longer be secured in place.
+There are four main stages of gum disease: gingivitis, slight periodontitis, moderate periodontitis, and advanced periodontitis. Only gingivitis is curable and can be fully reversed in two weeks. Gingivitis treatment needs only consistent healthy dental hygiene habits. A more extensive gum disease treatment by one of our talented periodontists is required in later stages. Standard procedures include deep cleaning, gum flap surgery, and tissue grafts.
 
-Gum bleeding isn’t the only sign of developing gingivitis. Other gum disease symptoms include:
+If you recognize any of these gum disease symptoms, please see one of our Houston dental office for a comprehensive exam and consultation:
 
-* Red or purple gums
-* Swollen, tender or painful gums
-* Pain when chewing
-* Receding gum line or teeth that look longer
-* Halitosis (persistent bad breath)
-* Sensitivity to hot and cold
-* Loose and shifting teeth
+* Painful, swollen gums
+* Red and tender gums
+* Gums that bleed when brushing or flossing
+* Receding gums
+* Abscess, or pus between your teeth
+* Persistent bad breath
+* Change in fit of bite
+* Loose teeth
+
+## Canker Sores
+
+A canker sore is an open mouth ulcer that often forms on the base of your gums or inside the lips and cheeks. These sores are usually white or red at their center and surrounded by red, inflamed gum tissue. They can be very painful, but they aren’t contagious.
+
+No one is quite sure what causes canker sores, but there are several possible reasons:
+
+* Mouth injuries
+* Allergic reaction to certain foods or bacteria
+* Hormonal shifts in women during menstruation
+* Stress
+* Celiac disease
+* Weak immune system
+* Vitamin B-12, zinc, iron, or calcium deficiencies
+
+Canker sores often go away on their own in one to two weeks, though larger and deeper ones can take up to six weeks to heal. An easy canker sore treatment for both gum pain relief and quicker healing is rinsing with a salt or baking soda water mix for 15 to 30 seconds to allow your canker sore to dry out. However, if your canker sore is larger than average, lasts more than two weeks, or is recurring before old ones heal, you should see our Houston dentists at Nu Dentistry for professional consultation and treatment.
+
+## Hormone Changes
+
+Women can experience gum pain during one of the multiple periods of [hormonal changes](https://www.mouthhealthy.org/en/az-topics/h/hormones) that they experience throughout their life:
+
+* Puberty. Increased blood flow to your gums can cause them to feel swollen or painful. Some teenagers may also develop painful canker sores.
+* Menstruation. For some women, their gums may bleed or their salivary glands may swell in the days before their period.
+* Pregnancy. A woman’s hormones are in flux during pregnancy, particularly between the second and eighth months, causing swelling, bleeding, and tenderness.
+* Menopause. During menopause, many women experience dry mouth. Dry gums can cause soreness and bleeding, and a lack of saliva makes it easier for plaque to form and cavities or gum disease to develop.
+
+## Tobacco Use
+
+Smoking tobacco products like cigarettes, cigars, and chewing tobacco can damage your gums, causing irritation, pain, and bleeding. Smokeless tobacco can also make its mark on your mouth and cause even more damage as they are often placed directly on the gum.
+
+Tobacco use leaves you at further risk for:
+
+* Gum disease
+* Receding gums
+* Mouth sores
+* Oral cancer
+
+## Abscesses
+
+A dental abscess is a pocket of pus that forms in the gums or base of a tooth, usually due to bacterial infection. Bacteria often build up and infect the gums due to severe cavities and gum disease. With untreated cavities, bacteria and plaque burrow their way through your tooth until they escape into the gums through the root. Gum disease occurs when plaque and bacteria spread to the surface of your tooth below the gum line.
+
+There are three main types of dental abscesses:
+
+* Periapical abscesses form at the tip of a tooth’s root typically during late-stage tooth decay.
+* Periodontal abscesses form pockets of pus between the teeth and gums. They are often located along the gum line since they develop with the advanced periodontitis stage of gum disease.
+* Gingival abscesses occur only on the gums, leaving the tooth that the gums hold in place untouched. This type often occurs due to an impact with a foreign object causing an infection of the gums.
+
+If a dental abscess forms, it is a severe [dental emergency](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) in need of immediate treatment. When an abscess is involved, common procedures include abscess drainage, root canals, antibiotics, tooth extraction, and removal of foreign objects. The infected gum tissue may also need to be removed through surgery.
+
+## Oral Cancer
+
+Oral cancer is a cancer of the mouth and throat, with tumors, growths, and lesions that usually appear in and around the tongue, lips, inner cheeks, gums, and roof and floor of the mouth. More than 50,000 cases are diagnosed every year, and an estimated 10,750 patients will die, most often due to late diagnosis. Common symptoms of oral cancer include:
+
+* Swelling or lumps on and around the lips, gums, inner cheeks, and other areas of the mouth
+* Unexplained mouth bleeding
+* White and red patches or sores in the mouth
+* Face, neck, or mouth numbness or tenderness
+* Persistent sore throat or a “frog” in your throat
+* Difficulty eating, swallowing, speaking
+* Ear pain
 * Change in bite
+* Sudden weight loss
 
-#### What Is the Main Cause of Gingivitis?
+While many patients with oral cancer experience gum pain, many don’t seek treatment or a diagnosis until it’s progressed to its later, more critical stages. Please see our dental office for an exam and consultation at the first signs of developing oral cancer.
 
-The most common reason our patients develop gingivitis and gum disease is poor oral hygiene. When you don’t brush and floss your teeth as your dentists recommend, plaque and bacteria accumulate on your teeth and below your gums. This buildup irritates the gums, causing them to become inflamed and infected. Other factors that can play a role include diabetes, tobacco use, hormone changes in women, dry mouth, genetics, and certain medications and illnesses.
+## Frequently Asked Questions
 
-#### Can You Fix Periodontal Disease?
+#### What causes gum inflammation?
 
-When your gum disease is in its earliest stage, gingivitis can be fully cured and reversed with time, care, and attention. At this point, plaque and bacteria have only begun to irritate but not damage your gums. With a trip to our Houston dental office for a cleaning and some at-home TLC, including brushing and flossing your teeth regularly, you can see your gingivitis go away in 14 days. You may notice that your gums still bleed during the first few days, but this will clear up as you remove all of the buildup beneath your gums.
+The leading cause of gum inflammation is gum disease, which is most commonly a result of poor oral hygiene. When you fail to brush and floss your teeth regularly, bacteria and plaque can build up beneath your gums, causing redness and irritation. However, other gum disease factors include tobacco use and hormone changes.
 
-Once gingivitis becomes periodontitis, your teeth’s supporting gums and bones become irreversibly attacked. At this point, your gum disease can be managed, not cured, with professional treatment at your dentist’s office. At Nu Dentistry, standard methods we use include [deep cleanings](https://www.mouthhealthy.org/en/az-topics/s/scaling-and-root-planing), pocket reduction surgery, and gum and tissue grafts. However, if left untreated for too long, your teeth may become loose enough that they fall out!
+#### When should I be concerned about bleeding gums?
 
-## Chewing Tobacco
+Bleeding gums are fairly common and can be caused by brushing your teeth too enthusiastically or wearing ill-fitting dentures too long. However, you should seek one of our Nu Dentistry periodontists if the bleeding is frequent, excessive, or caused by a chipped or fractured tooth. Excessive and recurring bleeding can be warning signs of gum disease or oral cancer. Sharp, broken teeth should be thoroughly examined not just for repair but to ensure that there is no infection or further complications in the tooth.
 
-Chewing tobacco, or “dip,” doesn’t just cause health problems like oral cancer—it can also lead your gums to recede and bleed. Bleeding gums from dip is especially common when patients brushing or flossing their teeth because, similar to gum disease, tobacco and nicotine irritate the gums. Unlike with gum disease, however, these toxic chemicals don’t just fester under your gums. They are absorbed directly into the gums from where they sit plastered against them. Chewing tobacco also makes it incredibly easy for your gums to develop gingivitis and become diseased.
+#### Why do I keep getting canker sores in my mouth?
 
-Here are some other ways frequently using dip can impact your smile:
+If you frequently develop canker sores, it can be due to a wide range of possible causes. Your diet, genetic predisposition, hormones, and existing diseases and illnesses you may have can leave you more likely to get canker sores. How hard you brush your teeth or even what toothpaste you use may be a factor as well.
 
-* Gum recession
-* Bone loss around your teeth
-* Tooth loss
-* Quickly stain your teeth
-* Damage tooth enamel
-* Lead to cavities and gum disease
-* Increase the risk for oral cancer
+#### How long can an abscess go untreated?
 
-## Medications
+As soon as you notice a dental abscess forming, you should immediately see one of our Nu Dentistry dentists. By the time an abscess develops in your gum or at the root of your tooth, you are in the last and most critical stage of either gum disease or [tooth decay](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). At this point, your tooth is on the brink of death, determining whether or not responsive emergency treatment can save it. Without quick action, the tooth will need to be extracted, and the infection may spread elsewhere in the mouth and body. It can even be potentially life-threatening.
 
-Medications like blood thinners make it more difficult for your blood to clot and easier for your gums to bleed. Just as you would your doctor, you should always inform your dentist of any new medications you start using. This allows us to better understand and account for any complications that might arise. We can also give you recommendations to minimize or prevent these complications, including gingival bleeding.
+#### Who is most at risk of mouth cancer?
 
-## Pregnancy
+Men over the age of 55 with poor nutrition and dental hygiene habits, particularly those who smoke or drink alcohol, are most at risk of developing oral cancer. Patients with a weakened immune system or HPV are also at a higher risk.
 
-When a woman is pregnant, her body experiences frequent hormonal changes that upset its natural balance. As your hormones change, so can your body’s response to oral bacteria. For some women, their smiles become more susceptible to bacteria and plaque, often leading to “pregnancy gingivitis.”
+#### What is the leading cause of oral cancer?
 
-Bleeding gums during pregnancy usually clears up by the end of month 8. Still, it’s crucial for expecting mothers to take good care of their teeth and gums. Be sure to maintain a close relationship with your dentist during this time. Please come in to see us if you notice any new developments with your teeth or gums. The damage gingivitis and periodontitis do to your mouth can be a nightmare. The earlier you come in at the first signs of trouble, the quicker and easier it will be to take care of your smile.
-
-## Poor Diet
-
-The foods you eat can have a huge and lasting impact on your body, and your gums are no exception. Foods high in vitamins C and K, keep your gums healthy and your smile in top form. Vitamin C deficiency can lead to scurvy, which isn’t just a problem for pirates like you might think. Along with bleeding gums, scurvy can lead to anemia, chronic exhaustion, gingivitis, jaundice, and even death. Vitamin K allows your blood to clot. While not as catastrophic, a diet lacking vitamin K can make it easy for your gums to bleed and difficult for them to stop once they start.
-
-To help your gums stay fit and prevent bleeding, our Houston dentists recommend you try eating these foods:
-
-* Citrus fruits
-* Broccoli
-* Lettuce
-* Soybeans
-* Spinach
-* Olive oil
-* Tomatoes
-* Bell peppers
-* Strawberries
-* Potatoes
-
-## How Do You Fix Bleeding Gums?
-
-**Practice excellent oral hygiene.** One of the most common reasons for bleeding gums is poor oral hygiene. Brushing twice and flossing once daily is an amazingly effective gingivitis treatment, removing all plaque and bacteria buildup beneath the gums in as little as two weeks. We may also recommend that you see your Houston dentist for a [professional dental cleaning](https://www.nudentistry.com/houston-tx/general-dentistry/dental-cleaning/), which should be done regularly at least once every six months. For later stages of periodontal disease, a deep cleaning may be required to clear your teeth down to the roots of hardened plaque and bacteria.
-
-**Use a soft or electric toothbrush.** While you’re working to better your gums, especially when they’re inflamed from periodontal disease, the type of toothbrush you use can make all the difference. If you’ve just bought a new toothbrush with stiff bristles, brushing too aggressively can irritate your gums and cause them to bleed further. By switching to a soft bristle brush, you can be gentle with your smile even as you work to make it healthier.
-
-An electric toothbrush is programmed to move and rotate to your teeth’s best advantage. These toothbrushes can be especially effective along your gum line, making it easier to clean your teeth better than a manual one. They can also come with built-in timers to ensure you always brush your teeth the full two minutes it takes to give each of your teeth the attention they need. Whichever toothbrush you choose, be sure to replace yours every three or four months. You may need to do this sooner if you are a more enthusiastic brusher because your brush’s bristles may quickly become frayed.
-
-**Quit using chewing tobacco.** Just as using dip can cause problems like gum bleeding, gum recession, periodontal disease, and cancer, so can going cold turkey reduce its effects. While you might not fully recover from the damage, you may find your inflammation and gum disease steadily improving within two to six weeks of quitting.
-
-**Listen to your dentist.** If your Nu Dentistry dentist has any specific recommendations or instructions for how to stop bleeding gums, their suggestions should not be ignored. This can mean easy, at-home treatments like rinsing with a saltwater solution or dentist-recommended mouthwash or adding more fruits and green vegetables to your diet. However, we may request that you receive professional treatment under our care. These procedures can include periodontal disease treatments like pocket reduction surgery, gum and bone grafts, or dental extractions in worst-case scenarios.
+Tobacco use, including cigarettes, pipes, chewing tobacco, and cigars, is the #1 cause of oral cancer. Smoking is so damaging to your health that even secondhand smoke can put you at risk for developing oral cancer. The second leading cause is frequent, heavy alcohol consumption. Put together, both tobacco and alcohol can dramatically increase your risk.
