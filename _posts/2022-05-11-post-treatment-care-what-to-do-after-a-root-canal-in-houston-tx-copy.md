@@ -1,119 +1,91 @@
 ---
-title: The Most Common Causes Of Gum Pain In Houston, Tx
+title: 'Emergency Tooth Extraction: Treating Cavities, Gum Disease, And Wisdom Tooth
+  Impaction'
 
 ---
-Cut and bleeding gums, pain while chewing, pus-filled periodontal abscesses—our dentists have seen them all here at Nu Dentistry. We often have patients come in asking, “Why do my gums hurt?” but the source isn’t always so apparent as a sharp, broken tooth or brushing your teeth a little too hard at night. Your gums are incredibly sensitive, and there are a wide variety of reasons why your gums have suddenly flared in pain. Some of the most common causes include:
+It’s the goal of every dentist, including our talented staff at Nu Dentistry, to keep their patients’ smiles as intact and healthy as possible. However, when a worst-case scenario happens—a tooth has become damaged beyond repair—an [emergency dental extraction](https://www.nudentistry.com/houston-tx/emergency-dentistry/tooth-extraction/) is needed.
 
-* Gum disease
-* Canker sores
-* Hormone changes
-* Tobacco
-* Dental abscesses
-* Oral cancer
+An emergency tooth extraction may be needed if there is:
 
-## Gum Disease
+* Severe jaw pain and toothaches
+* Dark discoloration on your tooth
+* Late-stage gum disease or tooth decay
+* A tooth abscess or pus around your teeth and gums
+* Loose or shifting teeth
+* Dental trauma to the mouth
+* Wisdom tooth impaction
+* A break or fracture in a tooth that can’t be fixed
 
-[Gum disease](https://www.nudentistry.com/houston-tx/emergency-dentistry/gingivitis/) is an infection and inflammation of the gums, most commonly caused by poor oral hygiene. When you don’t regularly brush and floss or you skip out on your regular 6-month dental cleaning, bacteria and plaque build up on your teeth and begin to spread beneath your gums.
+While most emergency extractions are done only when the worst has already happened, the one exception is impacted wisdom teeth. An impacted tooth doesn’t have enough room to emerge from beneath the gums. They can cause a whole host of problems for your mouth, from gum disease and cavities to bleeding and damage to nearby teeth. In many cases, your Houston dentist may choose to perform an emergency wisdom tooth extraction to prevent a lot of pain and frustration for you in the future.
 
-There are four main stages of gum disease: gingivitis, slight periodontitis, moderate periodontitis, and advanced periodontitis. Only gingivitis is curable and can be fully reversed in two weeks. Gingivitis treatment needs only consistent healthy dental hygiene habits. A more extensive gum disease treatment by one of our talented periodontists is required in later stages. Standard procedures include deep cleaning, gum flap surgery, and tissue grafts.
+## Emergency Extraction Procedure
 
-If you recognize any of these gum disease symptoms, please see one of our Houston dental office for a comprehensive exam and consultation:
+There are two types of tooth removal: simple extraction and surgical extraction. Which one your emergency dentist performs depends on whether or not your tooth is impacted below the gums.
 
-* Painful, swollen gums
-* Red and tender gums
-* Gums that bleed when brushing or flossing
-* Receding gums
-* Abscess, or pus between your teeth
-* Persistent bad breath
-* Change in fit of bite
-* Loose teeth
+#### Simple Extraction
 
-## Canker Sores
+For teeth fully visible above the gum line, your dentist will perform a simple extraction. This method involves loosening the tooth from the gums with a dental elevator device and then pulling it free with forceps.
 
-A canker sore is an open mouth ulcer that often forms on the base of your gums or inside the lips and cheeks. These sores are usually white or red at their center and surrounded by red, inflamed gum tissue. They can be very painful, but they aren’t contagious.
+#### Surgical Extraction
 
-No one is quite sure what causes canker sores, but there are several possible reasons:
+A surgical extraction is performed for teeth that have not fully emerged from the gums. Usually, these teeth have either broken beneath the gum line or are impacted, as is most often the case during wisdom teeth removal. To reach them, your dentist will make a small incision and then painlessly pull your tooth from the gum. Your dentist may need to suture the cut closed.
 
-* Mouth injuries
-* Allergic reaction to certain foods or bacteria
-* Hormonal shifts in women during menstruation
-* Stress
-* Celiac disease
-* Weak immune system
-* Vitamin B-12, zinc, iron, or calcium deficiencies
+No matter which emergency treatment you need, your mouth will be numbed beforehand with a local anesthetic to keep you from feeling a thing throughout your procedure. Some patients, particularly those with dental anxiety, can choose to use [dental sedation](https://www.nudentistry.com/houston-tx/specialty-dentistry/sedation-dentistry/) instead to ease their minds as well as their mouths. IV and oral sedation are most often used during surgical extraction as they often keep patients relaxed enough during their treatment that they fall asleep in the dental chair.
 
-Canker sores often go away on their own in one to two weeks, though larger and deeper ones can take up to six weeks to heal. An easy canker sore treatment for both gum pain relief and quicker healing is rinsing with a salt or baking soda water mix for 15 to 30 seconds to allow your canker sore to dry out. However, if your canker sore is larger than average, lasts more than two weeks, or is recurring before old ones heal, you should see our Houston dentists at Nu Dentistry for professional consultation and treatment.
+## Tooth Extraction Aftercare
 
-## Hormone Changes
+After your procedure, our dentists at Nu Dentistry will provide you with a detailed and easy-to-follow list of instructions so that your healing process is smooth. We want to ensure you feel as little post tooth extraction pain as possible while preventing any chance of dry socket or a tooth extraction infection. Here are some tips we highly recommend you follow to the best of your ability:
 
-Women can experience gum pain during one of the multiple periods of [hormonal changes](https://www.mouthhealthy.org/en/az-topics/h/hormones) that they experience throughout their life:
+* Rest and relax for the first 24 hours following your procedure. Take a day or two off from work or school depending on how you feel.
+* Prepare to have someone pick you up after your procedure and bring you home, especially patients who used oral or IV sedation during treatment. You cannot drive anywhere for at least 24 hours after dental sedation.
+* Avoid spitting, drinking from a straw, and any strenuous exercise for the first few days. These activities can make it more difficult for a blood clot to form.
+* Don’t smoke 24 hours before and 24 hours after your extraction.
+* If you experience any discomfort or facial swelling in the first 2 or 3 days after your dental extraction, use an ice pack in 15-minute intervals. We recommend that for patients with multiple extractions done on both sides of the face, you switch off every 15 minutes.
+* Over-the-counter pain relievers are also great ways to reduce any pain you may feel during the recovery process.
+* Avoid brushing or flossing near the site of your tooth removal as your mouth heals.
+* Keep to a liquid and soft food diet for the first few days. From there on, you can slowly begin returning to your normal diet. However, you should still try staying away from crunchy, hard, or sticky food for a week.
+* Do not eat on the side of your extraction for two weeks to keep any food bits or particles from getting stuck in the space left behind by your missing tooth.
+* After the first 24 hours, rinse your mouth after every meal with a warm salt water rinse to disinfect and soothe the extraction site. Be sure not to spit out the water when you’re done.
 
-* Puberty. Increased blood flow to your gums can cause them to feel swollen or painful. Some teenagers may also develop painful canker sores.
-* Menstruation. For some women, their gums may bleed or their salivary glands may swell in the days before their period.
-* Pregnancy. A woman’s hormones are in flux during pregnancy, particularly between the second and eighth months, causing swelling, bleeding, and tenderness.
-* Menopause. During menopause, many women experience dry mouth. Dry gums can cause soreness and bleeding, and a lack of saliva makes it easier for plaque to form and cavities or gum disease to develop.
+If you have any questions or concerns about your recovery process, please don’t hesitate to call our Houston dental office and schedule an appointment with our attentive dentists. We understand
 
-## Tobacco Use
+## What To Eat After Tooth Extraction
 
-Smoking tobacco products like cigarettes, cigars, and chewing tobacco can damage your gums, causing irritation, pain, and bleeding. Smokeless tobacco can also make its mark on your mouth and cause even more damage as they are often placed directly on the gum.
+In those first few days after your tooth removal, you should stick to a mostly liquid and soft food diet. As you recover, you must keep your body stocked up on all of the nutrients and vitamins it needs to stay strong and healthy. Some foods we recommend include:
 
-Tobacco use leaves you at further risk for:
+* Fruit and vegetable smoothies
+* Applesauce and mashed bananas
+* Blended soups and broths
+* Jell-O
+* Yogurt
+* Ice cream
+* Mashed potatoes
+* Soft cheeses
+* Milkshakes
+* Scrambled eggs
+* Avocado
+* Soft cheeses
 
-* Gum disease
-* Receding gums
-* Mouth sores
-* Oral cancer
-
-## Abscesses
-
-A dental abscess is a pocket of pus that forms in the gums or base of a tooth, usually due to bacterial infection. Bacteria often build up and infect the gums due to severe cavities and gum disease. With untreated cavities, bacteria and plaque burrow their way through your tooth until they escape into the gums through the root. Gum disease occurs when plaque and bacteria spread to the surface of your tooth below the gum line.
-
-There are three main types of dental abscesses:
-
-* Periapical abscesses form at the tip of a tooth’s root typically during late-stage tooth decay.
-* Periodontal abscesses form pockets of pus between the teeth and gums. They are often located along the gum line since they develop with the advanced periodontitis stage of gum disease.
-* Gingival abscesses occur only on the gums, leaving the tooth that the gums hold in place untouched. This type often occurs due to an impact with a foreign object causing an infection of the gums.
-
-If a dental abscess forms, it is a severe [dental emergency](https://www.nudentistry.com/houston-tx/emergency-dentistry/emergency-dentistry/) in need of immediate treatment. When an abscess is involved, common procedures include abscess drainage, root canals, antibiotics, tooth extraction, and removal of foreign objects. The infected gum tissue may also need to be removed through surgery.
-
-## Oral Cancer
-
-Oral cancer is a cancer of the mouth and throat, with tumors, growths, and lesions that usually appear in and around the tongue, lips, inner cheeks, gums, and roof and floor of the mouth. More than 50,000 cases are diagnosed every year, and an estimated 10,750 patients will die, most often due to late diagnosis. Common symptoms of oral cancer include:
-
-* Swelling or lumps on and around the lips, gums, inner cheeks, and other areas of the mouth
-* Unexplained mouth bleeding
-* White and red patches or sores in the mouth
-* Face, neck, or mouth numbness or tenderness
-* Persistent sore throat or a “frog” in your throat
-* Difficulty eating, swallowing, speaking
-* Ear pain
-* Change in bite
-* Sudden weight loss
-
-While many patients with oral cancer experience gum pain, many don’t seek treatment or a diagnosis until it’s progressed to its later, more critical stages. Please see our dental office for an exam and consultation at the first signs of developing oral cancer.
+Cold foods are especially great for helping numb any lingering discomfort you may feel, just like an ice pack does. If you choose to eat hot foods like soups, eggs, or potatoes, please wait until they cool down. Heat tends to irritate the gums and cause extra sensitivity during the recovery process.
 
 ## Frequently Asked Questions
 
-#### What causes gum inflammation?
+#### What happens if you wait too long to get wisdom teeth out?
 
-The leading cause of gum inflammation is gum disease, which is most commonly a result of poor oral hygiene. When you fail to brush and floss your teeth regularly, bacteria and plaque can build up beneath your gums, causing redness and irritation. However, other gum disease factors include tobacco use and hormone changes.
+Wisdom teeth removals may not seem as urgent as treating a tooth on the brink of death, such as when a decayed tooth is too far gone for even a root canal to fix. However, leaving them alone once our dentists have identified it as a problem tooth can be a nightmare for your mouth. Just looking at impacted and partially [impacted wisdom teeth](https://www.colgate.com/en-us/oral-health/wisdom-teeth/impacted-tooth), they leave your mouth vulnerable to serious oral health issues like gum disease, cavities, and cysts. They can also cause damage to the roots of their neighbors as they try to erupt through the gums and collide with nearby teeth instead. Even if they do come in, they’re often prone to leaning, crookedness, and overcrowding.
 
-#### When should I be concerned about bleeding gums?
+#### How long does it take to get a tooth pulled?
 
-Bleeding gums are fairly common and can be caused by brushing your teeth too enthusiastically or wearing ill-fitting dentures too long. However, you should seek one of our Nu Dentistry periodontists if the bleeding is frequent, excessive, or caused by a chipped or fractured tooth. Excessive and recurring bleeding can be warning signs of gum disease or oral cancer. Sharp, broken teeth should be thoroughly examined not just for repair but to ensure that there is no infection or further complications in the tooth.
+Simple extractions are quick and easy to perform, usually taking only a few minutes. More complex cases may take over 20 minutes to complete. Surgical extractions are a bit more involved and are about 45 minutes long on average. The length of either of these procedures may be extended if you decide to use oral sedation. While nitrous oxide and IV sedation only take a few minutes to work, oral sedation can take 30 to 60 minutes before the full effects kick in.
 
-#### Why do I keep getting canker sores in my mouth?
+#### What does tooth extraction cost?
 
-If you frequently develop canker sores, it can be due to a wide range of possible causes. Your diet, genetic predisposition, hormones, and existing diseases and illnesses you may have can leave you more likely to get canker sores. How hard you brush your teeth or even what toothpaste you use may be a factor as well.
+The cost of your emergency extraction depends on a variety of factors: how many teeth will be removed, the type of tooth, the location of the extraction, and which extraction procedure is needed. For example, a wisdom tooth extraction for an impacted tooth will differ in price than a fully-emerged front tooth. Your treatment cost may also go up if you choose to use any of our Houston office’s dental sedation options.
 
-#### How long can an abscess go untreated?
+#### What happens if you don't replace an extracted tooth?
 
-As soon as you notice a dental abscess forming, you should immediately see one of our Nu Dentistry dentists. By the time an abscess develops in your gum or at the root of your tooth, you are in the last and most critical stage of either gum disease or [tooth decay](https://www.nudentistry.com/houston-tx/restorative-dentistry/cavity-fillings/). At this point, your tooth is on the brink of death, determining whether or not responsive emergency treatment can save it. Without quick action, the tooth will need to be extracted, and the infection may spread elsewhere in the mouth and body. It can even be potentially life-threatening.
+Except in the case of wisdom teeth, which our mouths often don’t have room for, not replacing a missing tooth can be disastrous for your mouth. Over time, the jawbone where your tooth used to be starts to deteriorate. Bone loss causes the nearby teeth to sink into the space left behind, causing changes and problems in your bite. This can leave your remaining teeth vulnerable to further infection, gum disease, and decay. At its worst, you may need even more teeth pulled.
 
-#### Who is most at risk of mouth cancer?
+#### What is the best option for replacing missing teeth?
 
-Men over the age of 55 with poor nutrition and dental hygiene habits, particularly those who smoke or drink alcohol, are most at risk of developing oral cancer. Patients with a weakened immune system or HPV are also at a higher risk.
-
-#### What is the leading cause of oral cancer?
-
-Tobacco use, including cigarettes, pipes, chewing tobacco, and cigars, is the #1 cause of oral cancer. Smoking is so damaging to your health that even secondhand smoke can put you at risk for developing oral cancer. The second leading cause is frequent, heavy alcohol consumption. Put together, both tobacco and alcohol can dramatically increase your risk.
+While there are multiple tooth replacement options available, [dental implants](https://www.nudentistry.com/houston-tx/restorative-dentistry/dental-implants/) are generally the best way to replace an extracted tooth. Unlike dentures or a dental bridge which only camouflage the gap left behind, an implant is surgically inserted into the gum and jaw to act as a fully functioning tooth, root and all. They are the longest-lasting, often staying intact for over 20 years before needing any replacement. However, their higher price often makes them more preferable for patients who are only missing a single tooth. For multiple missing teeth, your dentist may instead recommend dentures or a bridge. For patients who still want some of the unique benefits of dental implants, we can also restore your smile with implant-supported bridges and dentures.
