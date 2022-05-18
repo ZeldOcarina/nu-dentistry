@@ -86,10 +86,15 @@ blocks:
   superheading: ''
   heading: VENEERS BLEND WITH YOUR SMILE EXACTLY
   text: VENEERS ARE PERFECTLY COLOR MATCHED FOR YOU
-  content: |-
-    Veneers offer astonishing results in way less time than other more-intensive procedures. Although veneers may need to be replaced at some point, they are incredibly durable and last for years. Regular brushing and flossing, as well as visits to our office for regular <a href='/houston-tx/general-dentistry/dental-cleaning/' target='_blank' class='paragraph-link'>dental cleanings and exams</a>, will help make sure that your veneers last as long as possible.
-
-    They’re perfectly color-matched to blend with your smile and can even be used to make them shine whiter and healthier, just like your favorite movie stars. Veneers are incredibly versatile and can easily:
+  content: "Veneers offer astonishing results in way less time than other more-intensive
+    procedures. Although veneers may need to be replaced at some point, they are incredibly
+    durable and last for years. \n\nRegular brushing and flossing, as well as visits
+    to our office for regular <a href='/houston-tx/general-dentistry/dental-cleaning/'
+    target='_blank' class='paragraph-link'>dental cleanings and exams</a>, will help
+    make sure that your veneers last as long as possible.\n\nThey’re perfectly color-matched
+    to blend with your smile and can even be used to make them shine whiter and healthier,
+    just like your favorite movie stars. Veneers are incredibly versatile and can
+    easily:"
   lists:
   - icon: bolt
     icon_color: "#000000"
