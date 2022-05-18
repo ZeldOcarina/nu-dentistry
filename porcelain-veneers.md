@@ -183,9 +183,10 @@ blocks:
       dentist: by incredible dental hygiene or through cosmetic dentistry. Brushing
       your teeth and making regular cleaning appointments can only do so much, however.
       Cosmetic dentistry, which includes not only veneers but teeth whitening, bonding,
-      and [Invisalign](http://50.18.194.110:40030/houston-tx/cosmetic-dentistry/invisalign/),
-      does more than keep your teeth beautifully healthy. These cosmetic services
-      can change the look of your smile so that it’s precisely what you want.'
+      and <a href=''/houston-tx/cosmetic-dentistry/invisalign/'' target=''_blank''
+      class=''paragraph-link''>Invisalign</a>, does more than keep your teeth beautifully
+      healthy. These cosmetic services can change the look of your smile so that it’s
+      precisely what you want.'
   - heading: HOW LONG DO PORCELAIN VENEERS LAST?
     content: Porcelain veneers are amazing for their durability. With proper care
       and dental hygiene habits, they can last you 10 to 15 years before needing replacement.
