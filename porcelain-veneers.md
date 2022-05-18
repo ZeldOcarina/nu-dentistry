@@ -93,15 +93,8 @@ blocks:
     target='_blank' class='paragraph-link'>dental cleanings and exams</a>, will help
     make sure that your veneers last as long as possible.\n\nThey’re perfectly color-matched
     to blend with your smile and can even be used to make them shine whiter and healthier,
-    just like your favorite movie stars. Veneers are incredibly versatile and can
-    easily:"
+    just like your favorite movie stars. Veneers are incredibly versatile and can:"
   lists:
-  - icon: bolt
-    icon_color: "#000000"
-    list:
-    - Straighten and adjust crooked teeth
-    - Reshape broken or misshapen teeth
-    - Whiten stained teeth
   - icon: bolt
     icon_color: "#000000"
     list:
@@ -109,9 +102,12 @@ blocks:
     - Fill gaps and spaces
     - Adjust chipped teeth
     - Fix discolored or grey teeth
-    - Whiten stained teeth
-    - Reshape broken or misshapen teeth
+  - icon: bolt
+    icon_color: "#000000"
+    list:
     - Straighten and adjust crooked teeth
+    - Reshape broken or misshapen teeth
+    - Whiten stained teeth
 - template: text-1
   block: text-1
   background:
