@@ -99,6 +99,12 @@ blocks:
   - icon: bolt
     icon_color: "#000000"
     list:
+    - Straighten and adjust crooked teeth
+    - Reshape broken or misshapen teeth
+    - Whiten stained teeth
+  - icon: bolt
+    icon_color: "#000000"
+    list:
     - Lengthen short teeth
     - Fill gaps and spaces
     - Adjust chipped teeth
