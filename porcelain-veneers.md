@@ -61,14 +61,14 @@ blocks:
   superheading: 
   heading: HOLLYWOOD-PERFECT SMILE WITH PORCELAIN VENEERS IN HOUSTON
   text: YOU’LL NEVER BE HAPPIER WITH YOUR BRAND NEW PEARLY WHITES
-  content: "Smiling is one of the fastest and easiest ways to communicate with others,
-    and a person’s smile can say so much about them. That’s why it’s so important
-    to make sure that yours always looks its best. At Nu Dentistry, our cosmetic dentists
-    are artists with a passion for what we do.  \n  \nWe’re determined to make your
-    new teeth smile brighter and happier than they ever have before with dental veneers.
-    \ \n  \nWhat are dental veneers? Porcelain dental veneers are 0.5mm-thin shells
-    that cover the front of teeth and can help you completely reshape your teeth and
-    transform your smile to exactly how you want it."
+  content: |-
+    Smiling is one of the fastest and easiest ways to communicate with others, and a person’s smile can say so much about them. That’s why it’s so important to make sure that yours always looks its best. At Nu Dentistry, our cosmetic dentists are artists with a passion for what we do.
+
+    We’re determined to make your new teeth smile brighter and happier than they ever have before with dental veneers.
+
+    What are dental veneers? Porcelain dental veneers are 0.5mm-thin shells that cover the front of teeth and can help you completely reshape your teeth and transform your smile to exactly how you want it.
+
+    Get the beautiful smile you deserve with veneers today. Call our office to get started on the brand new you!
   lists: []
 - template: text-1
   block: text-1
