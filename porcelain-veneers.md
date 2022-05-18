@@ -125,7 +125,7 @@ blocks:
   heading: DENTAL BONDING VS. VENEERS
   text: WE WANT YOU TO PERFECT YOUR SMILE ON YOUR TERMS
   content: |-
-    There are many ways that you can get the smile makeover you always wanted. At Nu Dentistry, we want to make sure that you always go into your dental decisions well-informed and excited. When it comes to quick, [tooth transforming cosmetic dentistry](http://50.18.194.110:40030/houston-tx/cosmetic-dentistry/aesthetic-dentistry/), you have to decide which is better: dental bonding or veneers? Dental bonding uses a composite, tooth-colored resin that is applied directly to your tooth and molded to fit your specific needs.
+    There are many ways that you can get the smile makeover you always wanted. At Nu Dentistry, we want to make sure that you always go into your dental decisions well-informed and excited. When it comes to quick, <a href='/houston-tx/cosmetic-dentistry/aesthetic-dentistry/' target='_blank' class='paragraph-link'>tooth transforming cosmetic dentistry</a>, you have to decide which is better: dental bonding or veneers? Dental bonding uses a composite, tooth-colored resin that is applied directly to your tooth and molded to fit your specific needs.
 
     It can still address the same problems as veneers: chipped or cracked teeth, gaps between teeth, short teeth, misalignment, and tooth shape. Dentists also use bonding resin as a natural-looking alternative to amalgam fillings. There is no preparation needed for bonding, and your entire treatment can be completed in a single office visit. In as little as 30 minutes to an hour, you can have your new smile at a lower price. However, dental veneers can outlast bonding by years.
 
