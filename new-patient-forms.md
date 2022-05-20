@@ -32,26 +32,6 @@ offer:
   heading: 
   subheading: 
   disclaimer: ''
-blocks:
-- template: text-1
-  block: text-1
-  background:
-    color: default
-    overlay:
-      opacity: 0.5
-      color: ''
-    image: ''
-    video: ''
-  heading_tag: H1
-  color: dark
-  align: left
-  columns: '1'
-  superheading: 
-  heading: 
-  text: 
-  content: <iframe src="[https://dgp.formstack.com/forms/nu_dentistry_new_patient_form](https://dgp.formstack.com/forms/nu_dentistry_new_patient_form
-    "https://dgp.formstack.com/forms/nu_dentistry_new_patient_form")" title="Nu Dentistry
-    New Patient Form" width="600" height="400"></iframe>
-  lists: []
+blocks: []
 
 ---
