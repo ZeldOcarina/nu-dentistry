@@ -32,6 +32,17 @@ offer:
   heading: 
   subheading: 
   disclaimer: ''
-blocks: []
+blocks:
+- template: text-1
+  block: text-1
+  background:
+    color: default
+    overlay:
+      opacity: 0.5
+  heading_tag: H2
+  color: dark
+  align: left
+  columns: '3'
+  content: form goes here
 
 ---
