@@ -294,24 +294,24 @@ blocks:
   text: NEVER BE AFRAID TO SHOW OFF YOUR SMILE AGAIN!
   superheading: HOUSTON TEXAS PREMIER DENTISTRY //
   cards:
+  - heading: ''
+    before: "/uploads/b4a-1a.jpg"
+    after: "/uploads/b4a-1b.jpg"
   - heading: 
-    before: "/uploads/veneers-b4a-1a.jpg"
-    after: "/uploads/veneers-b4a-1b.jpg"
+    before: "/uploads/b4a-2a.jpg"
+    after: "/uploads/b4a-2b.jpg"
   - heading: 
-    before: "/uploads/implants-b4a-1a.jpg"
-    after: "/uploads/implants-b4a-1b.jpg"
+    before: "/uploads/b4a-3a.jpg"
+    after: "/uploads/b4a-3b.jpg"
   - heading: 
-    before: "/uploads/teeth-straightening-b4a-1a.jpg"
-    after: "/uploads/teeth-straightening-b4a-1b.jpg"
+    before: "/uploads/b4a-4a.jpg"
+    after: "/uploads/b4a-4b.jpg"
   - heading: 
-    before: "/uploads/teeth-straightening-b4a-2a.jpg"
-    after: "/uploads/teeth-straightening-b4a-2b.jpg"
+    before: "/uploads/b4a-5a.jpg"
+    after: "/uploads/b4a-5b.jpg"
   - heading: 
-    before: "/uploads/veneers-b4a-2a.jpg"
-    after: "/uploads/veneers-b4a-2b.jpg"
-  - heading: 
-    before: "/uploads/restoration-b4a-1a.jpg"
-    after: "/uploads/restoration-b4a-1b.jpg"
+    before: "/uploads/b4a-6a.jpg"
+    after: "/uploads/b4a-6b.jpg"
   background:
     color: dark
     image: ''
