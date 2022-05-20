@@ -25,9 +25,7 @@ header:
 title: New Patient Forms
 seo_title: New Patient Forms
 permalink: "/new-patient-forms/"
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  resu...
+description: new patient forms nu dentistry
 keywords: 
 sticky_cta: false
 offer:
@@ -51,7 +49,8 @@ blocks:
   superheading: 
   heading: 
   text: 
-  content: '    <script type="text/javascript" src="https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form"></script>'
+  content: <script type="text/javascript" src="[https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form](https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form
+    "https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form")"></script>
   lists: []
 
 ---
