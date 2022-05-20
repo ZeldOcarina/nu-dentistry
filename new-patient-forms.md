@@ -1,7 +1,7 @@
 ---
 layout: blocks
 header:
-  height: viewport
+  height: none
   background:
     background_style: color
     background_color: "#E2E2E2"
