@@ -128,7 +128,7 @@ blocks:
       * Tooth polishing
       * Gum disease prevention
       * Cavity prevention
-    image: https://via.placeholder.com/800
+    image: "/uploads/nu-dentistry-houston-texas-dental-cleaning-hygiene.jpg"
     overlay:
       opacity: 0.5
       color: ''
@@ -139,7 +139,7 @@ blocks:
       - Any findings from your exam
       - Personalized treatment plan
       - Tips for optimal oral health
-    image: https://via.placeholder.com/800
+    image: "/uploads/nu-dentistry-consultation.jpg"
     overlay:
       opacity: 0.5
       color: ''
