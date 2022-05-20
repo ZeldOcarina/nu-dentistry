@@ -1,0 +1,168 @@
+---
+label: Forms
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: height
+    label: height
+  - type: field_group
+    name: background
+    label: background
+    fields:
+    - type: text
+      name: background_style
+      label: background_style
+    - type: text
+      name: background_color
+      label: background_color
+    - type: text
+      name: overlay
+      label: overlay
+    - type: number
+      name: overlay_opacity
+      label: overlay_opacity
+    - type: file
+      name: background_image
+      label: background_image
+    - type: text
+      name: background_video_file
+      label: background_video_file
+    - type: list
+      name: background_slider
+      label: background_slider
+    - type: text
+      name: gradient
+      label: gradient
+    - type: text
+      name: overlay_color
+      label: overlay_color
+  - type: text
+    name: layout
+    label: layout
+  - type: text
+    name: vertical_align
+    label: vertical_align
+  - type: text
+    name: color
+    label: color
+  - type: field_group
+    name: col_one
+    label: col_one
+    fields:
+    - type: text
+      name: heading
+      label: heading
+    - type: text
+      name: text
+      label: text
+  - type: field_group
+    name: col_two
+    label: col_two
+    fields:
+    - type: text
+      name: heading
+      label: heading
+    - type: text
+      name: text
+      label: text
+  - type: text
+    name: page_navigation
+    label: page_navigation
+- type: text
+  name: title
+  label: title
+- type: text
+  name: seo_title
+  label: seo_title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: description
+  label: description
+- type: text
+  name: keywords
+  label: keywords
+- type: boolean
+  name: sticky_cta
+  label: sticky_cta
+- type: field_group
+  name: offer
+  label: offer
+  fields:
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: subheading
+    label: subheading
+  - type: text
+    name: disclaimer
+    label: disclaimer
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: block
+    label: block
+  - type: field_group
+    name: background
+    label: background
+    fields:
+    - type: text
+      name: color
+      label: color
+    - type: field_group
+      name: overlay
+      label: overlay
+      fields:
+      - type: number
+        name: opacity
+        label: opacity
+      - type: text
+        name: color
+        label: color
+    - type: text
+      name: image
+      label: image
+    - type: text
+      name: video
+      label: video
+  - type: text
+    name: heading_tag
+    label: heading_tag
+  - type: text
+    name: color
+    label: color
+  - type: text
+    name: align
+    label: align
+  - type: text
+    name: columns
+    label: columns
+  - type: text
+    name: superheading
+    label: superheading
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: text
+    label: text
+  - type: textarea
+    name: content
+    label: content
+  - type: list
+    name: lists
+    label: lists
