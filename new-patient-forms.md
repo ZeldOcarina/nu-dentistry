@@ -51,9 +51,7 @@ blocks:
   superheading: 
   heading: 
   text: 
-  content: '    <script type="text/javascript" src="https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form"></script><noscript><a
-    href="https://dgp.formstack.com/forms/nu_dentistry_new_patient_form" title="Online
-    Form">Online Form - Nu Dentistry New Patient Form</a></noscript>'
+  content: '    <script type="text/javascript" src="https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form"></script>'
   lists: []
 
 ---
