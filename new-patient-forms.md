@@ -49,8 +49,9 @@ blocks:
   superheading: 
   heading: 
   text: 
-  content: <script type="text/javascript" src="[https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form](https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form
-    "https://dgp.formstack.com/forms/js.php/nu_dentistry_new_patient_form")"></script>
+  content: <iframe src="[https://dgp.formstack.com/forms/nu_dentistry_new_patient_form](https://dgp.formstack.com/forms/nu_dentistry_new_patient_form
+    "https://dgp.formstack.com/forms/nu_dentistry_new_patient_form")" title="Nu Dentistry
+    New Patient Form" width="600" height="400"></iframe>
   lists: []
 
 ---
