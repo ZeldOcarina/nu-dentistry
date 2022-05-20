@@ -44,6 +44,7 @@ blocks:
   align: left
   columns: '3'
   content: <iframe src="https://dgp.formstack.com/forms/nu_dentistry_new_patient_form"
-    title="Nu Dentistry New Patient Form" width="600" height="400"></iframe>
+    title="Nu Dentistry New Patient Form" width="1024" height="2000"></iframe>
+  heading: New Patient Form
 
 ---
