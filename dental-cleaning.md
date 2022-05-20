@@ -115,7 +115,7 @@ blocks:
       - Dental decay assessment
       - Tooth charting
       - Oral cancer screening
-    image: https://via.placeholder.com/800
+    image: "/uploads/nu-dentistry-exam-houston-tx.jpg"
     overlay:
       opacity: 0.5
       color: ''
