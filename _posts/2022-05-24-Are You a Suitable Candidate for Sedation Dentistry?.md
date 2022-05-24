@@ -2,8 +2,6 @@
 title: Are You a Suitable Candidate for Sedation Dentistry?
 
 ---
-# Are You a Suitable Candidate for Sedation Dentistry?
-
 ## What Is Sedation Dentistry?
 
 Sedation dentistry is the administration of drugs before or during the dental procedure to keep the patient calm and free from pain. It's moderate level sedation, which means you're awake and conscious.
