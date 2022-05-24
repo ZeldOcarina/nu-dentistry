@@ -1,5 +1,5 @@
 ---
-title: Some other blog post 3
+title: Are You a Suitable Candidate for Sedation Dentistry?
 
 ---
 # Are You a Suitable Candidate for Sedation Dentistry?
