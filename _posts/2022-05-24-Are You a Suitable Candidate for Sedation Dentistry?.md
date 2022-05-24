@@ -9,8 +9,8 @@ background:
   video: ''
 heading_tag: H1
 color: dark
-align: ''
-columns: ''
+align: center
+columns: '1'
 superheading: Are You a Suitable Candidate for Sedation Dentistry?
 heading: What Is Sedation Dentistry?
 text: ''
