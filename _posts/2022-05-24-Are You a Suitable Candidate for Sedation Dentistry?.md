@@ -13,9 +13,7 @@ align: center
 columns: '1'
 superheading: Are You a Suitable Candidate for Sedation Dentistry?
 heading: What Is Sedation Dentistry?
-text: Sedation dentistry is the administration of drugs before or during the dental
-  procedure to keep the patient calm and free from pain. It's moderate level sedation,
-  which means you're awake and conscious.
+text: ''
 content: |-
   Sedation dentistry is the administration of drugs before or during the dental procedure to keep the patient calm and free from pain. It's moderate level sedation, which means you're awake and conscious.
 
