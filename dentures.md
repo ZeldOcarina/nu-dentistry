@@ -7,13 +7,13 @@ header:
     background_color: "#E2E2E2"
     overlay: color
     overlay_opacity: 0.4
-    background_image: "/uploads/dentures-nu-dentistry-houston-tx-hero.jpg"
+    background_image: "/uploads/nu-dentistry-houston-tx-dentures-hero.jpg"
     background_video_file: ''
     background_slider: []
     gradient: ''
     overlay_color: "#000000"
   layout: left
-  vertical_align: bottom
+  vertical_align: top
   color: light
   col_one:
     heading: Dentures

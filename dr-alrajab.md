@@ -22,8 +22,8 @@ header:
     heading: ''
     text: ''
   page_navigation: []
-title: Dr. Samir Alrajab, DMD
-seo_title: Dr. Samir Alrajab, DMD
+title: Dr. Samir Alrajab
+seo_title: Dr. Samir Alrajab
 permalink: "/houston-tx/our-doctors/dr-alrajab/"
 description: Dr. Samir Alrajab makes dentist visits a breeze in Houston, TX. Checkups,
   cavity care, and more... your smile is in great hands at Nu Dentistry.

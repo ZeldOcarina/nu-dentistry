@@ -22,8 +22,8 @@ header:
     heading: ''
     text: ''
   page_navigation: []
-title: Dr. Justine Tanjaya, DDS
-seo_title: Dr. Justine Tanjaya, DDS
+title: Dr. Justine Tanjaya
+seo_title: Dr. Justine Tanjaya
 permalink: "/houston-tx/our-doctors/dr-tanjaya/"
 description: At Nu Dentistry, Dr. Justine Tanjaya has a wealth of orthodontic experience
   to help you put your brightest and straightest smile forward in Houston, TX.

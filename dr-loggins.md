@@ -22,8 +22,8 @@ header:
     heading: ''
     text: ''
   page_navigation: []
-title: Dr. Erin Loggins, DDS
-seo_title: Dr. Erin Loggins, DDS
+title: Dr. Erin Loggins
+seo_title: Dr. Erin Loggins
 permalink: "/houston-tx/our-doctors/dr-loggins/"
 description: At Nu Dentistry, Dr. Erin Loggins helps you say goodbye to toothaches
   and save your smile from cavities with expert endodontics in Houston, TX.

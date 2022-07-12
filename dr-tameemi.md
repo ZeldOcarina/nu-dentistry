@@ -22,8 +22,8 @@ header:
     heading: ''
     text: ''
   page_navigation: []
-title: Dr. Ali Tameemi, DDS
-seo_title: Dr. Ali Tameemi, DDS
+title: Dr. Ali Tameemi
+seo_title: Dr. Ali Tameemi
 permalink: "/houston-tx/our-doctors/dr-tameemi/"
 description: Dr. Ali Tameemi makes dentist visits a breeze in Houston, TX. Checkups,
   cavity care, and more... your smile is in great hands at Nu Dentistry.
@@ -50,21 +50,10 @@ blocks:
   superheading: ''
   heading: MEET DR. ALI TAMEEMI, DDS
   text: YOUR PASSIONATE DENTIST IN HOUSTON, TX
-  content: Dr. Ali Tameemi, DDS understands what it takes to be a great dentist. Dr.
-    Tameemi graduated with a Bachelor of Dental Surgery. After graduation, he did
-    a residency at a VA hospital in North Carolina, and he later earned his DDS from
-    the University of Texas Health Science Center at San Antonio School of Dentistry.
-    Dr. Tameemi is a licensed dentist in the state of Texas and is a member of the
-    American Dental Association, Academy of General Dentistry, Texas Dental Association,
-    and the Houston Dental Society. Believing that dental health is an important service
-    needed by everyone, Dr. Tameemi has helped give back to his communities by volunteering
-    his dental expertise to SAMM Dental Clinic in San Antonio and to healthcare for
-    the homeless right here in Houston. Dedicating himself fully to each person who
-    walks through the door, Dr. Tameemi never fails to put you at ease here at Nu
-    Dentistry. With gentle care, good humor, and an attention to detail, he wants
-    you to enjoy your time in the dental chair. He uses the latest technologies and
-    techniques to ensure that you always get the best results. When you choose Dr.
-    Tameemi, you choose a dentist who’s committed to you.
+  content: |-
+    ![](/uploads/nu-dentistry-houston-texas-dental-cleaning-hygiene.jpg)
+
+    Dr. Ali Tameemi, DDS understands what it takes to be a great dentist. Dr. Tameemi graduated with a Bachelor of Dental Surgery. After graduation, he did a residency at a VA hospital in North Carolina, and he later earned his DDS from the University of Texas Health Science Center at San Antonio School of Dentistry. Dr. Tameemi is a licensed dentist in the state of Texas and is a member of the American Dental Association, Academy of General Dentistry, Texas Dental Association, and the Houston Dental Society. Believing that dental health is an important service needed by everyone, Dr. Tameemi has helped give back to his communities by volunteering his dental expertise to SAMM Dental Clinic in San Antonio and to healthcare for the homeless right here in Houston. Dedicating himself fully to each person who walks through the door, Dr. Tameemi never fails to put you at ease here at Nu Dentistry. With gentle care, good humor, and an attention to detail, he wants you to enjoy your time in the dental chair. He uses the latest technologies and techniques to ensure that you always get the best results. When you choose Dr. Tameemi, you choose a dentist who’s committed to you.
   lists: []
 - template: cta-1
   block: cta-1

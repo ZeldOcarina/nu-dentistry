@@ -11,25 +11,21 @@ menu_right:
   style: link
   blank: false
   dropdown:
-  - text: Dr. Ali Tameemi, DDS
+  - text: Dr. Ali Tameemi
     url: "/houston-tx/our-doctors/dr-tameemi/"
     blank: false
-  - text: Dr. Samir Alrajab, DDS
+  - text: Dr. Samir Alrajab
     url: "/houston-tx/our-doctors/dr-alrajab/"
     blank: false
-  - text: Dr. Alireza Hourfar
-    url: "/houston-tx/our-doctors/dr-hourfar/"
-    blank: false
-  - text: Dr. Kathleen Akers, DDS
+  - text: Dr. Kathleen Akers
     url: "/houston-tx/our-doctors/dr-akers/"
     blank: false
-  - text: Dr. Erin Loggins, DDS
+  - text: Dr. Erin Loggins
     url: "/houston-tx/our-doctors/dr-loggins/"
     blank: false
-  - text: Dr. Justine Tanjaya, DDS
+  - text: Dr. Justine Tanjaya
     url: "/houston-tx/our-doctors/dr-tanjaya/"
-    blank: false  
-
+    blank: false
 - text: EMERGENCY DENTISTRY
   url: ''
   style: link
@@ -104,7 +100,7 @@ menu_right:
   dropdown:
   - text: Contact Us
     url: "#contact"
-    blank: false    
+    blank: false
   - text: New Patient Forms
     url: "/new-patient-forms/"
     blank: false
@@ -126,25 +122,24 @@ menu_mobile:
   style: link
   blank: false
   dropdown:
-  - text: Dr. Ali Tameemi, DDS
+  - text: Dr. Ali Tameemi
     url: "/houston-tx/our-doctors/dr-tameemi/"
     blank: false
-  - text: Dr. Samir Alrajab, DDS
+  - text: Dr. Samir Alrajab
     url: "/houston-tx/our-doctors/dr-alrajab/"
     blank: false
   - text: Dr. Alireza Hourfar
     url: "/houston-tx/our-doctors/dr-hourfar/"
     blank: false
-  - text: Dr. Kathleen Akers, DDS
+  - text: Dr. Kathleen Akers
     url: "/houston-tx/our-doctors/dr-akers/"
     blank: false
-  - text: Dr. Erin Loggins, DDS
+  - text: Dr. Erin Loggins
     url: "/houston-tx/our-doctors/dr-loggins/"
     blank: false
-  - text: Dr. Justine Tanjaya, DDS
+  - text: Dr. Justine Tanjaya
     url: "/houston-tx/our-doctors/dr-tanjaya/"
-    blank: false  
-
+    blank: false
 - text: EMERGENCY DENTISTRY
   url: ''
   style: link
@@ -219,7 +214,7 @@ menu_mobile:
   dropdown:
   - text: Contact Us
     url: "#contact"
-    blank: false    
+    blank: false
   - text: New Patient Forms
     url: "/new-patient-forms/"
     blank: false

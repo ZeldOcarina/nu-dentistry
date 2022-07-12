@@ -60,6 +60,8 @@ blocks:
   heading: SMILE HEALTHY WITH ROOT CANAL TREATMENTS IN HOUSTON, TX
   text: WE WANT TO PRESERVE THE BEAUTY AND FUNCTION OF YOUR SMILE
   content: |-
+    ![](/uploads/root-canal-vs-tooth-decay-cavity.jpg)
+
     The word “root canal” can be scary, but we’re here to tell you that there’s no need to worry! Our Nu Dentistry endodontists specialize in root canal treatments and are highly skilled. The procedure is relatively painless and straightforward. The entire process should be no more stressful than a visit for a filling.
     We utilize the most up-to-date techniques and technology that ensure the least invasive treatment available. Our skilled professionals are precise in diagnosing and pinpointing the exact areas of infection. We’re dedicated to making your root canal as efficient as possible.
     Most people realize that they have a tooth infection once they are having tooth nerve pain or swelling in the tooth and surrounding gums. If you find that you have persistent pain or you notice any abnormalities around your tooth, please come to us immediately.

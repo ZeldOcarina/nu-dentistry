@@ -16,7 +16,7 @@ header:
   vertical_align: bottom
   color: light
   col_one:
-    heading: Veneers
+    heading: Veneers Cole
     text: 
   col_two:
     heading: ''

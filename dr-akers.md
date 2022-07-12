@@ -22,8 +22,8 @@ header:
     heading: ''
     text: ''
   page_navigation: []
-title: Dr. Kathleen Akers, DDS
-seo_title: Dr. Kathleen Akers, DDS
+title: Dr. Kathleen Akers
+seo_title: Dr. Kathleen Akers
 permalink: "/houston-tx/our-doctors/dr-akers/"
 description: From periodontics to dental sedation, Dr. Kathleen Akers ensures your
   time at Nu Dentistry is always comfortable and stress-free in Houston, TX.
