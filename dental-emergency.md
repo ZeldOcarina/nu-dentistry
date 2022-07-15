@@ -16,7 +16,7 @@ header:
   vertical_align: bottom
   color: light
   col_one:
-    heading: Dental Emergency Test2
+    heading: Dental Emergency Test3
     text: 
   col_two:
     heading: ''
