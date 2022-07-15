@@ -8,6 +8,7 @@ fields:
     required: false
   label: Block
   default: map-image
+  hidden: true
 - name: link
   type: text
   config:
