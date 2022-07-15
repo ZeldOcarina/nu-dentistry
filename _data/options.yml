@@ -163,9 +163,9 @@ blocks:
   text: WE ARE DEDICATED TO PROVIDING YOU WITH ONLY THE BEST QUALITY DENTAL CARE
   images:
   - image: "/uploads/insta-2.jpg"
-    url: ''
+    url: https://www.instagram.com/nudentistry
   - image: "/uploads/insta-1.jpg"
-    url: ''
+    url: https://www.instagram.com/nudentistry
   - image: "/uploads/insta-3.jpg"
     url: ''
   - image: "/uploads/insta-5.jpg"
