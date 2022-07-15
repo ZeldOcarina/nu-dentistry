@@ -60,7 +60,7 @@ blocks:
     - 'Saturday 9am - 3pm '
     - Closed Sundays
   appointment:
-    heading: Click to schedule or call now
+    heading: Click to schedule or call now<br><br><br>&nbsp;<br>
     appointment_button: true
     button:
       text: ''
