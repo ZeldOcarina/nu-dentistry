@@ -167,11 +167,11 @@ blocks:
   - image: "/uploads/insta-1.jpg"
     url: https://www.instagram.com/nudentistry
   - image: "/uploads/insta-3.jpg"
-    url: ''
+    url: https://www.instagram.com/nudentistry
   - image: "/uploads/insta-5.jpg"
-    url: ''
+    url: https://www.instagram.com/nudentistry
   - image: "/uploads/insta-4.jpg"
-    url: ''
+    url: https://www.instagram.com/nudentistry
 fonts:
   body: SFCompactDisplay
   heading: SFCompactDisplay
