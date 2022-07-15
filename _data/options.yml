@@ -158,8 +158,8 @@ blocks:
   color: light
   columns: '5'
   gutter: small
-  superheading: HOUSTON TEXAS PREMIER DENTISTRY //
-  heading: Follow Us
+  superheading: HOUSTON TX PREMIER DENTISTRY //
+  heading: Our Recent Posts
   text: WE ARE DEDICATED TO PROVIDING YOU WITH ONLY THE BEST QUALITY DENTAL CARE
   images:
   - image: "/uploads/insta-2.jpg"
