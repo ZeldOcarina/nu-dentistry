@@ -67,10 +67,10 @@ blocks:
       url: ''
       blank: false
   address:
-    heading: LOCATION
-    address: |-
-      5706 San Felipe St Ste B-300
-      Houston, TX 77057
+    heading: LOCATIONS
+    address: "**Houston**  \n5706 San Felipe St Ste B-300 Houston, TX 77057\n\n**Spring**
+      \ \n23227 Gosling Rd., Suite B Spring, TX 77389\n\n**Cypress**  \nComing Soon\n\n**Heights**
+      \ \nComing Soon"
 - template: map-image
   block: map-image
   image: "/uploads/map.jpg"
