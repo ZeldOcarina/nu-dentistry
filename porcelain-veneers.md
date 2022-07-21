@@ -30,7 +30,7 @@ header:
     id: "2"
   - text: OFFICE LUXURIES
     id: "5"
-title: Veneers
+title: Dental Veneers
 seo_title: Veneers
 permalink: "/houston-tx/cosmetic-dentistry/porcelain-veneers/"
 description: Stop hiding your smile and get the perfect smile you always dreamed of
